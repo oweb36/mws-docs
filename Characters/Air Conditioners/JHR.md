@@ -1,12 +1,14 @@
 JHR is a [character](Characters) the host of [[Megarchive Warehouse Show]]. He also used to be the host of [[AACOS]], but you know its now a part of the [[Megarchive Warehouse Show]].
 
 ## Identity
-He is a Sharp AY-XPC12JHR air conditioner. His name is pronounced as Jay-Eitch-Ar and derived from the JHR part of his species as a Sharp AY-XPC12JHR.
+He is a Sharp AY-XPC12JHR [air conditioner](Air Conditioners). His name is pronounced as Jay-Eitch-Ar and derived from the JHR part of his species as a Sharp AY-XPC12JHR.
 
 He was born in February 15, 2008 as a European. JHR is a cisgender and bisexual male.  
 If skin color is considered, he is white.
 
 ## Personality
+
+In a nutshell, he behaves differently in different situations. JHR is still a good guy though.
 ### As a host
 JHR is warm and welcoming, albeit strict at times. He is also a workaholic, so he would probably get depressed if he doesn't do anything. He is the host after all, what do you expect? He wants and needs to do his job.
 
