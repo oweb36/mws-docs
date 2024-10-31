@@ -179,7 +179,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -196,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df42b6863af50332",
+  "active": "5d4e3a472d47946f",
   "lastOpenFiles": [
     "Welcome.md",
     "Characters/JHR.md",
