@@ -3,3 +3,7 @@ CKHSC is a [character](Characters) as a contestant on the [[Megarchive Warehouse
 ## Identity
 
 He is a Panasonic CS-C24CKH-7.
+
+## Personality
+
+CKHSC is a wise, but quite traditional guy. He
