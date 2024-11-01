@@ -21,4 +21,7 @@ Just don't disturb him when he's reading or underestimate him, he doesn't like t
 
 ## Relations
 
+### [Aurl](Aurl.md)
+They are frenemies, but they are more of a friend that enemies. The only conflict that they can be in is in a friendly little competition of who can be the chillest, and WELLPan always wins. They just hang out with each other.
+
 #airconditioner

@@ -16,5 +16,9 @@ She may manipulate others to win and advance her, but only if she has to. She's 
 
 ## Relations
 
+### [WELLPan](WELLPan.md)
+
+To ToshyMEM, WELLPan is just dead weight. She may appreciate his presence, but he doesn't really do much.
+
 
 #airconditioner

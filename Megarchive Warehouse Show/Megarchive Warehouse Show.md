@@ -1,4 +1,4 @@
-This is a large object show that encompasses older object show of mine such as [[AACOS]] and others. Its based of my megarchive manual archives and collections. This show is part of the larger umbrella of ObjectWeb36.
+This is a large object show that encompasses older object show of mine such as [[AACOS]] and others. Its based of my megarchive manual archives and collections. This show is part of the larger umbrella of ObjecWeb36.
 
 The abbreviation for this show is MWS.
 
