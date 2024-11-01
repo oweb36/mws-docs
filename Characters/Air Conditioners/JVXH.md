@@ -14,7 +14,7 @@ JVXH is very loyal to her friends, and will protect them. She is very protective
 
 JVXH is also quite skilled at deceiving and manipulation. She's also happy to murder others. Ruthless and unpredictable, she kills and lacks empathy for others who are obstacles to her. She doesn't care or feel remorse, she enjoys their pain as they die. She's a sadist.
 
-JVXH is still a leader in this case, and she can lead others with her skills. But don't be a dead weight, or you'll face her wrath.
+JVXH is still a leader in this case, and she can lead others with her skills. But don't be a dead weight, or you'll face her wrath and doom. She can influence others to do the job for everyone, but sometimes also manipulate them to be deceived into doom.
 
 ## Relations
 
