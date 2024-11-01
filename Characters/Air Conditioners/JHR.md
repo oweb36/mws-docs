@@ -18,5 +18,7 @@ As a normal person, he is a good person to hang out with, but can be weird and s
 ### Sociopathy
 In his sociopathy, he is sadistic (not murderous). He likes pain, but isn't that all? Anyways. He is also good to hang out as he can rant and chat with you about many things.
 
+## Relations
+
 
 > Created in October 28, 2024.
