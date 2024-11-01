@@ -2,7 +2,7 @@ PKayFsa is a [character](Characters) as a contestant on the [[Megarchive Warehou
 
 ## Identity
 
-He is a Mitsubishi Electric (Mr. Slim) PKH-4FKSA. His name is pronounced as Pee-Kay-Visa.
+He is a Mitsubishi Electric (Mr. Slim) PKH-4FKSA [air conditioner](Air%20Conditioners.md). His name is pronounced as Pee-Kay-Visa.
 
 He was born in 1997. He is a cisgender and heterosexual male.
 ## Personality
@@ -14,3 +14,5 @@ He is quite bubbly and umm not that sharp in his mind. He is quite caring though
 PKayFsa may not have the intelligence of [CKHSC](CKHSC.md) and [ASTAC](ASTAC.md) but he will try. The irony is that PKayFsa is older than them. He is still learning, and will use what he experienced on advising others. He may get distracted though.
 
 ## Relations
+
+#airconditioner 
