@@ -1,6 +1,6 @@
 These [character](Characters) are a class of species in the [[Megarchive Warehouse Show]]. 
 
-The Air Conditioners encompasses Air Conditioners, Heat Pumps and their accessories such as their controllers. Well, the last in the bunch of those objects are technically incorrect, but eh.
+The Air Conditioners encompasses Air Conditioners, Heat Pumps and their accessories such as their controllers. Well, the last in the bunch of those objects are technically incorrect, but eh. So Air Conditioners are just megaclasses.
 
 The air conditioners and heat pumps can have multiple body types. Here are the available body types:
 
@@ -13,5 +13,7 @@ The air conditioners and heat pumps can have multiple body types. Here are the a
 - Floor Standing
 - Window
 - Floor Console
+
+And then there are the controllers, which are usually companions to the main unit. The controllers may be independent though.
 
 #airconditioner
