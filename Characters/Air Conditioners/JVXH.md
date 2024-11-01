@@ -2,7 +2,7 @@ JVXH is a [character](Characters) as a contestant on the [[Megarchive Warehouse 
 
 ## Identity
 
-She is a wall-mounted Daikin FTXG09HVJU [heat pump](Air%20Conditioners.md), a **Daikin Quaternity** unit. JVXH's name is pronounced as Jay-Vee-Sih. She's an inferior version of [RXe](RXe.md) in a nutshell.
+She is a wall-mounted Daikin FTXG09HVJU [heat pump](Air%20Conditioners.md), a **Daikin Quaternity** unit. JVXH's name is pronounced as Jay-Vee-Sih or Jay-Vax. She's an inferior version of [RXe](RXe.md) in a nutshell.
 
 JVXH, being an inferior version to RXe, has the same design. There is just a little difference though.
 
