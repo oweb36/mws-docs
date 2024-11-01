@@ -11,4 +11,8 @@ If skin color is considered, he is gray.
 
 ## Relations
 
+
+#washingmachines
+
+
 > Created in October 31, 2024.

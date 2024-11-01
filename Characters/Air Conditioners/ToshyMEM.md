@@ -1,4 +1,4 @@
-ToshyMEM is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]].
+ToshyMEM is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]]. She originally appeared in [[AACOS]].
 
 
 ## Identity
@@ -14,4 +14,7 @@ She is a pretty fierce contestant and competitor. She has some strong perseveran
 
 She may manipulate others to win and advance her, but only if she has to. She's not a sociopath you know, she has feelings too. ToshyMEM will push herself and others to the limits to win. ToshyMEM may also even push the others beyond their limit, which may be lower than her own. This can create tensions between others as her intense focus on winning may cause relationships to strain with others. This straining occurs because ToshyMEM may be ruthless or overly competitive in winning towards others.
 
-Relations
+## Relations
+
+
+#airconditioner

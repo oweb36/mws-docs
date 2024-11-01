@@ -13,5 +13,7 @@ If skin color is considered, he is gray.
 
 ## Relations
 
+#refridgerators
+
 
 > Created in October 31, 2024.

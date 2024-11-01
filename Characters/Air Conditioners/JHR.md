@@ -21,4 +21,7 @@ In his sociopathy, he is sadistic (not murderous). He likes pain, but isn't that
 ## Relations
 
 
+#airconditioner
+
+
 > Created in October 28, 2024.

@@ -1,4 +1,4 @@
-WELLPan is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]].
+WELLPan is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]].
 
 ## Identity
 
@@ -20,3 +20,5 @@ WELLPan may struggle with motivation and laziness, but don't underestimate him. 
 Just don't disturb him when he's reading or underestimate him, he doesn't like that.
 
 ## Relations
+
+#airconditioner
