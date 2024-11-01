@@ -5,6 +5,8 @@ He is a wall-mounted Sharp AY-XPC12JHR [heat pump](Air%20Conditioners.md). His n
 
 JHR can actually be part of a multi-split system, but he is currently a single-split system. Later he will be part of one, but for now he is just single.
 
+JHR is one of the most intelligent person in MVS.
+
 He was born in February 15, 2008 as a European. JHR is a cisgender and bisexual male (he/him).  
 If skin color is considered, he is white.
 

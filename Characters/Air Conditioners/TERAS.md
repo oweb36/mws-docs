@@ -5,15 +5,15 @@ TERAS is a Hitachi RAS-14EH2 wall-mounted [heat pump](Air%20Conditioners.md). Hi
 
 Teras was born in April 11, 2006. He is a cisgender and heterosexual male (he/him).
 
-[Raiie](Raiie.md) is the elder sibling to TERAS.
+[Raiie](Raiie.md) and [RACK](RACK.md) is the elder sibling to TERAS.
 
 ## Personality
 
 TERAS is a jokester, a prankster. He likes to prank people, and tell jokes. His pranks are harmless and very funny, albeit humiliating towards the victim. His jokes would make people laugh so hard that they would usually fall off their chairs.
 
-His jokes are that funny eh? His jokes are usually unhinged, and poke fun at dark humour.
+His jokes are that funny eh? His jokes are usually unhinged, and poke fun at dark humour. yes, he pokes fun at sensitive topics, but it always ends up as being inoffensive. He is very good at making offensive things, inoffensive, and vice versa. Don't worry, he has discretion.
 
-He is a nice guy if he isn't always telling jokes. He can be serious, but it's mostly him telling stories and  from his heart.
+He is a nice guy if he isn't always telling jokes. He can be serious, but it's mostly him telling stories and thoughts from his heart. To those close to him, he will tell you offensive jokes.
 
 ## Relations
 
@@ -21,4 +21,9 @@ He is a nice guy if he isn't always telling jokes. He can be serious, but it's m
 
 TERAS is the younger brother to Raiie. TERAS pranks Raiie almost all the time. Raiie finds it funny, but annoying. Raiie sees TERAS as an unsupervised toddler.
 
-#airconditioner 
+### [RACK](RACK.md)
+
+TBA
+
+
+#airconditioner #hitachitriplets 
