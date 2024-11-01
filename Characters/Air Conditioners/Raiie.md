@@ -7,10 +7,15 @@ He is a Hitachi RAI-25NH5 4-way cassette [heat pump](Air%20Conditioners.md). His
 
 He was born on June 6, 2005. He is a pansexual genderfluid person. Raiie prefers to be male (he/him), but Raiie will change if he has too when the circumstances and situation warrants it (such as male persecution).
 
+[TERAS](TERAS.md) is the younger brother of Raiie.
 ## Personality
 
 TBA
 
 ## Relations
+
+### [TERAS](TERAS.md)
+
+TERAS is the younger brother to Raiie. He 
 
 #airconditioner

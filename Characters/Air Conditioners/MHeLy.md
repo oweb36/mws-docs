@@ -24,6 +24,10 @@ MHeLy with her kindness, mostly forms good bonds and relationships with the othe
 So, MheLy is one of the warm characters in MVS.
 ## Relations
 
+### [JHR](JHR.md)
+
+MHeLy is a close friend to JHR, and vice versa. They have known each other for longer compared to anybody else in them. They have enjoyed time together, playing and watching the silver of the night skies.
+
 ## [KaHLium](KaHLium.md)
 
 MHeLy is KaHLium's younger sister. KaHLium loves her and is protective of her. MHeLy motivates and makes KaHLium happy when he's down.

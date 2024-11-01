@@ -19,4 +19,8 @@ Don't worry, CKHSC believes that what he is doing is for the best for everyone. 
 
 ## Relations
 
+### [ASTAC](ASTAC.md)
+
+They are friends, but have a friendly rivalry. CKHSC is aware that ASTAC is more open to changes compared to himself.
+
 #airconditioner 

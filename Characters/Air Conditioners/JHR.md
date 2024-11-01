@@ -24,7 +24,7 @@ In his sociopathy, he is sadistic (not murderous). He likes pain, but isn't that
 
 ### [MHeLy](MHeLy.md)
 
-TBA
+MHeLy is a close friend to JHR, and vice versa. They have known each other for longer compared to anybody else in them. They have enjoyed time together, playing and watching the silver of the night skies.
 
 
 #airconditioner
