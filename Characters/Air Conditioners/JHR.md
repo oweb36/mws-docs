@@ -20,6 +20,10 @@ In his sociopathy, he is sadistic (not murderous). He likes pain, but isn't that
 
 ## Relations
 
+### [MHeLy](MHeLy.md)
+
+TBA
+
 
 #airconditioner
 
