@@ -12,7 +12,9 @@ JVXH is a chaotic neutral girl. She's got that school shooting capabilities in h
 
 JVXH is very loyal to her friends, and will protect them. She is very protective and resourceful, and she will even do anything to protect her friends, even crossing some people's limits.
 
-JVXH is also
+JVXH is also quite skilled at deceiving and manipulation. She's also happy to murder others. Ruthless and unpredictable, she kills and lacks empathy for others who are obstacles to her. She doesn't care or feel remorse, she enjoys their pain as they die. She's a sadist.
+
+JVXH is still a leader in this case, and she can lead others with her skills. But don't be a dead weight, or you'll face her wrath.
 
 ## Relations
 
