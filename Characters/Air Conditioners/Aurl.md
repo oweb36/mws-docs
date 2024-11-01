@@ -4,7 +4,8 @@ Aurl is a [character](Characters) as a contestant on the [[Megarchive Warehouse 
 
 He is a Fujitsu 15RLS2H [heat pump](Air%20Conditioners.md). His name is pronounced Oral as in Oral speech.
 
-Aurl was born in 2013.
+Aurl was born in 2013. He is a cisgender and heterosexual male.  
+If skin color matters, Aurl is white.
 
 ## Personality
 
