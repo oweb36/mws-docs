@@ -7,6 +7,8 @@ Teras was born in April 11, 2006. He is a cisgender and heterosexual male (he/hi
 
 [Raiie](Raiie.md) and [RACK](RACK.md) is the elder sibling to TERAS.
 
+If skin color matters, TERAS is white.
+
 ## Personality
 
 TERAS is a jokester, a prankster. He likes to prank people, and tell jokes. His pranks are harmless and very funny, albeit humiliating towards the victim. His jokes would make people laugh so hard that they would usually fall off their chairs.

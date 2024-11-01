@@ -8,6 +8,8 @@ He was born in 2003. He is a cisgender and heterosexual male.
 
 He is the elder brother and sibling to [TERAS](TERAS.md) and [Raiie](Raiie.md) respectively.
 
+If skin color matters, RACK is beige.
+
 ## Personality
 
 TBA
