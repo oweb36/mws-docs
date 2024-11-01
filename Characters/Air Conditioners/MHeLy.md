@@ -11,7 +11,8 @@ MHeLy is one of the most intelligent person in MVS. She's also one of the weaker
 
 MHeLy is one of the nicer people in MVS. This is probably because she's a girl (More like woman. Wait, isn't that sexist? Probably, probably not. Nah).
 
-MHeLy is a kind-hearted and empathetic to others. She is very creative with her work and competition. MHeLy is a pacifist, but she would still do violence if she has no choice.
+MHeLy is a kind-hearted and empathetic to others. She is very creative with her work and competition. She is kind-hearted and willing to help others, even sacrificing herself at times. MHeLy is a pacifist, but she would still do violence if she has no choice.
+
 
 ## Relations
 
