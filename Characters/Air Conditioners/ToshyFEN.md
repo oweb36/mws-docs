@@ -8,10 +8,16 @@ He was born in 2021, as a British person. He is a cisgender and heterosexual mal
 
 He actually has two minds, and each of his minds has a face. The main mind of ToshyFEN is at the front panel of his main body, while the auxilliary mind of ToshyFEN is in his controller.
 
+He is one of the most durable person in MVS. ToshyFEN is also heavy.
+
+If skin color matters, ToshyFEN is white.
+
 ## Personality
 
 He basically has two personalities that are volatile at changing about.
 
 He has this one personality where he is really chill, and likes to chat. He can never be as chill as [WELLPan](WELLPan.md), but he is chill. He just listens, and talk a little. He likes small talk, and big talk. He is just there for WELLPan mostly, but can be there for others. Basically he just does nothing except listen and yap.
 
-Then he has this other personality where he is straight up unhinged, crazy, insane, angry and violent. He commits harms to those who caused him this, and a bit of others. He isn't a sadist, but he is crazy. He literally chases others to no end with this. Nothing more
+Then he has this other personality where he is straight up unhinged, crazy, insane, angry and violent. He commits harms to those who caused him this, and a bit of others. He isn't a sadist, but he is crazy. He literally chases others to no end with this. Yelling and screaming like a banshee as he runs. To no end he does this with no obvious goal at times.
+
+#airconditioner 

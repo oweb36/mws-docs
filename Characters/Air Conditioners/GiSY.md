@@ -7,6 +7,8 @@ She is a wall-mounted Sharp AH-AP12GSY [air conditioner](Air%20Conditioners.md).
 
 She was born in 2008. She is a pansexual demigirl (she/they).
 
+If skin color mattered, she is white.
+
 ## Personality
 TBA
 

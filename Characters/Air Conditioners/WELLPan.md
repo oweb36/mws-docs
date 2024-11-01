@@ -7,7 +7,7 @@ WELLPan is a Samsung AS09BPAN wall-mounted [heat pump](Air%20Conditioners.md). H
 WELLPan was born in July 2007. He is a cisgender and helisexual male (he/him). Yes, he sexually identifies as an Apache Attack Helicopter. This is not a joke (kinda).  
 If skin color matters, he is white.
 
-He is one of the strongest person in the Megarchive Warehouse Show. He is also one of the most intelligent person in MVS.
+He is one of the strongest person in the Megarchive Warehouse Show. He is also one of the most intelligent person in MVS. WELLPan is also one of the slowest person in MVS.
 
 ## Personality
 
