@@ -6,7 +6,8 @@ VXU is actually a multi-system triplet composed of 3 mind/people that is also a 
 - DeltaCXG (DCXG)
 - CTUX
 - MXU
-MXU is Daikin 2MXU40GV1B. DeltaCXG is a Daikin CTXU42G2V1B, while CTUX is a Daikin CTXU50G2V1B. This is because VXU is a Daikin Multi-Ururu Multi-Split system.
+
+MXU is Daikin 2MXU40GV1B. DeltaCXG is a Daikin CTXU42G2V1B, while CTUX is a Daikin CTXU50G2V1B. This is because VXU is a Daikin Multi-Ururu Multi-Split system. VXU is a [heat pump](Air%20Conditioners.md) system, as all their members (DeltaCXG, MXU and CTUX) are heat pumps.
 
 They are attached to a steel board with pipes and wires connecting them together, making them one. MXU is at the bottom, the legs of VXU, while DeltaCXG and CTUX is above MXU (CTUX is placed higher than DeltaCXG). MXU is the leg of VXU, while DeltaCXG and CTUX despite having legs, is instead the arms.
 

@@ -2,7 +2,7 @@ CKHSC is a [character](Characters) as a contestant on the [[Megarchive Warehouse
 
 ## Identity
 
-He is a Panasonic CS-C24CKH-7. His name is pronounced as Check-See.
+He is a Panasonic CS-C24CKH-7 [air conditioner](Air%20Conditioners.md). His name is pronounced as Check-See.
 
 He was born in 2003. He is a cisgender and heterosexual male (he/him) because he is too old to be bothered with LGBTQ.  
 If skin color matters, CKHSC is white.
