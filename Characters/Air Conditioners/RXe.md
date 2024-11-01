@@ -2,7 +2,7 @@ RXe is a [character](Characters) as a contestant on the [[Megarchive Warehouse S
 
 ## Identity
 
-RXe is a Daikin FTXR50EV1B9 [heat pump](Air%20Conditioners.md). RXe is the **old Daikin Ururu-Sarara** series.
+RXe is a Daikin wall-mounted FTXR50EV1B9 [heat pump](Air%20Conditioners.md). RXe is the **old Daikin Ururu-Sarara** series.
 
 RXe was born in 2007. She's a cisgender and lesbian female (she/her).  
 If RXe's skin color matter, she is gray.

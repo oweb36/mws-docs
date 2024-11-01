@@ -1,5 +1,7 @@
 
-They are people of the [[Megarchive Warehouse Show]].
+They are people of the [[Megarchive Warehouse Show]]. Some of them came from old shows such as:
+
+- [AACOS](AACOS.md)
 
 There is object:
 - Racism
