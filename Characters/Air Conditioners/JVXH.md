@@ -4,7 +4,10 @@ JVXH is a [character](Characters) as a contestant on the [[Megarchive Warehouse 
 
 She is a wall-mounted Daikin FTXG09HVJU [heat pump](Air%20Conditioners.md), a **Daikin Quaternity** unit. JVXH's name is pronounced as Jay-Vee-Sih. She's an inferior version of [RXe](RXe.md) in a nutshell.
 
-JVXH was born in July 2009. She is a cisgender and lesbian female (she/her).
+JVXH, being an inferior version to RXe, has the same design. There is just a little difference though.
+
+JVXH was born in July 2009. She is a cisgender and lesbian female (she/her).  
+If skin color matters, she is gray just like RXe.
 
 ## Personality
 
@@ -20,4 +23,6 @@ JVXH is still a leader in this case, and she can lead others with her skills. Bu
 
 ### [RXe](RXe.md)
 
-They are couples.
+They are couples. They are very close to each other.
+
+#airconditioner

@@ -7,7 +7,9 @@ His name is pronounced as Kalium, which is the latin name of Potassium. Yes! His
 
 KaHLium was born on September 11, 2009 (Wai r u luking laik dat?). He is a cisgender and heterosexual male (he/him).
 
-His younger sister is [MHeLy](MHeLy.md)
+If skin color matters, KaHLium is white.
+
+His younger sister is [MHeLy](MHeLy.md).
 
 ## Personality
 
@@ -18,3 +20,5 @@ TBA
 ### [MHeLy](MHeLy.md)
 
 MHeLy is KaHLium's younger sister. He loves her, and is protective of her. MHeLy motivates and makes KaHLium happy when he's down.
+
+#airconditioner

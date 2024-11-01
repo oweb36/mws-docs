@@ -9,7 +9,7 @@ If skin color matters, CKHSC is white.
 
 ## Personality
 
-CKHSC is a wise, but quite traditional guy. He is kinda like a grandfather to the MWS cast, but he knows he still needs to learn more about now and that he needs to start adapting.
+CKHSC an old person. He is a wise, but quite traditional guy. He is kinda like a grandfather to the MWS cast, but he knows he still needs to learn more about now and that he needs to start adapting.
 
 CKHSC has a lot of experience in life, and so he can tell others who are younger, and sometimes older about life and what can it throw. He basically is kinda like a dictionary, but for life situations and what to do. CKHSC also has stories to tell.
 

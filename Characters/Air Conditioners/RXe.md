@@ -21,10 +21,10 @@ RXe has a bit of goodness and kindness, but is largely overshadowed and overpowe
 
 ### [MHeLy](MHeLy.md)
 
-TBA
+MHeLy is one of the people RXe is genuinely kind to. MHeLy has been supporting RXe, despite RXe being the opposite to her. RXe respects her as a person for being so nice despite RXe doing not so nice things.
 
 ### [JVXH](JVXH.md)
 
-They are a couple
+They are couples. They are very close to each other. JVXH is one of the people she's actually genuinely kind to, as they are lesbian couples.
 
 #airconditioner 

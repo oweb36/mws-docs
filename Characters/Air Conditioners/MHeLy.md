@@ -7,6 +7,8 @@ She was born in March 19, 2012. She is a cisgender and heterosexual female.
 
 MHeLy is one of the most intelligent person in MVS. She's also one of the weaker ones though.
 
+If skin color matters, MHeLy is gray and silver.
+
 Her elder brother is [KaHLium](KaHLium.md)
 
 ## Personality
