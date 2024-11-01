@@ -2,8 +2,22 @@ RXe is a [character](Characters) as a contestant on the [[Megarchive Warehouse S
 
 ## Identity
 
+RXe is a Daikin FTXR50EV1B9 [heat pump](Air%20Conditioners.md). RXe is the old Daikin Ururu-Sarara series.
+
 ## Personality
 
-She's just evil, with a slight bit of goodness. Don't trust her at all, her evilness overpowers her goodness.
+She's just evil, with a slight bit of goodness (but massive to those close to her though). Don't trust her at all (mostly), her evilness overpowers her goodness unless you're really close with her.  Don't also underestimate her, you don't know how strong and evil she is. She is a force to be reckoned with.
+
+RXe is fearless, and is reckless. She is evil to live for! She is evil to live her life! RXe would unapologetically and uncaringly push other people, limits and the challenges away. Others would be in awe, and they might also be hurt. RXe doesn't care though, she is just evil for this.
+
+RXe is also manipulative with charisma. She makes herself seem good and attractive, but all she wants is to use and manipulate them. Her leadership skills is good, but she leads others to doom.
+
+RXe has a bit of goodness and kindness, but is largely overshadowed and overpowered by her evilness. 
+
+## Relations
+
+### [MHeLy](MHeLy.md)
+
+TBA
 
 #airconditioner 
