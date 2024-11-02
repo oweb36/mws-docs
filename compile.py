@@ -32,13 +32,15 @@ output = args.output # Output XML file
 includehidden = args.includehidden # Include hidden files?
 
 # Construct the Tree with sone default tags
+WHENSTRFTIME = "%B %d, %Y %I:%M:%S %p"
 root = ET.Element("mdcompxml")
-ET.SubElement(root, "meta", when=str(datetime.date.today().strftime("%B %d, %Y %I:%M:%S %p")))
+ET.SubElement(root, "meta", when=str(datetime.date.today().strftime(WHENSTRFTIME)))
 
 # Find all files
 for file in glob.glob("**/*.md", root_dir=where, recursive=recursive, include_hidden=includehidden):
     bfile = os.path.basename(file)
-    print(bfile)
+    with open(file, "r") as f:
+        ET.SubElement(root, "doc", name=bfile).text = f.read()
 
 tree = ET.ElementTree(root)
 tree.write(output, encoding="UTF-8", xml_declaration=True)
