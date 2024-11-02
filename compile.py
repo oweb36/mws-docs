@@ -19,6 +19,12 @@ if __name__ != "__main__":
 parser = argparse.ArgumentParser(
                     description="Compiles markdown files into XML, plaintext, JSON and etc..."
                         )
+
+parser.add_argument("-V", "--verbose",
+                    dest="verbose",
+                    help="Make the compiler verbose in its output.",
+                    action="store_true")
+
 parser.add_argument("-o", "--output", 
                     dest="output",
                     help="Where to output the generated compiled file.",
@@ -29,6 +35,7 @@ parser.add_argument("-t", "--type",
                     help="Choose the type of output",
                     choices=CHOICES,
                     default=XML)
+
 parser.add_argument("-r", "--recursive",
                     dest="recursive",
                     help="Recursively traverse the directory for the compiled file.",
@@ -38,6 +45,7 @@ parser.add_argument("-i", "--include-hidden",
                     dest="includehidden",
                     help="Include hidden?",
                     action="store_true")
+
 parser.add_argument("where",
                     help="Which directory to traverse?",
                     type=str)
@@ -53,8 +61,10 @@ def emit_json(files : list[str], out : str):
         with open(file, "r") as f:
             packs[bfile] = f.read()
 
-def emit_xml(files : list[str], out : str):
+        with open(out, "w") as f:
+            json.dump(packs, f, indent=None)
 
+def emit_xml(files : list[str], out : str):
     # Construct the Tree with sone default tags
     WHENSTRFTIME = "%B %d, %Y %I:%M:%S %p"
     root = ET.Element("mdcompxml")
@@ -70,6 +80,8 @@ def emit_xml(files : list[str], out : str):
     tree = ET.ElementTree(root)
     tree.write(output, encoding="UTF-8", xml_declaration=True)
 
+verbose = args.verbose # Verbosity
+
 where = args.where # Where is the directory to search for
 recursive = args.recursive # Recursively search?
 output = args.output # Output compiled file
@@ -82,9 +94,12 @@ FILEACT = {
     JSON: emit_json
 }
 
+if verbose: # Print if verbose
+    print(f"Generating {otype} to {output}")
+
 # Find all files and choose the correct emitter
 emitter = FILEACT[otype]
-emit_xml(glob.glob("**/*.md", root_dir=where, recursive=recursive, include_hidden=includehidden), output)
+emitter(glob.glob("**/*.md", root_dir=where, recursive=recursive, include_hidden=includehidden), output)
 
 
 
