@@ -72,7 +72,10 @@ def emit_txt(files : list[str], out : str):
 
     # Loop over and emit data to file
     with open(out, "w") as f:
-        
+        for packname, packval in packs.items():
+            f.write(f"==={packname}==={os.linesep}")
+            f.write(packval)
+            f.write(os.linesep * 3)
 
 
 def emit_json(files : list[str], out : str):
@@ -110,6 +113,7 @@ includehidden = args.includehidden # Include hidden files?
 # Create an action dictionary
 FILEACT = {
     XML: emit_xml,
+    PLAINTEXT: emit_txt,
     JSON: emit_json
 }
 
