@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-import argparse, sys, glob
+import argparse, sys, glob, os, datetime
 import xml.etree.ElementTree as ET
 
 # Setup argument parser
@@ -31,5 +31,14 @@ recursive = args.recursive # Recursively search?
 output = args.output # Output XML file
 includehidden = args.includehidden # Include hidden files?
 
+# Construct the Tree with sone default tags
+root = ET.Element("mdcompxml")
+ET.SubElement(root, "meta", when=str(datetime.date.today().strftime("%B %d, %Y %I:%M:%S %p")))
+
+# Find all files
 for file in glob.glob("**/*.md", root_dir=where, recursive=recursive, include_hidden=includehidden):
-    print(file)
+    bfile = os.path.basename(file)
+    print(bfile)
+
+tree = ET.ElementTree(root)
+tree.write(output, encoding="UTF-8", xml_declaration=True)

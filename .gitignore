@@ -4,3 +4,6 @@
 
 # Ignore workspace
 .obsidian/workspace.json
+
+# Ignore xml output
+a.xml
