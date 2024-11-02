@@ -8,7 +8,7 @@ He was born on August 7, 2024 as a Singaporean. He is your male that doesn't kno
 If skin color is considered, he is gray.
 
 ## Personality
-TBA
+Curious. TBA
 
 ## Relations
 

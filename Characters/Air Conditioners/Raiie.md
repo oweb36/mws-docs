@@ -11,8 +11,7 @@ He was born on June 6, 2005. He is a pansexual genderfluid person. Raiie prefers
 
 If skin color matters, he is white.
 ## Personality
-
-TBA
+Mediator between TERAS and RACK, and others. A skilled negotiator.
 
 ## Relations
 

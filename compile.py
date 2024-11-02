@@ -120,9 +120,17 @@ FILEACT = {
 if verbose: # Print if verbose
     print(f"Generating {otype} to {output}")
 
+# Function to full name and canonicalify filenames for special reasons
+def fullnamifier(root : str, notsofullname : str) -> str:
+    notsofullname = os.path.join(root, notsofullname)
+    notsofullname = os.path.realpath(notsofullname)
+    return notsofullname
+
 # Find all files and choose the correct emitter
 emitter = FILEACT[otype]
-emitter(glob.glob("**/*.md", root_dir=where, recursive=recursive, include_hidden=includehidden), output)
+globbed = glob.glob("**/*.md", root_dir=where, recursive=recursive, include_hidden=includehidden)
+globbed = list(map(lambda a : fullnamifier(where, a), globbed))
+emitter(globbed, output)
 
 
 
