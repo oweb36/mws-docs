@@ -51,8 +51,10 @@ parser.add_argument("where",
                     type=str)
 args = parser.parse_args(sys.argv[1:])
 
-def emit_json(files : list[str], out : str):
-    # Create a dict for json
+
+
+def pack_packer(files : list[str]) -> dict:
+    # Create a dict for txt
     packs = {}
 
     # Loop over the files and pack to the dict
@@ -61,8 +63,24 @@ def emit_json(files : list[str], out : str):
         with open(file, "r") as f:
             packs[bfile] = f.read()
 
-        with open(out, "w") as f:
-            json.dump(packs, f, indent=None)
+    # Return the packed dict
+    return packs
+
+def emit_txt(files : list[str], out : str):
+    # Get packed dict
+    packs = pack_packer(files)
+
+    # Loop over and emit data to file
+    with open(out, "w") as f:
+        
+
+
+def emit_json(files : list[str], out : str):
+    # Get packed dict
+    packs = pack_packer(files)
+
+    with open(out, "w") as f:
+        json.dump(packs, f, indent=None)
 
 def emit_xml(files : list[str], out : str):
     # Construct the Tree with sone default tags
@@ -79,6 +97,7 @@ def emit_xml(files : list[str], out : str):
     # Generate the tree
     tree = ET.ElementTree(root)
     tree.write(output, encoding="UTF-8", xml_declaration=True)
+
 
 verbose = args.verbose # Verbosity
 
