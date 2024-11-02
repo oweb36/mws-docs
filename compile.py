@@ -3,18 +3,20 @@
 import argparse, sys, glob, os, datetime
 import xml.etree.ElementTree as ET
 
+
+
 # Setup argument parser
 parser = argparse.ArgumentParser(
-                    description="Compiles markdown files into XML."
+                    description="Compiles markdown files into XML, plaintext, JSON and etc..."
                         )
 parser.add_argument("-o", "--output", 
                     dest="output",
-                    help="Where to output the generated XML.",
+                    help="Where to output the generated compiled file.",
                     type=str,
                     default="a.xml")
 parser.add_argument("-r", "--recursive",
                     dest="recursive",
-                    help="Recursively traverse the directory for XML?",
+                    help="Recursively traverse the directory for the compiled file.",
                     type=bool,
                     default=True)
 parser.add_argument("-i", "--include-hidden",

@@ -8,7 +8,7 @@ He was born in 2021, as a British person. He is a cisgender and heterosexual mal
 
 He actually has two minds, and each of his minds has a face. The main mind of ToshyFEN is at the front panel of his main body, while the auxilliary mind of ToshyFEN is in his controller.
 
-He is one of the most durable person in MVS. ToshyFEN is also heavy.
+He is one of the most durable person in MVS; He can survive injuries that would incapacitate or even kill others, and he can tolerate severe pain such as crotch kicks. ToshyFEN is also heavy.
 
 If skin color matters, ToshyFEN is white.
 
