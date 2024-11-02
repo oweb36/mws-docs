@@ -16,12 +16,12 @@ kanban-plugin: board
 
 ## Todo
 
-- [ ] Add a new smug character named Avxy, which is a Sharp AIOT air conditioner. He is a smug little sh##, a cocky little sh##.
 - [ ] Add Angelsaph, a Gree Saphire air conditioner. He has a golden-white shiny halo made of solid gold-titanium-platinum-aluminium alloy. This halo is part of his body and can act as a protection. It can regenerate slowly if its damaged.
 
 
 ## Current
 
+- [ ] Add a new smug character named Avxy, which is a Sharp AIOT air conditioner. He is a smug little sh##, a cocky little sh##.
 
 
 ## Done
