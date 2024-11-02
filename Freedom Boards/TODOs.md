@@ -16,6 +16,7 @@ kanban-plugin: board
 
 ## Todo
 
+- [ ] Add a new smug character named Avxy, which is a Sharp AIOT air conditioner. He is a smug little sh##.
 
 
 ## Current
