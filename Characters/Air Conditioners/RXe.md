@@ -7,6 +7,8 @@ RXe is a Daikin wall-mounted FTXR50EV1B9 [heat pump](Air%20Conditioners.md). RXe
 RXe was born in 2007. She's a cisgender and lesbian female (she/her).  
 If RXe's skin color matter, she is gray.
 
+RXe is the older sister to [ZeNer](ZeNer.md).
+
 ## Personality
 
 She's just evil, with a slight bit of goodness (but massive to those close to her though). Don't trust her at all (mostly), her evilness overpowers her goodness unless you're really close with her.  Don't also underestimate her, you don't know how strong and evil she is. She is a force to be reckoned with.
