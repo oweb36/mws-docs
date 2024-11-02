@@ -13,7 +13,7 @@ His younger sister is [MHeLy](MHeLy.md).
 
 ## Personality
 
-TBA. Idea is he is a dry joker, but logical and observant. Very rational.
+TBA. Idea is he is a dry joker, but logical and observant. Very rational. He can negotiate well, and make good deals.
 
 ## Relations
 
