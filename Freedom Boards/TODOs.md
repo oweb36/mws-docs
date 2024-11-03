@@ -17,6 +17,8 @@ kanban-plugin: board
 ## Todo
 
 - [ ] Add Angelsaph, a Gree Saphire air conditioner. He has a golden-white shiny halo made of solid gold-titanium-platinum-aluminium alloy. This halo is part of his body and can act as a protection. It can regenerate slowly if its damaged.
+	
+	While others are pure electronic inorganic, AngelSaph has some flesh inside of him.
 
 
 ## Current
