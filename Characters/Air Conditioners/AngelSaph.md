@@ -13,16 +13,19 @@ He has flesh unlike others, so he is technically a Cyborg and needs to eat and d
 ### Halo
 AngelSaph's halo is a floating shiny white-golden halo that surrounds him. Its tilted up to the right and it can glow in the dark.
 
-Its composed of an alloy made of Gold, Titanium, Platinum and Aluminium. It slowly spins clockwise.
+Its composed of an alloy made of Gold, Titanium, Platinum, Aluminium, Phosphor and Fluorine. It slowly spins clockwise, though if he is in a bad mental health state, it will slowly spin counter-clockwise.
 
 AngelSaph's halo can act as a protection for any attacks against him due to its composition. If his halo gets damaged (cracked, shattered, broken), it can regenerate slowly over time. If he is emotionally hurt, in trauma, in a bad state of mental health or experiencing emotional pain, then his regeneration of the halo will slow down.
 
 The Halo is an intergral part of AngelSaph's body. He can still feel (slightly dulled) pain if the halo is damaged or impacted hardly. Any part of the halo that is broken can create a very slight and subtle feelings of aching. He can also feel tactile stimuli such as touch on the halo. Pulling on the halo can give him a dull headache. So please don't tug or drag AngelSaph by the halo.
 
-Whenever AngelSaph's halo is damaged, any parts that were broken off will no longer float with him and instead falls down. The remaining intact halo still floats, and spins as if it were complete. The remaining intact halo also begins to slowly bleed an unknown golden liquid that is neither is blood or hot.
+Whenever AngelSaph's halo is damaged, any parts that were broken off will no longer float with him and instead falls down. The remaining intact halo still floats, and spins in place as if it were a complete halo. The remaining intact halo also begins to slowly bleed an unknown golden liquid that is neither is blood or hot.
 
 ## Personality
+He is a gentle angel. He is emotionally sensitive, and cares for others. He is stoic and calm. He is quite vulnerably emotionally and physically though. AngelSaph would also try to avoid any physical contact in fear of his halo. He is also fairly reserved, in that he would only interfere in conflict if needed, otherwise he would let it play out.
 
-TBA. 
+AngelSaph is also slightly depressed on the inside due to his nature and sensitivity. He feels a slight sadness in him, which might subtly manifest in him withdrawing silently, or being distant to others. He might even doubt himself on his ability to protect others and fulfill his role. He does not make his sadness obvious to others though.
 
-He is a gentle angel, and will not interfere unless necessary. He is emotionally sensitive, and cares for others. He is stoic and calm. He is quite vulnerably emotionally and physically though. AngelSaph would also try to avo
+## Relations
+
+#airconditioner 

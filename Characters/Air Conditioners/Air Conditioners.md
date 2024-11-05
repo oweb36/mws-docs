@@ -16,4 +16,6 @@ The air conditioners and heat pumps can have multiple body types. Here are the a
 
 And then there are the controllers, which are usually companions to the main unit. The controllers may be independent though.
 
+They are inorganic and electronic in nature, so their logic board is like their brain. Any damage to their body parts would impair its ability and function.
+
 #airconditioner
