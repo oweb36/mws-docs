@@ -8,7 +8,9 @@ He was born on August 7, 2024 as a Singaporean. He is your male that doesn't kno
 If skin color is considered, he is gray.
 
 ## Personality
-Curious. TBA
+Idendiby is very curious in nature. He doesn't know that much about himself. He just wants to know why things are things. Idendiby also is curious about people's identity, and most importantly himself. He is curious and always adventurous on finding about people's identity and their signature attributes.
+
+Idendiby is also very philosophical. He tries to understand motivation and reasoning. He always asks why are things there, why do some people do that, and others. He also does metaphilosophy where he questions Philosophy itself.
 
 ## Relations
 

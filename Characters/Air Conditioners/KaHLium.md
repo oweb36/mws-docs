@@ -13,7 +13,11 @@ His younger sister is [MHeLy](MHeLy.md).
 
 ## Personality
 
-TBA. Idea is he is a dry joker, but logical and observant. Very rational. He can negotiate well, and make good deals.
+KaHLium is a level-headed person. He is not that insane, but not that chill. He is your average person. He just wants to be normal, that is it. Please don't make him that unique.
+
+KaHLium has pretty dry humour. His humour is deadpan and anti-joke. He does not give emotions normally, especially with his humour. His humour is a representation of his personality.
+
+KaHLium is also a fairly analytical and observant person. He observes his surroundings and checks on MHeLy often. KaHLium is a big brother to MHeLy.
 
 ## Relations
 

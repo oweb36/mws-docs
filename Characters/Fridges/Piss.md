@@ -9,7 +9,9 @@ If skin color is considered, he is gray.
 
 
 ## Personality
+Piss may be cold, but he is warm on the inside. He is usually not that warm or welcoming to others if they aren't close enough, but get close and you can see his nature. He may be hostile on the outside. His warmness is also subtle for those close, but very obvious to those who are truly close to him.
 
+Piss is also protective about food and cleanliness. He fears contamination and food supply issues. He just wants the best for everyone with food, so that everyone can survive. He thinks for ahead of time, and not now.
 
 ## Relations
 

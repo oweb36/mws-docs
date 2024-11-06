@@ -12,7 +12,7 @@ If skin color matters, RACK is beige.
 
 ## Personality
 
-TBA
+RACK is fairly discipline. He is open-minded even though he is a traditionalist. RACk might even want to make a progressive form of the traditions with some form from the new modern era.
 
 ## Relations
 

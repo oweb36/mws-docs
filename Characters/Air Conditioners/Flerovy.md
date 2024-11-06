@@ -8,7 +8,7 @@ Flerovy was born 2008. He is a cisgender and heterosexual male.
 
 ## Personality
 
-TBA
+Flerovy is intelligent, but is introverted. He knows a lot but is scared of people judging him. He is also a perfectionist, looking out for details and imperfection. He has OCD. He doesn't want to be a mentor, but his knowledge makes him one.
 
 ## Relations
 
