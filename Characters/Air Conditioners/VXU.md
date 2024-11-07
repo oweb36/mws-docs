@@ -7,7 +7,7 @@ VXU is actually a multi-system triplet composed of 3 mind/people that is also a 
 - CTUX
 - MXU
 
-MXU is Daikin 2MXU40GV1B. DeltaCXG is a wall-mounted Daikin CTXU42G2V1B, while CTUX is a wall-mounted Daikin CTXU50G2V1B. This is because VXU is a **Daikin Multi-Ururu Multi-Split system**. VXU is a [heat pump](Air%20Conditioners.md) system, as all their members (DeltaCXG, MXU and CTUX) are heat pumps.
+MXU is Daikin 2MXU40GV1B. DeltaCXG is a wall-mounted Daikin CTXU42G2V1B, while CTUX is a wall-mounted Daikin CTXU50G2V1B. This is because VXU is a **Daikin Multi-Ururu Multi-Split system**. VXU is a [heat pump](Air%20Conditioners.md) system, as all their members (DeltaCXG, MXU and CTUX) are heat pumps. They are basically siblings, but also the same person.
 
 CTUX was from AACOS while DeltaCXG was from an old part of old ObjecWeb36.
 
@@ -32,11 +32,27 @@ CTUX is the overconfident and arrogant, but strong willed competitor, and is a g
 
 CTUX's arrogance due to his confidence may lead him to underestimate others.
 
+CTUX is not that sociopathic though. He would not willingly hurt others, unlike his fellow brother [DeltaCXG](#DeltaCXG)
+
 ## MXU
 
-MXU is the gentle one.
+MXU is the gentle one. He is not as brash as the others. MXU would even try to stop his fellow brothers, especially [DeltaCXG](#DeltaCXG) from terrorizing others.
 
 ## Relations
+
+### [GiSY](GiSY.md)
+
+[DeltaCXG](#DeltaCXG) is the one who likes to bully GiSY. He knows that GiSY is sensitive, and he still does it. He just wants to feel her pain. DeltaCXG wants to be a sadist towards this poor soul who just wants to make the world a better place.
+
+A pesk- ```I mean helpful``` fellow sibling of VXU, [MXU](#MXU) is the reason why this bullying hasn't escalated to actual physical harm. DeltaCXG would actually try to hurt GiSY, but MXU has been intervening in all of these cases, much to DeltaCGX's chargin and GiSY's ```help me pls idk the vocab pls```
+
+### [RXe](RXe.md)
+
+VXU has a complicated relationship with RXe as they are 3 people in one.  RXe likes [MXU](VXU.md#MXU), as he is chill. He has done nothign wrong to RXe, and neither does she.
+
+RXe has a slight disdain with [CTUX](VXU.md#CTUX) cus of his arrogance at times. She doesn't think he deserves or even qualify to lead people. RXe thinks he is too full of himself.
+
+The one person of VXU that RXe has a problem with is [DeltaCXG](VXU.md#DeltaCXG) as DeltaCXG would also hurt others. RXe sees DeltaCXG as competition.
 
 
 

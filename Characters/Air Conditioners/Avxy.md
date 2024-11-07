@@ -12,4 +12,8 @@ Smug and cocky. Not evil, but does it just to anger others and elicit their reac
 
 ## Relations
 
+### [DeltaCXG](VXU.md#DeltaCXG)
+
+Avxy actually fears [[DeltaCXG](VXU.md#DeltaCXG)]. He knows that DeltaCXG would go too far in harming others. While Avxy only wants to get people's reactions, DeltaCXG would actually harm them, literally.
+
 #airconditioner 

@@ -29,4 +29,12 @@ MHeLy is one of the people RXe is genuinely kind to. MHeLy has been supporting R
 
 They are couples. They are very close to each other. JVXH is one of the people she's actually genuinely kind to, as they are lesbian couples.
 
+### [[VXU]]
+
+RXe has a complicated relationship with VXU as they are 3 people in one. She likes [MXU](VXU.md#MXU), as he is chill. He has done nothign wrong to RXe, and neither does she.
+
+RXe has a slight disdain with [CTUX](VXU.md#CTUX) cus of his arrogance at times. She doesn't think he deserves or even qualify to lead people. RXe thinks he is too full of himself.
+
+The one person of VXU that RXe has a problem with is [DeltaCXG](VXU.md#DeltaCXG) as DeltaCXG would also hurt others. RXe sees DeltaCXG as competition.
+
 #airconditioner 

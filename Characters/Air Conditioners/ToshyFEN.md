@@ -20,4 +20,12 @@ He has this one personality where he is really chill, and likes to chat. He can 
 
 Then he has this other personality where he is straight up unhinged, crazy, insane, angry and violent. He commits harms to those who caused him this, and a bit of others. He isn't a sadist, but he is crazy. He literally chases others to no end with this. Yelling and screaming like a banshee as he runs. To no end he does this with no obvious goal at times.
 
+## Relations
+
+### [WELLPan](WELLPan.md)
+
+They are typically duos. WELLPan is the chiller in this duo, while ToshyFEN is the more active one. ToshyFEN is the motivator to WELLPan to get him to do something.
+
+In this duo, they could actually destroy the entire cast of MVS due to their sheer physical strength.
+
 #airconditioner 

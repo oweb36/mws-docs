@@ -22,6 +22,13 @@ GiSY is quite forgiving at least. She will forget any past harm, conflict and in
 
 ### [DeltaCXG](VXU.md#DeltaCXG)
 
-They are not exactly on good terms. DeltaCXG let's say bullies her a lot. DeltaCXG would also on not so rare occasions, actually physically harm GiSY, but [MXU](VXU.md#MXU) has intervened in all those ocassions.
+They are not exactly on good terms. DeltaCXG let's say bullies her a lot. DeltaCXG would also on not so rare occasions, actually physically harm GiSY, but [MXU](VXU.md#MXU) has intervened in all those occasions.
+
+### [MHeLy](MHeLy.md)
+
+They are good friends. MHeLy and GiSY's caring nature pairs them together. They would work together to not only care, but make the world a better place for everyone.
+
+They are very happy together. They aren't a couple though. MHeLy is not a lesbian or LGBTQ in nature alright?
+
 
 #airconditioner 
