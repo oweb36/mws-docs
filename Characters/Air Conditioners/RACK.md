@@ -12,7 +12,9 @@ If skin color matters, RACK is beige.
 
 ## Personality
 
-RACK is fairly discipline. He is open-minded even though he is a traditionalist. RACk might even want to make a progressive form of the traditions with some form from the new modern era.
+RACK is fairly disciplined. He likes to stay on schedule and follow the line. He is not happy if you force him to go out of the box. He will still go out of the box, break conventions and bend the rules if he has to albeit reluctantly.
+
+He is open-minded even though he is a traditionalist. RACK might even want to make a progressive form of the traditions with some form from the new modern era. He will try to figure out a balance of the trusted traditions and the new and fast-moving new culture.
 
 ## Relations
 

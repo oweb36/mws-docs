@@ -17,8 +17,13 @@ Its composed of an alloy made of Gold, Titanium, Platinum, Aluminium, Phosphor a
 
 AngelSaph's halo can act as a protection for any attacks against him due to its composition. If his halo gets damaged (cracked, shattered, broken), it can regenerate slowly over time. If he is emotionally hurt, in trauma, in a bad state of mental health or experiencing emotional pain, then his regeneration of the halo will slow down. If he is emotionally hurt enough, the regeneration of his halo may stop.
 
-The Halo being an intergral part of AngelSaph's body can give him tactile sensation. He can still feel (slightly dulled) pain if the halo is damaged or impacted hardly. Any part of the halo that is broken can create a very slight and subtle feelings of aching. If fact, if the halo is severely damaged to the point like only a single bit is intact, the pain would be so severe that AngelSaph could pass out. If his halo is so damaged that there is no remaining intact halo, he would feel a headache until at least a small part of his halo regenerates.  
-He can also feel tactile stimuli such as touch on the halo. Pulling on the halo can give him a dull headache.  So please don't tug or drag AngelSaph by the halo cus he can feel it, and its not good for him and rude for you to do.
+The Halo being an intergral part of AngelSaph's body can give him tactile sensation. Here are what he can feel: 
+- Sharp pain. He will feel sharp pain if his halo is broken via harsh impact or pretty aggressive bonks. Its a sharp pain.
+- Dulled pain and ache. He will feel this (slightly dulled) pain and aching from his remaining halo that is broken.
+- Extreme pain. He will feel this if only a small remaining bit of his halo is remaining. This basically means that his halo is severely damaged, basically almost destroyed. He can pass out at this point.
+- Not so dull headache. He will feel this if the halo is completely destroyed, or basically the halo is damaged to the point no remaining bit is intact.
+- Touch. He will feel touch on his halo if you touch his halo.
+- Dull ache. He would feel a dull aching feeling if you tug or pull on his halo. This is already rude to do, as thats like pulling someone's by their ponytail.
 
 Whenever AngelSaph's halo is damaged, any parts that were broken off will no longer float with him and instead falls down. The remaining intact halo still floats, and spins in place as if it were a complete halo. The remaining intact halo also begins to slowly bleed an unknown golden liquid that is neither is blood or hot with the viscosity of tears.
 
