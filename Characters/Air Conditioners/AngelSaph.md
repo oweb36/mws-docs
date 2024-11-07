@@ -21,11 +21,15 @@ The Halo being an intergral part of AngelSaph's body can give him tactile sensat
 - Sharp pain. He will feel sharp pain if his halo is broken via harsh impact or pretty aggressive bonks. Its a sharp pain.
 - Dulled pain and ache. He will feel this (slightly dulled) pain and aching from his remaining halo that is broken.
 - Extreme pain. He will feel this if only a small remaining bit of his halo is remaining. This basically means that his halo is severely damaged, basically almost destroyed. He can pass out at this point.
-- Not so dull headache. He will feel this if the halo is completely destroyed, or basically the halo is damaged to the point no remaining bit is intact.
+- Not so dull headache. He will feel this if the halo is completely destroyed, or basically the halo is damaged to the point no remaining bit is intact. In a nutshell, AngelSaph will feel this kind of headache if he has no halo, or just looks like a normal [heat pump](Air%20Conditioners.md).
 - Touch. He will feel touch on his halo if you touch his halo.
 - Dull ache. He would feel a dull aching feeling if you tug or pull on his halo. This is already rude to do, as thats like pulling someone's by their ponytail.
 
-Whenever AngelSaph's halo is damaged, any parts that were broken off will no longer float with him and instead falls down. The remaining intact halo still floats, and spins in place as if it were a complete halo. The remaining intact halo also begins to slowly bleed an unknown golden liquid that is neither is blood or hot with the viscosity of tears.
+Whenever AngelSaph's halo is damaged, any parts that were broken off will no longer float with him and instead falls down. The remaining intact halo still floats, and spins in place as if it were a complete halo. The remaining intact halo also begins to slowly bleed a liquid known as eether.
+
+Eether is a liquid that is contained within AngelSaph's halo. Its harmless to touch, but its just chilling inside of his halo. Eether appears as a golden to piss-yellow colored tear-like liquid. It smells ethereal like floral-ethereal ethereal. Eether is denser than water. Eether is the liquid that bleeds from AngelSaph's broken halo.
+
+You can break his halo easily just by whacking him with a blunt weapon on the back of his head. Its that easy lol. The back of his head is a weak point for his halo. Its not that weak when compared absolutively, but very weak when compared to the rest of his halo.
 
 ## Personality
 He is a gentle and depressed angel in a nutshell. 
