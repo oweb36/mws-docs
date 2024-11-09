@@ -8,7 +8,7 @@ He was born in 2021, as a British person. He is a cisgender and heterosexual mal
 
 He actually has two minds, and each of his minds has a face. The main mind of ToshyFEN is at the front panel of his main body, while the auxilliary mind of ToshyFEN is in his controller.
 
-He is one of the most durable person in MVS; He can survive injuries that would incapacitate or even kill others, and he can tolerate severe pain such as crotch kicks. ToshyFEN is also heavy.
+He is one of the most durable person in MVS; He can survive injuries that would incapacitate or even kill others, and he can tolerate severe pain such as crotch kicks. ToshyFEN is also very heavy, in fact he is the heaviest out of them all.
 
 If skin color matters, ToshyFEN is white.
 
@@ -18,7 +18,7 @@ He basically has two personalities that are volatile at changing about.
 
 He has this one personality where he is really chill, and likes to chat. He can never be as chill as [WELLPan](WELLPan.md), but he is chill. He just listens, and talk a little. He likes small talk, and big talk. He is just there for WELLPan mostly, but can be there for others. Basically he just does nothing except listen and yap.
 
-Then he has this other personality where he is straight up unhinged, crazy, insane, angry and violent. He commits harms to those who caused him this, and a bit of others. He isn't a sadist, but he is crazy. He literally chases others to no end with this. Yelling and screaming like a banshee as he runs. To no end he does this with no obvious goal at times.
+Then he has this other personality where he is straight up unhinged, crazy, insane, angry and violent. He commits harms to those who caused him this, and a bit of others. He isn't a sadist, but he is crazy. He literally chases others to no end with this. Yelling and screaming like a banshee as he runs. To no end he does this with no obvious goal at times. ToshyFEN would literally chase someone like a maniac, for eternity. He can be stopped and put back to his normal chill state by either calming him down, killing him, exhaust him or have his victim be killed.
 
 ## Relations
 
@@ -26,6 +26,6 @@ Then he has this other personality where he is straight up unhinged, crazy, insa
 
 They are typically duos. WELLPan is the chiller in this duo, while ToshyFEN is the more active one. ToshyFEN is the motivator to WELLPan to get him to do something.
 
-In this duo, they could actually destroy the entire cast of MVS due to their sheer physical strength.
+In this duo, they could actually destroy the entire cast of MVS due to their sheer physical strength. ToshyFEN would likely be the one to start it, and he would drag WELLPan into this madness. ToshyFEN would also probably stick WELLPan to his back, and bring him along.
 
 #airconditioner 

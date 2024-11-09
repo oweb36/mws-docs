@@ -8,7 +8,15 @@ He was born on September 13, 2022. He is a demifluid male (he/they). This means 
 
 AngelSaph also has a halo. Its detailed in the section titled [Halo](#Halo). He is a partial Angel.
 
-He has flesh unlike others, so he is technically a Cyborg and needs to eat and drink to survive. He doesn't need to excrete waste or breath though. His organic flesh supplements and enchances his inorganic electronics, not the other way around.
+He has flesh unlike others of MVS.
+
+### Body
+
+AngelSaph's body is unique because he is not purely electronic, but has flesh. , AngelSaph is technically a Cyborg and needs to eat and drink to survive to satisfy his cells. His biological side is of Homo Sapiens.
+
+AngelSaph doesn't need to excrete waste or breath though as his electronics provides energy for the cells to respire. His organic flesh supplements and enhances his inorganic electronics, not the other way around. This flesh means that AngelSaph actually has true free will unlike the others as he has a brain, not just some hardcoded motherboard with some self-learning AI.
+
+AngelSaph has a circulatory system and A+ blood. This means that he could actually bleed to death or die of exsanguination. AngelSaph can also get cut, lacerated and bruised easily.
 
 ### Halo
 AngelSaph's halo is a floating shiny white-golden halo that surrounds him. Its tilted up to the right of AngelSaph and it can glow in the dark a yellow shine. Its an intergral part of his body; You can't just detach and knock AngelSaph's halo of him, but you can push the halo as its not rigidly fixed to him.
@@ -29,7 +37,9 @@ Whenever AngelSaph's halo is damaged, any parts that were broken off will no lon
 
 Eether is a liquid that is contained within AngelSaph's halo. Its harmless to touch, but its just chilling inside of his halo. Eether appears as a golden to piss-yellow colored tear-like liquid. It smells ethereal like floral-ethereal ethereal. Eether is denser than water. Eether is the liquid that bleeds from AngelSaph's broken halo.
 
-You can break his halo easily just by whacking him with a blunt weapon on the back of his head. Its that easy lol. The back of his head is a weak point for his halo. Its not that weak when compared absolutively, but very weak when compared to the rest of his halo.
+His Halo breaking can only occur due to physical forces. You can't just give him emotional damage to break it. So you can't just demoralize him to the point of no return to just completely destroy his halo into oblivion. The halo's state is not a representation of his emotional and mental health, but the rotation of the halo is representational of his mental health.
+
+One way you can break his halo easily is just by whacking him with a blunt weapon on the back of his head. Its that easy lol, a whack and the back portion of his halo is now broken. The back of his head is a weak point for his halo. Its not that weak when compared to absolute, but very weak when compared to the rest of his halo. Whacking him on the front though, is very obvious to him and it would at best, just crack his halo instead of breaking it.
 
 ## Personality
 He is a gentle and depressed angel in a nutshell. 

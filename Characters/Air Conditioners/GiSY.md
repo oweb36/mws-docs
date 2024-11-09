@@ -16,7 +16,7 @@ GiSY also is a very kind and gentle demigirl. She's out there to care and nurtur
 
 GiSY also can get hurt easily emotionally. She's very sensitive due to her nature. If she's hurt, then GiSY may recede and withdraw from society. Misunderstanding her is one way to hurt her.
 
-GiSY is quite forgiving at least. She will forget any past harm, conflict and insults thrown to her or others. She forgives others and just wants to be friends. This can be against some of her peers, who are less forgiving much to their frustration.
+GiSY is quite forgiving at least. She will forget any past harm, conflict and insults thrown to her or others. She forgives others and just wants to be friends. She may even forget the harm and others had done to her that causes her to isolate herself, and even forgive the perpetrators. This can be against some of her peers, who are less forgiving much to their frustration.
 
 ## Relations
 

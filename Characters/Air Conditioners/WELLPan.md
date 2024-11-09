@@ -11,13 +11,13 @@ He is one of the strongest person in the Megarchive Warehouse Show. He is also o
 
 ## Personality
 
-WELLPan is one of the chillest and most easygoing person in the Megarchive Warehouse Show. He is pretty much the easygoing vibe carrier in AACOS. He has that unhinged, yet chill humor. WELLPan is also kinda lazy and unmotivated at times.
+WELLPan is one of the chillest and most easygoing person in the Megarchive Warehouse Show. He is pretty much the easygoing vibe carrier in AACOS. He has that unhinged, yet chill humor. WELLPan is also kinda lazy and unmotivated at times. To get his thin body to do something, you should motivate him.
 
 WELLPan is also very smart. He is a bookworm. He likes to read a lot. This shows that WELLPan is smart, but is too unmotivated to do things. He can lead and serve as a voice of guidance and leadership to motivate and guide others (his competitors/friends), but only if he is bothered to do so.
 
-WELLPan may struggle with motivation and laziness, but don't underestimate him. He has the potential to win, but he doesn't want to. He is too chill. Everyone likes him because he is easy to get along with.
+WELLPan may struggle with motivation and laziness, but don't underestimate him. He has the potential to win, but he doesn't want to. He is too chill. Everyone, well almost everyone likes him because he is easy to get along with.
 
-Just don't disturb him when he's reading or underestimate him, he doesn't like that.
+Just don't disturb him when he's reading or underestimate him, he doesn't like that. Nobody likes to be disturbed when reading books, in a library.
 
 ## Relations
 
@@ -28,6 +28,6 @@ They are frenemies, but they are more of a friend that enemies. The only conflic
 
 They are typically duos. WELLPan is the chiller in this duo, while ToshyFEN is the more active one. WELLPan helps to cool ToshyFEN's unhinged side, and prevent little accidents involving mass murking of others.
 
-In this duo, they could actually destroy the entire cast of MVS due to their sheer physical strength.
+In this duo, they could actually destroy the entire cast of MVS due to their sheer physical strength. WELLPan is not the one to start this, but he just tags along cus they are duos.
 
 #airconditioner

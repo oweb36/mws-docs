@@ -8,12 +8,24 @@ He is black if skin color matters.
 
 ## Personality
 
-Smug and cocky. Not evil, but does it just to anger others and elicit their reactions. He doesn't like racism though. TBA
+Smug and cocky. Avxy has that stereotypical edgy teenager personality. He is actually not evil, but is just edgy. He is not nice and kind, but is quite rude and umm, not so nice with words.
+
+He likes to provoke others to anger. He just wants their reactions. Avxy thrives on other's frustration. He would! Anything to anger everyone he does. Move your stuff somewhere, your very important things? He will. 
+
+Avxy is also the kind of person to name call you. He will insult you. He will harass you. He will throw sarcasm. He will annoy you. Avxy is disrespectful basically with words. He is very offensive and derogatory towards others. He is not a leader, and he doesn't plan to. Avxy is also the kind of person to demoralize others, and anger them. He wants to elicit reactions from you, and he enjoys it to his heart's content.
+
+Avxy is not that evil though, he has his limits for this madness. His limits is no actual physical violence. Gore and just physical violence is too much for him.
+
+Avxy doesn't like racism, especially to black people. This is because he is well, black. That's just it. So please don't be racist. He would bat an eye with racism towards non-blacks, but he will go into meltdown ranting why you don't be racist the moment you get racist with blacks.
 
 ## Relations
 
 ### [DeltaCXG](VXU.md#DeltaCXG)
 
-Avxy actually fears [[DeltaCXG](VXU.md#DeltaCXG)]. He knows that DeltaCXG would go too far in harming others. While Avxy only wants to get people's reactions, DeltaCXG would actually harm them, literally.
+Avxy actually fears [[DeltaCXG](VXU.md#DeltaCXG)]. He knows that DeltaCXG would go too far in harming others. While Avxy only wants to get people's reactions, DeltaCXG would actually harm them, literally. 
+
+### [KaHLium](KaHLium.md)
+
+KaHLium is not a fan of Avxy's antics.
 
 #airconditioner 

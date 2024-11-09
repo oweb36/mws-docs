@@ -13,11 +13,15 @@ His younger sister is [MHeLy](MHeLy.md).
 
 ## Personality
 
-KaHLium is a level-headed person. He is not that insane, but not that chill. He is your average person. He just wants to be normal, that is it. Please don't make him that unique.
+KaHLium is a level-headed person. He is not that insane, but not that chill. He is your average person. He just wants to be normal, that is it. Please don't make him that unique, he doesn't like that. KaHLium is also a serious person, who doesn't exactly tolerate no-nonsense things. This trait might conflict with others.
 
-KaHLium has pretty dry humour. His humour is deadpan and anti-joke. He does not give emotions normally, especially with his humour. His humour is a representation of his personality.
+KaHLium has pretty dry humour. His humour is deadpan and anti-joke. He does not give emotions normally, especially with his humour. His humour is a representation of his personality. This is probably due to his birthday.
 
-KaHLium is also a fairly analytical and observant person. He observes his surroundings and checks on MHeLy often. KaHLium is a big brother to MHeLy.
+KaHLium being serious means that he is not the one to take jokes lightly. He is also a no-nonsense person, and does not exactly tolerate them well. He just wants to do things the way it is. Follow the instructions kind of person, down to earth kind of person, a realists. This may conflict with some of the nonsense-loving people of MVS.
+
+KaHLium is also a fairly analytical and observant person. He observes his surroundings and checks on MHeLy often. KaHLium is also the kind of person to stalk others to gain intel. He potentially could know your browsing history and group chats.
+
+KaHLium is a big brother to MHeLy. He loves her, and treats her well.
 
 ## Relations
 

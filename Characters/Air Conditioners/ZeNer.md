@@ -12,7 +12,7 @@ If skin color matters, he is white.
 
 ## Personality
 
-TBA
+Daredevil. ZeNer is the one who would do reckless stunts in order to impress others. He knows well about what stunts, and is basically an expert. So even though he risks his own and other's lifes, he usually is succesful in doing so.
 
 ## Relations
 

@@ -40,6 +40,9 @@ MXU is the gentle one. He is not as brash as the others. MXU would even try to s
 
 ## Relations
 
+### [Avxy](Avxy.md)
+
+Avxy actually fears [DeltaCXG](VXU.md#DeltaCXG). He knows that DeltaCXG would go too far in harming others. While Avxy only wants to get people's reactions, DeltaCXG would actually harm them, literally. 
 ### [GiSY](GiSY.md)
 
 [DeltaCXG](#DeltaCXG) is the one who likes to bully GiSY. He knows that GiSY is sensitive, and he still does it. He just wants to feel her pain. DeltaCXG wants to be a sadist towards this poor soul who just wants to make the world a better place.
