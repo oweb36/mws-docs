@@ -25,9 +25,11 @@ Just don't disturb him when he's reading or underestimate him, he doesn't like t
 They are frenemies, but they are more of a friend that enemies. The only conflict that they can be in is in a friendly little competition of who can be the chillest, and WELLPan always wins. They just hang out with each other.
 
 ## [ToshyFEN](ToshyFEN.md)
-
 They are typically duos. WELLPan is the chiller in this duo, while ToshyFEN is the more active one. WELLPan helps to cool ToshyFEN's unhinged side, and prevent little accidents involving mass murking of others.
 
 In this duo, they could actually destroy the entire cast of MVS due to their sheer physical strength. WELLPan is not the one to start this, but he just tags along cus they are duos.
+
+### [JHR](JHR.md)
+They are good friends. JHR and WELLPan likes to read books in their spare time together.
 
 #airconditioner

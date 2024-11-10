@@ -14,6 +14,9 @@ Idendiby is also very philosophical. He tries to understand motivation and reaso
 
 ## Relations
 
+### [Wheamy](Wheamy.md)
+Wheamy is the guardian for Idendiby. Idendiby is very young, and Wheamy is there to protect him.
+
 
 #washingmachines
 

@@ -19,6 +19,8 @@ JHR is warm and welcoming, albeit strict at times. He is also a workaholic, so h
 ### As a normal person
 As a normal person, he is a good person to hang out with, but can be weird and sociopathic at times. He is not exactly normal in his mind, so he may speak random garbage that you weren't supposed to hear.
 
+JHR is fairly chatty relatively, but he is not as chatty as [JKE](JKE.md). He likes to talk about knowledge. He likes to exchange life with you and him. JHR is practically pretty much down to basic in his chattiness, he just wants to make people comfortable. JHR may also spew out garbage, very random garbage once in a while. Its typically indiscernible noises, or just his thoughts.
+
 ### Sociopathy
 In his sociopathy, he is sadistic (not murderous). He likes pain, but isn't that all? Anyways. He is also good to hang out as he can rant and chat with you about many things.
 
@@ -27,6 +29,9 @@ In his sociopathy, he is sadistic (not murderous). He likes pain, but isn't that
 ### [MHeLy](MHeLy.md)
 
 MHeLy is a close friend to JHR, and vice versa. They have known each other for longer compared to anybody else in them. They have enjoyed time together, playing and watching the silver of the night skies.
+
+### [WELLPan](WELLPan.md)
+They are good friends. JHR and WELLPan likes to read books in their spare time together.
 
 
 #airconditioner

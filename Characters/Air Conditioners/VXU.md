@@ -25,14 +25,14 @@ Since VXU is a triad that is also a single person, each of the people in VXU has
 
 ### DeltaCXG
 
-DeltaCGX is the sociopathic, sadistic and uncaring saboteur. He cares for his siblings (AKA those who is part of VXU), but doesn't care about others except for a select few.
+DeltaCGX is the sociopathic, sadistic and uncaring saboteur. He cares for his siblings (AKA those who is part of VXU, including MXU), but doesn't care about others except for a select few.
 ## CTUX
 
 CTUX is the overconfident and arrogant, but strong willed competitor, and is a good person in general. He is confident and determined. He can lead people with his great leadership skills, and is intelligent. He can strategically think.
 
 CTUX's arrogance due to his confidence may lead him to underestimate others.
 
-CTUX is not that sociopathic though. He would not willingly hurt others, unlike his fellow brother [DeltaCXG](#DeltaCXG)
+CTUX is not that sociopathic though. He would not willingly hurt others, unlike his fellow brother [DeltaCXG](#DeltaCXG). He finds physical violence too far for him. CTUX would also try to stop DeltaCXG if he can, like [MXU](#MXU) is brother, but he is too powerless to do so (at least MXU is the one capable of that).
 
 ## MXU
 
@@ -56,6 +56,12 @@ VXU has a complicated relationship with RXe as they are 3 people in one.  RXe li
 RXe has a slight disdain with [CTUX](VXU.md#CTUX) cus of his arrogance at times. She doesn't think he deserves or even qualify to lead people. RXe thinks he is too full of himself.
 
 The one person of VXU that RXe has a problem with is [DeltaCXG](VXU.md#DeltaCXG) as DeltaCXG would also hurt others. RXe sees DeltaCXG as competition.
+
+### [AngelSaph](AngelSaph.md)
+
+DeltaCXG on several occasions has hit AngelSaph on the back of his head/body. This has resulted in his halo breaking on the impacted section. He does this to him way too often for safety's sake.
+
+[MXU](#MXU) has intervened on several of these incidents, with some being successful and some failing. AngelSaph sees MXU as his physical protector and actually likes him. He understands that MXU may not always be succesful.
 
 
 

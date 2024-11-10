@@ -18,6 +18,8 @@ AngelSaph doesn't need to excrete waste or breath though as his electronics prov
 
 AngelSaph has a circulatory system and A+ blood. This means that he could actually bleed to death or die of exsanguination. AngelSaph can also get cut, lacerated and bruised easily.
 
+If either of AngelSaph's biological or electronic-cyborg side dies, he as a whole would also die. This is because despite the electronic side of AngelSaph being the majority of him, it also depends on his biological side.
+
 ### Halo
 AngelSaph's halo is a floating shiny white-golden halo that surrounds him. Its tilted up to the right of AngelSaph and it can glow in the dark a yellow shine. Its an intergral part of his body; You can't just detach and knock AngelSaph's halo of him, but you can push the halo as its not rigidly fixed to him.
 
@@ -39,7 +41,7 @@ Eether is a liquid that is contained within AngelSaph's halo. Its harmless to to
 
 His Halo breaking can only occur due to physical forces. You can't just give him emotional damage to break it. So you can't just demoralize him to the point of no return to just completely destroy his halo into oblivion. The halo's state is not a representation of his emotional and mental health, but the rotation of the halo is representational of his mental health.
 
-One way you can break his halo easily is just by whacking him with a blunt weapon on the back of his head. Its that easy lol, a whack and the back portion of his halo is now broken. The back of his head is a weak point for his halo. Its not that weak when compared to absolute, but very weak when compared to the rest of his halo. Whacking him on the front though, is very obvious to him and it would at best, just crack his halo instead of breaking it.
+One way you can break his halo easily is just by whacking him with a blunt weapon on the back of his head/body. Its that easy lol, a whack and the back portion of his halo is now broken. The back of his head is a weak point for his halo. Its not that weak when compared to absolute, but very weak when compared to the rest of his halo. Whacking him on the front though, is very obvious to him and it would at best, just crack his halo instead of breaking it.
 
 ## Personality
 He is a gentle and depressed angel in a nutshell. 
@@ -55,5 +57,31 @@ AngelSaph is also fairly reserved. He is quite distant and isolated from the oth
 AngelSaph is also slightly depressed on the inside due to his nature and sensitivity. He is a fairly sensitive fellow, being able to be easily hurt emotionally. His nature of being a partial angel does not help, as he has a feeling that he may not be able to fulfill his role as an Angel of protection for others, and he doubts it sometimes. He feels a slight sadness in himself, which might subtly manifest in him withdrawing silently, or being distant to others. He does not make his sadness obvious to others though. AngelSaph is very good at hiding this inner depression and sadness, and will only reveal this sadness to those he can trust.
 
 ## Relations
+
+### [DeltaCXG](VXU.md#DeltaCXG)
+
+DeltaCXG on several occasions has hit AngelSaph on the back of his head/body. This has resulted in his halo breaking on the impacted section. He does this to him way too often for safety's sake.
+
+[MXU](VXU.md#MXU) has intervened on several of these incidents, with some being successful and some failing.
+
+### [MXU](VXU.md#MXU)
+AngelSaph sees MXU as his physical protector. MXU knows what DeltaCXG has done, and has intervened in several occasions. AngelSaph actually likes MXU.
+
+He is not always succesful, but he tries. AngelSaph understands that MXu may not always be succesful.
+
+### [MHeLy](MHeLy.md)
+She's the one to heal him emotionally. MHeLy is one of the few to know the depressive nature of AngelSaph. She knows about his position and role, but understands the pressure.
+
+She cares for him, and is with him when AngelSaph needs help the most. She just stands by him, and that helps AngelSaph.
+
+AngelSaph also cares about MHeLy, not just because she cares about him, but because AngelSaph knows that she is good as a whole. He is also there for MHeLy when she needs him the most.
+
+### [GiSY](GiSY.md)
+She's the one to bring AngelSaph's mood up. GiSY is very optimistic and would cheer AngelSaph up when times are tough, to always look on the bright side of life.
+
+AngelSaph is also there when GiSY is isolated due to being emotionally damaged by others, especially by [that one nasty sociopathic person who bullies him and her](VXU.md#DeltaCXG). He helps her heal and recover too you know that?
+
+### [Wheamy](Wheamy.md)
+Wheamy protects AngelSaph not only because of his young age, but also due to his emotional and physical vulnerability.
 
 #airconditioner 

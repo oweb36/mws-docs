@@ -35,5 +35,10 @@ They are good friends. MHeLy and GiSY's caring nature pairs them together. They 
 
 They are very happy together. They aren't a couple though. MHeLy is not a lesbian or LGBTQ in nature alright?
 
+## [AngelSaph](AngelSaph.md)
+She's the one to heal him emotionally. MHeLy is one of the few to know the depressive nature of AngelSaph. She knows about his position and role, but understands the pressure.
+
+She cares for him, and is with him when AngelSaph needs help the most. She just stands by him, and that helps AngelSaph.
+
 
 #airconditioner #sayonarapanas
