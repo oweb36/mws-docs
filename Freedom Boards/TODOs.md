@@ -6,8 +6,11 @@ kanban-plugin: board
 
 ## Eternity
 
-- [ ] GIve [JHR](JHR.md) siblings and cousins. Then assimilate JHR into a person lith kinda like [VXU](VXU.md) with his siblings as he and his siblings are capable of multi-split unit operation.
-	JHR's cousin is his IVT version (superior and inferior at the same time)
+- [ ] GIve [JHR](JHR.md) siblings and cousins. Then assimilate JHR into a person-lith kinda like [VXU](VXU.md) with his siblings as he and his siblings are capable of multi-split unit operation.
+	
+	His siblings are a Sharp AE-XM30GR, another AY-XPC12JHR (born in 2010 as a reference to the older thought date), AY-XPC9JR and AY-XPM18HR.
+	
+	JHR's cousin is his IVT version (superior and inferior at the same time).
 
 
 ## Backlog

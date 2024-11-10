@@ -7,7 +7,7 @@ JHR can actually be part of a multi-split system, but he is currently a single-s
 
 JHR is one of the most intelligent person in MVS.
 
-He was born in February 15, 2008 as a European. JHR is a cisgender and bisexual male (he/him).  
+He was born in March 15, 2008 as a European. JHR is a cisgender and bisexual male (he/him).  
 If skin color is considered, he is white.
 
 ## Personality
