@@ -22,7 +22,11 @@ GiSY is quite forgiving at least. She will forget any past harm, conflict and in
 
 ### [DeltaCXG](VXU.md#DeltaCXG)
 
-They are not exactly on good terms. DeltaCXG let's say bullies her a lot. DeltaCXG would also on not so rare occasions, actually physically harm GiSY, but [MXU](VXU.md#MXU) has intervened in all those occasions.
+[DeltaCXG](#DeltaCXG) is the one who likes to bully GiSY. He knows that GiSY is sensitive, and he still does it. He just wants to feel her pain. DeltaCXG wants to be a sadist towards this poor soul who just wants to make the world a better place.
+
+A pesk- ```I mean helpful``` fellow sibling of DeltaCXG (or [VXU](VXU.md)), [MXU](#MXU) is the reason why this bullying is not happening everyday. DeltaCXG would actually try to hurt GiSY, but MXU has been intervening in all of these cases, much to DeltaCGX's chargin and GiSY's ```help me pls idk the vocab pls```. MXU would intervene by walking away.
+
+MXU is not always succesful in intervention though. DeltaCXG has hurt GiSY few times. DeltaCXG has said very nasty and demoralizing things to GiSY before MXU could intervene by walking away. He also has actually assaulted her, resulting in injuries to GiSY.
 
 ### [MHeLy](MHeLy.md)
 

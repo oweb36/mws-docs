@@ -47,7 +47,9 @@ Avxy actually fears [DeltaCXG](VXU.md#DeltaCXG). He knows that DeltaCXG would go
 
 [DeltaCXG](#DeltaCXG) is the one who likes to bully GiSY. He knows that GiSY is sensitive, and he still does it. He just wants to feel her pain. DeltaCXG wants to be a sadist towards this poor soul who just wants to make the world a better place.
 
-A pesk- ```I mean helpful``` fellow sibling of VXU, [MXU](#MXU) is the reason why this bullying hasn't escalated to actual physical harm. DeltaCXG would actually try to hurt GiSY, but MXU has been intervening in all of these cases, much to DeltaCGX's chargin and GiSY's ```help me pls idk the vocab pls```
+A pesk- ```I mean helpful``` fellow sibling of VXU, [MXU](#MXU) is the reason why this bullying is not happening everyday. DeltaCXG would actually try to hurt GiSY, but MXU has been intervening in all of these cases, much to DeltaCGX's chargin and GiSY's ```help me pls idk the vocab pls```. MXU would intervene by walking away.
+
+MXU is not always succesful in intervention though. DeltaCXG has hurt GiSY few times. DeltaCXG has said very nasty and demoralizing things to GiSY before MXU could intervene by walking away. He also has actually assaulted her, resulting in injuries to GiSY.
 
 ### [RXe](RXe.md)
 
@@ -63,7 +65,7 @@ DeltaCXG on several occasions has hit AngelSaph on the back of his head/body. Th
 
 DeltaCXG is not interested in harming AngelSaph emotionally and making him in pain that way, but enjoys causing him physical pain. DeltaCXG on some of these occasions has hurt AngelSaph so hard that his body actually managed to crack a little bit, and bleed. 
 
-[MXU](#MXU) has intervened on several of these incidents, with some being successful and some failing. AngelSaph sees MXU as his physical protector and actually likes him. He understands that MXU may not always be succesful.
+[MXU](#MXU) has intervened on several of these incidents, with some being successful and some failing. AngelSaph sees MXU as his physical protector and actually likes him. He understands that MXU may not always be succesful. MXU always intervenes by walking away as thats the only thing he can do.
 
 ### [Wheamy](Wheamy.md)
 Wheamy hates DeltaCXG for making not only his life hell, but burdens him in protecting others. DeltaCXG has harmed others, and potentially everyone. Wheamy doesn't need an extra abuser to deal with.
