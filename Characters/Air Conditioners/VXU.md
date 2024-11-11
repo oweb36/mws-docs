@@ -11,7 +11,7 @@ MXU is Daikin 2MXU40GV1B. DeltaCXG is a wall-mounted Daikin CTXU42G2V1B, while C
 
 CTUX was from AACOS while DeltaCXG was from an old part of old ObjecWeb36.
 
-They are attached to a steel board with pipes and wires connecting them together, making them one. MXU is at the bottom, the legs of VXU, while DeltaCXG and CTUX is above MXU (CTUX is placed higher than DeltaCXG). MXU is the leg of VXU, while DeltaCXG and CTUX despite having legs, is instead the arms.
+They are attached to a steel board with pipes and wires connecting them together, making them one. MXU is at the bottom, the legs of VXU, while DeltaCXG and CTUX is above MXU (CTUX is placed higher than DeltaCXG). MXU is the leg of VXU, while DeltaCXG and CTUX despite having legs, is instead the arms. DeltaCXG is one pair of arms, while CTUX is another pair of arms, so VXU has 4 arms in total.
 
 MXU only has legs, but DeltaCXG and CTUX has both arms and legs. Its not that useful really as MXU is the legs of VXU, not DeltaCXG and CTUX.
 
