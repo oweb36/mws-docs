@@ -15,4 +15,8 @@ Wheamy is the guardian for Idendiby. Idendiby is very young, and Wheamy is there
 ### [AngelSaph](AngelSaph.md)
 Wheamy protects AngelSaph not only because of his young age, but also due to his emotional and physical vulnerability.
 
+### [DeltaCXG](VXU.md#DeltaCXG)
+Wheamy hates him for making not only his life hell, but burdens him in protecting others. DeltaCXG has harmed others, and potentially everyone. Wheamy doesn't need an extra abuser to deal with.
+
+
 #washingmachines 

@@ -60,7 +60,9 @@ AngelSaph is also slightly depressed on the inside due to his nature and sensiti
 
 ### [DeltaCXG](VXU.md#DeltaCXG)
 
-DeltaCXG on several occasions has hit AngelSaph on the back of his head/body. This has resulted in his halo breaking on the impacted section. He does this to him way too often for safety's sake.
+DeltaCXG on several occasions has hit AngelSaph on the back of his head/body. This has resulted in his halo breaking on the impacted section. He does this to him way too often for safety's sake. DeltaCXG enjoys AngelSaph's pain, which is technically child abuse.
+
+DeltaCXG is not interested in harming AngelSaph emotionally and making him in pain that way, but enjoys causing him physical pain. DeltaCXG on some of these occasions has hurt AngelSaph so hard that his body actually managed to crack a little bit, and bleed. 
 
 [MXU](VXU.md#MXU) has intervened on several of these incidents, with some being successful and some failing.
 

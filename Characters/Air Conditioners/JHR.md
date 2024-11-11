@@ -27,8 +27,7 @@ In his sociopathy, he is sadistic (not murderous). He likes pain, but isn't that
 ## Relations
 
 ### [MHeLy](MHeLy.md)
-
-MHeLy is a close friend to JHR, and vice versa. They have known each other for longer compared to anybody else in them. They have enjoyed time together, playing and watching the silver of the night skies.
+MHeLy is a close friend to JHR, and vice versa. MHeLy has known JHR other for longer compared to anybody else in her. They have enjoyed time together, playing and watching the silver of the night skies.
 
 ### [WELLPan](WELLPan.md)
 They are good friends. JHR and WELLPan likes to read books in their spare time together.

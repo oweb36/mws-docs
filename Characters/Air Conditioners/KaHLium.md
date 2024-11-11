@@ -29,4 +29,9 @@ KaHLium is a big brother to MHeLy. He loves her, and treats her well.
 
 MHeLy is KaHLium's younger sister. He loves her, and is protective of her. MHeLy motivates and makes KaHLium happy when he's down.
 
+### [Fisios](Fisios.md)
+They both are aware that they are down to basic, down to earth and practical. They talk like a normal conversation.
+
+No funny things, but they are efficient when paired together. Due to them being down to basic and practical, they have an extremley high efficiency of work rate in doing work. They do the work and then immediately move on after doing everything needed for the work. No extra work, or incomplete work by them.
+
 #airconditioner #sayonarapanas 
