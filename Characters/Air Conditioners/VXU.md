@@ -49,7 +49,9 @@ Avxy actually fears [DeltaCXG](VXU.md#DeltaCXG). He knows that DeltaCXG would go
 
 A pesk- ```I mean helpful``` fellow sibling of VXU, [MXU](#MXU) is the reason why this bullying is not happening everyday. DeltaCXG would actually try to hurt GiSY, but MXU has been intervening in all of these cases, much to DeltaCGX's chargin and GiSY's ```help me pls idk the vocab pls```. MXU would intervene by walking away.
 
-MXU is not always succesful in intervention though. DeltaCXG has hurt GiSY few times. DeltaCXG has said very nasty and demoralizing things to GiSY before MXU could intervene by walking away. He also has actually assaulted her, resulting in injuries to GiSY.
+MXU is not always succesful in intervention though. DeltaCXG has hurt GiSY few times. DeltaCXG has said very nasty and demoralizing things to GiSY before MXU could intervene by walking away. 
+
+DeltaCXG also has actually assaulted her succesfully, resulting in injuries to GiSY. Yeah, DeltaCXG actually hits demigirls, and is a women beater (probably). He punches her, which might be to rough on her at times.
 
 ### [RXe](RXe.md)
 
