@@ -13,8 +13,8 @@ Fisios, despite being practical may be progressive. She may optimize work, in an
 
 ## Relations 
 ### [KaHLium](KaHLium.md)
-They both are aware that they are down to basic, down to earth and practical. They talk like a normal conversation.
+They both are aware that they are down to the basics, down to earth and practical. They talk like a normal conversation.
 
-No funny things, but they are efficient when paired together. Due to them being down to basic and practical, they have an extremley high efficiency of work rate in doing work. They do the work and then immediately move on after doing everything needed for the work. No extra work, or incomplete work by them.
+No funny things, but they are efficient when paired together. Due to them being down to basic and practical, they have an extremely high efficiency of work rate in doing work. They do the work and then immediately move on after doing everything needed for the work. No extra work, or incomplete work by them.
 
 #washingmachines 
