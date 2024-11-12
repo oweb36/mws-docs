@@ -28,7 +28,7 @@ A pesk- ```I mean helpful``` fellow sibling of DeltaCXG (or [VXU](VXU.md)), [MXU
 
 MXU is not always succesful in intervention though. DeltaCXG has hurt GiSY few times. DeltaCXG has said very nasty and demoralizing things to GiSY before MXU could intervene by walking away. 
 
-DeltaCXG also has actually assaulted her succesfully, resulting in injuries to GiSY. Yeah, DeltaCXG actually hits demigirls, and is a women beater (probably). He punches her, which might be to rough on her at times.
+DeltaCXG also has actually assaulted her succesfully, resulting in injuries to GiSY. He once punched and struck her so hard, he managed to crack her body. Yeah, DeltaCXG actually hits demigirls, and is a women beater (probably). Not that it matters though.
 
 ### [MHeLy](MHeLy.md)
 

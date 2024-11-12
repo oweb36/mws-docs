@@ -51,7 +51,7 @@ A pesk- ```I mean helpful``` fellow sibling of VXU, [MXU](#MXU) is the reason wh
 
 MXU is not always succesful in intervention though. DeltaCXG has hurt GiSY few times. DeltaCXG has said very nasty and demoralizing things to GiSY before MXU could intervene by walking away. 
 
-DeltaCXG also has actually assaulted her succesfully, resulting in injuries to GiSY. Yeah, DeltaCXG actually hits demigirls, and is a women beater (probably). He punches her, which might be to rough on her at times.
+DeltaCXG also has actually assaulted her succesfully, resulting in injuries to GiSY. He once punched and struck her so hard, he managed to crack her body. Yeah, DeltaCXG actually hits demigirls, and is a women beater (probably). Not that it matters though.
 
 ### [RXe](RXe.md)
 
@@ -65,7 +65,7 @@ The one person of VXU that RXe has a problem with is [DeltaCXG](VXU.md#DeltaCXG)
 
 DeltaCXG on several occasions has hit AngelSaph on the back of his head/body. This has resulted in his halo breaking on the impacted section. He does this to him way too often for safety's sake. DeltaCXG enjoys AngelSaph's pain, which is technically child abuse.
 
-DeltaCXG is not interested in harming AngelSaph emotionally and making him in pain that way, but enjoys causing him physical pain. DeltaCXG on some of these occasions has hurt AngelSaph so hard that his body actually managed to crack a little bit, and bleed. 
+DeltaCXG is not interested in harming AngelSaph emotionally and making him in pain that way, but enjoys causing him physical pain. DeltaCXG on some of these occasions has hurt AngelSaph so hard that his body actually managed to crack pretty badly, and bleed. 
 
 [MXU](#MXU) has intervened on several of these incidents, with some being successful and some failing. AngelSaph sees MXU as his physical protector and actually likes him. He understands that MXU may not always be succesful. MXU always intervenes by walking away as thats the only thing he can do.
 
