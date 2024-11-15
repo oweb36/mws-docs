@@ -7,6 +7,6 @@ Sid is a Sharp SJ-FSD910 [refridgerator](Refridgerators.md). Their name is prono
 They were born in 2017. He is a bisexual non-binary (they/them).
 
 ## Personality
-They are passive aggressive.
+They are wittly passive aggressive. Slightly offensive, but not that much. They like offensive jokes, and want to cheer people up. Their jokes are sometimes hit or miss.
 
 #refridgerators 

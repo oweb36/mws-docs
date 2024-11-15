@@ -12,7 +12,7 @@ He has flesh unlike others of MVS.
 
 ### Body
 
-AngelSaph's body is unique because he is not purely electronic, but has flesh. , AngelSaph is technically a Cyborg and needs to eat and drink to survive to satisfy his cells. His biological side is of Homo Sapiens.
+AngelSaph's body is unique because he is not purely electronic, but has flesh. AngelSaph is technically a Cyborg and needs to eat and drink to survive to satisfy his cells. His biological side is of Homo Sapiens.
 
 AngelSaph doesn't need to excrete waste or breath though as his electronics provides energy for the cells to respire. His organic flesh supplements and enhances his inorganic electronics, not the other way around. This flesh means that AngelSaph actually has true free will unlike the others as he has a brain, not just some hardcoded motherboard with some self-learning AI.
 
