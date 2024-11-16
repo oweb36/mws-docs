@@ -2,7 +2,7 @@ This is a large object show that encompasses older object show of mine such as [
 
 This show is both competition and slice-of-life based.
 
-The abbreviation for this show is MWS.
+The abbreviation for this show is MWS. MVS is a common type of the abbreviation for MWS.
 
 The show that it encompasses is:
 - [[AACOS]]

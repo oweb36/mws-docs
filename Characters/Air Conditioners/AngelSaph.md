@@ -8,7 +8,7 @@ He was born on September 13, 2022. He is a demifluid male (he/they). This means 
 
 AngelSaph also has a halo. Its detailed in the section titled [Halo](#Halo). He is a partial Angel.
 
-He has flesh unlike others of MVS.
+He has flesh unlike others of MWS.
 
 ### Body
 

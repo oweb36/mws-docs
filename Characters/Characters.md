@@ -8,4 +8,4 @@ There is object:
 - Violence (Slapback and brutal)
 Cus its funny.
 
-Birth in MWS is refering to the date they were created/manufactured. Its based on when their IRL versions were released to the public. This means that birth is manufacturing, so the parents of the cast of MVS is simply their manufacturer.
+Birth in MWS is refering to the date they were created/manufactured. Its based on when their IRL versions were released to the public. This means that birth is manufacturing, so the parents of the cast of MWS is simply their manufacturer.

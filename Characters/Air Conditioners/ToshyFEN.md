@@ -8,7 +8,7 @@ He was born in 2021, as a British person. He is a cisgender and heterosexual mal
 
 He actually has two minds, and each of his minds has a face. The main mind of ToshyFEN is at the front panel of his main body, while the auxilliary mind of ToshyFEN is in his controller.
 
-He is one of the most durable person in MVS; He can survive injuries that would incapacitate or even kill others, and he can tolerate severe pain such as crotch kicks. ToshyFEN is also very heavy, in fact he is the heaviest out of them all.
+He is one of the most durable person in MWS; He can survive injuries that would incapacitate or even kill others, and he can tolerate severe pain such as crotch kicks. ToshyFEN is also very heavy, in fact he is the heaviest out of them all.
 
 If skin color matters, ToshyFEN is white.
 
@@ -26,6 +26,6 @@ Then he has this other personality where he is straight up unhinged, crazy, insa
 
 They are typically duos. WELLPan is the chiller in this duo, while ToshyFEN is the more active one. ToshyFEN is the motivator to WELLPan to get him to do something.
 
-In this duo, they could actually destroy the entire cast of MVS due to their sheer physical strength. ToshyFEN would likely be the one to start it, and he would drag WELLPan into this madness. ToshyFEN would also probably stick WELLPan to his back, and bring him along.
+In this duo, they could actually destroy the entire cast of MWS due to their sheer physical strength. ToshyFEN would likely be the one to start it, and he would drag WELLPan into this madness. ToshyFEN would also probably stick WELLPan to his back, and bring him along.
 
 #airconditioner 

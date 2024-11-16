@@ -8,7 +8,7 @@ He was born in 2009. He is a cisgender and heterosexual male (he/him).
 
 ## Personality
 
-ASTAC is an old person. He is wise, but less knowledgable compared to [CKHSC](CKHSC.md) (who knows about more things than ASTAC). ASTAC is also like a grandfather figure to the MVS cast.
+ASTAC is an old person. He is wise, but less knowledgable compared to [CKHSC](CKHSC.md) (who knows about more things than ASTAC). ASTAC is also like a grandfather figure to the MWS cast.
 
 ASTAC has one starking difference compared to CKHSC, in that he is less stubborn and more open to new things. He likes trying out new things and compare them to the old days. He is very experimental.
 

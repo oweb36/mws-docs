@@ -7,7 +7,7 @@ WELLPan is a Samsung AS09BPAN wall-mounted [heat pump](Air%20Conditioners.md). H
 WELLPan was born in July 2007. He is a cisgender and helisexual male (he/him). Yes, he sexually identifies as an Apache Attack Helicopter. This is not a joke (kinda).  
 If skin color matters, he is white.
 
-He is one of the strongest person in the Megarchive Warehouse Show. He is also one of the most intelligent person in MVS. WELLPan is also one of the slowest person in MVS.
+He is one of the strongest person in the Megarchive Warehouse Show. He is also one of the most intelligent person in MWS. WELLPan is also one of the slowest person in MWS.
 
 ## Personality
 
@@ -27,7 +27,7 @@ They are frenemies, but they are more of a friend that enemies. The only conflic
 ## [ToshyFEN](ToshyFEN.md)
 They are typically duos. WELLPan is the chiller in this duo, while ToshyFEN is the more active one. WELLPan helps to cool ToshyFEN's unhinged side, and prevent little accidents involving mass murking of others.
 
-In this duo, they could actually destroy the entire cast of MVS due to their sheer physical strength. WELLPan is not the one to start this, but he just tags along cus they are duos.
+In this duo, they could actually destroy the entire cast of MWS due to their sheer physical strength. WELLPan is not the one to start this, but he just tags along cus they are duos.
 
 ### [JHR](JHR.md)
 They are good friends. JHR and WELLPan likes to read books in their spare time together.

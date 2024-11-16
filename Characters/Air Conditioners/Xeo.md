@@ -4,7 +4,8 @@ Xeo is a [character](Characters) as a contestant on the [[Megarchive Warehouse S
 
 She's a Panasonic CS-XE21MKEW wall-mounted [heat pump](Air%20Conditioners.md). Xeo is a superior version of [JKE](JKE.md). Her name is pronounced as Xeo (AKA Seyo). Don't call her shio or sio (AKA see-yo), she would attack you for that.
 
-She was born in August 10, 2010. She is a cisgender and bisexual female (she/her).
+She was born in August 10, 2010. She is a cisgender and bisexual female (she/her).  
+If skin color mattered, she's silver.
 
 ## Personality
 
@@ -16,7 +17,7 @@ Xeo would also sometimes physically assault others. Its not that severe, its you
 
 You might say: "She's actually an evil person, she does this for fun!" **N O P E**! There's a valid reason for her pretty rude and aggressive behavior.
 
-Xeo is always angry. She's never in a good mood, never with others. Her anger might subside, but shall never completely be gone and away. Xeo will be that one angry person in [MVS](Megarchive%20Warehouse%20Show.md). While other characters like [ToshyFEN](ToshyFEN.md) and [Aurl](Aurl.md) has their chill moments, Xeo has none of those. She is never chill, but will always be angery. Even the moments where her anger subsides is considered as unicorn. Its rare!
+Xeo is always angry. She's never in a good mood, never with others. Her anger might subside, but shall never completely be gone and away. Xeo will be that one angry person in [MWS](Megarchive%20Warehouse%20Show.md). While other characters like [ToshyFEN](ToshyFEN.md) and [Aurl](Aurl.md) has their chill moments, Xeo has none of those. She is never chill, but will always be angery. Even the moments where her anger subsides is considered as unicorn. Its rare!
 
 And yes, Xeo has unresolved anger issues. It has gone on for so long that its probably unresolvable. She's not a good person to be with, due to how she's always angry.
 

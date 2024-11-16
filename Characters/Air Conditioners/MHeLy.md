@@ -5,7 +5,7 @@ MHeLy is a wall-mounted Sharp AY-A9MHL [air conditioner](Air%20Conditioners.md).
 
 She was born in March 19, 2012. She is a cisgender and heterosexual female.
 
-MHeLy is one of the most intelligent person in MVS. She's also one of the weaker ones though.
+MHeLy is one of the most intelligent person in MWS. She's also one of the weaker ones though.
 
 If skin color matters, MHeLy is gray and silver.
 
@@ -13,7 +13,7 @@ Her elder brother is [KaHLium](KaHLium.md)
 
 ## Personality
 
-MHeLy is one of the nicer people in MVS. This is probably because she's a girl (More like woman. Wait, isn't that sexist? Probably, probably not. Nah).
+MHeLy is one of the nicer people in MWS. This is probably because she's a girl (More like woman. Wait, isn't that sexist? Probably, probably not. Nah).
 
 MHeLy is a kind-hearted and empathetic to others. She is very creative with her work and competition, and even innovative. She is kind-hearted and willing to help others, even sacrificing herself at times. MHeLy is a pacifist, but she would still do violence if she has no choice.
 
@@ -21,7 +21,7 @@ MHeLy may also have self-doubt and be insecure at times, where she should withdr
 
 MHeLy with her kindness, mostly forms good bonds and relationships with the others. She looks for friends too, but there are others who don't want to be friends with her. Some even declare themselves as enemies to MHeLy, but her kindness will pay off in the end.
 
-So, MheLy is one of the warm characters in MVS.
+So, MheLy is one of the warm characters in MWS.
 ## Relations
 
 ### [JHR](JHR.md)
