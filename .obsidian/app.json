@@ -6,5 +6,7 @@
   "userIgnoreFilters": [
     "node_modules/",
     "_includes/"
-  ]
+  ],
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "Attachments"
 }
