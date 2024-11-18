@@ -3,11 +3,16 @@
   "version": "Megarchive Warehouse Show",
   "description": "Megarchive Warehouse Show",
   "main": ".",
+  "scripts": {
+    "build": "npx @11ty/eleventy",
+    "start": "npx @11ty/eleventy --serve"
+  },  
   "repository": "https://github.com/oweb36/mws-docs.git",
   "author": "MXPSQL",
   "license": "MIT",
   "private": true,
-  "devDependencies": {
+  "devDependencies": {},
+  "dependencies": {
     "@11ty/eleventy": "^3.0.0"
   }
 }
