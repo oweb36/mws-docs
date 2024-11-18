@@ -12,6 +12,8 @@ He is one of the most durable person in MWS; He can survive injuries that would 
 
 If skin color matters, ToshyFEN is white.
 
+ToshyFEN is the younger brother to [ToshyMEF](ToshyMEF.md). They almost look similar except to their controller, where ToshyFEN has the newer one.
+
 ## Personality
 
 He basically has two personalities that are volatile at changing about.

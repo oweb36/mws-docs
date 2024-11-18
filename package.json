@@ -1,0 +1,13 @@
+{
+  "name": "mws",
+  "version": "Megarchive Warehouse Show",
+  "description": "Megarchive Warehouse Show",
+  "main": ".",
+  "repository": "https://github.com/oweb36/mws-docs.git",
+  "author": "MXPSQL",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}

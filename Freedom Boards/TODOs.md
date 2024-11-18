@@ -19,15 +19,23 @@ kanban-plugin: board
 
 ## Todo
 
+
+
+## Current
+
 - [ ] Xefa
 	
 	Panasonic CS-XE12EKE. Female.
 	
 	Valley girl in a nutshell.
-
-
-## Current
-
+- [ ] NEptha
+	
+	Panasonic CS-NE12LKE.
+	Male.
+- [ ] ToshyMEF
+	
+	Toshiba MMF-AP0151H. Female.
+	Older version of [ToshyFEN](ToshyFEN.md), possibly siblings?
 
 
 ## Done

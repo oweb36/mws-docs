@@ -8,4 +8,8 @@ There is object:
 - Violence (Slapback and brutal)
 Cus its funny.
 
+Characters are people in the MWS universe. They have life and soul. They are unique in their identities and personalities.
+
 Birth in MWS is refering to the date they were created/manufactured. Its based on when their IRL versions were released to the public. This means that birth is manufacturing, so the parents of the cast of MWS is simply their manufacturer.
+
+If anyone dies in MWS, they can be brought back to life thru mysterious (TBA) means.

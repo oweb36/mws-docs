@@ -5,7 +5,7 @@ MHeLy is a wall-mounted Sharp AY-A9MHL [air conditioner](Air%20Conditioners.md).
 
 She was born in March 19, 2012. She is a cisgender and heterosexual female.
 
-MHeLy is one of the most intelligent person in MWS. She's also one of the weaker ones though.
+MHeLy is one of the most intelligent person in MWS. She's also one of the weaker ones though. She's also the straightest out of anyone here in MWS.
 
 If skin color matters, MHeLy is gray and silver.
 

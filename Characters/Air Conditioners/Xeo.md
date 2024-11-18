@@ -22,3 +22,15 @@ Xeo is always angry. She's never in a good mood, never with others. Her anger mi
 And yes, Xeo has unresolved anger issues. It has gone on for so long that its probably unresolvable. She's not a good person to be with, due to how she's always angry.
 
 ## Relations
+
+### [Xefa](Xefa.md)
+
+They are couples eh. Not a very harmonic one, but they stick.
+
+### [JKE](JKE.md)
+Xeo sees JKE as an inferior version of herself. She does not like him.
+
+### [NEptha](NEptha.md)
+NEptha dislikes Xeo. Its because Xeo is a woman, and just catty.
+
+#airconditioner 

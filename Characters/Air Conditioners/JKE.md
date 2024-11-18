@@ -1,4 +1,4 @@
-ASTAC is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]].
+JKE is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]].
 
 ## Identity
 
@@ -17,5 +17,13 @@ He is a very chatty and hyperactive person. He will rant about a lot of things. 
 That is when he is not in deice mode (Indicated by his power/deice lamp being green). When he is in deice mode (power/deice lamp is blue), he is a different person. He is less active and chiller. He would not do all those things when he isn't in deice mode. He just listens, as he is passive. No talking from him, at all.
 
 ## Relations
+
+### [Xeo](Xeo.md)
+Xeo sees JKE as an inferior version of herself. She does not like him.
+
+### [NEptha](NEptha.md)
+NEptha sees JKE as a version of himself, a less advanced one. He sees JKE as inferior. Don't worry, he is kinda like a big brother to him. NEptha is very supportive to JKE because they are similar.
+
+NEptha and JKE both are aware that they aren't actually siblings.
 
 #airconditioner 

@@ -32,4 +32,4 @@ In this duo, they could actually destroy the entire cast of MWS due to their she
 ### [JHR](JHR.md)
 They are good friends. JHR and WELLPan likes to read books in their spare time together.
 
-#airconditioner
+#airconditioner #weirdidentities
