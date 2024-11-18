@@ -1,7 +1,7 @@
 
-They are people of the [[Megarchive Warehouse Show]]. Some of them came from old shows such as:
+They are people of the [Megarchive Warehouse Show](../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md). Some of them came from old shows such as:
 
-- [AACOS](AACOS.md)
+- [AACOS](../Megarchive%20Warehouse%20Show/AACOS.md)
 
 There is object:
 - Racism

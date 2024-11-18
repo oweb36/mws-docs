@@ -1,8 +1,8 @@
-Fisios is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]].
+Fisios is a [character](../Characters.md) as a contestant on the [Megarchive Warehouse Show](../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md).
 
 ## Identity
 
-She is an LG F1443KDS [washing machine](Washing%20Machines). Her name is pronounced as Fis-ios, but she can be called as just Fis.
+She is an LG F1443KDS [washing machine](Washing%20Machines.md). Her name is pronounced as Fis-ios, but she can be called as just Fis.
 
 She was born in 2011. She is a cisgender and heterosexual female (she/her).
 

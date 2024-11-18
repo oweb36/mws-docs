@@ -1,0 +1,1 @@
+The Megarchive Warehouse is the place where the [Megarchive Warehouse Show](../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md) takes place in. It also acts as the living space, and home for the [Character](../Templates/Character.md) of [MWS](../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md).

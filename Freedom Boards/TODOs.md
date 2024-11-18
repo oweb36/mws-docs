@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## Eternity
 
-- [ ] GIve [JHR](JHR.md) siblings and cousins. Then assimilate JHR into a person-lith kinda like [VXU](VXU.md) with his siblings as he and his siblings are capable of multi-split unit operation.
+- [ ] GIve [JHR](../Characters/Air%20Conditioners/JHR.md) siblings and cousins. Then assimilate JHR into a person-lith kinda like [VXU](../Characters/Air%20Conditioners/VXU.md) with his siblings as he and his siblings are capable of multi-split unit operation.
 	
 	His siblings are a Sharp AE-XM30GR, AY-XPC7JR and AY-XPM18HR.
 	
@@ -35,7 +35,7 @@ kanban-plugin: board
 - [ ] ToshyMEF
 	
 	Toshiba MMF-AP0151H. Female.
-	Older version of [ToshyFEN](ToshyFEN.md), possibly siblings?
+	Older version of [ToshyFEN](../Characters/Air%20Conditioners/ToshyFEN.md), possibly siblings?
 
 
 ## Done
@@ -44,13 +44,13 @@ kanban-plugin: board
 - [x] Add a new smug character named Avxy, which is a Sharp AIOT air conditioner. He is a smug little shit, a cocky little shit.
 - [x] Xeo, female (she/her).
 	
-	Panasonic CS-XE21MKEW from 2010. Superior version of [JKE](JKE.md).
+	Panasonic CS-XE21MKEW from 2010. Superior version of [JKE](../Characters/Air%20Conditioners/JKE.md).
 	
 	The catty, bitchy and passive aggressive kind. She doesn't harm physically (mostly), but is quite hostile. 
 	
 	Her physicall attacks mostly goes as catfighting. She might get a (potentially brutal) physical beatdown from others though, as she won't fight back. Coward.
 	
-	She is also quite angry as a person, its rare to see her in a good mood. Unlike the others such as [Aurl](Aurl.md) and [ToshyFEN](ToshyFEN.md), she is never calm, she is always angery. She has unresolved anger issues.
+	She is also quite angry as a person, its rare to see her in a good mood. Unlike the others such as [Aurl](../Characters/Air%20Conditioners/Aurl.md) and [ToshyFEN](../Characters/Air%20Conditioners/ToshyFEN.md), she is never calm, she is always angery. She has unresolved anger issues.
 	
 	Xeo is indeed the ratfucker bitch. She is not a good person definitely.
 - [ ] Add Angelsaph, a Gree Saphire air conditioner. He has a golden-white shiny halo made of solid gold-titanium-platinum-aluminium alloy. This halo is part of his body and can act as a protection. It can regenerate slowly if its damaged.
