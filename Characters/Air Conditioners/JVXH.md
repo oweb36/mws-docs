@@ -22,7 +22,12 @@ JVXH is still a leader in this case, and she can lead others with her skills. Bu
 ## Relations
 
 ### [RXe](RXe.md)
-
 They are couples. They are very close to each other.
+
+### [DeltaCXG](VXU.md#DeltaCXG)
+JVXH fears DeltaCXG. She knows the weird things DeltaCXG would do. She has seen the horrors of DeltaCXG.
+
+DeltaCXG wouldn't do anything to JVXH. Even though he knows that JVXH fears him, he doesn't care about her that much. DeltaCXG knows what JVXH would do.
+
 
 #airconditioner

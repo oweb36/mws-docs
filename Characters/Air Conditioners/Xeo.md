@@ -28,7 +28,11 @@ And yes, Xeo has unresolved anger issues. It has gone on for so long that its pr
 They are couples eh. Not a very harmonic one, but they stick.
 
 ### [JKE](JKE.md)
-Xeo sees JKE as an inferior version of herself. She does not like him.
+Xeo sees JKE as an inferior version of herself. She does not like him. She would talk shit about him, being inferior.
+
+Crap talks of Xeo: "You ain't deluxe," "Why so small?"
+
+You get it.
 
 ### [NEptha](NEptha.md)
 NEptha dislikes Xeo. Its because Xeo is a woman, and just catty.

@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
-  "collapse-color-groups": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#airconditioner  ",
@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 11392604
       }
+    },
+    {
+      "query": "tag:#episodes",
+      "color": {
+        "a": 1,
+        "rgb": 6063574
+      }
     }
   ],
   "collapse-display": true,
@@ -36,9 +43,9 @@
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 10.2799479166667,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 178,
-  "scale": 0.3128437544779182,
+  "linkDistance": 250,
+  "scale": 0.6296605699486417,
   "close": true
 }

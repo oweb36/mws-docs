@@ -19,7 +19,11 @@ That is when he is not in deice mode (Indicated by his power/deice lamp being gr
 ## Relations
 
 ### [Xeo](Xeo.md)
-Xeo sees JKE as an inferior version of herself. She does not like him.
+Xeo sees JKE as an inferior version of herself. She does not like him. She would talk shit about him, being inferior.
+
+Crap talks of Xeo: "You ain't deluxe," "Why so small?"
+
+You get it.
 
 ### [NEptha](NEptha.md)
 NEptha sees JKE as a version of himself, a less advanced one. He sees JKE as inferior. Don't worry, he is kinda like a big brother to him. NEptha is very supportive to JKE because they are similar.

@@ -7,6 +7,6 @@
     "node_modules/",
     "_includes/"
   ],
-  "newLinkFormat": "relative",
+  "newLinkFormat": "shortest",
   "attachmentFolderPath": "Attachments"
 }

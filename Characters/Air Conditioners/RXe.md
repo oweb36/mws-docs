@@ -37,4 +37,7 @@ RXe has a slight disdain with [CTUX](VXU.md#CTUX) cus of his arrogance at times.
 
 The one person of VXU that RXe has a problem with is [DeltaCXG](VXU.md#DeltaCXG) as DeltaCXG would also hurt others. RXe sees DeltaCXG as competition.
 
+### [Wheamy](Wheamy.md)
+Wheamy hates the shit out of RXe. He has to deal with many potential abusers to his dependees. He doesn't need more!
+
 #airconditioner 

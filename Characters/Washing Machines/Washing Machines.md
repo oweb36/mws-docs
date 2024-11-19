@@ -1,3 +1,3 @@
-These [characters](../Characters.md) are a class of species in the [Megarchive Warehouse Show](../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md).
+These [characters](Characters.md) are a class of species in the [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show.md).
 
 #washingmachines

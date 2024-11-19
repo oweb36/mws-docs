@@ -1,4 +1,4 @@
-Piss is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]].
+Piss is a [character](Characters.md) as a contestant on the [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show.md).
 
 ## Identity
 
@@ -14,6 +14,16 @@ Piss may be cold, but he is warm on the inside. He is usually not that warm or w
 Piss is also protective about food and cleanliness. He fears contamination and food supply issues. He just wants the best for everyone with food, so that everyone can survive. He thinks for ahead of time, and not now.
 
 ## Relations
+
+### [AngelSaph](AngelSaph.md)
+AngelSaph does not like the hoarding nature of Piss. He wants and needs food to live, but Piss doesn't understand why. He actually fights Piss just so he can eat.
+
+Piss doesn't understand and can't comprehend why AngelSaph needs to eat. AngelSaph expects this, but still is very annoyed by this fact.
+
+### [Wheamy](Wheamy.md)
+Wheamy does not inherently hate or dislike him, but is not the happiest with him. Their relations aren't the most harmonious.
+
+Why? Because Piss tries to prevent AngelSaph from eating for safekeeping. While Wheamy understands that Piss is doing it for the good of everyone, he can't just do that while allowing one person who needs food to die!
 
 #refridgerators
 

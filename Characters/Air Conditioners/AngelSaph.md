@@ -86,4 +86,12 @@ AngelSaph is also there when GiSY is isolated due to being emotionally damaged b
 ### [Wheamy](Wheamy.md)
 Wheamy protects AngelSaph not only because of his young age, but also due to his emotional and physical vulnerability.
 
+### [JHR](JHR.md)
+They are actually ok friends. They spend time together, sometimes. AngelSaph is quite wary of JHR's tendency to be sociopathic.
+
+### [Piss](Piss.md)
+AngelSaph does not like the hoarding nature of Piss. He wants and needs food to live, but Piss doesn't understand why. He actually fights Piss just so he can eat.
+
+Piss doesn't understand and can't comprehend why AngelSaph needs to eat. AngelSaph expects this, but still is very annoyed by this fact.
+
 #airconditioner 

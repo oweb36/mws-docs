@@ -5,7 +5,7 @@
 
 ## Characters
 
-{Put all the present [characters](Character.md) here}
+{Put all the present [characters](Characters.md) here}
 
 ## Plot
 

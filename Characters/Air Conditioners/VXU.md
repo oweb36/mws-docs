@@ -72,6 +72,14 @@ DeltaCXG is not interested in harming AngelSaph emotionally and making him in pa
 ### [Wheamy](Wheamy.md)
 Wheamy hates DeltaCXG for making not only his life hell, but burdens him in protecting others. DeltaCXG has harmed others, and potentially everyone. Wheamy doesn't need an extra abuser to deal with.
 
+### [JVXH](JVXH.md)
+JVXH fears DeltaCXG. She knows the weird things DeltaCXG would do. She has seen the horrors of DeltaCXG.
+
+DeltaCXG wouldn't do anything to JVXH. Even though he knows that JVXH fears him, he doesn't care about her that much. DeltaCXG knows what JVXH would do.
+
+### [MHeLy](MHeLy.md)
+MHeLy is very accepting of DeltaCXG despite knowing the danger. MHeLy is one of the few people to actually have the balls to approach DeltaCXG.
+
 
 
 #airconditioner

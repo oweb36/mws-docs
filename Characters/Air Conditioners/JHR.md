@@ -21,6 +21,8 @@ As a normal person, he is a good person to hang out with, but can be weird and s
 
 JHR is fairly chatty relatively, but he is not as chatty as [JKE](JKE.md). He likes to talk about knowledge. He likes to exchange life with you and him. JHR is practically pretty much down to basic in his chattiness, he just wants to make people comfortable. JHR may also spew out garbage, very random garbage once in a while. Its typically indiscernible noises, or just his thoughts.
 
+JHR is also the kind of person to teach you how to do things. If you don't know how to read, or fail miserably at walking, JHR will show you how. He enjoys teaching and tutoring others.
+
 ### Sociopathy
 In his sociopathy, he is sadistic (not murderous). He likes pain, but isn't that all? Anyways. He is also good to hang out as he can rant and chat with you about many things.
 
@@ -29,8 +31,24 @@ In his sociopathy, he is sadistic (not murderous). He likes pain, but isn't that
 ### [MHeLy](MHeLy.md)
 MHeLy is a close friend to JHR, and vice versa. MHeLy has known JHR other for longer compared to anybody else in her. They have enjoyed time together, playing and watching the silver of the night skies.
 
+### [KaHLium](KaHLium.md)
+JHR has a love-hate relationship with KaHLium, aka a frenemy situation. 
+
+JHR likes him because he knows that KaHLium is smart. JHR also knows that KaHLium, despite being logical and very intelligent, is miles below JHR. JHR likes to teach KaHLium a lot of things. He gives him knowledge on life and general school knowledge.
+
+JHR also knows that KaHLium is the elder brother to MHeLy. 
+
+JHR dislikes one thing about KaHLium, his no-nonsense nature. He feels like he can't have fun with KaHLium. Why must he be miserable all the time?
+
+Anyways, JHR tends towards the love side more than the hate side of his relationship with KaHLium. Basically JHR is more friends than enemies with KaHLium.
+
 ### [WELLPan](WELLPan.md)
 They are good friends. JHR and WELLPan likes to read books in their spare time together.
+
+### [AngelSaph](AngelSaph.md)
+They are actually ok friends. They spend time together, sometimes. AngelSaph is quite wary of JHR's tendency to be sociopathic.
+
+JHR doesn't really understand why AngelSaph needs to cook and eat, not that it matters. He doesn't understand the idea of flesh. AngelSaph is a different breed to him, but they are still friends. AngelSaph's physiology is on a whole another level for JHR to comprehend.
 
 
 #airconditioner

@@ -40,5 +40,8 @@ She's the one to heal him emotionally. MHeLy is one of the few to know the depre
 
 She cares for him, and is with him when AngelSaph needs help the most. She just stands by him, and that helps AngelSaph.
 
+### [DeltaCXG](VXU.md#DeltaCXG)
+MHeLy is very accepting of DeltaCXG despite knowing the danger. MHeLy is one of the few people to actually have the balls to approach DeltaCXG.
+
 
 #airconditioner #sayonarapanas

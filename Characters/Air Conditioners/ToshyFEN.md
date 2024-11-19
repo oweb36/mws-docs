@@ -30,4 +30,14 @@ They are typically duos. WELLPan is the chiller in this duo, while ToshyFEN is t
 
 In this duo, they could actually destroy the entire cast of MWS due to their sheer physical strength. ToshyFEN would likely be the one to start it, and he would drag WELLPan into this madness. ToshyFEN would also probably stick WELLPan to his back, and bring him along.
 
+### [Aurl](Aurl.md)
+Aurl respects ToshyFEN despite being older than him. Aurl knows about the strength of ToshyFEN, and how can his anger meltdowns go.
+
+### [ToshyMEF](ToshyMEF.md)
+ToshyFEN loves ToshyMEF as a sibling. ToshyFEN and ToshyMEF know each other too well.
+
+They are aware that they look very similar. Literally the only difference between them is that ToshyFEN's control panel is way newer than ToshyMEF's controller! ToshyMEF has the old Toshiba controller with icons, while ToshyFEN got that new navigational and multilingual controller! Their main bodies even look the same. They like to prank others by impersonating each other.
+
+ToshyFEN is wary of ToshyMEF's slight homophobia. He knows that ToshyMEF would go out to people of the LGBTQ+ community to say that LG TVs are better. He tries to restrain her from doing that rant.
+
 #airconditioner 

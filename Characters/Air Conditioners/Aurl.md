@@ -7,6 +7,8 @@ He is a wall-mounted Fujitsu 15RLS2H [heat pump](Air%20Conditioners.md). His nam
 Aurl was born in 2013. He is a cisgender and heterosexual male.  
 If skin color matters, Aurl is white.
 
+Aurl is not the most intelligent in [MWS](Megarchive%20Warehouse%20Show.md).
+
 ## Personality
 
 He is both positive and negative. He is normally calm, but no one can beat the chillness of [[WELLPan]].
@@ -22,6 +24,9 @@ Inside him, there is a dark part of him that wants him to hurt others. That dark
 ### [WELLPan](WELLPan.md)
 
 They are frenemies, but they are more of a friend that enemies. The only conflict that they can be in is in a friendly little competition of who can be the chillest, and WELLPan always wins. They just hang out with each other.
+
+### [ToshyFEN](ToshyFEN.md)
+Aurl respects ToshyFEN despite being older than him. Aurl knows about the strength of ToshyFEN, and how can his anger meltdowns go.
 
 
 #airconditioner

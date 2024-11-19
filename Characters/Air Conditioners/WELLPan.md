@@ -32,4 +32,22 @@ In this duo, they could actually destroy the entire cast of MWS due to their she
 ### [JHR](JHR.md)
 They are good friends. JHR and WELLPan likes to read books in their spare time together.
 
+### [ToshyMEF](ToshyMEF.md)
+They aren't close, but they are there. WELLPan and ToshyMEF are close due to few reasons. One of them is their weird sexuality where WELLPan identifies as an Apache Attack Helicopter and ToshyMEF identifies as an LG TV.
+
+WELLPan knows the slight homophobia of ToshyMEF.
+
+### [WELLPan](WELLPan.md)
+To ToshyMEM, WELLPan is just dead weight. She may appreciate his presence, but he doesn't really do much.
+
+### [ToshyMEM](ToshyMEM.md)
+To ToshyMEM, WELLPan is just dead weight. She may appreciate his presence, but he doesn't really do much.
+
+She asks one question: Why.
+
+### [KaHLium](KaHLium.md)
+KaHLium asks one question to WELLPan: Why.
+
+He is so befuddled at WELLPan's chilness and lack of seriousness.
+
 #airconditioner #weirdidentities
