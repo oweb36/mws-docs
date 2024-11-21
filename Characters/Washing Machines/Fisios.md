@@ -17,4 +17,9 @@ They both are aware that they are down to the basics, down to earth and practica
 
 No funny things, but they are efficient when paired together. Due to them being down to basic and practical, they have an extremely high efficiency of work rate in doing work. They do the work and then immediately move on after doing everything needed for the work. No extra work, or incomplete work by them.
 
+### [ZSRK](ZSRK.md)
+They pair well. ZSRK can find info while Fisios does the heavy data crunching.
+
+Fisios may have to handle ZSRK's temper outbreaks though. She might need a lot of mental strength, cus ZSRK is not the easiest to handle with.
+
 #washingmachines 

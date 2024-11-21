@@ -11,7 +11,11 @@ ToshyMEF is the older sister to [ToshyFEN](ToshyFEN.md). They almost look simila
 ToshyMEF is quite durable, but not as durable as compared to [ToshyFEN](ToshyFEN.md).
 
 ## Personality
-Slightly homophobic due to believing that LG TVs are better than LGBTQ+. But not horrible enough to wish death, but only to flex and blatantly with shamelessness advertise LG TVs.
+ToshyMEF is sassy. She has that rudeness. She is not subtle about some things. She is not that angry, but is not chill. She speaks like a Californian, but not Valleyspeak. Very american-aah girl accent, and speech patterns. She also got the Alpha Bitch and Manipulative Bastard in her. She is rude, but is even more rude to those she dislikes. She also lightly manipulates people thru emotions.
+
+One thing unique about her is that ToshyMEF is that she's slightly homophobic. ToshyMEF is this way because she believes that LG TVs is better than LGBTQ+. This homophobia is not severe like wishing someone to die, but she targets the LGBTQ+ people more than the rest, to flex LG TVs. We all know [why](#Identity) do we?
+
+So, she's a sassy-aah rude californian slight homophobe.
 
 ## Relations
 

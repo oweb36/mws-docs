@@ -21,6 +21,14 @@ kanban-plugin: board
 
 ## Todo
 
+
+
+## Current
+
+- [ ] NEptha
+	
+	Panasonic CS-NE12LKE.
+	Male.
 - [ ] Awux -> Awu-See
 	
 	Fujitsu AWU18CXQ. Female.
@@ -41,28 +49,26 @@ kanban-plugin: board
 	Aufs is toric, he likes men. This is why he has the "he" in his pronouns.
 
 
-## Current
+## Done
+
+**Complete**
+
+
+***
+
+## Archive
 
 - [ ] Xefa
 	
 	Panasonic CS-XE12EKE. Female.
 	
-	Valley girl in a nutshell.
-- [ ] NEptha
-	
-	Panasonic CS-NE12LKE.
-	Male.
+	Valley girl in a nutshell. ~ November 21, 2024 10:54:46 PM
 - [ ] ToshyMEF
 	
 	Toshiba MMF-AP0151H. Female.
-	Older version of [ToshyFEN](../Characters/Air%20Conditioners/ToshyFEN.md), possibly siblings?
-
-
-## Done
-
-**Complete**
-- [x] Add a new smug character named Avxy, which is a Sharp AIOT air conditioner. He is a smug little shit, a cocky little shit.
-- [x] Xeo, female (she/her).
+	Older version of [ToshyFEN](../Characters/Air%20Conditioners/ToshyFEN.md), possibly siblings? ~ November 21, 2024 10:54:46 PM
+- [ ] Add a new smug character named Avxy, which is a Sharp AIOT air conditioner. He is a smug little shit, a cocky little shit. ~ November 21, 2024 10:54:46 PM
+- [ ] Xeo, female (she/her).
 	
 	Panasonic CS-XE21MKEW from 2010. Superior version of [JKE](JKE.md).
 	
@@ -72,13 +78,10 @@ kanban-plugin: board
 	
 	She is also quite angry as a person, its rare to see her in a good mood. Unlike the others such as [Aurl](Aurl.md) and [ToshyFEN](ToshyFEN.md), she is never calm, she is always angery. She has unresolved anger issues.
 	
-	Xeo is indeed the ratfucker bitch. She is not a good person definitely.
+	Xeo is indeed the ratfucker bitch. She is not a good person definitely. ~ November 21, 2024 10:54:46 PM
 - [ ] Add Angelsaph, a Gree Saphire air conditioner. He has a golden-white shiny halo made of solid gold-titanium-platinum-aluminium alloy. This halo is part of his body and can act as a protection. It can regenerate slowly if its damaged.
 	
-	While others are pure electronic inorganic, AngelSaph has some flesh inside of him.
-
-
-
+	While others are pure electronic inorganic, AngelSaph has some flesh inside of him. ~ November 21, 2024 10:54:46 PM
 
 %% kanban:settings
 ```

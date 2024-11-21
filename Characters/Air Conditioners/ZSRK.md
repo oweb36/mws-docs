@@ -18,4 +18,18 @@ ZSRK with his analytical and assertive nature makes him formidable. He is not to
 
 ## Relations
 
+### [Fisios](Fisios.md)
+They pair well. ZSRK can find info while Fisios does the heavy data crunching.
+
+Fisios may have to handle ZSRK's temper outbreaks though. She might need a lot of mental strength, cus ZSRK is not the easiest to handle with.
+
+### [KaHLium](KaHLium.md)
+The dry joker and the temper-tantrum throwing detective comes together.
+
+They aren't harmonious. There is quarreling and temper anger outbreak situations, which is not common, but not rare. Those situations are uncommon.
+
+KaHLium doesn't like the anger issues of ZSRK. He is quite blatant on that. ZSRK doesn't accept this idea. This is a vicious cycle and why they are not harmonious when together.
+
+They can work very well though if they have to. ZSRK can fetch and deduce things from crap, while KaHLium does the heavy data crunching. Its like Fisios, but KaHLium is more blunt and blatant.
+
 #airconditioner 
