@@ -50,6 +50,23 @@ They are actually ok friends. They spend time together, sometimes. AngelSaph is 
 
 JHR doesn't really understand why AngelSaph needs to cook and eat, not that it matters. He doesn't understand the idea of flesh. AngelSaph is a different breed to him, but they are still friends. AngelSaph's physiology is on a whole another level for JHR to comprehend.
 
+### [Wheamy](Wheamy.md)
+JHR shows Wheamy the way to life. He shows him, how to do life skills. Wheamy doesn't exactly know a lot of things in life, so JHR guides him.
+
+Wheamy doesn't protect JHR because JHR can do so himself.
+
+Its pretty good basically with their relationship.
+
+### [CKHSC](CKHSC.md)
+They teach each other. They learn from each other about life, and how it changes.
+
+JHR shows CKHSC the way of the modern life. Its the progressive way of living, as CKHSC likes to put it. CKHSC is quite hesistant and resistant to this way, and JHR is aware of it. JHR tries to coax and guide CKHSC to the modern life.
+
+CKHSC shows JHR the way of the traditional life, which would have been lost if it weren't for [CKHSC](CKHSC.md) and the other elders. CKHSC shows JHR the old ways, that is usually trusted and battle-tested.
+
+With the difference in the generations, JHR and CKHSC knows the progression of life.
+
+
 
 #airconditioner
 

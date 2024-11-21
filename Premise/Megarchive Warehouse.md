@@ -20,7 +20,7 @@ There's a kitchen, which is pretty much useless to all the residents, except Ang
 
 There's also an array of bed, with outlets for the residents to plug in for the night. Each bed is personalized and customized to each of them. So the [air conditioners](Air%20Conditioners.md) beds are tailored to them, while the [washing machines](Washing%20Machines.md) also have tailored beds, and etc...
 
-There's a computer lab that they can use. Its pretty ancient as it only consists of a Macintosh IIci and a Macintosh Color Classic. This is not ideal, but its pretty nice.
+There's a computer lab that they can use. Its pretty ancient as it only consists of a Macintosh iici, Macintosh Performa 557, Power Macintosh 6100 Macintosh Color Classic. Their server is an old 2003 HP Pavilion a367c running Windows XP and custom software for interfacing with the macs. Their choices of computers aren't ideal because they are on a tight budget and don't have a lot of money, but this ancient deal is a good deal.
 
 A door that leads to a magical and mysterious room is present. The door is unique in the way it opens, and there is a sign that reads "Repair, Service and Recovery" on top of it. This magic room is the room where the [residents](Characters.md) get recovered in when they die.  
 A keyboard and a monitor is also next to the RSR room. This is where the other residents punch in the name of their dead friends to recover.

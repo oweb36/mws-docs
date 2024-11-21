@@ -8,9 +8,10 @@ kanban-plugin: board
 
 - [ ] Give [JHR](JHR.md) siblings and cousins. Then assimilate JHR into a person-lith kinda like [VXU](VXU.md) with his siblings as he and his siblings are capable of multi-split unit operation.
 	
-	His siblings are a Sharp AE-XM30GR, AY-XPC7JR and AY-XPM18HR.
+	His siblings are a Sharp AE-XM30GR, AY-XPC7JR and AY-XPM18HR. 
 	
-	JHR's cousin is his IVT version (superior and inferior at the same time).
+	This monolith person-lith is called as "AEX" (ax).
+- [ ] Give JHR or AEX a cousin. AEX/JHR's cousin is the IVT version of JHR (superior and inferior at the same time).
 
 
 ## Backlog
@@ -20,6 +21,24 @@ kanban-plugin: board
 
 ## Todo
 
+- [ ] Awux -> Awu-See
+	
+	Fujitsu AWU18CXQ. Female.
+- [ ] Aufs -> A-U-F-S (Ay-You-Eff-Es)
+	
+	Fujitsu AUG54FUAS cassette.
+	
+	Aufs is demigender-demifluid. He is agenderous in one half, while he is genderfluid in his other half. We can say that he is demifluid. Practically, he is demifluid, but Aufs also likes to be refered to as demiagender. Aufs is basically Demifluid agender at this point.
+	
+	His agender side, is neutral and genderless. This agender side, basically identifies as Aufs. So Aufs half identifies as Aufs himself.
+	
+	His genderfluid side is non-binary. Yeah. It can change though, but mostly likes it to be Non-Binary cus he has no idea what to be.
+	
+	Aufs is basically half-Aufs and half-NB.
+	
+	Aufs likes to use the pronouns he/them.
+	
+	Aufs is toric, he likes men. This is why he has the "he" in his pronouns.
 
 
 ## Current

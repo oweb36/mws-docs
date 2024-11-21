@@ -5,6 +5,8 @@ Wheamy is an LG WM2101HW [washing machine](Washing%20Machines.md). His name is p
 
 He was born on December 19, 2009. He is a cisgender and pansexual male (he/him).
 
+Wheamy is not the most intelligent or knolwedgable person in MWS.
+
 ## Personality
 Wheamy is pretty much caring towards others, and what they need. He usually protects others, typically those younger than him. He may doubt himself though at times, in his abilities to protect or whether he is doing it for real.
 
@@ -27,6 +29,14 @@ Wheamy hates the shit out of RXe. He has to deal with many potential abusers to 
 Wheamy does not inherently hate or dislike him, but is not the happiest with him. Their relations aren't the most harmonious.
 
 Why? Because Piss tries to prevent AngelSaph from eating for safekeeping. While Wheamy understands that Piss is doing it for the good of everyone, he can't just do that while allowing one person who needs food to die!
+
+### [JHR](JHR.md)
+JHR shows Wheamy the way to life. He shows him, how to do life skills. Wheamy doesn't exactly know a lot of things in life, so JHR guides him.
+
+Wheamy doesn't protect JHR because JHR can do so himself.
+
+Its pretty good basically with their relationship.
+
 
 
 #washingmachines 
