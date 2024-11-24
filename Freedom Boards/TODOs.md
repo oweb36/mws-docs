@@ -34,7 +34,7 @@ kanban-plugin: board
 	Fujitsu AWU18CXQ. Female.
 - [ ] Aufs -> A-U-F-S (Ay-You-Eff-Es)
 	
-	Fujitsu AUG54FUAS cassette.
+	Fujitsu AUY36AGB3W cassette. His name is because his old species (development) was the Fujitsu AUG54FUAS cassette, but its too good so its kept.
 	
 	Aufs is demigender-demifluid. He is agenderous in one half, while he is genderfluid in his other half. We can say that he is demifluid. Practically, he is demifluid, but Aufs also likes to be refered to as demiagender. Aufs is basically Demifluid agender at this point.
 	

@@ -9,6 +9,7 @@ What's This?: This board is for how the characters will be in the future. How th
 
 - [ ] [AngelSaph](AngelSaph.md) is now fully grown and tall. 
 	
+	## Angelity
 	He now also has a ring that floats with him, that allows him to see from the back. It has eyes at the back. This ring is made of the same material as his halo.
 	
 	This ring only appears he is good, both in physical, mental and emotional state. It dissapears when one of them is deterioriating.
@@ -16,7 +17,15 @@ What's This?: This board is for how the characters will be in the future. How th
 	AngelSaph would also obtain wings. Metalic wings. He can fly.
 	
 	His halo would also be harder, so its harder to damage. Now you can't just hit him and expect it to break, but his back is still his achilles' heel.
-- [ ] [GiSY](GiSY.md) would become taller. She would also become a partial angel like [AngelSaph](AngelSaph.md). Like AngelSaph, she would later also have some of her body partially become flesh the AngelSaph way. So she would later become an enchanced cyborg being.
+	
+	## Biology
+	
+	His biological organs will matured. They have reached post-puberty stages. He is an adult by this point.
+	
+	## Psychology
+	
+	He would become more mature, and way tougher mentally. He would still be empathetic to others and still depressed.
+- [ ] [GiSY](GiSY.md) would become taller. She would also become a partial angel like [AngelSaph](AngelSaph.md). Like AngelSaph, she would later also have some of her body partially become flesh the AngelSaph way. So she would later become an enchanced cyborg being. She would be biologically female in this case.
 	
 	Her halo would behave like AngelSaph, except the emotional indications because she is more noticable about her mental and emotional health unlike AngelSaph. Her halo is unique though, as its made of 18K rose gold, giving her halo a unique look. Her halo also looks like a lower-grade-quality version of [AngelSaph](AngelSaph.md)'s halo. Its as if her halo has been broken and then someone poorly rewelded bits of her halo again.
 	
@@ -46,11 +55,22 @@ What's This?: This board is for how the characters will be in the future. How th
 	
 	With this new fleshiness, MHeLy can truly regenerate. It doesn't help with her destroyed bones and ligaments at her right ankle and wrist, as they were destroyed before she became this flesh-electronic cyborg being.
 	
+	She also has cracks and scars. A crack would be present at her top section, as if something struck there. There is also a scar mark at the back of her. This is permanent ig?
+	
 	
 	## Personality
 	She is more competitive, slightmy more aggressive and less pacifist. She would do violence there and then, but is still nice.
 	
-	She is still nice and kind, but not that nice as before.
+	She is still nice and kind, but not that nice as before. Life has shown to be futile to her.
+- [ ] [ToshyFEN](ToshyFEN.md) won't grow taller, but he has extra things.
+	
+	
+	## Double Minds
+	One thing is that while he is still one person, he will have two minds now (They work together). One of his mind is his current face, the front panel. The other mind would be in his controller, where that mind's face can be seen in the LCD display. So he has 2 minds now, with faces as a single person.
+	
+	## Personality
+	
+	He is less chill, but still ok.
 
 
 ## Future Todo

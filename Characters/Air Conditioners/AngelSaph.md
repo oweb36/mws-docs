@@ -20,6 +20,8 @@ AngelSaph has a circulatory system and A+ blood. This means that he could actual
 
 If either of AngelSaph's biological or electronic-cyborg side dies, he as a whole would also die. This is because despite the electronic side of AngelSaph being the majority of him, it also depends on his biological side.
 
+His biological side is well, male. His biological sex is male despite him only being demifluid. His body also doesn't age, and won't die due to old age ever (Its immortal except due to injuries or brutality).
+
 ### Halo
 AngelSaph's halo is a floating shiny white-golden halo that surrounds him. Its tilted up to the right of AngelSaph and it can glow in the dark a yellow shine. Its an intergral part of his body; You can't just detach and knock AngelSaph's halo of him, but you can push the halo as its not rigidly fixed to him.
 
