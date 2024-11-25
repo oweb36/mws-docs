@@ -50,6 +50,10 @@ What's This?: This board is for how the characters will be in the future. How th
 	
 	MHeLy ain't subtle about this, her high top shoes may also be there to hide the ankle support, but she still shows it. She does use drawing gloves for her right hand as a cover for her wrist support.
 	
+	[DeltaCXG](VXU.md#DeltaCXG) was the one who broke MHeLy's ankle. DeltaCXG broke her right ankle by stepping her ankle at just the right angle, and he did it with so much force it not only sprained MHeLy's ankle, but also broke the bones.
+	
+	DeltaCXG was not the one to break MHeLy's wrist btw. It was MHeLy's fault for being goofy and clumsy that one moment. She is not that clumsy normally, but let's say she fell off some stairs. Also this happened after DeltaCXG broke her ankle lmfao.
+	
 	### Body
 	With the help of [AngelSaph](AngelSaph.md), MHeLy also have part of flesh in her body. She is also now part flesh and part body. She now has true free-will, and will need to eat and drink. She now understands AngelSaph.
 	
@@ -61,7 +65,9 @@ What's This?: This board is for how the characters will be in the future. How th
 	## Personality
 	She is more competitive, slightmy more aggressive and less pacifist. She would do violence there and then, but is still nice.
 	
-	She is still nice and kind, but not that nice as before. Life has shown to be futile to her.
+	She is still nice and kind, but not that nice as before. Life has shown to be futile to her. 
+	
+	DeltaCXG was the one who opened her eyes to the world's futility. DeltaCXG had hurt her many times and now she sees that the world needs help. She is way less nice so she can do the duty of helping the world a better place. And yes, DeltaCXG basically betrayed her at some point.
 - [ ] [ToshyFEN](ToshyFEN.md) won't grow taller, but he has extra things.
 	
 	
@@ -70,7 +76,11 @@ What's This?: This board is for how the characters will be in the future. How th
 	
 	## Personality
 	
-	He is less chill, but still ok.
+	He is less chill, but still ok. ToshyFEN is saner and and less sane at the same time. He is more volatile at times.
+	
+	What mind he is more volatile is the front panel mind. His LCD mind is way chiller and more cautious. His LCD panel mind is the one to calm and comfort the front panel mind, who is mostly volatile.
+	
+	To develop further, the front panel mind is also more scared of the world, which contributes to him being less chill and more alert and insane. The LCD panel mind is very cautious, chill and alert to the whole world, but he won't do anything irrational and insane unlike the front panel mind of ToshyFEN.
 
 
 ## Future Todo
