@@ -1,3 +1,4 @@
+
 Wheamy is a [character](Characters.md) as a contestant on the [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show.md).
 
 ## Identity
@@ -11,6 +12,8 @@ Wheamy is not the most intelligent or knolwedgable person in MWS.
 Wheamy is pretty much caring towards others, and what they need. He usually protects others, typically those younger than him. He may doubt himself though at times, in his abilities to protect or whether he is doing it for real.
 
 Wheamy may also not always be the happiest person. He may lash out at times. This is due to him protecting his dependees from the danger. This danger is what makes him not the happiest, as he hates them to his core.
+
+Wheamy is also a day dreamer. If he has nothing to do, he lets himself day dream and imagine utopia. Everything is happy in his dreams.
 
 ## Relations
 ### [Idendiby](Idendiby.md)

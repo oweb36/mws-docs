@@ -4,7 +4,9 @@ Its just your warehouse of products and parts. There are parts and showcase like
 
 ## Parts and Showcase
 
+This is where we can see all the air conditioners, fridges, washing machine and more appliances that the warehouse holds. We can see a live demo here.
 
+There is also a section dedicated to parts, stored as crates in shelves. They are pretty heavy, so its a hazard to drop them. These parts can be used to repair damaged appliances.
 
 ## Library and Index
 The Library is a library for the residents of the warehouse to use. The library is big and comprehensive. It houses the manuals and documentation about all the appliances shown in the warehouse, and the [residents](Characters.md) of the warehouse. The library also contains life history and documentation of the residents.
@@ -27,7 +29,7 @@ Basically its personalized in the way they are going to be mounted typically. Fo
 There are stairs to facilitate those cassette bois. People like [RACK](RACK.md), [ToshySMUT](ToshySMUT.md) and [Aufs](Aufs.md) needs a ladder to reach their bed, as they are on the ceiling. 
 
 ### Computer Lab
-There's a computer lab that they can use. Its pretty ancient as it only consists of a Macintosh iici, Macintosh Performa 557, Power Macintosh 6100 Macintosh Color Classic. Their server is an old 2003 HP Pavilion a367c running Windows XP and custom software for interfacing with the macs. Their choices of computers aren't ideal because they are on a tight budget and don't have a lot of money, but this ancient deal is a good deal.
+There's a computer lab that they can use. The computer lab is a part of the living quarters. Its pretty ancient as it only consists of a Macintosh iici, Macintosh Performa 557, Power Macintosh 6100 Macintosh Color Classic. Their server is an old 2003 HP Pavilion a367c running Windows XP and custom software for interfacing with the macs. Their choices of computers aren't ideal because they are on a tight budget and don't have a lot of money, but this ancient deal is a good deal.
 
 A door that leads to a magical and mysterious room is present. The door is unique in the way it opens, and there is a sign that reads "Repair, Service and Recovery" on top of it. This magic room is the room where the [residents](Characters.md) get recovered in when they die.  
 A keyboard and a monitor is also next to the RSR room. This is where the other residents punch in the name of their dead friends to recover.

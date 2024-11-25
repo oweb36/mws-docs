@@ -4,7 +4,7 @@ AngelSaph is a [character](Characters) as a contestant on the [[Megarchive Wareh
 
 He is a Gree Sapphire SAP18HP230V1AH wall-mounted [heat pump](Air%20Conditioners.md). His name is pronounced as Angel-Saph.
 
-He was born on September 13, 2022. He is a demifluid male (he/they). This means that he is half male and half genderfluid. Normally his genderfluid side is female, making him bigender, but he can change his genderfluid side into any other if the circustance and situation warrants it. This means that AngelSaph is also mutogenderous.
+He was born on September 13, 2022. He is a demifluid male (he/they). This means that he is half male and half genderfluid. Normally his genderfluid side is female, making him bigender, but he can change his genderfluid side into any other if the circustance and situation warrants it. This means that AngelSaph is also mutogenderous. You can also count him as bigender, but its is a kind-off situation.
 
 AngelSaph also has a halo. Its detailed in the section titled [Halo](#Halo). He is a partial Angel.
 
