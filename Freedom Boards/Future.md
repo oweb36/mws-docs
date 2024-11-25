@@ -30,8 +30,10 @@ What's This?: This board is for how the characters will be in the future. How th
 	Her halo would behave like AngelSaph, except the emotional indications because she is more noticable about her mental and emotional health unlike AngelSaph. Her halo is unique though, as its made of 18K rose gold, giving her halo a unique look. Her halo also looks like a lower-grade-quality version of [AngelSaph](AngelSaph.md)'s halo. Its as if her halo has been broken and then someone poorly rewelded bits of her halo again.
 	
 	GiSY and AngelSaph serves different purposes niches, but they can and do work together to do more.
-- [ ] [Xeo](Xeo.md) would be taller, and be damaged (cracks and slight inward bent as scars, she is still ok though dw about her as she still works). She would have controlled some of her anger issues, but she still has some of the anger issues left (Its her now).
-- [ ] [MHeLy](MHeLy.md) would have a massive overhaul in identity and appearance, probably.
+- [ ] [Xeo](Xeo.md) would be taller, and be damaged (cracks and slight inward bent as scars, she is still ok though dw about her as she still works). 
+	
+	She would have controlled some of her anger issues, but she still has some of the anger issues left (Its her now). Xeo is still the angriest person, but she would have mellowed out a bit.
+- [ ] [MHeLy](MHeLy.md) would have a massive overhaul in identity and appearance, probably. She got a **GLOW UP**!
 	
 	## Appearance and physiology
 	She is way taller than currently. Way taller.
@@ -50,16 +52,20 @@ What's This?: This board is for how the characters will be in the future. How th
 	
 	MHeLy ain't subtle about this, her high top shoes may also be there to hide the ankle support, but she still shows it. She does use drawing gloves for her right hand as a cover for her wrist support.
 	
+	Let me add that MHeLy also has scars. They are in the form of cracks and scars. Their appearance detailed in the body section. Its permanent. 
+	
 	[DeltaCXG](VXU.md#DeltaCXG) was the one who broke MHeLy's ankle. DeltaCXG broke her right ankle by stepping her ankle at just the right angle, and he did it with so much force it not only sprained MHeLy's ankle, but also broke the bones.
 	
 	DeltaCXG was not the one to break MHeLy's wrist btw. It was MHeLy's fault for being goofy and clumsy that one moment. She is not that clumsy normally, but let's say she fell off some stairs. Also this happened after DeltaCXG broke her ankle lmfao.
+	
+	DeltaCXG is not responsible for the cracks and scars of MHeLY. MheLy herself doesn't even know how she even got them.
 	
 	### Body
 	With the help of [AngelSaph](AngelSaph.md), MHeLy also have part of flesh in her body. She is also now part flesh and part body. She now has true free-will, and will need to eat and drink. She now understands AngelSaph.
 	
 	With this new fleshiness, MHeLy can truly regenerate. It doesn't help with her destroyed bones and ligaments at her right ankle and wrist, as they were destroyed before she became this flesh-electronic cyborg being.
 	
-	She also has cracks and scars. A crack would be present at her top section, as if something struck there. There is also a scar mark at the back of her. This is permanent ig?
+	She also has cracks and scars. A crack would be present at her top section, as if something struck there. There is also a scar mark at the back of her. Some of the details of the cracks are detailed in the Injuries section.
 	
 	
 	## Personality
