@@ -6,21 +6,54 @@ ToshyFEN is a Toshiba floor-standing RAV-RM561FT-EN [heat pump](Air%20Conditione
 
 He was born in 2021, as a British person. He is a cisgender and heterosexual male.
 
-He actually has two minds, and each of his minds has a face. The main mind of ToshyFEN is at the front panel of his main body, while the auxilliary mind of ToshyFEN is in his controller.
-
 He is one of the most durable person in MWS; He can survive injuries that would incapacitate or even kill others, and he can tolerate severe pain such as crotch kicks. ToshyFEN is also very heavy, in fact he is the heaviest out of them all.
 
 If skin color matters, ToshyFEN is white.
 
 ToshyFEN is the younger brother to [ToshyMEF](ToshyMEF.md). They almost look similar except to their controller, where ToshyFEN has the newer one.
 
+### Double Minded
+
+ToshyFEN actually has two minds, and each of his minds has a face. ToshyFEN is still the same person though.
+
+The main and dominant mind of ToshyFEN is at the front panel of his main body, while the auxilliary and recessive mind of ToshyFEN is in his controller. 
+
+The dominant mind of ToshyFEN is named FEN while the recessive controller mind of ToshyFEN is named RBC. RBC is named that way because RBC is literaly a Toshiba RBC-AMSU51-EN controller.
+
+RBC is actually ToshyFEN's brain (because RBC is ToshyFEN's controller). If RBC is somehow gets damaged or killed, ToshyFEN would actually die. Yes, FEN would also die with RBC if RBC dies and vice versa. RBC is ToshyFEN's achilles' heel, and ToshyFEN would protect RBC. This is an irony because FEN is the dominant mind while RBC is the recessive and auxiliary mind despite RBC being ToshyFEN's brain.
+
+FEN shows his face in the front panel physically, which means you can interact with his face. RBC shows his face in the lcd screen. RBC can't actually see well due to the quality of his lcd screen, but he can see.
+
+Both minds (FEN and RBC) prefers to be refered to as he/him because they both are the same person (ToshyFEN). They are not different a person, so don't refer to both of them as they/them, as you should refer to ToshyFEN as ToshyFEN if you want to refer to both minds.
+
 ## Personality
 
-He basically has two personalities that are volatile at changing about.
+ToshyFEN is one person, but he has multiple minds. 
 
-He has this one personality where he is really chill, and likes to chat. He can never be as chill as [WELLPan](WELLPan.md), but he is chill. He just listens, and talk a little. He likes small talk, and big talk. He is just there for WELLPan mostly, but can be there for others. Basically he just does nothing except listen and yap.
+FEN is the volatile boi while RBC is the cautious one.
 
-Then he has this other personality where he is straight up unhinged, crazy, insane, angry and violent. He commits harms to those who caused him this, and a bit of others. He isn't a sadist, but he is crazy. He literally chases others to no end with this. Yelling and screaming like a banshee as he runs. To no end he does this with no obvious goal at times. ToshyFEN would literally chase someone like a maniac, for eternity. He can be stopped and put back to his normal chill state by either calming him down, killing him, exhaust him or have his victim be killed.
+ToshyFEN is quite chill in general, but he can never be as chill as [WELLPan](WELLPan.md). ToshyFEN can also be insane and angrier than usual. FEN is the mind of ToshyFEN that is mentally unstable and insane, RBC is mentally stable and sane.
+### FEN
+FEN is the mentally unstable and insane mind of ToshyFEN. FEN is mentally not ok (insane and unstable). FEN basically has two personalities that are volatile at changing about. He is suffering from some kind of dissociative personality disorder.
+
+ FEN has this one personality where he is really chill, and likes to chat. He can never be as chill as [WELLPan](WELLPan.md), but he is chill. He just listens, and talk a little. He likes small talk, and big talk. He is just there for WELLPan mostly, but can be there for others. Basically he just does nothing except listen and yap.
+
+Then he has this other personality where he is straight up unhinged, crazy, insane, angry and violent. He commits harms to those who caused him this, and a bit of others. He isn't a sadist, but he is crazy. He literally chases others to no end with this. Yelling and screaming like a banshee as he runs. To no end he does this with no obvious goal at times. 
+
+FEN would literally chase someone like a maniac, for eternity. He can be stopped and put back to his normal chill state by either calming him down, killing him, exhaust him or have his victim be killed.
+
+FEN's volatile personality and mind can switch easily.
+
+### RBC
+
+RBC is the more cautious and chiller mind out of ToshyFEN. RBC is the mentally sane and stable mind out of ToshyFEN too.
+
+RBC is pretty cautious about his surroundings. He is scared and untrusting normally of people. He fears what they can do to him and FEN. RBC just wants the best for ToshyFEN and his survival. RBC has this cautiousness because RBC knows that he is the brain and that if he dies, ToshyFEN dies.
+
+RBC would warm up if he trusts someone. He is the chattier out of ToshyFEN normally. He small talks with people, but finds big talk (aka important talk) quite awkward and leaves it to FEN. RBC is also the one to try not to upset or be insenitive to others.
+
+RBC is also the saner one, and he would try to stop FEN. RBC though doesn't have the power to control FEN because he is recessive, and wishes that one day he has just enough power to influence and control FEN.
+
 
 ## Relations
 

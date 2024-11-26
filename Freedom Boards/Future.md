@@ -77,18 +77,11 @@ What's This?: This board is for how the characters will be in the future. How th
 	
 	DeltaCXG was the one who opened her eyes to the world's futility. DeltaCXG had hurt her many times and now she sees that the world needs help. She is way less nice so she can do the duty of helping the world a better place. And yes, DeltaCXG basically betrayed her at some point.
 - [ ] [ToshyFEN](ToshyFEN.md) won't grow taller, but he has extra things.
-	
-	
-	## Double Minds
-	One thing is that while he is still one person, he will have two minds now (They work together). One of his mind is his current face, the front panel. The other mind would be in his controller, where that mind's face can be seen in the LCD display. So he has 2 minds now, with faces as a single person.
-	
 	## Personality
 	
 	He is less chill, but still ok. ToshyFEN is saner and and less sane at the same time. He is more volatile at times.
 	
-	What mind he is more volatile is the front panel mind. His LCD mind is way chiller and more cautious. His LCD panel mind is the one to calm and comfort the front panel mind, who is mostly volatile.
-	
-	To develop further, the front panel mind is also more scared of the world, which contributes to him being less chill and more alert and insane. The LCD panel mind is very cautious, chill and alert to the whole world, but he won't do anything irrational and insane unlike the front panel mind of ToshyFEN.
+	ToshyFEN would also be more paranoid of the whole world and its evilness to add spice. He fears a lot now.
 
 
 ## Future Todo
