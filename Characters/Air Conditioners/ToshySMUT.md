@@ -8,6 +8,8 @@ He was born in 2013. He is a bisexual demiboy (he/them).
 
 If skin color matters, ToshySMUT is white.
 
+ToshySMUT has a RBC-AX32U(W)-E and RBC-AMS51E-EN installed in him. This means that he has wireless and wired controls. You don't need a remote, but he can receive one.
+
 ## Personality
 
 He is rude and smutty, but not bad. He just doesn't know how to express himself nicely. He is just a poor misunderstood soul, who is trying to be nice but people take him as a rude person.

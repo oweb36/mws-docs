@@ -2,7 +2,7 @@ ToshyFEN is a [character](Characters) as a contestant on the [[Megarchive Wareho
 
 ## Identity
 
-ToshyFEN is a Toshiba floor-standing RAV-RM561FT-EN [heat pump](Air%20Conditioners.md). His name is pronounced as Toh-she-Fen.
+ToshyFEN is a Toshiba floor-standing RAV-RM1601FT-EN [heat pump](Air%20Conditioners.md). His name is pronounced as Toh-she-Fen.
 
 He was born in 2021, as a British person. He is a cisgender and heterosexual male.
 
@@ -10,7 +10,9 @@ He is one of the most durable person in MWS; He can survive injuries that would 
 
 If skin color matters, ToshyFEN is white.
 
-ToshyFEN is the younger brother to [ToshyMEF](ToshyMEF.md). They almost look similar except to their controller, where ToshyFEN has the newer one.
+ToshyFEN is the younger brother to [ToshyMEF](ToshyMEF.md). They almost look similar except to their controller, where ToshyFEN has the newer "Lite-Vision plus" one.
+
+ToshyFEN's Lite-Vision plus (RBC-AMSU51-EN) controller is his brain and his main method of being adjusted and controlled. ToshyFEN also has a TCB-AX32E2 wireless receiver kit installed, which is an auxilliary way to control him. ToshyFEN's Lite-Vision plus controller is his brain and is exposed to the world, so he is careful of it.
 
 ### Double Minded
 
@@ -18,11 +20,11 @@ ToshyFEN actually has two minds, and each of his minds has a face. ToshyFEN is s
 
 The main and dominant mind of ToshyFEN is at the front panel of his main body, while the auxilliary and recessive mind of ToshyFEN is in his controller. 
 
-The dominant mind of ToshyFEN is named FEN while the recessive controller mind of ToshyFEN is named RBC. RBC is named that way because RBC is literaly a Toshiba RBC-AMSU51-EN controller.
+The dominant mind of ToshyFEN is named FEN while the recessive controller mind of ToshyFEN is named RBC. RBC is named that way because RBC is literaly a Toshiba RBC-AMSU51-EN controller. RBC also has control over ToshyFEN's TCB-AX32E2 wireless receiver. 
 
-RBC is actually ToshyFEN's brain (because RBC is ToshyFEN's controller). If RBC is somehow gets damaged or killed, ToshyFEN would actually die. Yes, FEN would also die with RBC if RBC dies and vice versa. RBC is ToshyFEN's achilles' heel, and ToshyFEN would protect RBC. This is an irony because FEN is the dominant mind while RBC is the recessive and auxiliary mind despite RBC being ToshyFEN's brain.
+RBC is actually ToshyFEN's brain (because RBC is ToshyFEN's controller). If RBC is somehow gets damaged or killed, ToshyFEN would actually die. Yes, FEN would also die with RBC if RBC dies and vice versa. RBC is ToshyFEN's achilles' heel, and ToshyFEN would protect RBC. This is an irony because FEN is the dominant mind while RBC is the recessive and auxiliary mind despite RBC being ToshyFEN's brain. RBC is exposed to the outside world unlike [ToshyMEF](ToshyMEF.md)'s controller that is hidden behind a protective cover. ToshyFEN's wireless receiver is not his brain unlike RBC.
 
-FEN shows his face in the front panel physically, which means you can interact with his face. RBC shows his face in the lcd screen. RBC can't actually see well due to the quality of his lcd screen, but he can see.
+FEN shows his face in the front panel physically, which means you can interact with his face. RBC shows his face in the lcd screen. RBC can't actually see well due to the quality of his lcd screen, but he still can see.
 
 Both minds (FEN and RBC) prefers to be refered to as he/him because they both are the same person (ToshyFEN). They are not different a person, so don't refer to both of them as they/them, as you should refer to ToshyFEN as ToshyFEN if you want to refer to both minds.
 
@@ -69,7 +71,7 @@ Aurl respects ToshyFEN despite being older than him. Aurl knows about the streng
 ### [ToshyMEF](ToshyMEF.md)
 ToshyFEN loves ToshyMEF as a sibling. ToshyFEN and ToshyMEF know each other too well.
 
-They are aware that they look very similar. Literally the only difference between them is that ToshyFEN's control panel is way newer than ToshyMEF's controller! ToshyMEF has the old Toshiba controller with icons, while ToshyFEN got that new navigational and multilingual controller! Their main bodies even look the same. They like to prank others by impersonating each other.
+They are aware that they look very similar. Literally the only difference between them is that ToshyFEN's control panel is way newer than ToshyMEF's controller! ToshyMEF has the old Toshiba controller with icons, while ToshyFEN got that new "Lite-Vision plus" navigational and multilingual controller! Their main bodies even look the same. They like to prank others by impersonating each other.
 
 ToshyFEN is wary of ToshyMEF's slight homophobia. He knows that ToshyMEF would go out to people of the LGBTQ+ community to say that LG TVs are better. He tries to restrain her from doing that rant.
 
