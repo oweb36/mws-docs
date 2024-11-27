@@ -35,6 +35,10 @@ ToshyFEN is one person, but he has multiple minds.
 FEN is the volatile boi while RBC is the cautious one.
 
 ToshyFEN is quite chill in general, but he can never be as chill as [WELLPan](WELLPan.md). ToshyFEN can also be insane and angrier than usual. FEN is the mind of ToshyFEN that is mentally unstable and insane, RBC is mentally stable and sane.
+
+RBC is also more intelligent than FEN.
+
+ToshyFEN can be caring and will step in to protect.
 ### FEN
 FEN is the mentally unstable and insane mind of ToshyFEN. FEN is mentally not ok (insane and unstable). FEN basically has two personalities that are volatile at changing about. He is suffering from some kind of dissociative personality disorder.
 
@@ -44,7 +48,11 @@ Then he has this other personality where he is straight up unhinged, crazy, insa
 
 FEN would literally chase someone like a maniac, for eternity. He can be stopped and put back to his normal chill state by either calming him down, killing him, exhaust him or have his victim be killed.
 
-FEN's volatile personality and mind can switch easily.
+FEN is caring sometimes when he is chill. He would step in to stop carnage if he has too in situations where nobody except himself is strong enough to do so. [DeltaCXG](VXU.md#DeltaCXG) is one such person who would create this kind of situations. If he is in his unhinged personality, this does not apply.
+
+There's an exception though to that, RBC! FEN would do anything to protect RBC, as RBC is not only him, RBC is also his brain and also his "brother." FEN would even kill others just to protect RBC. FEN, even in his unhinged personality would still protect RBC.
+
+FEN's volatile personality and mind can switch easily. He is caring though to some, especially [RBC](#RBC)
 
 ### RBC
 
@@ -52,9 +60,11 @@ RBC is the more cautious and chiller mind out of ToshyFEN. RBC is the mentally s
 
 RBC is pretty cautious about his surroundings. He is scared and untrusting normally of people. He fears what they can do to him and FEN. RBC just wants the best for ToshyFEN and his survival. RBC has this cautiousness because RBC knows that he is the brain and that if he dies, ToshyFEN dies.
 
-RBC would warm up if he trusts someone. He is the chattier out of ToshyFEN normally. He small talks with people, but finds big talk (aka important talk) quite awkward and leaves it to FEN. RBC is also the one to try not to upset or be insenitive to others.
+RBC would warm up if he trusts someone. He is the chattier out of ToshyFEN normally. He small talks with people, but finds big talk (aka important talk) quite awkward and leaves it to FEN. RBC is also the one to try not to upset or be insenitive to others. 
 
-RBC is also the saner one, and he would try to stop FEN. RBC though doesn't have the power to control FEN because he is recessive, and wishes that one day he has just enough power to influence and control FEN.
+RBC is also the saner one, and he would try to stop FEN. RBC though doesn't have the power to control FEN because he is recessive, and wishes that one day he has just enough power to influence and control FEN. The only thing RBC can do is talk to FEN silently and influence his thoughts, but he has no power over the movement of ToshyFEN.
+
+RBC cares for FEN and wishes he could help influence him for good, but he doesn't have enough power to do so. RBC knows that FEN really cares for him.
 
 
 ## Relations
