@@ -20,7 +20,7 @@ ToshyFEN actually has two minds, and each of his minds has a face. ToshyFEN is s
 
 The main and dominant mind of ToshyFEN is at the front panel of his main body, while the auxilliary and recessive mind of ToshyFEN is in his controller. 
 
-The dominant mind of ToshyFEN is named FEN while the recessive controller mind of ToshyFEN is named RBC. RBC is named that way because RBC is literaly a Toshiba RBC-AMSU51-EN controller. RBC also has control over ToshyFEN's TCB-AX32E2 wireless receiver (RBC can talk and beep thru the TCB receiver). 
+The dominant mind of ToshyFEN is named FEN while the recessive controller mind of ToshyFEN is named RBC. RBC is named that way because RBC is literaly a Toshiba RBC-AMSU51-EN controller. RBC also has control over ToshyFEN's TCB-AX32E2 wireless receiver (RBC can talk and beep thru the TCB receiver, because normally RBC is mute without the TCB receiver). 
 
 RBC is actually ToshyFEN's brain (because RBC is ToshyFEN's controller). If RBC is somehow gets damaged or killed, ToshyFEN would actually die. Yes, FEN would also die with RBC if RBC dies and vice versa. RBC is ToshyFEN's achilles' heel, and ToshyFEN would protect RBC. This is an irony because FEN is the dominant mind while RBC is the recessive and auxiliary mind despite RBC being ToshyFEN's brain. RBC is exposed to the outside world unlike [ToshyMEF](ToshyMEF.md)'s controller that is hidden behind a protective cover. ToshyFEN's wireless receiver is not his brain unlike RBC.
 
