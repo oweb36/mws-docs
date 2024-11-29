@@ -15,7 +15,7 @@ They are attached to a steel board with pipes and wires connecting them together
 
 MXU only has legs, but DeltaCXG and CTUX has both arms and legs. Its not that useful really as MXU is the legs of VXU, not DeltaCXG and CTUX.
 
-Both MXU and CTUX were born in August 12, 2008. DeltaCXG is a later addition to them, as he was born in November 11, 2011. VXU is non-binary (they/them), but their individual members are all strictly cisgender and heterosexual male. The reason why VXU is non-binary, but MXU, CTUX and DeltaCXG is male is because VXU is not just one person, but three person as one person.
+Both MXU and CTUX were born in August 12, 2008. DeltaCXG is a later addition to them, as he was born in November 11, 2011. VXU is non-binary (they/them), but their individual members are all strictly cisgender males. DeltaCXG is heterosexual while CTUX is bisexually heteroflexible and MXU is Asexual. The reason why VXU is non-binary, but MXU, CTUX and DeltaCXG is male is because VXU is not just one person, but three person as one person.
 
 If skin color matters, VXU is white.
 
@@ -85,6 +85,18 @@ DeltaCXG wouldn't do anything to JVXH. Even though he knows that JVXH fears him,
 
 ### [MHeLy](MHeLy.md)
 MHeLy is very accepting of DeltaCXG despite knowing the danger. MHeLy is one of the few people to actually have the balls to approach DeltaCXG.
+
+### [ToshyFEN](ToshyFEN.md)
+VXU has two sides: Fear and concern.
+
+[MXU](VXU.md#MXU) is quite concerned and fearful about ToshyFEN. MXU is concerned about his mental wellbeing, as you know ToshyFEN has some of the worst mental health states in MWS. He is also feareful because he knows that ToshyFEN can do some unhinged shit.
+
+[CTUX](VXU.md#CTUX) has less concern and less fear compared to MXU, but he still has those feelings. He is less concerned because he feels that he can take on him if needed, but he won't for the most part.
+
+[DeltaCXG](VXU.md#DeltaCXG) has no concern, but more fear. DeltaCXG has no concern about his mental health, and why would he? DeltaCXG is this sociopath who doesn't care about others. He is willing to bully them for fun.  
+DeltaCXG is also fearful of ToshyFEN because his mental health is not good and he can do unhinged shit again. DeltaCXG fears what ToshyFEN is capable of. Even with that, DeltaCXG would still try to bully this guy. DeltaCXG knows that ToshyFEN is one of the few people capable of stopping him.
+
+So, MXU and CTUX are concerned and rather not get in trouble with ToshyFEN. DeltaCXg on the other hand, though knows the danger of ToshyFEN would still try to make some trouble with him.
 
 
 
