@@ -8,7 +8,7 @@ If skin color mattered, ToshyMEF is white.
 
 ToshyMEF is the older sister to [ToshyFEN](ToshyFEN.md). They almost look similar except to their controller, where ToshyFEN has the newer "Lite-Vision plus" one.
 
-ToshyMEF is quite durable, but not as durable as compared to [ToshyFEN](ToshyFEN.md).
+ToshyMEF is quite durable, but not as durable as compared to [ToshyFEN](ToshyFEN.md). ToshyMEF is also quite capable, but not as strong as ToshyFEN. ToshyMEF can even subdue [VXU](VXU.md) like ToshyFEN, and even subdue ToshyFEN if needed. 
 
 ## Personality
 ToshyMEF is sassy. She has that rudeness. She is not subtle about some things. She is not that angry, but is not chill. She speaks like a Californian, but not Valleyspeak. Very american-aah girl accent, and speech patterns. She also got the Alpha Bitch and Manipulative Bastard in her. She is rude, but is even more rude to those she dislikes. She also lightly manipulates people thru emotions.
@@ -25,10 +25,12 @@ They aren't close, but they are there. WELLPan and ToshyMEF are close due to few
 WELLPan knows the slight homophobia of ToshyMEF.
 
 ### [ToshyFEN](ToshyFEN.md)
-ToshyFEN loves ToshyMEF as a sibling. ToshyFEN and ToshyMEF know each other too well.
+ToshyFEN loves ToshyMEF as a sibling. ToshyFEN and ToshyMEF know each other too well. Both ToshyFEN and ToshyMEF are some of the strongest people in [MWS](Megarchive%20Warehouse%20Show.md), after [WELLPan](WELLPan.md).
 
 They are aware that they look very similar. Literally the only difference between them is that ToshyFEN's control panel is way newer than ToshyMEF's controller! ToshyMEF has the old Toshiba controller with icons, while ToshyFEN got that new "Lite-Vision plus" navigational and multilingual controller! Their main bodies even look the same. They like to prank others by impersonating each other.
 
 ToshyFEN is wary of ToshyMEF's slight homophobia. He knows that ToshyMEF would go out to people of the LGBTQ+ community to say that LG TVs are better. He tries to restrain her from doing that rant.
+
+ToshyMEF on the contrary is aware of ToshyFEN's quite horrible mental health. She is ready to subdue him when the situation is right. She has enough strength to do that. Sometimes ToshyMEF thinks whether ToshyFEN should go to a psychatric hospital.
 
 #airconditioner #weirdidentities 

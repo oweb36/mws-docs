@@ -21,15 +21,19 @@ WELLPan may struggle with motivation and laziness, but don't underestimate him. 
 
 Just don't disturb him when he's reading or underestimate him, he doesn't like that. Nobody likes to be disturbed when reading books, in a library. Thats one of the few things that could actually piss him off.
 
+Everything is upside down when you push him to fear. That's when he freaks out. He freaks out in situations where people's lives including him are at steak. He goes panicky. He runs around and screams like a Banshee.
+
 ## Relations
 
 ### [Aurl](Aurl.md)
 They are frenemies, but they are more of a friend that enemies. The only conflict that they can be in is in a friendly little competition of who can be the chillest, and WELLPan always wins. They just hang out with each other.
 
 ## [ToshyFEN](ToshyFEN.md)
-They are typically duos. WELLPan is the chiller in this duo, while ToshyFEN is the more active one. WELLPan helps to cool ToshyFEN's unhinged side, and prevent little accidents involving mass murking of others.
+They are typically duos. WELLPan is the chiller in this duo, while ToshyFEN is the more active one. ToshyFEN is the motivator to WELLPan to get him to do something. WELLPan is aware of ToshyFEN's very bad mental health state, and he does whatever he can to keep it under control.
 
-In this duo, they could actually destroy the entire cast of MWS due to their sheer physical strength. WELLPan is not the one to start this, but he just tags along cus they are duos.
+In this duo, they could actually destroy the entire cast of MWS due to their sheer physical strength. ToshyFEN would likely be the one to start it, and he would drag WELLPan into this madness. ToshyFEN would also probably stick WELLPan to his back, and bring him along.
+
+ToshyFEN's meltdown might cause WELLPan to freak out if there's nobody to stop him.
 
 ### [JHR](JHR.md)
 They are good friends. JHR and WELLPan likes to read books in their spare time together.

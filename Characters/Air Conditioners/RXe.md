@@ -40,4 +40,11 @@ The one person of VXU that RXe has a problem with is [DeltaCXG](VXU.md#DeltaCXG)
 ### [Wheamy](Wheamy.md)
 Wheamy hates the shit out of RXe. He has to deal with many potential abusers to his dependees. He doesn't need more!
 
+### [ToshyFEN](ToshyFEN.md)
+RXe finds ToshyFEN too unpredictable to manipulate. She doesn't know if what she does would trigger him. She doesn't even bother to manipulate ToshyFEN for her own because she doesn't know what would ToshyFEN do next.
+
+ToshyFEN is the kind of person to stop RXe when she gets too far. ToshyFEN also in fact will and have stopped her multiple times.
+
+ToshyFEN is scary to RXe eventhough RXe is the evil one. RXe is quite scared of ToshyFEN because ToshyFEN is quite unhinged at times and would kill. RXe questions whether he should be in a mental hospital, and sometimes doesn't know what to do with him.
+
 #airconditioner 

@@ -40,6 +40,13 @@ Wheamy doesn't protect JHR because JHR can do so himself.
 
 Its pretty good basically with their relationship.
 
+### [ToshyFEN](ToshyFEN.md)
+Wheamy doesn't know what to do with ToshyFEN. He has a dillema: help him or hate him. He doesn't know whether he should help and protect ToshyFEN or hate and try to avoid him.
+
+Wheamy feels this way because he knows that ToshyFEN is still young, and in fact younger than him. Wheamy also knows that ToshyFEN needs some help because he is aware of his poor mental health. The other side is that Wheamy knows that ToshyFEN can be unhinged and angry. ToshyFEN might even make his life harder than what he has know.
+
+Wheamy is very confused and worried about ToshyFEN. ToshyFEN to him is a mentally unstable person who needs help. This is because ToshyFEN fits both for Wheamy's need to help him and him making Wheamy's work harder.
+
 
 
 #washingmachines 

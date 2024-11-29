@@ -26,6 +26,8 @@ Since VXU is a triad that is also a single person, each of the people in VXU has
 ### DeltaCXG
 
 DeltaCGX is the sociopathic, sadistic and uncaring saboteur. He cares for his siblings (AKA those who is part of VXU, including MXU), but doesn't care about others except for a select few.
+
+DeltaCXG is the bad person here. 
 ## CTUX
 
 CTUX is the overconfident and arrogant, but strong willed competitor, and is a good person in general. He is confident and determined. He can lead people with his great leadership skills, and is intelligent. He can strategically think.
@@ -34,9 +36,13 @@ CTUX's arrogance due to his confidence may lead him to underestimate others.
 
 CTUX is not that sociopathic though. He would not willingly hurt others, unlike his fellow brother [DeltaCXG](#DeltaCXG). He finds physical violence too far for him. CTUX would also try to stop DeltaCXG if he can, like [MXU](#MXU) is brother, but he is too powerless to do so (at least MXU is the one capable of that).
 
+CTUX inherently is not a bad person, but a good person. He is just too arrogant and leadership-oriented.
+
 ## MXU
 
 MXU is the gentle one. He is not as brash as the others. MXU would even try to stop his fellow brothers, especially [DeltaCXG](#DeltaCXG) from terrorizing others.
+
+MXU is a good person definitely. He has power, but is armless.
 
 ## Relations
 
