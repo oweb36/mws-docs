@@ -25,3 +25,5 @@ This situation assumes that FEN is mentally well.
 ### What if Both RBC and FEN is not **OKIE DOKIE**
 
 Well, we got an unhinged dood with a *racial slur yeeting* tiny dood. So you get chased by a manic and angry unwell mental hospital patient as you are being chased by yet another mentally unwell *racial slur yeeting* mental hospital patient.
+
+FEN would probably constantly triggered by RBC's constsant *racial slur yeeting*.
