@@ -44,7 +44,15 @@ RBC is also more intelligent than FEN. This is because RBC is the brain and is m
 
 ToshyFEN can be caring and will step in to protect. He does this if the situation warrants it such as if nobody is willing to or he is literally the only one capable to do so.
 ### FEN
-FEN is the mentally unstable and insane mind of ToshyFEN. FEN is mentally not ok (insane and unstable). FEN basically has two personalities that are volatile at changing about. He is suffering from some kind of *Dissociative Personality Disorder*, *Intermittent Explosive Disorder*, *Borderline Personality Disorder* and *Disruptive Mood Regulation Disorder*. Yeah, FEN should be in a psychiatric hospital but he's here. FEN in fact has one of the worst mental health states in MWS.
+FEN is the mentally unstable and insane mind of ToshyFEN. FEN is mentally not ok (insane and unstable). FEN basically has two personalities that are volatile at changing about. 
+
+He is suffering from:
+- Dissociative Personality Disorder*
+- *Intermittent Explosive Disorder*
+- *Borderline Personality Disorder*
+- *Disruptive Mood Regulation Disorder*. 
+
+Yeah, FEN should be in a psychiatric hospital but he's here. FEN in fact has one of the worst mental health states in MWS.
 
  FEN has this one personality where he is really chill, and likes to chat. He can never be as chill as [WELLPan](WELLPan.md), but he is chill. He just listens, and talk a little. He likes small talk, and big talk. He is just there for WELLPan mostly, but can be there for others. Basically he just does nothing except listen and yap. FEN does observe people, but not that intently compared to [RBC](#RBC).
 
