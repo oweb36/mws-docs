@@ -79,9 +79,12 @@ What's This?: This board is for how the characters will be in the future. How th
 - [ ] [ToshyFEN](ToshyFEN.md) won't grow taller, but he has extra things.
 	## Personality
 	
-	He is less chill, but still ok. ToshyFEN is saner and and less sane at the same time. He is more volatile at times.
+	He is less chill, but still ok. FEN is saner and and less sane at the same time. He is more volatile at times. RBC is more cautious.
 	
-	ToshyFEN would also be more paranoid of the whole world and its evilness to add spice. He fears a lot now.
+	
+	FEN would also be more paranoid of the whole world and its evilness to add spice. He fears a lot now. RBC also would be more paranoid and cautious like I said.
+	
+	FEN being less sane than before means that he would suffer more mental disorders, but him being saner means that he would have more control. So he is more chill and more volatile, but when he melts down he's crazier.
 
 
 ## Future Todo

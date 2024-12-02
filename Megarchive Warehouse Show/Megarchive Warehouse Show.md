@@ -9,3 +9,5 @@ The show that it encompasses is:
 - Some parts of an old part of old ObjectWeb36.
 
 The name Megarchive in both MWS and my megarchive manual collections is a portmanteau of *Mega* and *Archive*.
+
+MWS is not family friendly, neither it aims to.

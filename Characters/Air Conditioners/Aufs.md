@@ -7,7 +7,7 @@ Aufs is a Fujitsu [AUG45AGB3W](fujitsu-gemstone-amber-ironoxide-cassette_mcgrp.r
 - Aufs, or Offs.
 - Au-F-S, or O-F-S (Preferred)
 
-The reason why his name is so divergent from his model is because during the development of Aufs, his species as the Fujitsu **AUG54FUAS** (Still a cassette heat pump). He was changed because there was more documentation with the Fujitsu AUY45AGB3W compared to the Fujitsu AUG54FUAS. His name Aufs was derived from the "AU" and the "FUAS" of the Fujitsu AUG54FUAS, and its kept here because it just is too good of a name to waste. The species of AUG54FUAS and the AUY45AGB3W is technically the same, except being a different generation and that the AGB3W is a cooling-only model, so they should be similar other than those facts.
+The reason why his name is so divergent from his model is because during the development of Aufs, his species as the Fujitsu **AUG54FUAS** (Still a cassette heat pump). He was changed because there was more documentation with the Fujitsu AUY45AGB3W compared to the Fujitsu AUG54FUAS. His name Aufs was derived from the "AU" and the "FUAS" of the Fujitsu AUG54FUAS (Excuse to use the awesome filesystem name of aufs), and its kept here because it just is too good of a name to waste. The species of AUG54FUAS and the AUY45AGB3W is technically the same, except being a different generation and that the AGB3W is a cooling-only model, so they should be similar other than those facts.
 
 He was born in August 9, 2001. They are Bigender, its a very [complicated topic](#Gender%20Identity). His pronouns are (he/them).
 
@@ -16,6 +16,8 @@ He is white if skin color matters. He has yellowed quite a bit from age, but he 
 Aufs is more durable than the average person in the [Megarchive Warehouse](Megarchive%20Warehouse.md). He can survive way more injuries and potentially even injuries that are lethal to a normal person in the [Megarchive Warehouse](Megarchive%20Warehouse.md), but he can't beat [ToshyFEN](ToshyFEN.md). Aufs is also the sanest person in MWS, he would probably one of the only few to sane if everyone goes insane. 
 
 Aufs is also kinda the butt monkey of the [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show.md).
+
+[This](fujitsu-gemstone-amber-ironoxide-cassette_mcgrp.ru-wUHQLxwD.pdf) is Aufs' reference manual.
 ### Being the Butt Monkey
 
 Aufs is kinda the butt monkey of MWS. Its a semi-official status. He is also the iron butt monkey of MWS. He is the punching bag of MWS, the guy of comedic sadism.
@@ -42,14 +44,14 @@ Thats a lot to yap, and it probably uses incorrect terms. And yes its a lot to y
 ## Personality
 Aufs is Aufs. He is simply Aufs. He is proud of being Aufs as his identity. This is why he is probably the sanest. Him being Aufs will make him remember that he is still Aufs and not some maniac in the event that everyone goes insane, and this identity and memory keeps Aufs sane as Aufs remembers that he is still Aufs.
 
-Aufs is also mysterious. Not many people know a lot about him, as he is quite secretive and secluded. He is not the most social person in the [Megarchive Warehouse](Megarchive%20Warehouse.md). He doesn't interact a lot with people.
+Aufs is also mysterious. Not many people know a lot about him, as he is quite secretive and secluded. He is not the most social person in the [Megarchive Warehouse](Megarchive%20Warehouse.md). He doesn't interact a lot with people. He always seems to be plotting something.
 
-He though is an egotistical perfectionist. He is pretty cunning and sly. He would reveal this side randomly in the event that he decides to reveal himself. He flexes on people and shows how **PROUD** he is.
+He though is an egotistical perfectionist. He is pretty cunning and sly. He would reveal this side randomly in the event that he decides to reveal himself. He flexes on people and shows how **PROUD** he is to be Aufs and sane.
 
-Aufs puts this egotistical tough guy facade, but he is a softie in reality.
+Aufs puts this egotistical tough guy facade, but he is a softie in reality. If you know him well, he is actually a great person to talk too. But don't share his secrets, or you will break his trust. He may help you, but not really that much.
+
+Aufs is always plotting something. It is usually mundane or ridiculous, but the way he does so is creepy and gives off an evil vibe. This is amplified with his mysterious nature.
 
 Aufs is also funny when made fun of. He is quite a funny person after all, even though he ain't aims to be that. This is why he kinda the [butt monkey](#Being%20the%20Butt%20Monkey) of the [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show.md).
-
-TBA
 
 ## Relations
