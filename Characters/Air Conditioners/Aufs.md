@@ -55,3 +55,5 @@ Aufs is always plotting something. It is usually mundane or ridiculous (but some
 Aufs is also funny when made fun of. He is quite a funny person after all, even though he ain't aims to be that. This is why he kinda the [butt monkey](#Being%20the%20Butt%20Monkey) of the [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show.md).
 
 ## Relations
+
+#airconditioner 

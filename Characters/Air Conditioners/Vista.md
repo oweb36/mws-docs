@@ -21,3 +21,5 @@ Vista being goofy means that she would also crack jokes at inappropriate moments
 Her optimistic stuborness with her logically ok and wet humor makes her a wildcard-ed sore thumb. She stands out with a uniqueness of her own: being that she is a logical person (kinda) with a great sense of humor and goofiness.
 
 ## Relations
+
+#airconditioner 
