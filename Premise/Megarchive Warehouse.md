@@ -46,3 +46,5 @@ So in a nutshell, they got old computers as their computer lab. There's the *Mac
 
 A door that leads to a magical and mysterious room is present. The door is unique in the way it opens, and there is a sign that reads "Repair, Service and Recovery" on top of it. This magic room is the room where the [residents](Characters.md) get recovered in when they die.  
 A keyboard and a monitor is also next to the RSR room. This is where the other residents punch in the name of their dead friends to recover.
+
+The RSR can also repair injuries. It's useful, but rarely used. This injury healing feature is so rarely used that almost everyone forgot about the existence of this feature.
