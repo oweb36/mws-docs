@@ -85,6 +85,11 @@ What's This?: This board is for how the characters will be in the future. How th
 	FEN would also be more paranoid of the whole world and its evilness to add spice. He fears a lot now. RBC also would be more paranoid and cautious like I said.
 	
 	FEN being less sane than before means that he would suffer more mental disorders, but him being saner means that he would have more control. So he is more chill and more volatile, but when he melts down he's crazier.
+- [ ] [Aufs](Aufs.md) is more normal.
+	
+	Aufs is more normal. He is less weird than before, but he is more stalking than before. Aufs also opens up even more.
+	
+	Aufs would even be more yellowed than before.
 
 
 ## Future Todo

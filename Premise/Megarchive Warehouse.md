@@ -2,6 +2,8 @@ The Megarchive Warehouse is the place where the [Megarchive Warehouse Show](Mega
 
 Its just your warehouse of products and parts. There are parts and showcase like appliances such as [air conditioners](Air%20Conditioners.md), [washing machines](Washing%20Machines.md), [refridgerators](Refridgerators.md) and etc. The warehouse also has a comprehensive library and index for the residents to use. The living quarters is where they spend most of their time.
 
+The warehouse is not the most futuristic, because they don't have a lot to go with. They just have enough money to do well and survive a nice life, but not enough for a savvy and luxurious life. Everyone who is a resident is ok though as everything is alright. This is why some of the furnitures and appliances aren't so new, but instead old.
+
 ## Parts and Showcase
 
 This is where we can see all the air conditioners, fridges, washing machine and more appliances that the warehouse holds. We can see a live demo here.

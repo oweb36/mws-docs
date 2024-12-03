@@ -11,5 +11,6 @@ a.xml
 a.txt
 a.tout
 a.json
+*.xml
 out/
 _site/

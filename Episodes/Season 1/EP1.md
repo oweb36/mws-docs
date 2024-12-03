@@ -32,7 +32,7 @@ Everyone from the living quarters goes outside and sees the carnage that DeltaCX
 
 DeltaCXG says to Wheamy: "Guess what? Some are dead and I will be adding more! What will you do about it?" Wheamy the continues: "Watch me recover them, you murderer!" and also says to [MXU](VXU.md#MXU): "Man, you need to step up your game! You are too slow to protect anybody from DeltaCXG, even with your power of mobility!" DeltaCXG, provoked from what Wheamy says, punches him. That's another victim of today that is added to DeltaCXG.
 
-JHR then gives a sigh that has a "*here we go again*" vibes and drags Wheamy, injured back into the living quarters. Wheamy then uses the RSR of the living quarters to recover the murdered victims of DeltaCXG. Nothing he can do for the injured victims of DeltaCXG, including himself. So they have to deal with it. Wheamy then decides to rest and recover in the living quarters.
+JHR then gives a sigh that has a "*here we go again*" vibes and drags Wheamy, injured back into the living quarters. Wheamy then uses the RSR of the living quarters to recover the murdered victims of DeltaCXG. Nothing he can do for the injured victims of DeltaCXG, including himself. So they have to deal with it. Wheamy then decides to rest and recover in the living quarters. But then DeltaCXG causes more carnage, thwarting Wheamy.
 
 
 **TODO: MORE CARNAGE**
@@ -43,7 +43,7 @@ JHR then says to ToshyFEN: "Its great that you stopped DeltaCXG when we need him
 
 WELLPan, who was busy reading then comes out and says "Hey guys! Anything new? I saw Wheamy coming back, but I just want to know what happened?" JHR then says "DeltaCXG just killed and injured, pretty much almost everyone here. Its a massacre outside. We are the only survivors who didn't get injured or killed in any way." WELLPan then says "Oh, many died because of this one person DeltaCXG?" ToshyFEN then calmly says "Yes."
 
-WELLPan then comments: "Btw ZeNer died after messing with the electrical outlets." KaHLium then says: "Well, ig we know what not to play with. Fuck around and Find out is not a good idea. Play stupid games, win stupid prizes."
+WELLPan then comments: "Btw ZeNer died after messing with the electrical outlets." KaHLium then says: "Well, ig we know what not to play with. Fuck around and Find out is not a good idea. Play stupid games, win stupid prizes." JHR says "Yeah, someone better watch ZeNer next time. I fear that me might suddenly get his hands on a grenade and kill us all."
 
 
 
