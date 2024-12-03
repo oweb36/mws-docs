@@ -9,6 +9,8 @@ Vista has the Type-2 panel and BRC082A42S controller installed.
 
 If skin color matters, Vista is white.
 
+Vista owns a *TRS-80 Model 100* portable computer. She is tech-savvy with it, and knows how to program it. She doesn't have much (along with others) but can afford a computer. [JHR](JHR.md) is the other people to own a *TRS-80 Model 100*.
+
 ## Personality
 Vista is logically quite ok, but she is tech-savvy. Vista is a tech-savvy solver who always throws technology to solve problems, even when it is inappropriate. Vista is also very optimistic and realistic. Her ideas may clash with others who are more level-headed and have more common sense, and she is unapologetic for it. Vista is naturally and fully unapologetic ig, but ok. She is recklessly confident, so much that she dives head first even if the situation is not ripe, and she uses her skills to (try to) find a way.
 

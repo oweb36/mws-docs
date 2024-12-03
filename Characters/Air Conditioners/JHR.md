@@ -10,6 +10,8 @@ JHR is one of the most intelligent person in MWS.
 He was born in March 15, 2008 as a European. JHR is a cisgender and bisexual male (he/him).  
 If skin color is considered, he is white.
 
+JHR owns a *TRS-80 Model 100* portable computer. He finds it way useful for life and work purposes. The other people to own a *TRS-80 Model 100* is [Vista](Vista.md).
+
 ## Personality
 
 In a nutshell, he behaves differently in different situations. JHR is still a good guy though.
