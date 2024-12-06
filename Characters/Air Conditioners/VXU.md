@@ -19,6 +19,8 @@ Both MXU and CTUX were born in August 12, 2008. DeltaCXG is a later addition to 
 
 If skin color matters, VXU is white.
 
+Whatever you do, don't try to disconnect a member of VXU from VXU. That's quite rude and it hurts to do so. An example is disconnecting [MXU](#MXU) from [DeltaCXG](#DeltaCXG) by ripping DeltaCXG off or disconnecting their cables. It would hurt [CTUX](#CTUX) too.
+
 ## Personality
 
 Since VXU is a triad that is also a single person, each of the people in VXU has their own personalities. Each of them has contrasting personality that can balance each other out.

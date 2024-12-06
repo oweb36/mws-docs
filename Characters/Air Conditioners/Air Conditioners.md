@@ -16,6 +16,8 @@ The air conditioners and heat pumps can have multiple body types. Here are the a
 
 And then there are the controllers, which are usually companions to the main unit. The controllers may be independent though.
 
+Air conditioners can also be the outdoor units.
+
 They are inorganic and electronic in nature (most of them at least), so their logic board is like their brain. Any damage to their body parts would impair its ability and function. For example, breaking their outer casing (or shell in [AACOS](AACOS.md) terms) could incapacitate their limbs depending on the location of the damage. Their logic board, if damaged could cause them to die.
 
 They have refrigerants, which may differ from them. This is kinda like their blood type; wrong refrigerants can cause nasty damages to their system.

@@ -6,13 +6,6 @@ kanban-plugin: board
 
 ## Eternity
 
-- [ ] Give [JHR](JHR.md) siblings and cousins. Then assimilate JHR into a person-lith kinda like [VXU](VXU.md) with his siblings as he and his siblings are capable of multi-split unit operation.
-	
-	His siblings are a Sharp AE-XM30GR, AY-XPC7JR and AY-XPM18HR. 
-	
-	This monolith person-lith is called as "AEX" (Pronounced as Ax or Axe). JHR is still called JHR. AY-XPM18HR's name is HR, AE-XM30GR is MGR (Pronounced as M-G-R or Manager) and AY-XPC7JR is PCR (Pronounced as P-C-R).
-	
-	In AEX, PCR is the only female. AEX is now therefore a bigender (he/she) because there's a female and males. AEX is also non-binary (they/them) because AEX is now 4 person in 1 person. You can now refer to AEX as he/she/they/them.
 - [ ] Give JHR or AEX a cousin. AEX/JHR's cousin is the IVT version of JHR (superior and inferior at the same time).
 
 
@@ -23,6 +16,13 @@ kanban-plugin: board
 
 ## Todo
 
+- [ ] Give [JHR](JHR.md) siblings and cousins. Then assimilate JHR into a person-lith kinda like [VXU](VXU.md) with his siblings as he and his siblings are capable of multi-split unit operation.
+	
+	His siblings are a Sharp AE-XM30GR, AY-XPC7JR and AY-XPM18HR. 
+	
+	This monolith person-lith is called as "AEX" (Pronounced as Ax or Axe). JHR is still called JHR. AY-XPM18HR's name is HR, AE-XM30GR is EXMGR (Pronounced as E-X-M-G-R or E-X-Manager) and AY-XPC7JR is PCR (Pronounced as P-C-R).
+	
+	In AEX, PCR is the only female. AEX is now therefore a bigender (he/she) because there's a female and males. AEX is also non-binary (they/them) because AEX is now 4 person in 1 person. You can now refer to AEX as he/she/they/them.
 
 
 ## Current
