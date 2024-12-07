@@ -9,7 +9,7 @@ AEX is a Sharp Multi-Split [heat pump](Air%20Conditioners.md) system. They are a
 - JHR (AY-XPC12JHR)
 - EXMGR (AE-XM30GR)
 - HR (AY-XPM18HR)
-- JR (AY-XPC7JR)
+- PCR (AY-XPC7JR)
 
 These quadruplets are siblings. AEX is like [VXU](VXU.md), where they are four person in a single person. [JHR](#JHR) is the dominant sibling out of AEX.
 
@@ -95,7 +95,9 @@ In his sociopathy, he is sadistic (not murderous). He likes pain, but isn't that
 ### EXMGR
 
 ### HR
-HR is the gruffy boi.
+HR is the gruffy boi. He is the strongest one, and therefore has a pretty rough and tough personality.
+
+He isn't the most welcoming, and is very iritable. HR is also quite unpleasant to interact with at times.
 
 ### PCR
 
