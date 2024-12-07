@@ -95,9 +95,15 @@ In his sociopathy, he is sadistic (not murderous). He likes pain, but isn't that
 ### EXMGR
 
 ### HR
-HR is the gruffy boi. He is the strongest one, and therefore has a pretty rough and tough personality.
+HR is the gruffy boi. He is the strongest one, and therefore has a pretty rough and tough personality. He is not a jock though, he doesn't exercise that much.
 
-He isn't the most welcoming, and is very iritable. HR is also quite unpleasant to interact with at times.
+He isn't the most welcoming, and is very irritable. HR is also quite unpleasant to interact with at times. He is also not that emotional, to the point where he doesn't let his emotions appear to others (like sadness cus boys are boys). Basically he is an unpleasant and emotionless person.
+
+HR might have some anger issues, but its not as bad as [Xeo](Xeo.md)'s (his anger issues is mild compared to Xeo's). He has a way to deal with them, unlike Xeo lashing out on people. HR would even punch walls or tables rather than punch somebody. HR would also try to exercise his anger away (though he doesn't exercise that much). HR, basically would do whatever he can to avoid taking his anger on somebody.
+
+Despite this, HR is not arrogant or a bully. He just keeps to himself. HR also does not like hurting others physically despite him being a gruff boi. He is not misogynistic like others mostly.
+
+A nice side of HR is that he is not nice at all. But HR believes in (some levels of) equality between gender. He likes treating male and females the same. He has one exception (hence why I said *some levels of equality*) is that he wouldn't hesitate to punch girls if they deserve it or just annoy him too much.
 
 ### PCR
 
