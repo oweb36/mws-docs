@@ -34,11 +34,11 @@ DeltaCXG is the bad person here.
 
 CTUX is the overconfident and arrogant, but strong willed competitor, and is a good person in general. He is confident and determined. He can lead people with his great leadership skills, and is intelligent. He can strategically think.
 
-CTUX's arrogance due to his confidence may lead him to underestimate others.
+CTUX's arrogance due to his confidence may lead him to underestimate others. Although his arrogance manifests quite often, at times he is humble
 
-CTUX is not that sociopathic though. He would not willingly hurt others, unlike his fellow brother [DeltaCXG](#DeltaCXG). He finds physical violence too far for him. CTUX would also try to stop DeltaCXG if he can, like [MXU](#MXU) is brother, but he is too powerless to do so (at least MXU is the one capable of that).
+CTUX is not that sociopathic though. He would not willingly hurt others, unlike his fellow brother [DeltaCXG](#DeltaCXG). He finds physical violence too far for him. CTUX would also try to stop DeltaCXG if he can, like [MXU](#MXU) is brother, but he is too powerless to do so (at least MXU is the one capable of that). If he has power, CTUX would protect others.
 
-CTUX inherently is not a bad person, but a good person. He is just too arrogant and leadership-oriented.
+CTUX inherently is not a bad person, but genuinely a good person. He is just too arrogant and leadership-oriented for this good side to manifest frequently.
 
 ## MXU
 
