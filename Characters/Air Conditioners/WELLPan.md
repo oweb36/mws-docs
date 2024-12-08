@@ -35,7 +35,7 @@ In this duo, they could actually destroy the entire cast of MWS due to their she
 
 ToshyFEN's meltdown might cause WELLPan to freak out if there's nobody to stop him.
 
-### [JHR](JHR.md)
+### [AEX](AEX.md)
 They are good friends. JHR and WELLPan likes to read books in their spare time together.
 
 ### [ToshyMEF](ToshyMEF.md)

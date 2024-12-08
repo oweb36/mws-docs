@@ -38,8 +38,8 @@ They both are aware that they are down to basic, down to earth and practical. Th
 
 No funny things, but they are efficient when paired together. Due to them being down to basic and practical, they have an extremley high efficiency of work rate in doing work. They do the work and then immediately move on after doing everything needed for the work. No extra work, or incomplete work by them.
 
-### [JHR](JHR.md)
-JHR has a love-hate relationship with KaHLium, aka a frenemy situation. 
+### [AEX](AEX.md)
+[JHR](AEX.md#JHR) has a love-hate relationship with KaHLium, aka a frenemy situation. 
 
 JHR likes him because he knows that KaHLium is smart. JHR also knows that KaHLium, despite being logical and very intelligent, is miles below JHR. JHR likes to teach KaHLium a lot of things. He gives him knowledge on life and general school knowledge.
 

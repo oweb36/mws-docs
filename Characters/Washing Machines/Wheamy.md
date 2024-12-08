@@ -33,7 +33,7 @@ Wheamy does not inherently hate or dislike him, but is not the happiest with him
 
 Why? Because Piss tries to prevent AngelSaph from eating for safekeeping. While Wheamy understands that Piss is doing it for the good of everyone, he can't just do that while allowing one person who needs food to die!
 
-### [JHR](JHR.md)
+### [AEX](AEX.md)
 JHR shows Wheamy the way to life. He shows him, how to do life skills. Wheamy doesn't exactly know a lot of things in life, so JHR guides him.
 
 Wheamy doesn't protect JHR because JHR can do so himself.

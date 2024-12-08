@@ -11,6 +11,12 @@ AEX is a Sharp Multi-Split [heat pump](Air%20Conditioners.md) system. They are a
 - HR (AY-XPM18HR)
 - PCR (AY-XPC7JR)
 
+AEX's name is pronounced as:
+- AYX (Aycks)
+- AEX (A-E-X)
+- Axe
+- Ex
+
 These quadruplets are siblings. AEX is like [VXU](VXU.md), where they are four person in a single person. [JHR](#JHR) is the dominant sibling out of AEX.
 
 Have this dominance list (top is most dominant):
@@ -108,7 +114,7 @@ As a normal person, he is genuinely a good person to hang out with, but can be w
 
 JHR is fairly chatty relatively, but he is not as chatty as [JKE](JKE.md). He likes to talk about knowledge. He likes to exchange life with you and him. JHR is practically pretty much down to basic in his chattiness, he just wants to make people comfortable. 
 
-JHR may also spew out garbage, very random garbage once in a while. Its typically indiscernible noises, or just his thoughts. JHR does this because he's slightly insane. 
+JHR may also spew out garbage, very random garbage once in a while. Its typically indiscernible noises, or just his thoughts. JHR does this because he's slightly insane. With this trait, he might accidentally insult or call you a slur. Don't worry, it's unintentional and he does not mean it (most of the time).
 
 JHR is also the kind of person to teach you how to do things. If you don't know how to read, or fail miserably at walking, JHR will show you how. He enjoys teaching and tutoring others.
 
