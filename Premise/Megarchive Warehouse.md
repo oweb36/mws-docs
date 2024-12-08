@@ -22,6 +22,7 @@ The living quarters is the place where the [residents](Characters.md) mostly spe
 
 There's a kitchen, which is pretty much useless to all the residents, except AngelSaph. AngelSaph is the only one who needs to consume food. AngelSaph has all the food to himself.
 
+There's a sunroof somewhere here for everyone to peek at the sky.
 
 ### Beds
 There's also an array of bed, with outlets for the residents to plug in for the night. Each bed is personalized and customized to each of them. So the [air conditioners](Air%20Conditioners.md) beds are tailored to them, while the [washing machines](Washing%20Machines.md) also have tailored beds, and etc...

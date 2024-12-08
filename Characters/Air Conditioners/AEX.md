@@ -18,6 +18,15 @@ Have this dominance list (top is most dominant):
 2. [EXMGR](#EXMGR)
 3. [HR](#HR)
 4. [PCR](#PCR)
+Yeah, PCR is least dominant in AEX despite her being the nicest. Funnily enough, she is the only normal one, cus everyone else in AEX has something wrong in some way mentally. Everyone does not have full-on mental disorders such as [ToshyFEN](ToshyFEN.md) and no way are they as bad as ToshyFEN's mental health, and this also means that everyone is sane. Nobody is insane in AEX. Its just that everyone except PCR have quirks in their mental state/headspace.
+
+Another note is despite JHR being more dominant than EXMGR, EXMGR is the method of locomotion for AEX. So EXMGR is responsible for movement because he is the legs while JHR, HR and PCR are not the legs.
+
+Have this friendliness list (top is the most friendly):
+1. [PCR](#PCR)
+2. [EXMGR](#EXMGR)
+3. [JHR](#JHR)
+4. [HR](#HR)
 
 Everyone in AEX is some kind of european. AEX is also european.
 
@@ -30,6 +39,10 @@ Whatever you do, don't try to disconnect a member of AEX from AEX. This is not o
 JHR is a wall-mounted Sharp AY-XPC12JHR [heat pump](Air%20Conditioners.md). His name is pronounced as Jay-Eitch-Ar and derived from the JHR part of his species as a Sharp AY-XPC12JHR.
 
 JHR is the dominant sibling out of AEX. He is not the strongest one physically though in AEX. JHR is one of the most intelligent person in MWS.
+
+JHR has arms and legs.
+
+JHR is considered sociopathic and sadistic. His sadism is not that extreme and it only manifests in his sociopathy. Basically he has *Antisocial Personality Disorder*.
 
 He was born in March 15, 2008. JHR is a cisgender and bisexual male (he/him).  
 If skin color is considered, he is white.
@@ -48,6 +61,10 @@ His name is derived from the "AE-X" and the "GR" of his species' model.
 
 EXMGR was born in March 15, 2008. He's part of the same batch as [JHR](#JHR) and therefore have the same birthday.
 
+EXMGR is armless, and only has legs for limbs.
+
+EXMGR is quite hyperactive. He speaks too fast.
+
 EXMGR is a cisgender and heterosexual male (he/him).
 
 EXMGR is white if skin color matters.
@@ -57,7 +74,9 @@ HR is a Sharp AY-XPM18HR [heat pump](Air%20Conditioners.md). His name is pronoun
 
 HR was born in March 15, 2008. He's part of the same batch as [EXMGR](#EXMGR) and [JHR](#JHR). He's part of the same batch as [JHR](#JHR) and [EXMGR](#EXMGR), and therefore have the same birthday.
 
-HR is the strongest one out of AEX.
+HR is the strongest one out of AEX. He has some anger issues, but not as severe as [Xeo](Xeo.md)'s.
+
+HR has arms and legs.
 
 HR is a cisgender male. HR is unlabelled in sexual orientation as he has no idea if he wants to be gay, bisexual, heterosexual or asexual. He just leaves it unlabelled just for it.
 
@@ -68,6 +87,10 @@ PCR is a Sharp AY-XPC7JR [heat pump](Air%20Conditioners.md). Her name is pronoun
 
 PCR was born in February 19, 2010. She's a later addition to AEX. PCR is the least dominant out of AEX.
 
+PCR has arms and legs.
+
+PCR is the only normal one.
+
 PCR is a cisgender and heterosexual female (she/her).
 
 PCR's skin color is white if skin color matters.
@@ -77,11 +100,11 @@ PCR's skin color is white if skin color matters.
 AEX, just like [VXU](VXU.md) is a quadruplet of a person and therefore have multiple personalities for each member.
 
 ### JHR
-In a nutshell, he behaves differently in different situations. JHR is still a good guy though albeit slightly insane.
+In a nutshell, he behaves differently in different situations. JHR is still genuinely a good guy though albeit slightly insane (sociopathy). 
 #### As a host
 JHR is warm and welcoming, albeit strict at times. He is also a workaholic, so he would probably get depressed if he doesn't do anything. He is the host after all, what do you expect? He wants and needs to do his job.
 #### As a normal person
-As a normal person, he is a good person to hang out with, but can be weird and sociopathic at times. He is not exactly normal in his mind, so he may speak random garbage that you weren't supposed to hear.
+As a normal person, he is genuinely a good person to hang out with, but can be weird and sociopathic at times. He is not exactly normal in his mind, so he may speak random garbage that you weren't supposed to hear.
 
 JHR is fairly chatty relatively, but he is not as chatty as [JKE](JKE.md). He likes to talk about knowledge. He likes to exchange life with you and him. JHR is practically pretty much down to basic in his chattiness, he just wants to make people comfortable. 
 
@@ -90,9 +113,24 @@ JHR may also spew out garbage, very random garbage once in a while. Its typicall
 JHR is also the kind of person to teach you how to do things. If you don't know how to read, or fail miserably at walking, JHR will show you how. He enjoys teaching and tutoring others.
 
 #### Sociopathy
-In his sociopathy, he is sadistic (not murderous). He likes pain, but isn't that all? Anyways. He is also good to hang out as he can rant and chat with you about many things.
+In his sociopathy, his sadism manifests (not murderous). 
+
+Nah, he is also quite uncaring at times. He doesn't care if his friends are happy or get hurt. He just does his own things. JHR can also be reckless with others during his sociopathic moments.
+
+JHR would also distant himself from others. JHR can avoid people in this state, and even try to abstain himself. He may even isolate himself from others.
+
+JHR might even hurt others if they annoy him in this antisocial state. He might get irritated quickly when people touch his things. This is where his sadism plays the best. He enjoys actually hurting people in cases like this.
+
+This antisocial behavior does not manifest all the time. It only manifest either randomly or when JHR is overstressed (**EXTREME** overstress, and this is guranteed). Its kinda his stress-coping behavior, which this method is definitely not a good way to do so. He would eventually go to normal.
 
 ### EXMGR
+EXMGR is the most extroverted person in AEX. He is very hyperactive and speaks way too fast. EXMGR has way too much energy in him probably. It's even hard for him to pay attention and focus at one part. Because of this, he has problems with communication and social skills.
+
+Despite this, EXMGR is still quite friendly. He would love to make new friends and be your friend. He can yap a lot, and with his rapid speech it can be a nightmare to listen to. 
+
+EXMGR though has some slight sadness within him. This is because despite him wanting to make friends, he finds it hard to make befriend others at times. All of this are due to him speaking too fast and have bad social skills.
+
+EXMGR is a good guy, with bad social skills in a nutshell.
 
 ### HR
 HR is the gruffy boi. He is the strongest one, and therefore has a pretty rough and tough personality. He is not a jock though, he doesn't exercise that much.
@@ -101,11 +139,20 @@ He isn't the most welcoming, and is very irritable. HR is also quite unpleasant 
 
 HR might have some anger issues, but its not as bad as [Xeo](Xeo.md)'s (his anger issues is mild compared to Xeo's). He has a way to deal with them, unlike Xeo lashing out on people. HR would even punch walls or tables rather than punch somebody. HR would also try to exercise his anger away (though he doesn't exercise that much). HR, basically would do whatever he can to avoid taking his anger on somebody.
 
-Despite this, HR is not arrogant or a bully. He just keeps to himself. HR also does not like hurting others physically despite him being a gruff boi. He is not misogynistic like others mostly.
+Despite this, HR is not arrogant or a bully. He just keeps to himself. HR also does not like hurting others physically despite him being a gruff boi. HR would rather be alone and not interact with people rather than interact with others and potentially hurt them (maybe). He can join parties or large-aah people events for extroverts, but he would just be silent.
 
-A nice side of HR is that he is not nice at all. But HR believes in (some levels of) equality between gender. He likes treating male and females the same. He has one exception (hence why I said *some levels of equality*) is that he wouldn't hesitate to punch girls if they deserve it or just annoy him too much.
+HR is basically a gruff introvert.
 
 ### PCR
+PCR is the only one whose normal in AEX. Her headspace/mental state is the most ok out of all. She's also the only female. 
+
+PCR is the one who is completely nice unlike the others. She actually has no dark side or strange quirks. She would be the most sane out of everyone. 
+
+PCR though is the shy one, quiet and gentle. She's also very submissive, able to be told to do things in order to make people happy. PCR is a people pleaser. PCR knows that some things may be wrong, but she still does it to please the requester. She has sociotropy.
+
+PCR is also the one to dislike large-people events such as parties. She would beg to leave, but she can't because [EXMGR](#EXMGR) is the legs. PCR would suffer in these kind of events, but oh well.
+
+PCR is considered as an introvert.
 
 ## Relations
 
@@ -113,7 +160,6 @@ A nice side of HR is that he is not nice at all. But HR believes in (some levels
 
 ### [MHeLy](MHeLy.md)
 MHeLy is a close friend to JHR, and vice versa. MHeLy has known JHR other for longer compared to anybody else in her. They have enjoyed time together, playing and watching the silver of the night skies.
-
 ### [KaHLium](KaHLium.md)
 JHR has a love-hate relationship with KaHLium, aka a frenemy situation. 
 
