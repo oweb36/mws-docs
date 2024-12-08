@@ -9,7 +9,9 @@ MHeLy is one of the most intelligent person in MWS. She's also one of the weaker
 
 If skin color matters, MHeLy is gray and silver.
 
-Her elder brother is [KaHLium](KaHLium.md)
+Her elder brother is [KaHLium](KaHLium.md).
+
+Her voice would probably be a high-pitched girlish feminine voice with softness and squeak into it.
 
 ## Personality
 
