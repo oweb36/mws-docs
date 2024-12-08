@@ -86,7 +86,7 @@ HR has arms and legs.
 
 HR is a cisgender male. HR is unlabelled in sexual orientation as he has no idea if he wants to be gay, bisexual, heterosexual or asexual. He just leaves it unlabelled just for it.
 
-HR is (supposedly) white if skin color matters. I say supposedly because he is currently yellowed. Its not severely yellowed, and therefore it doesn't bother him. This yellowing shows HR's age.
+HR is (supposedly) white if skin color matters. I say supposedly because he is currently yellowed. Its not severely yellowed, and therefore it doesn't bother him. This yellowing shows HR's age. Its kinda a sore thumb, but a proud sore thumb.
 
 ### PCR
 PCR is a Sharp AY-XPC7JR [heat pump](Air%20Conditioners.md). Her name is pronounced as P-C-R (Pee-See-Arr) aka like how you pronounce the PCR test for Covid-19. Her name is derived from the "XPC" and the "JR" of her species' model.
@@ -98,6 +98,8 @@ PCR has arms and legs.
 PCR is the only normal one.
 
 PCR is a cisgender and heterosexual female (she/her).
+
+All of the traits above make her the odd one out.
 
 PCR's skin color is white if skin color matters.
 
