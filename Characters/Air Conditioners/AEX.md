@@ -1,6 +1,6 @@
 AEX is a [character](Characters) the host of [[Megarchive Warehouse Show]]. AEX also used to be the host of [[AACOS]], but you know its now a part of the [[Megarchive Warehouse Show]]. 
 
-When I said that AEX also used to be the host of AACOS, I meant [JHR](AEX.md#JHR) of AEX and not AEX as a whole. This also means that JHR is the host of MWS, and the rest are just his co-host ig.
+When I said that AEX also used to be the host of AACOS, I meant [JHR](AEX.md#JHR) of AEX and not AEX as a whole. This also means that JHR is the host of MWS, and the rest are just his co-host because they are also AEX ig. To recap this, JHR is the host while the rest kinda co-hosts.
 
 AEX is kinda like [VXU](VXU.md) in physiology. 
 
@@ -132,9 +132,11 @@ JHR might even hurt others if they annoy him in this antisocial state. He might 
 This antisocial behavior does not manifest all the time. It only manifest either randomly or when JHR is overstressed (**EXTREME** overstress, and this is guranteed). Its kinda his stress-coping behavior, which this method is definitely not a good way to do so. He would eventually go to normal.
 
 ### EXMGR
-EXMGR is the most extroverted person in AEX. He is very hyperactive and speaks way too fast. EXMGR has way too much energy in him probably. It's even hard for him to pay attention and focus at one part. Because of this, he has problems with communication and social skills.
+EXMGR is the most extroverted person in AEX. He is very hyperactive and speaks way too fast. Its pretty hard to discern EXMGR's fast speech thats quite mumbling and slurring (not the offensive slurring). EXMGR has way too much energy in him probably. It's even hard for him to pay attention and focus at one part. He has severe inattention. EXMGR could potentially have ADHD.
 
-Despite this, EXMGR is still quite friendly. He would love to make new friends and be your friend. He can yap a lot, and with his rapid speech it can be a nightmare to listen to. 
+Because of all above, his speech is quite impaired. He also has poor social skills due to it.
+
+Despite this, EXMGR is still quite friendly. He would love to make new friends and be your friend. He can yap a lot, and with his rapid speech it can be a nightmare to listen to so please bear with it. If you want to be his friend, he would be happy to befriend you. EXMGR would also be the one to ask you if you want to be his friend.
 
 EXMGR though has some slight sadness within him. This is because despite him wanting to make friends, he finds it hard to make befriend others at times. All of this are due to him speaking too fast and have bad social skills.
 

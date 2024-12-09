@@ -13,15 +13,15 @@ He is one of the strongest person in the Megarchive Warehouse Show. He is also o
 
 WELLPan is one of the chillest and most easygoing person in the Megarchive Warehouse Show. He is pretty much the easygoing vibe carrier in AACOS. He has that unhinged, yet chill humor. WELLPan is also kinda lazy and unmotivated at times. To get his thin body to do something, you should motivate him.
 
-WELLPan also doesn't really care about his surroundings that much, unless he is actually doing a **NOT SO LAZY** action like idk, **MOVING**? He is very oblivious, but thats only because like I said, he doesn't care about the surroundings. He is very care free. After all, he is lazy and chill to care about the chaos and his surroundings eh? This carefree personality and behavior of WELLPan is the reason why WELLPan is one of the sanest. He doens't care about the madness, and with that he doesn't let the chaos and insanity of the world bother him to insanity. He deals with his own problems and things.
+WELLPan also doesn't really care about his surroundings that much, unless he is actually doing a **NOT SO LAZY** action like idk, **MOVING**? He is very oblivious, but thats only because like I said, he doesn't care about the surroundings. He is very care free. After all, he is lazy and chill to care about the chaos and his surroundings eh? This carefree personality and behavior of WELLPan is the reason why WELLPan is one of the sanest. He doesn't care about the madness, and with that he doesn't let the chaos and insanity of the world bother him to insanity. He deals with his own problems and things.
 
-WELLPan is also very smart. He is a bookworm. He likes to read a lot. This shows that WELLPan is smart, but is too unmotivated to do things. He can lead and serve as a voice of guidance and leadership to motivate and guide others (his competitors/friends), but only if he is bothered to do so.
+WELLPan is also very nonchalant at even the worst things. He (sometimes good, sometimes bad) treats everything as if its an everyday thing. To him, everything is alright and nothing ever goes wrong. Somebody dies? He treats that as a daily occurence. Somebody commits a war crime? Nah, to him its normal. Mass torture? Everything is alright, torture is normal. Basically he is very calm even at the most egregious things ever done or to happen.
+
+WELLPan is very smart. He is a bookworm. He likes to read a lot. This shows that WELLPan is smart, but is too unmotivated to do things. He can lead and serve as a voice of guidance and leadership to motivate and guide others (his competitors/friends), but only if he is bothered to do so.
 
 WELLPan may struggle with motivation and laziness, but don't underestimate him. He has the potential to win, but he doesn't want to. He is too chill. Everyone, well almost everyone likes him because he is easy to get along with.
 
 Just don't disturb him when he's reading or underestimate him, he doesn't like that. Nobody likes to be disturbed when reading books, in a library. Thats one of the few things that could actually piss him off.
-
-Everything is upside down when you push him to fear. That's when he freaks out. He freaks out in situations where people's lives including him are at steak. He goes panicky. He runs around and screams like a Banshee.
 
 ## Relations
 
