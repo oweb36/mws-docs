@@ -11,7 +11,9 @@ If skin color matters, MHeLy is gray and silver.
 
 Her elder brother is [KaHLium](KaHLium.md).
 
-Her voice would probably be a high-pitched girlish feminine voice with softness and squeak into it.
+Her voice would probably be a high-pitched girlish feminine voice with softness and squeak into it. We can describe it like Pinky Pie from MLP, but smth else is different.
+
+She wears dental braces, just for cosmetic reasons. I believe braces fit her so well with her personality. She has no crooked teeth, she just wants braces.
 
 ## Personality
 

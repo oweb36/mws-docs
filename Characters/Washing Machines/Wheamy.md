@@ -13,7 +13,9 @@ Wheamy is pretty much caring towards others, and what they need. He usually prot
 
 Wheamy may also not always be the happiest person. He may lash out at times. This is due to him protecting his dependees from the danger. This danger is what makes him not the happiest, as he hates them to his core.
 
-Wheamy is also a day dreamer. If he has nothing to do, he lets himself day dream and imagine utopia. Everything is happy in his dreams.
+Wheamy is also a day dreamer. If he has nothing to do, he lets himself day dream and imagine utopia. Everything is happy in his dreams. Its euphoria to him.
+
+Wheamy also is considered a femboy. Wheamy typically acts more feminine than masculine at times (which kinda matches his name). He is not **THAT** flamboyant, but he is obvious at being a femboy. He is still very sissy by man standards. Maybe all of this is why he cares, but idk (You speculate and theorize).
 
 ## Relations
 ### [Idendiby](Idendiby.md)

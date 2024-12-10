@@ -151,7 +151,9 @@ HR might have some anger issues, but its not as bad as [Xeo](Xeo.md)'s (his ange
 
 Despite this, HR is not arrogant or a bully. He just keeps to himself. HR also does not like hurting others physically despite him being a gruff boi. HR would rather be alone and not interact with people rather than interact with others and potentially hurt them (maybe). He can join parties or large-aah people events for extroverts, but he would just be silent.
 
-HR is basically a gruff introvert.
+HR also has one good side, but it doesn't manifest in a good way. He cares for people, but mostly to AEX. He cares and will protect his siblings (AEX). HR usually does not do this for others, and even if he does so its mostly a one-time-off thing. Don't expect him to potect you randomly eh!
+
+HR is basically a gruff introvert. He is good but he ain't nice.
 
 ### PCR
 PCR is the only one whose normal in AEX. Her headspace/mental state is the most ok out of all. She's also the only female. 
@@ -206,6 +208,6 @@ CKHSC shows JHR the way of the traditional life, which would have been lost if i
 With the difference in the generations, JHR and CKHSC knows the progression of life.
 
 
-#airconditioner 
+#airconditioner #multi-split
 
 > AEX was created in October 28, 2024.
