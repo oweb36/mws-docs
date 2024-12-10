@@ -36,4 +36,9 @@ NEptha sees JKE as a version of himself, a less advanced one. He sees JKE as inf
 
 NEptha and JKE both are aware that they aren't actually siblings.
 
+### [Wheamy](Wheamy.md)
+Wheamy finds NEptha more pleasant in comparrison to [others](VXU.md#DeltaCXG). He is still not happy with him.
+
+Sexism? Bro what? To him thats just a low.
+
 #airconditioner 

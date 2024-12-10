@@ -29,5 +29,10 @@ JVXH fears DeltaCXG. She knows the weird things DeltaCXG would do. She has seen 
 
 DeltaCXG wouldn't do anything to JVXH. Even though he knows that JVXH fears him, he doesn't care about her that much. DeltaCXG knows what JVXH would do.
 
+### [Xefa](Xefa.md)
+JVXH fights with Xefa over who's the best lesbian couple. 
+
+JVXH points out that Xefa is a valley girl, while Xefa accueses JVXH  of being a school shooter. That's *ad hominem* and its not civil.
+
 
 #airconditioner

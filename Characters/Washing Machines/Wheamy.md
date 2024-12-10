@@ -49,6 +49,11 @@ Wheamy feels this way because he knows that ToshyFEN is still young, and in fact
 
 Wheamy is very confused and worried about ToshyFEN. ToshyFEN to him is a mentally unstable person who needs help. This is because ToshyFEN fits both for Wheamy's need to help him and him making Wheamy's work harder.
 
+### [Wheamy](Wheamy.md)
+Wheamy finds NEptha more pleasant in comparrison to [others](VXU.md#DeltaCXG). He is still not happy with him.
+
+Sexism? Bro what? To him thats just a low.
+
 
 
 #washingmachines 

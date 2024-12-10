@@ -47,4 +47,9 @@ ToshyFEN is the kind of person to stop RXe when she gets too far. ToshyFEN also 
 
 ToshyFEN is scary to RXe eventhough RXe is the evil one. RXe is quite scared of ToshyFEN because ToshyFEN is quite unhinged at times and would kill. RXe questions whether he should be in a mental hospital, and sometimes doesn't know what to do with him.
 
+### [Xeo](Xeo.md)
+RXe and Xeo rather not fight, even though RXe is evil. RXe thinks that Xeo is not even worthy to fight, but is forced.
+
+Who forces them? [Xefa](Xefa.md) and [JVXH](JVXH.md).
+
 #airconditioner 

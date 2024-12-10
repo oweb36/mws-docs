@@ -17,7 +17,11 @@ She isn't smart, or even intelligent that much. If Xefa had hair and stereotype,
 ## Relations
 
 ### [Xeo](Xeo.md)
-
 They are couples eh. Not a very harmonic one, but they stick.
+
+### [JVXH](JVXH.md)
+JVXH fights with Xefa over who's the best lesbian couple.
+
+JVXH points out that Xefa is a valley girl, while Xefa accueses JVXH  of being a school shooter. That's *ad hominem* and its not civil.
 
 #airconditioner 

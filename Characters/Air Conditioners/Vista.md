@@ -22,4 +22,16 @@ Her optimistic stuborness with her logically ok and wet humor makes her a wildca
 
 ## Relations
 
+### [KaHLium](KaHLium.md)
+KaHLium respects Vista for being logical. He knows that Vista is actually smart at things. Vista can do a lot in logics and logistics.
+
+KaHLium has one thing that makes him quite sad at times, but not sad at times. He wishes that he has Vista's wet humor. KaHLium knows that his humor is dry, and on the contrary Vista's humor is wet.
+
+### [AEX](AEX.md)
+Vista is friends with [JHR](AEX.md#JHR) because of one thing they have in common: A *TRS-80 Model 100*.
+
+They work together programming that ancient tech. Vista is the one to teach JHR because despite JHR being intelligent and able to use computers, he has no idea how to program.
+
+They are still good friends even if you take away their *TRS-80 Model 100*.
+
 #airconditioner 

@@ -24,7 +24,6 @@ And yes, Xeo has unresolved anger issues. It has gone on for so long that its pr
 ## Relations
 
 ### [Xefa](Xefa.md)
-
 They are couples eh. Not a very harmonic one, but they stick.
 
 ### [JKE](JKE.md)
@@ -36,5 +35,10 @@ You get it.
 
 ### [NEptha](NEptha.md)
 NEptha dislikes Xeo. Its because Xeo is a woman, and just catty.
+
+### [RXe](RXe.md)
+RXe and Xeo rather not fight, even though RXe is evil. RXe thinks that Xeo is not even worthy to fight, but is forced.
+
+Who forces them? [Xefa](Xefa.md) and [JVXH](JVXH.md).
 
 #airconditioner 

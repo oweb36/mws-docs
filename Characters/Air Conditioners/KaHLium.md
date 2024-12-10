@@ -63,4 +63,9 @@ KaHLium doesn't like the anger issues of ZSRK. He is quite blatant on that. ZSRK
 
 They can work very well though if they have to. ZSRK can fetch and deduce things from crap, while KaHLium does the heavy data crunching. Its like Fisios, but KaHLium is more blunt and blatant.
 
+### [Vista](Vista.md)
+KaHLium respects Vista for being logical. He knows that Vista is actually smart at things. Vista can do a lot in logics and logistics.
+
+KaHLium has one thing that makes him quite sad at times, but not sad at times. He wishes that he has Vista's wet humor. KaHLium knows that his humor is dry, and on the contrary Vista's humor is wet.
+
 #airconditioner #sayonarapanas 
