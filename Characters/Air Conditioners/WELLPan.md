@@ -23,6 +23,8 @@ WELLPan may struggle with motivation and laziness, but don't underestimate him. 
 
 Just don't disturb him when he's reading or underestimate him, he doesn't like that. Nobody likes to be disturbed when reading books, in a library. Thats one of the few things that could actually piss him off.
 
+WELLPan can still panic and freak out, but it's way calmer than other's freakout. His chillness reduces the impact of it. Meltdowns are potentially a different story, especially if WELLPan is pushed. Nobody said that WELLPan has infinite patience.
+
 ## Relations
 
 ### [Aurl](Aurl.md)

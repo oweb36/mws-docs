@@ -100,6 +100,12 @@ DeltaCXG is also fearful of ToshyFEN because his mental health is not good and h
 
 So, MXU and CTUX are concerned and rather not get in trouble with ToshyFEN. DeltaCXg on the other hand, though knows the danger of ToshyFEN would still try to make some trouble with him.
 
+#### [AEX](AEX.md)
+HR has a love-hate relationship with VXU.
+
+HR respects [MXU](VXU.md#MXU) for attempting to stop [DeltaCXG](VXU.md#DeltaCXG) if he can. HR though feels at times MXU is incompetent or even slacking off at this responsibility.
+
+HR has problems with DeltaCXG. He does not like DeltaCXG bullying and harming others. HR would rip DeltaCXG if he dares hurt [PCR](#PCR). HR is also that one guy along with ToshyFEN to stop DeltaCXG if needed.
 
 
 #airconditioner #multi-split 

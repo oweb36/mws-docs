@@ -69,7 +69,7 @@ EXMGR was born in March 15, 2008. He's part of the same batch as [JHR](#JHR) and
 
 EXMGR is armless, and only has legs for limbs.
 
-EXMGR is quite hyperactive. He speaks too fast.
+EXMGR is quite hyperactive. He speaks too fast. He is also on par with [JHR](#JHR) in his intelligence, but his hyperactivity dampens it.
 
 EXMGR is a cisgender and heterosexual male (he/him).
 
@@ -162,7 +162,7 @@ PCR is the one who is completely nice unlike the others. She actually has no dar
 
 PCR though is the shy one, quiet and gentle. She's also very submissive, able to be told to do things in order to make people happy. PCR is a people pleaser. PCR knows that some things may be wrong, but she still does it to please the requester. She has sociotropy.
 
-PCR is also the one to dislike large-people events such as parties. She would beg to leave, but she can't because [EXMGR](#EXMGR) is the legs. PCR would suffer in these kind of events, but oh well.
+PCR is also the one to dislike large-people events such as parties. She would beg to leave, but she can't because [EXMGR](#EXMGR) is the legs. PCR would suffer in these kind of events, but oh well. She would think *"Please get me out of here! Please kill me! I don't want to be with these many people. I am scared."*
 
 PCR is considered as an introvert.
 
@@ -170,9 +170,9 @@ PCR is considered as an introvert.
 
 ### JHR
 
-### [MHeLy](MHeLy.md)
+#### [MHeLy](MHeLy.md)
 MHeLy is a close friend to JHR, and vice versa. MHeLy has known JHR other for longer compared to anybody else in her. They have enjoyed time together, playing and watching the silver of the night skies.
-### [KaHLium](KaHLium.md)
+#### [KaHLium](KaHLium.md)
 JHR has a love-hate relationship with KaHLium, aka a frenemy situation. 
 
 JHR likes him because he knows that KaHLium is smart. JHR also knows that KaHLium, despite being logical and very intelligent, is miles below JHR. JHR likes to teach KaHLium a lot of things. He gives him knowledge on life and general school knowledge.
@@ -183,22 +183,22 @@ JHR dislikes one thing about KaHLium, his no-nonsense nature. He feels like he c
 
 Anyways, JHR tends towards the love side more than the hate side of his relationship with KaHLium. Basically JHR is more friends than enemies with KaHLium.
 
-### [WELLPan](WELLPan.md)
+#### [WELLPan](WELLPan.md)
 They are good friends. JHR and WELLPan likes to read books in their spare time together.
 
-### [AngelSaph](AngelSaph.md)
+#### [AngelSaph](AngelSaph.md)
 They are actually ok friends. They spend time together, sometimes. AngelSaph is quite wary of JHR's tendency to be sociopathic.
 
 JHR doesn't really understand why AngelSaph needs to cook and eat, not that it matters. He doesn't understand the idea of flesh. AngelSaph is a different breed to him, but they are still friends. AngelSaph's physiology is on a whole another level for JHR to comprehend.
 
-### [Wheamy](Wheamy.md)
+#### [Wheamy](Wheamy.md)
 JHR shows Wheamy the way to life. He shows him, how to do life skills. Wheamy doesn't exactly know a lot of things in life, so JHR guides him.
 
 Wheamy doesn't protect JHR because JHR can do so himself.
 
 Its pretty good basically with their relationship.
 
-### [CKHSC](CKHSC.md)
+#### [CKHSC](CKHSC.md)
 They teach each other. They learn from each other about life, and how it changes.
 
 JHR shows CKHSC the way of the modern life. Its the progressive way of living, as CKHSC likes to put it. CKHSC is quite hesistant and resistant to this way, and JHR is aware of it. JHR tries to coax and guide CKHSC to the modern life.
@@ -206,6 +206,19 @@ JHR shows CKHSC the way of the modern life. Its the progressive way of living, a
 CKHSC shows JHR the way of the traditional life, which would have been lost if it weren't for [CKHSC](CKHSC.md) and the other elders. CKHSC shows JHR the old ways, that is usually trusted and battle-tested.
 
 With the difference in the generations, JHR and CKHSC knows the progression of life.
+
+### EXMGR
+
+### HR
+
+#### [VXU](VXU.md)
+HR has a love-hate relationship with VXU.
+
+HR respects [MXU](VXU.md#MXU) for attempting to stop [DeltaCXG](VXU.md#DeltaCXG) if he can. HR though feels at times MXU is incompetent or even slacking off at this responsibility.
+
+HR has problems with DeltaCXG. He does not like DeltaCXG bullying and harming others. HR would rip DeltaCXG if he dares hurt [PCR](#PCR). HR is also that one guy along with ToshyFEN to stop DeltaCXG if needed.
+
+### PCR
 
 
 #airconditioner #multi-split

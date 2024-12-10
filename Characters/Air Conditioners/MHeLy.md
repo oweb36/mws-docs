@@ -15,6 +15,8 @@ Her voice would probably be a high-pitched girlish feminine voice with softness 
 
 She wears dental braces, just for cosmetic reasons. I believe braces fit her so well with her personality. She has no crooked teeth, she just wants braces.
 
+MHeLy also has *very sharper than average* canine teeth despite her personality. Nobody knows why, but her canine teeth is way sharper.
+
 ## Personality
 
 MHeLy is one of the nicer people in MWS. This is probably because she's a girl (More like woman. Wait, isn't that sexist? Probably, probably not. Nah).

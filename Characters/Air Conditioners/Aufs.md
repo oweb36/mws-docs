@@ -15,6 +15,8 @@ He is white if skin color matters. He has yellowed quite a bit from age, but he 
 
 Aufs is more durable than the average person in the [Megarchive Warehouse](Megarchive%20Warehouse.md). He can survive way more injuries and potentially even injuries that are lethal to a normal person in the [Megarchive Warehouse](Megarchive%20Warehouse.md), but he can't beat [ToshyFEN](ToshyFEN.md). Aufs is also the sanest person in MWS, he would probably one of the only few to sane if everyone goes insane. 
 
+Aufs can break the 4th wall. He can see the 4th wall and the camera. He knows about the audience, but keeps silent about it (mostly).
+
 Aufs is also kinda the butt monkey of the [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show.md).
 
 [This](fujitsu-gemstone-amber-ironoxide-cassette_mcgrp.ru-wUHQLxwD.pdf) is Aufs' reference manual.
@@ -51,6 +53,8 @@ He though is an egotistical perfectionist. He is pretty cunning and sly. He woul
 Aufs puts this egotistical tough guy facade, but he is a softie in reality. If you know him well, he is actually a great person to talk too. But don't share his secrets, or you will break his trust. He may help you, but not really that much.
 
 Aufs is always plotting something. It is usually mundane or ridiculous (but sometimes, rarely it might be an assasination or a genocide plot), but the way he does so is creepy and gives off an evil vibe. This is amplified with his mysterious nature. People don't really trust and fear him because he is mysterious and always seems to be doing something in the background, and they don't know about what he is doing.
+
+Aufs is also the kind of person to point out retcons and plot holes. He is that one nerd that goes *"Umm, actually..."* Mostly nobody understands him, but sometimes they can see what is he talking about.
 
 Aufs is also funny when made fun of. He is quite a funny person after all, even though he ain't aims to be that. This is why he kinda the [butt monkey](#Being%20the%20Butt%20Monkey) of the [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show.md).
 

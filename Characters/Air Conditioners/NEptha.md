@@ -13,7 +13,7 @@ If skin color mattered, he silver.
 
 ## Personality
 
-Misogynistic strawman of MWS.
+Misogynistic strawman misogynist of MWS.
 
 NEptha believes that Males like him is superior over females. He believes that men is the greatest sex and gender over anything else. Trans? Nah! Demi? Nah! Man is life for him, everything else is death.
 
@@ -21,6 +21,7 @@ Because of this, NEptha seems rude to non male people. Even if they are nice to 
 
 NEptha may need to be taught a lesson on why man is not the superior, but equal to everything. But its hard, because NEptha is quite stubborn at learning even though if he already  made mistakes. NEptha thinks lessons are for wimps and weaklings. NEptha is very close-minded in life.
 
+NEptha in general is an asshole. He treats people poorly. He feels that men is superior, and that feeds into him. He does not have a heart of gold, but a heart of jerk.
 ## Relations
 
 ### [Xeo](Xeo.md)

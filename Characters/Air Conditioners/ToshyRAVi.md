@@ -6,7 +6,9 @@ She is a Toshiba RAV-GM301KRTP-A wall-mounted [heat pump](Air%20Conditioners.md)
 
 She was born in 2021. She is a cisgender female (she/her).
 
-If skin color matters, ToshySMUT is white.
+If skin color matters, ToshRAVi is white.
+
+ToshyRAVi wears dental braces because she's unhinged. Its for cosmetic purposes, not for *bri'ish dental* reasons. Her unhinged personality definitely requires the need for braces.
 ## Personality
 
 ToshyRAVi is a very vibrant, adventurous and unhinged girl. ToshyRAVi, with her adventurous nature, likes to explore a lot.
