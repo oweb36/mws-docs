@@ -10,9 +10,9 @@ He is black if skin color matters.
 
 Smug and cocky. Avxy has that stereotypical edgy teenager personality. He is actually not evil, but is just edgy. He is not nice and kind, but is quite rude and umm, not so nice with words.
 
-He likes to provoke others to anger. He just wants their reactions. Avxy thrives on other's frustration. He would! Anything to anger everyone he does. Move your stuff somewhere, your very important things? He will. 
+He likes to provoke others to anger. He just wants their reactions. Avxy thrives on other's frustration. He would! Anything to anger everyone he does. Move your stuff somewhere, your very important things? He will. He does all of this just for fun.
 
-Avxy is also the kind of person to name call you. He will insult you. He will harass you. He will throw sarcasm. He will annoy you. Avxy is disrespectful basically with words. He is very offensive and derogatory towards others. He is not a leader, and he doesn't plan to. Avxy is also the kind of person to demoralize others, and anger them. He wants to elicit reactions from you, and he enjoys it to his heart's content.
+Avxy is also the kind of person to name call you. He will insult you. He will harass you. He will throw sarcasm. He will annoy you. Avxy is disrespectful basically with words. He is very offensive and derogatory towards others. He is not a leader, and he doesn't plan to. Avxy is also the kind of person to demoralize others, and anger them. He wants to elicit reactions from you, and he enjoys it to his heart's content. Its all for fun to him. Its fun to him.
 
 Avxy is not that evil though, he has his limits for this madness. His limits is no actual physical violence. Gore and just physical violence is too much for him.
 

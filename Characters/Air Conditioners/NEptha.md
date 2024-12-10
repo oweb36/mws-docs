@@ -21,7 +21,11 @@ Because of this, NEptha seems rude to non male people. Even if they are nice to 
 
 NEptha may need to be taught a lesson on why man is not the superior, but equal to everything. But its hard, because NEptha is quite stubborn at learning even though if he already  made mistakes. NEptha thinks lessons are for wimps and weaklings. NEptha is very close-minded in life.
 
-NEptha in general is an asshole. He treats people poorly. He feels that men is superior, and that feeds into him. He does not have a heart of gold, but a heart of jerk.
+NEptha in general is an asshole. He treats people poorly. He feels that men is superior, and that feeds into him. He does not have a heart of gold, but a heart of jerk. Some of NEptha's antics are like [Avxy](Avxy.md) but worst. He wants to see people suffer. He is a sadist, who is happy from other's suffering. If his antics doesn't cause others to suffer, he is not happy. NEptha would like to bait reactions and pain. Unlike Avxy who just baits reactions for fun, NEptha baits reactions and pain.
+
+NEptha would not be happy if his freedom is restricted. He hates time-outs. NEptha would be the type guy to break out of jail.
+
+NEptha is a stuborn guy who is not nice to anybody.
 ## Relations
 
 ### [Xeo](Xeo.md)
