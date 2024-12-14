@@ -15,7 +15,7 @@ kanban-plugin: board
 
 ## Todo
 
-- [ ] Give [Termyice](Termyice.md) life.
+- [ ] Give [Termyice](Termyice.md) and [LCN](LCN.md) life as the first LG people.
 
 
 ## Current
