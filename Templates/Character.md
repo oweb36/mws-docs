@@ -1,9 +1,9 @@
-
+{{title}} is a [character](Characters.md) as a {role} on the [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show.md).
 ## Identity
 
-{} is a {}. 
+{{title}} is a {species}. 
 
-{} was born in {}. They are {} ({}).
+{{title}} was born in {date}. They are {identity} ({pronouns}).
 
 ## Personality
 TBA

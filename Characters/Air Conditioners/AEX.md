@@ -114,11 +114,11 @@ JHR is warm and welcoming, albeit strict at times. He is also a workaholic, so h
 #### As a normal person
 As a normal person, he is genuinely a good person to hang out with, but can be weird and sociopathic at times. He is not exactly normal in his mind, so he may speak random garbage that you weren't supposed to hear.
 
-JHR is fairly chatty relatively, but he is not as chatty as [JKE](JKE.md). He likes to talk about knowledge. He likes to exchange life with you and him. JHR is practically pretty much down to basic in his chattiness, he just wants to make people comfortable. 
+JHR is fairly chatty relatively, but he is not as chatty as [JKE](JKE.md). He likes to talk about knowledge. He likes to exchange life with you and him. JHR is practically pretty much down to basic in his chattiness, he just wants to make people comfortable. He is gentle in speech mostly.
 
 JHR may also spew out garbage, very random garbage once in a while. Its typically indiscernible noises, or just his thoughts. JHR does this because he's slightly insane. With this trait, he might accidentally insult or call you a slur. Don't worry, it's unintentional and he does not mean it (most of the time).
 
-JHR is also the kind of person to teach you how to do things. If you don't know how to read, or fail miserably at walking, JHR will show you how. He enjoys teaching and tutoring others.
+JHR is also the kind of person to teach you how to do things. If you don't know how to read, or fail miserably at walking, JHR will show you how. He enjoys teaching and tutoring others. He can teach at school, but rather spends time with friends.
 
 #### Sociopathy
 In his sociopathy, his sadism manifests (not murderous). 
