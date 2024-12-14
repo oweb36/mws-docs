@@ -11,11 +11,11 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] Complete [Episode 1](EP1.md).
 
 
 ## Todo
 
+- [ ] Give [Termyice](Termyice.md) life.
 
 
 ## Current
