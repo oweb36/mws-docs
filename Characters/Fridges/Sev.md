@@ -3,7 +3,9 @@ Sev is a [character](Characters.md) as a contestant on the [Megarchive Warehouse
 
 Sev is a Sharp SJ-F72PV [refridgerator](Refridgerators.md). Their name is pronounced as the Sev in Seven.
 
-Sev was born in 2007. They are Asexual Non-binary (they/them).
+Sev was born in 2006. They are Asexual Non-binary (they/them).
+
+Sev is the elder sibling to [Piss](Piss.md).
 
 ## Personality
 TBA

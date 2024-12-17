@@ -7,6 +7,8 @@ Piss is a Sharp SJ-F75PS-SL [refridgerator](Refridgerators.md). He is here becau
 He was born in 2007 as an Asian-European. Piss is a cisgender and heterosexual male.
 If skin color is considered, he is gray.
 
+[Sev](Sev.md) is the elder sibling to Piss.
+
 
 ## Personality
 Piss may be cold, but he is warm on the inside. He is usually not that warm or welcoming to others if they aren't close enough, but get close and you can see his nature. He may be hostile on the outside. His warmness is also subtle for those close, but very obvious to those who are truly close to him.

@@ -4,12 +4,12 @@ Aufs is a [character](Characters) as a contestant on the [[Megarchive Warehouse 
 
 Aufs is a Fujitsu [AUG45AGB3W](fujitsu-gemstone-amber-ironoxide-cassette_mcgrp.ru-wUHQLxwD.pdf)  [air conditioner](Air%20Conditioners.md). His name has several pronunciations which he can accept, which includes:
 - A-U-F-S, or Ay-You-Eff-Ess.
-- Aufs, or Offs.
+- Aufs, or Offs (Disliked)
 - Au-F-S, or O-F-S (Preferred)
 
 The reason why his name is so divergent from his model is because during the development of Aufs, his species as the Fujitsu **AUG54FUAS** (Still a cassette heat pump). He was changed because there was more documentation with the Fujitsu AUY45AGB3W compared to the Fujitsu AUG54FUAS. His name Aufs was derived from the "AU" and the "FUAS" of the Fujitsu AUG54FUAS (Excuse to use the awesome filesystem name of aufs), and its kept here because it just is too good of a name to waste. The species of AUG54FUAS and the AUY45AGB3W is technically the same, except being a different generation and that the AGB3W is a cooling-only model, so they should be similar other than those facts.
 
-He was born in August 9, 2001. They are Bigender, its a very [complicated topic](#Gender%20Identity). His pronouns are (he/them).
+He was born in September 9, 2003. They are Bigender, its a very [complicated topic](#Gender%20Identity). His pronouns are (he/them).
 
 He is white if skin color matters. He has yellowed quite a bit from age, but he is still white. Aufs can be retrobrighted, but he rather stay in this yellowed state.
 
@@ -50,14 +50,19 @@ Aufs is also mysterious. Not many people know a lot about him, as he is quite se
 
 He though is an egotistical perfectionist. He is pretty cunning and sly. He would reveal this side randomly in the event that he decides to reveal himself. He flexes on people and shows how **PROUD** he is to be Aufs and sane.
 
-Aufs puts this egotistical tough guy facade, but he is a softie in reality. If you know him well, he is actually a great person to talk too. But don't share his secrets, or you will break his trust. He may help you, but not really that much.
+Aufs puts this egotistical tough guy facade, but he is a softie in reality. If you know him well, he is actually a great person to talk too. But don't share his secrets, or you will break his trust. He may help you, but not really that much. He may be creepy, but he is not the kind of guy who would go to a women's bathroom.
 
-Aufs is always plotting something. It is usually mundane or ridiculous (but sometimes, rarely it might be an assasination or a genocide plot), but the way he does so is creepy and gives off an evil vibe. This is amplified with his mysterious nature. People don't really trust and fear him because he is mysterious and always seems to be doing something in the background, and they don't know about what he is doing.
+Aufs is always plotting something. It is usually mundane or ridiculous (but sometimes, rarely it might be an assassination or a genocide plot), but the way he does so is creepy and gives off an evil vibe. This is amplified with his mysterious nature. People don't really trust and fear him because he is mysterious and always seems to be doing something in the background, and they don't know about what he is doing.
 
-Aufs is also the kind of person to point out retcons and plot holes. He is that one nerd that goes *"Umm, actually..."* Mostly nobody understands him, but sometimes they can see what is he talking about.
+Aufs is also the kind of person to point out retcons and plot holes. He is that one nerd that goes *"Umm, actually..."* Aufs would also break the 4th wall. Mostly nobody understands him, but sometimes they can see what is he talking about. He knows way too much. He looks weird mostly when he is doing so and nobody can see what he is talking about. They just see a creepy guy being delusional. Sometimes though, they might be surprised when they see what Aufs is doing and when they can actually do the same thing Aufs did such as seeing the retcons and actually breaking the 4th wall.
 
 Aufs is also funny when made fun of. He is quite a funny person after all, even though he ain't aims to be that. This is why he kinda the [butt monkey](#Being%20the%20Butt%20Monkey) of the [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show.md).
 
 ## Relations
+
+### [WELLPan](WELLPan.md)
+They are friends, because they are *SANE* unlike [some](ToshyFEN.md) other people or friends.
+
+WELLPan might question Aufs at times about his behavior of lurking in the dark. He feels something is off when that happens, but he understands about Aufs. WELLPan knows that Aufs is very complicated.
 
 #airconditioner 

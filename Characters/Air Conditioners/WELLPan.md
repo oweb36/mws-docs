@@ -20,10 +20,12 @@ WELLPan is also very nonchalant at even the worst things. He (sometimes good, so
 WELLPan is very smart. He is a bookworm. He likes to read a lot. This shows that WELLPan is smart, but is too unmotivated to do things. He can lead and serve as a voice of guidance and leadership to motivate and guide others (his competitors/friends), but only if he is bothered to do so.
 
 WELLPan may struggle with motivation and laziness, but don't underestimate him. He has the potential to win, but he doesn't want to. He is too chill. Everyone, well almost everyone likes him because he is easy to get along with.
-
-Just don't disturb him when he's reading or underestimate him, he doesn't like that. Nobody likes to be disturbed when reading books, in a library. Thats one of the few things that could actually piss him off.
+### When he isn't chill and why?
+Whatever you do, don't disturb him when he's reading or underestimate him, he doesn't like that. Nobody likes to be disturbed when reading books, in a library. Thats one of the few things that could actually piss him off.
 
 WELLPan can still panic and freak out, but it's way calmer than other's freakout. His chillness reduces the impact of it. Meltdowns are potentially a different story, especially if WELLPan is pushed. Nobody said that WELLPan has infinite patience.
+
+Meltdowns are like wrath and rage. Its kinda scary, because WELLPan is nice, chill and patient. He won't do physical violence or domestic abuse, but he will chew you out pretty badly. So don't push or piss him off, such as disturbing him when he's reading books. This is also why you don't underestimate him.
 
 ## Relations
 
@@ -39,6 +41,10 @@ ToshyFEN's meltdown might cause WELLPan to freak out if there's nobody to stop h
 
 ### [AEX](AEX.md)
 They are good friends. JHR and WELLPan likes to read books in their spare time together.
+
+PCR and EXMGR also is on good terms. HR is neutral with him, because WELLPan is very chill.
+
+Sometimes WELLPan sees EXMGR's hyperactive social nature as quite too extreme sometimes, which is very true.
 
 ### [ToshyMEF](ToshyMEF.md)
 They aren't close, but they are there. WELLPan and ToshyMEF are close due to few reasons. One of them is their weird sexuality where WELLPan identifies as an Apache Attack Helicopter and ToshyMEF identifies as an LG TV.
@@ -57,5 +63,10 @@ She asks one question: Why.
 KaHLium asks one question to WELLPan: Why.
 
 He is so befuddled at WELLPan's chilness and lack of seriousness.
+
+### [Aufs](Aufs.md)
+They are friends, because they are *SANE* unlike [some](ToshyFEN.md) other people or friends.
+
+WELLPan might question Aufs at times about his behavior of lurking in the dark. He feels something is off when that happens, but he understands about Aufs. WELLPan knows that Aufs is very complicated.
 
 #airconditioner #weirdidentities

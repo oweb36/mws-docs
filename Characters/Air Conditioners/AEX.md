@@ -34,9 +34,16 @@ Have this friendliness list (top is the most friendly):
 3. [JHR](#JHR)
 4. [HR](#HR)
 
+Have this sanity ranking too (Top is most sane, bottom is least):
+- [PCR](#PCR)
+- [HR](#HR)
+- [JHR](#JHR)
+- [EXMGR](#EXMGR)
+Everyone here is still sane, don't worry. This is just relative to each members of AEX. EXMGR while being the least sane in AEX, is still sane to the outside world.
+
 Everyone in AEX is some kind of european. AEX is also european.
 
-AEX identifies as non-binary would like to be refered to as they/them, meanwhile each individual members have their own pronouns and gender identity. This is because if you are referring to AEX, just like [VXU](VXU.md) you are referring to 4 person rather than one and therefore would be a mix of gender and pronouns (the non-binaryness is to help abstract the differences).
+AEX identifies as non-binary would like to be referred to as they/them, meanwhile each individual members have their own pronouns and gender identity. This is because if you are referring to AEX, just like [VXU](VXU.md) you are referring to 4 person rather than one and therefore would be a mix of gender and pronouns (the non-binaryness is to help abstract the differences).
 
 Whatever you do, don't try to disconnect a member of AEX from AEX. This is not only rude, but would also hurt them. An example is disconnecting [EXMGR](AEX.md#EXMGR) from [JHR](#JHR) by ripping JHR off or disconnecting the cables. Not only would it hurt both EXMGR and JHR, but it would also hurt [HR](#HR) and [PCR](#PCR).
 
@@ -216,6 +223,10 @@ They are still good friends even if you take away their *TRS-80 Model 100*.
 
 ### EXMGR
 
+[WELLPan](WELLPan.md) is on good terms with EXMGR along with [PCR](#PCR).
+
+Sometimes WELLPan sees EXMGR's hyperactive social nature as quite too extreme sometimes, which is very true.
+
 ### HR
 
 #### [VXU](VXU.md)
@@ -226,6 +237,8 @@ HR respects [MXU](VXU.md#MXU) for attempting to stop [DeltaCXG](VXU.md#DeltaCXG)
 HR has problems with DeltaCXG. He does not like DeltaCXG bullying and harming others. HR would rip DeltaCXG if he dares hurt [PCR](#PCR). HR is also that one guy along with ToshyFEN to stop DeltaCXG if needed.
 
 ### PCR
+
+[WELLPan](WELLPan.md) is on good terms with PCR along with [EXMGR](#EXMGR).
 
 
 #airconditioner #multi-split

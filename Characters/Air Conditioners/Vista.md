@@ -5,9 +5,9 @@ Vista is a Daikin FFQ18Q2VJU 4-way-flow compact cassette [heat pump](Air%20Condi
 
 Vista was born in July 7, 2018. She is asexual bigender (male/female bigender). Her pronouns are she/him, though she prefers she/her. We don't know why she prefers being called she/her, probably because of her name (idk though).
 
-Vista has the Type-2 panel and BRC082A42S controller installed. 
+Vista has the Type-2/Type-B panel (BYFQ60C2W1S) and BRC082A42S controller installed. 
 
-If skin color matters, Vista is white.
+If skin color matters, Vista is silver-white.
 
 Vista owns a *TRS-80 Model 100* portable computer. She is tech-savvy with it, and knows how to program it. She doesn't have much (along with others) but can afford a computer. [JHR](AEX.md#JHR) is the other people to own a *TRS-80 Model 100*.
 
@@ -18,7 +18,7 @@ Despite her being logically quite ok, she is also goofy and silly. This is in co
 
 Vista being goofy means that she would also crack jokes at inappropriate moments. She always make a serious situation laughably comedic and funny.
 
-Her optimistic stuborness with her logically ok and wet humor makes her a wildcard-ed sore thumb. She stands out with a uniqueness of her own: being that she is a logical person (kinda) with a great sense of humor and goofiness.
+Her optimistic stuborness with her logically ok and wet humor makes her a wildcard-ed sore thumb. She stands out with a uniqueness of her own: being that she is a logical person (kinda) with a great sense of humor and goofiness. This is because everyone (or almost all) who is logical is typically dry in their humor and deadpan serious, while Vista has emotions.
 
 ## Relations
 
