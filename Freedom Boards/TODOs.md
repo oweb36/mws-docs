@@ -11,6 +11,8 @@ kanban-plugin: board
 
 ## Backlog
 
+- [ ] LG AS-H246TKA2 from July 6, 2005.
+- [ ] Samsung AVMFH052EA0 from August 3, 2005.
 
 
 ## Todo
