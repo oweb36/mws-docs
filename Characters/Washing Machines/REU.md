@@ -7,7 +7,6 @@ He is a Samsung WD0604REU [washing machine](Washing%20Machines.md). His name is 
 He was born in 2011. He's an asexual demiboy (he/they).
 
 ## Personality
-
 TBA
 
 ## Relations

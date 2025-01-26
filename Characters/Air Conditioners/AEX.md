@@ -1,3 +1,10 @@
+---
+aliases:
+  - JHR
+  - EXMGR
+  - HR
+  - PCR
+---
 AEX is a [character](Characters) the host of [[Megarchive Warehouse Show]]. AEX also used to be the host of [[AACOS]], but you know its now a part of the [[Megarchive Warehouse Show]]. 
 
 When I said that AEX also used to be the host of AACOS, I meant [JHR](AEX.md#JHR) of AEX and not AEX as a whole. This also means that JHR is the host of MWS, and the rest are just his co-host because they are also AEX ig. To recap this, JHR is the host while the rest kinda co-hosts.
@@ -9,7 +16,7 @@ AEX is a Sharp Multi-Split [heat pump](Air%20Conditioners.md) system. They are a
 - JHR (AY-XPC12JHR)
 - EXMGR (AE-XM30GR)
 - HR (AY-XPM18HR)
-- PCR (AY-XPC7JR)
+- PCR (AY-XPM7FR)
 
 AEX's name is pronounced as:
 - AYX (Aycks)
@@ -39,13 +46,15 @@ Have this sanity ranking too (Top is most sane, bottom is least):
 - [HR](#HR)
 - [JHR](#JHR)
 - [EXMGR](#EXMGR)
-Everyone here is still sane, don't worry. This is just relative to each members of AEX. EXMGR while being the least sane in AEX, is still sane to the outside world.
+Everyone here is still sane, don't worry. This is just relative to each members of AEX. EXMGR while being the least sane in AEX, is still sane to the outside world. This means that PCR, HR and JHR is still sane as EXMGR is the least sane in this siblingry while still being sane to the outside world.
 
 Everyone in AEX is some kind of european. AEX is also european.
 
 AEX identifies as non-binary would like to be referred to as they/them, meanwhile each individual members have their own pronouns and gender identity. This is because if you are referring to AEX, just like [VXU](VXU.md) you are referring to 4 person rather than one and therefore would be a mix of gender and pronouns (the non-binaryness is to help abstract the differences).
 
 Whatever you do, don't try to disconnect a member of AEX from AEX. This is not only rude, but would also hurt them. An example is disconnecting [EXMGR](AEX.md#EXMGR) from [JHR](#JHR) by ripping JHR off or disconnecting the cables. Not only would it hurt both EXMGR and JHR, but it would also hurt [HR](#HR) and [PCR](#PCR).
+
+Some cool things is that [JHR](#JHR) is the only one capable of being installed as a single-split system. [PCR](#PCR) and [HR](#HR) is meant for multi-split installations (which they are right now) and not single split systems. [EXMGR](#EXMGR) is an outdoor unit for multi-split systems.
 
 [EXMGR](#EXMGR), [JHR](#JHR) and [HR](#HR) are the original installations while [PCR](#PCR) is a later addition.
 ### JHR
@@ -96,7 +105,7 @@ HR is a cisgender male. HR is unlabelled in sexual orientation as he has no idea
 HR is (supposedly) white if skin color matters. I say supposedly because he is currently yellowed. Its not severely yellowed, and therefore it doesn't bother him. This yellowing shows HR's age. Its kinda a sore thumb, but a proud sore thumb.
 
 ### PCR
-PCR is a Sharp AY-XPC7JR [heat pump](Air%20Conditioners.md). Her name is pronounced as P-C-R (Pee-See-Arr) aka like how you pronounce the PCR test for Covid-19. Her name is derived from the "XPC" and the "JR" of her species' model.
+PCR is a Sharp AY-XPM7FR [heat pump](Air%20Conditioners.md). Her name is pronounced as P-C-R (Pee-See-Arr) aka like how you pronounce the PCR test for Covid-19. Her name is derived from the "XPC" and the "FR" of her species' model.
 
 PCR was born in February 19, 2010. She's a later addition to AEX. PCR is the least dominant out of AEX.
 

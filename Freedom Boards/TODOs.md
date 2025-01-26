@@ -7,17 +7,20 @@ kanban-plugin: board
 ## Eternity
 
 - [ ] Give JHR or [AEX](AEX.md) a cousin. AEX/JHR's cousin is the IVT version of JHR (superior and inferior at the same time).
+- [ ] Rewrite personalities while staying consistent.
 
 
 ## Backlog
 
 - [ ] LG AS-H246TKA2 from July 6, 2005.
 - [ ] Samsung AVMFH052EA0 from August 3, 2005.
+- [ ] Add mah boy Whisen. Whisen is LG from Korea.
 
 
 ## Todo
 
 - [ ] Give [Termyice](Termyice.md) and [LCN](LCN.md) life as the first LG people.
+- [ ] [REU](REU.md) personality time.
 
 
 ## Current
@@ -29,7 +32,12 @@ kanban-plugin: board
 - [ ] Awux -> Awu-See
 	
 	Fujitsu AWU18CXQ. Female.
-- [ ] Aufs -> A-U-F-S (Ay-You-Eff-Es)
+
+
+## Done
+
+**Complete**
+- [x] Aufs -> A-U-F-S (Ay-You-Eff-Es)
 	
 	Fujitsu AUY36AGB3W cassette. His name is because his old species (development) was the Fujitsu AUG54FUAS cassette, but its too good so its kept.
 	
@@ -44,11 +52,6 @@ kanban-plugin: board
 	Aufs likes to use the pronouns he/them.
 	
 	Aufs is toric, he likes men. This is why he has the "he" in his pronouns.
-
-
-## Done
-
-**Complete**
 - [x] Give [JHR](AEX.md#JHR) siblings and cousins. Then assimilate JHR into a person-lith kinda like [VXU](VXU.md) with his siblings as he and his siblings are capable of multi-split unit operation.
 	
 	His siblings are a Sharp AE-XM30GR, AY-XPC7JR and AY-XPM18HR. 
