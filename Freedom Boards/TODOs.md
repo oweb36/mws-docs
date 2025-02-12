@@ -8,6 +8,8 @@ kanban-plugin: board
 
 - [ ] Give JHR or [AEX](AEX.md) a cousin. AEX/JHR's cousin is the IVT version of JHR (superior and inferior at the same time).
 - [ ] Rewrite personalities while staying consistent.
+	
+	Rewrite by studying them, breaking them apart into traits and rewrite them.
 
 
 ## Backlog
@@ -25,18 +27,18 @@ kanban-plugin: board
 
 ## Current
 
-- [ ] NEptha
-	
-	Panasonic CS-NE12LKE.
-	Male.
-- [ ] Awux -> Awu-See
-	
-	Fujitsu AWU18CXQ. Female.
 
 
 ## Done
 
 **Complete**
+- [x] NEptha
+	
+	Panasonic CS-NE12LKE.
+	Male.
+- [x] Awux -> Awu-See
+	
+	Fujitsu AWU18CXQ. Female.
 - [x] Aufs -> A-U-F-S (Ay-You-Eff-Es)
 	
 	Fujitsu AUY36AGB3W cassette. His name is because his old species (development) was the Fujitsu AUG54FUAS cassette, but its too good so its kept.

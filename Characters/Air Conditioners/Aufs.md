@@ -48,7 +48,7 @@ Aufs is Aufs. He is simply Aufs. He is proud of being Aufs as his identity. This
 
 Aufs is also mysterious. Not many people know a lot about him, as he is quite secretive and secluded. He is not the most social person in the [Megarchive Warehouse](Megarchive%20Warehouse.md). He doesn't interact a lot with people. He always seems to be plotting something.
 
-He though is an egotistical perfectionist. He is pretty cunning and sly. He would reveal this side randomly in the event that he decides to reveal himself. He flexes on people and shows how **PROUD** he is to be Aufs and sane.
+He though is an egotistical perfectionist. He is pretty cunning and sly, very furtive. He would reveal this side randomly in the event that he decides to reveal himself. He flexes on people and shows how **PROUD** he is to be Aufs and sane.
 
 Aufs puts this egotistical tough guy facade, but he is a softie in reality. If you know him well, he is actually a great person to talk too. But don't share his secrets, or you will break his trust. He may help you, but not really that much. He may be creepy, but he is not the kind of guy who would go to a women's bathroom.
 
