@@ -2,14 +2,16 @@ Aufs is a [character](Characters) as a contestant on the [[Megarchive Warehouse 
 
 ## Identity
 
-Aufs is a Fujitsu [AUG45AGB3W](fujitsu-gemstone-amber-ironoxide-cassette_mcgrp.ru-wUHQLxwD.pdf)  [air conditioner](Air%20Conditioners.md). His name has several pronunciations which he can accept, which includes:
-- A-U-F-S, or Ay-You-Eff-Ess.
+Aufs is a Fujitsu AU54TFCMF  [heat pump](Air%20Conditioners.md). His name has several pronunciations which he can accept, which includes:
+- A-U-F-S, or Ay-You-Eff-Ess. (Very disliked)
 - Aufs, or Offs (Disliked)
 - Au-F-S, or O-F-S (Preferred)
 
-The reason why his name is so divergent from his model is because during the development of Aufs, his species as the Fujitsu **AUG54FUAS** (Still a cassette heat pump). He was changed because there was more documentation with the Fujitsu AUY45AGB3W compared to the Fujitsu AUG54FUAS. His name Aufs was derived from the "AU" and the "FUAS" of the Fujitsu AUG54FUAS (Excuse to use the awesome filesystem name of aufs), and its kept here because it just is too good of a name to waste. The species of AUG54FUAS and the AUY45AGB3W is technically the same, except being a different generation and that the AGB3W is a cooling-only model, so they should be similar other than those facts.
+The reason why his name is so divergent from his model is because during the development of Aufs, his species as the Fujitsu **AUG54FUAS** (Still a cassette heat pump). He was changed because there was more documentation with the AU54TFCMF compared to the Fujitsu AUG54FUAS. His name Aufs was derived from the "AU" and the "FUAS" of the Fujitsu AUG54FUAS (Excuse to use the awesome filesystem name of aufs and yes I'm a nerd), and its kept here because it just is too good of a name to waste. 
 
-He was born in September 9, 2003. They are Bigender, its a very [complicated topic](#Gender%20Identity). His pronouns are (he/them).
+He's a VRF boi, hailing from the S-Series VRF system of Fujitsu.
+
+He was born in September 9, 2002. They are Bigender, its a very [complicated topic](#Gender%20Identity). His pronouns are (he/them).
 
 He is white if skin color matters. He has yellowed quite a bit from age, but he is still white. Aufs can be retrobrighted, but he rather stay in this yellowed state.
 
