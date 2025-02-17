@@ -16,7 +16,7 @@ AEX is a Sharp Multi-Split [heat pump](Air%20Conditioners.md) system. They are a
 - JHR (AY-XPC12JHR)
 - EXMGR (AE-XM30GR)
 - HR (AY-XPM18HR)
-- PCR (AY-XPM7FR)
+- PCR (AY-XPC7JR)
 
 AEX's name is pronounced as:
 - AYX (Aycks)
