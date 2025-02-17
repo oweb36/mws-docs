@@ -124,30 +124,27 @@ PCR's skin color is white if skin color matters.
 AEX, just like [VXU](VXU.md) is a quadruplet of a person and therefore have multiple personalities for each member.
 
 ### JHR
-In a nutshell, he behaves differently in different situations. JHR is still genuinely a good guy though albeit slightly insane (sociopathy). 
+In a nutshell, he behaves differently in different situations. JHR is still genuinely a good guy though albeit slightly insane (sociopathy or more like just quite cold). He has two personalities to say the least.
+
+TLDR: Nice, educational. Cold, strict, stern and potentially coarse at times. Slight saddism. Antisocial at times too, but less often and yet still noticeable. Weird kind-of and two-faced at times (basically two personalities). Slightly insane. Believes in open and common knowledge.
 #### As a host
-JHR is warm and welcoming, albeit strict at times. He is also a workaholic, so he would probably get depressed if he doesn't do anything. He is the host after all, what do you expect? He wants and needs to do his job.
+Well, he's welcoming. He can be strict and stern, following the rules. He might get overboard, but he won't.
+
+This is basically a part of his two-faced personality.
 #### As a normal person
-As a normal person, he is genuinely a good person to hang out with, but can be weird and sociopathic at times. He is not exactly normal in his mind, so he may speak random garbage that you weren't supposed to hear.
+JHR can yap and talk a lot of things. Some of it may be weird and kinda sus when taken out of context. He yaps a lot, and most of which is quite useful info. If you ask him to show you the way by education, he will share and teach you the knowledge. JHR is not as talkative as [JKE](JKE.md).
 
-JHR is fairly chatty relatively, but he is not as chatty as [JKE](JKE.md). He likes to talk about knowledge. He likes to exchange life with you and him. JHR is practically pretty much down to basic in his chattiness, he just wants to make people comfortable. He is gentle in speech mostly.
+He may spew out from his speech some random garbage or like I said, dangerous things (when out of context). Its mostly from his mind, and we know what his mind is based of what he may leak. He does this cus he's slightly insane but ye.
 
-JHR may also spew out garbage, very random garbage once in a while. Its typically indiscernible noises, or just his thoughts. JHR does this because he's slightly insane. With this trait, he might accidentally insult or call you a slur. Don't worry, it's unintentional and he does not mean it (most of the time).
+JHR would like to spread his knowledge to others. He believes that knowledge should be everywhere and people should know it. This is why he sometimes teaches people some ways as he believes not only is that knowledge in question useful, but beneficial.
 
-JHR is also the kind of person to teach you how to do things. If you don't know how to read, or fail miserably at walking, JHR will show you how. He enjoys teaching and tutoring others. He can teach at school, but rather spends time with friends.
+At Times, JHR may be antisocial and cold. He might be indifferent or just dgaf about people's feelings. He might even be slightly saddistic to others. Don't worry, its just rare and he is genuinely good alright. 
 
-#### Sociopathy
-In his sociopathy, his sadism manifests (not murderous). 
-
-Nah, he is also quite uncaring at times. He doesn't care if his friends are happy or get hurt. He just does his own things. JHR can also be reckless with others during his sociopathic moments.
-
-JHR would also distant himself from others. JHR can avoid people in this state, and even try to abstain himself. He may even isolate himself from others.
-
-JHR might even hurt others if they annoy him in this antisocial state. He might get irritated quickly when people touch his things. This is where his sadism plays the best. He enjoys actually hurting people in cases like this.
-
-This antisocial behavior does not manifest all the time. It only manifest either randomly or when JHR is overstressed (**EXTREME** overstress, and this is guranteed). Its kinda his stress-coping behavior, which this method is definitely not a good way to do so. He would eventually go to normal.
+JHR might go into this other personality side randomly since he is well slightly insane, but by random is rare. What most likely causes this is JHR being overstressed.
 
 ### EXMGR
+TLDR: Crazed, Babbler, Good, Erratic, Happy, Bizarre. Lacking in social skills. Friendly, accepting. Slightly depressed, but not too bad to overpower his happiness.
+
 EXMGR is the most extroverted person in AEX. He is very hyperactive and speaks way too fast. Its pretty hard to discern EXMGR's fast speech thats quite mumbling and slurring (not the offensive slurring). EXMGR has way too much energy in him probably. It's even hard for him to pay attention and focus at one part. He has severe inattention. EXMGR could potentially have ADHD.
 
 Because of all above, his speech is quite impaired. He also has poor social skills due to it.
@@ -159,6 +156,8 @@ EXMGR though has some slight sadness within him. This is because despite him wan
 EXMGR is a good guy, with bad social skills in a nutshell.
 
 ### HR
+TLDR: Cold, Aggressive, Introverted. Slightly angry. Good in the inside, but not good on the outside.
+
 HR is the gruffy boi. He is the strongest one, and therefore has a pretty rough and tough personality. He is not a jock though, he doesn't exercise that much.
 
 He isn't the most welcoming, and is very irritable. HR is also quite unpleasant to interact with at times. He is also not that emotional, to the point where he doesn't let his emotions appear to others (like sadness cus boys are boys). Basically he is an unpleasant and emotionless person.
@@ -172,6 +171,8 @@ HR also has one good side, but it doesn't manifest in a good way. He cares for p
 HR is basically a gruff introvert. He is good but he ain't nice.
 
 ### PCR
+TLDR: The most sane and normal. No strings-attached goodness of evilness. Shy, Introverted, Submissive. People-pleaser with sociotropy. Large event haters. 
+
 PCR is the only one whose normal in AEX. Her headspace/mental state is the most ok out of all. She's also the only female. 
 
 PCR is the one who is completely nice unlike the others. She actually has no dark side or strange quirks. She would be the most sane out of everyone. 
