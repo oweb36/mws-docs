@@ -105,7 +105,7 @@ HR is a cisgender male. HR is unlabelled in sexual orientation as he has no idea
 HR is (supposedly) white if skin color matters. I say supposedly because he is currently yellowed. Its not severely yellowed, and therefore it doesn't bother him. This yellowing shows HR's age. Its kinda a sore thumb, but a proud sore thumb.
 
 ### PCR
-PCR is a Sharp AY-XPM7FR [heat pump](Air%20Conditioners.md). Her name is pronounced as P-C-R (Pee-See-Arr) aka like how you pronounce the PCR test for Covid-19. Her name is derived from the "XPC" and the "FR" of her species' model.
+PCR is a Sharp AY-XPC7JHR [heat pump](Air%20Conditioners.md). Her name is pronounced as P-C-R (Pee-See-Arr) aka like how you pronounce the PCR test for Covid-19. Her name is derived from the "XPC" and the "FR" of her species' model.
 
 PCR was born in February 19, 2010. She's a later addition to AEX. PCR is the least dominant out of AEX.
 
