@@ -46,17 +46,17 @@ His Halo breaking can only occur due to physical forces. You can't just give him
 One way you can break his halo easily is just by whacking him with a blunt weapon on the back of his head/body. Its that easy lol, a whack and the back portion of his halo is now broken. The back of his head is a weak point for his halo. Its not that weak when compared to absolute, but very weak when compared to the rest of his halo. Whacking him on the front though, is very obvious to him and it would at best, just crack his halo instead of breaking it.
 
 ## Personality
-He is a gentle and depressed angel in a nutshell. 
+TLDR: Gentle, Depressed, Reserved, Empathetic. Sensitive, Calm, Stoic, Pretty stoic on the outside (on the inside is a whole other story). Vulnerable. Emotionally stable, slow, and quite a chill guy. Emotional hiding.
 
-AngelSaph is emotionally sensitive, and empathetic to other's feelings and pain. He cares a lot about others. He is there for others and their pain. He will do whatever he can to make them feel better about themselves, others and in life.
+AngelSaph is well, quite reserved. He is also empathetic, caring about your issues. He would do whatever he can to make you feel better, quite gently. He cares about your emotions and would make you feel better.
 
-He is stoic and calm. He is pretty much emotionally stable and will not do anything crazy. He may be slow, but he does anything. Nothing can beat the chillness and calmness of [WELLPan](WELLPan.md).
+AngelSaph himself is quite reserved and introverted. He is quite calm and stoic, rarely showing any emotions. You can feel the aura, but he does not make his emotions obvious. He is quite passive indeed, chill and slow.
 
-He is quite vulnerably emotionally and physically though. AngelSaph would also try to avoid any physical contact in fear of his halo getting damaged. He can get emotionally hurt easily, with harsh and rude words, along with rude actions and name calling. 
+He is the kind of guy to let things play out. AngelSaph might strike in if he sees that the situation has gone too far. In this case, well he will come in and risk his halo to deescalate the situation.
 
-AngelSaph is also fairly reserved. He is quite distant and isolated from the others. He is not fairly chatty, and is much of an introvert. AngelSaph wouldn't interfere in a conflict and let it play out unless he has to. If a conflict is going on, he may feel hurt but will not do anything about it unless he has to such as the conflict exploding in scope and heating up. One thing where he would risk his halo and interfere in a conflict if it becomes physically violent.
+AngelSaph is quite vulnerable and sensitive to attacks and abuses. He is sensitive to both emotional and physical abuse, but is more vulnerable for the latter. If his halo is damaged, it causes pain in him and that affects him a lot.
 
-AngelSaph is also slightly depressed on the inside due to his nature and sensitivity. He is a fairly sensitive fellow, being able to be easily hurt emotionally. His nature of being a partial angel does not help, as he has a feeling that he may not be able to fulfill his role as an Angel of protection for others, and he doubts it sometimes. He feels a slight sadness in himself, which might subtly manifest in him withdrawing silently, or being distant to others. He does not make his sadness obvious to others though. AngelSaph is very good at hiding this inner depression and sadness, and will only reveal this sadness to those he can trust.
+He on the inside, though is another story. It's quite a struggle there. He is quite depressed due to his status being an Angel. Some parts of his emotional health is tied to the status of his halo. And yes, AngelSaph is still sane but is struggling with who he is and his mental health. He is basically eternally tortured.
 
 ## Relations
 
