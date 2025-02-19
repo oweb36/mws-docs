@@ -17,6 +17,7 @@ kanban-plugin: board
 - [ ] LG AS-H246TKA2 from July 6, 2005.
 - [ ] Samsung AVMFH052EA0 from August 3, 2005.
 - [ ] Add mah boy Whisen. Whisen is LG from Korea.
+- [ ] Sharp LR (M) and GHR (F, French) later
 
 
 ## Todo
