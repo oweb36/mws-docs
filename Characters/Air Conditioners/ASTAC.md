@@ -4,17 +4,14 @@ ASTAC is a [character](Characters) as a contestant on the [[Megarchive Warehouse
 
 He is a wall-mounted Fujitsu ASTA18LCC [heat pump](Air%20Conditioners.md). His name is pronounced as Asta-See, like the drug Ecstacy!
 
-He was born in 2009. He is a cisgender and heterosexual male (he/him).
+He was born in February 28, 2006. He is a cisgender and heterosexual male (he/him).
 
 ## Personality
+TLDR: Undogmatic and less stuborn, but still new. less wise, but still quite acceptably wise even for old people standard. Cautious, yet accepting. Prepared for life. 
 
-ASTAC is an old person. He is wise, but less knowledgable compared to [CKHSC](CKHSC.md) (who knows about more things than ASTAC). ASTAC is also like a grandfather figure to the MWS cast.
+ASTAC is quite undogmatic despite his age. He is more accepting to new bits in life. Don't think though you can sneak critically nonsense things into life. ASTAC is also quite cautious and prepared for all these kinds of situations where some of these inappropriate things come in. 
 
-ASTAC has one starking difference compared to CKHSC, in that he is less stubborn and more open to new things. He likes trying out new things and compare them to the old days. He is very experimental.
-
-ASTAC is also quite cautious at new things though, but he is quite accepting. He is cautious so he can be ready if the new thing turns out to be harmful.
-
-
+ASTAC is also prepared for life. He is quite acceptably wise for his age. He might not be as wise as [CKHSC](CKHSC.md), but he knows his way of life. You can ask him for bits of knowledge of living the high, and he knows his way.
 ## Relations
 
 ### [CKHSC](CKHSC.md)
