@@ -16,7 +16,7 @@ kanban-plugin: board
 
 - [ ] LG AS-H246TKA2 from July 6, 2005.
 - [ ] Samsung AVMFH052EA0 from August 3, 2005.
-- [ ] Add mah boy Whisen. Whisen is LG from Korea.
+- [ ] Add mah boy Whisen. Whisen is LG from Korea. He has one powerful trick: Metatheatrics (and by extension 4th wall breaking abilities)
 - [ ] Sharp LR (M) and GHR (F, French) later
 
 
