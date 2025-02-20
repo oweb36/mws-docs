@@ -9,6 +9,7 @@ He was born in March 14, 2018. He is a cisgender and pansexual male (he/him).
 He is black if skin color matters.
 
 ## Personality
+TLDR: Smug little edgy dude. Not evil, but teenager edginess makes him rude and word unfriendly. Guy just provokes people to ragebait them, by doing anything possible. Name caller, doesn't care if its offensive. No plans of leading. Not evil, and no physical violence. Anti racist, and rant on racism because he is black.
 
 Smug and cocky. Avxy has that stereotypical edgy teenager personality. He is actually not evil, but is just edgy. He is not nice and kind, but is quite rude and umm, not so nice with words.
 
@@ -16,9 +17,9 @@ He likes to provoke others to anger. He just wants their reactions. Avxy thrives
 
 Avxy is also the kind of person to name call you. He will insult you. He will harass you. He will throw sarcasm. He will annoy you. Avxy is disrespectful basically with words. He is very offensive and derogatory towards others. He is not a leader, and he doesn't plan to. Avxy is also the kind of person to demoralize others, and anger them. He wants to elicit reactions from you, and he enjoys it to his heart's content. Its all for fun to him. Its fun to him.
 
-Avxy is not that evil though, he has his limits for this madness. His limits is no actual physical violence. Gore and just physical violence is too much for him.
+Avxy is not that evil though, he has his limits for this madness. His limits is no actual physical violence. Gore and just physical violence is too much for him. He just needs rage and provocation to anger, not physical pain.
 
-Avxy doesn't like racism, especially to black people. This is because he is well, black. That's just it. So please don't be racist. He would bat an eye with racism towards non-blacks, but he will go into meltdown ranting why you don't be racist the moment you get racist with blacks.
+Avxy doesn't like racism, especially to black people. This is because he is well, black. That's just it. So please don't be racist. He would bat an eye with racism towards non-blacks, but he will go into angry rant on why you don't be racist the moment you get racist with blacks. He will go **"YOU'RE RACIST"**-aah rant meltdown if you try do to that.
 
 ## Relations
 
