@@ -8,6 +8,7 @@ He was born in 2003. He is a cisgender and heterosexual male (he/him) because he
 If skin color matters, CKHSC is white.
 
 ## Personality
+TLDR: Wise, old, dogmatic. Unadaptable and closed traditionalist. Believes in and for the collective best.
 
 CKHSC an old person. He is a wise, but quite traditional guy. He is kinda like a grandfather to the MWS cast, but he knows he still needs to learn more about now and that he needs to start adapting.
 
