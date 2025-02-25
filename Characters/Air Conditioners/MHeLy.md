@@ -19,6 +19,8 @@ MHeLy also has *very sharper than average* canine teeth despite her personality.
 
 ## Personality
 
+TLDR: Nice, empathetic and kind-hearted. Innovative and creative. Willing to help others and even self-sacrifice herself. Pacifist, but would do violence if given no choice. Self-doubting at times, and self-isolate as coping method. She may feel that she is being used, but she would bounce back. Has good friends and relations. People may declare themselves as enemies of MHeLy, but kindness pays off in the end.
+
 MHeLy is one of the nicer people in MWS. This is probably because she's a girl (More like woman. Wait, isn't that sexist? Probably, probably not. Nah).
 
 MHeLy is a kind-hearted and empathetic to others. She is very creative with her work and competition, and even innovative. She is kind-hearted and willing to help others, even sacrificing herself at times. MHeLy is a pacifist, but she would still do violence if she has no choice.
