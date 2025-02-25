@@ -37,7 +37,7 @@ JHR then gives a sigh that has a "*here we go again*" vibes and drags Wheamy, in
 
 **TODO: MORE CARNAGE**
 
-[ToshyFEN](ToshyFEN.md) finally had to step in and subdue DeltaCXG to stop him. He literally did it by grabbing [VXU](VXU.md) and then dragging him away. [AEX](AEX.md), [KaHLium](KaHLium.md), [WELLPan](WELLPan.md), [VXU](VXU.md), [CKHSC](CKHSC.md), [PKayFsa](PKayFsa.md), [ASTAC](ASTAC.md) and [ToshyFEN](ToshyFEN.md) is the only one to escape unscathed and uninjured. He just watched without doing anything until ToshyFEN intervened, shellshocked. DeltaCXG was probably saving him for last. 
+[ToshyFEN](ToshyFEN.md) finally had to step in and subdue DeltaCXG to stop him. He literally did it by grabbing [VXU](VXU.md) and then dragging him away. [AEX](AEX.md), [KaHLium](KaHLium.md), [WELLPan](WELLPan.md), [VXU](VXU.md), [CKHSC](CKHSC.md), [PFSA](PFSA.md), [ASTAC](ASTAC.md) and [ToshyFEN](ToshyFEN.md) is the only one to escape unscathed and uninjured. He just watched without doing anything until ToshyFEN intervened, shellshocked. DeltaCXG was probably saving him for last. 
 
 JHR then says to ToshyFEN: "Its great that you stopped DeltaCXG when we need him to stop. The aftermath, is not pretty. Almost everyone is either injured or dead. We need to sort this out." ToshyFEN then responds with: "Sure! Whatever you want to do to make this place **BETTER**!" JHR then responds back: "**JEEZ** you don't need to be that mani- *oh wait* you are not mentally well, alright ig you retarde-." ToshyFEN claps back with hostility "**WHAT DID YOU SAY ABOUT ME YOU ABLEI-???**" (while JHR was reevaluating his choice to call him the r slur).
 

@@ -5,6 +5,10 @@ PKayFsa is a [character](Characters) as a contestant on the [[Megarchive Warehou
 He is a Mitsubishi Electric (Mr. Slim) PKH-4FKSA [air conditioner](Air%20Conditioners.md). His name is pronounced as Pee-Kay-Visa.
 
 He was born in 1997. He is a cisgender and heterosexual male.
+
+He would be white if skin color matters.
+
+His full name is PKayFsa, but he's refered as PFSA cus nobody knows his real name except for few and even if they know they won't pr.
 ## Personality
 
 He is kinda drunk, but not rlly (This is referencing the Pee-Kay which means drunk in some hindi language).
