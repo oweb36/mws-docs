@@ -11,6 +11,8 @@ RXe is the older sister to [ZeNer](ZeNer.md).
 
 ## Personality
 
+TLDR: Evil and reckless. Goodness is questionable. Just don't be near her. If her personality can be condensed and distilled into one word: ***evil*** and two words: ***evil prick***.
+
 She's just evil, with a slight bit of goodness (but massive to those close to her though). Don't trust her at all (mostly), her evilness overpowers her goodness unless you're really close with her.  Don't also underestimate her, you don't know how strong and evil she is. She is a force to be reckoned with.
 
 RXe is fearless, and is reckless. She is evil to live for! She is evil to live her life! RXe would unapologetically and uncaringly push other people, limits and the challenges away. Others would be in awe, and they might also be hurt. RXe doesn't care though, she is just evil for this.
