@@ -12,6 +12,8 @@ He was born on June 6, 2005. He is a pansexual genderfluid person. Raiie prefers
 If skin color matters, he is white.
 ## Personality
 
+TLDR: Good negotiator. Would try to compromise if he can for the good of both sides in a dispute. He is a mediator for his siblings due to his skills and knows their sweet spot.
+
 Raiie is a skilled negotiator. He can negotiate things with others. He knows what he is doing, and the sweet spot. You need help with negotiations? Get Raiie.
 
 Raiie also likes to compromise if he can. This is so that both can get the best of both world. This proves that Raiie does things for the benefit of both sides. Yes he does! Raiie does things the way he does to benefit both sides. He is benevolent after all.
