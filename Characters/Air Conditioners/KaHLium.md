@@ -15,6 +15,8 @@ KaHLium is the second most intelligent person in the [Megarchive Warehouse Show]
 
 ## Personality
 
+TLDR: Level headed serious guy who wants to be normal. No goofing around on his watch, even his humor is dry (he is aware of his birthday). Observant analyst for gathering intel, but to mainly check on his [sister](MHeLy.md) whom he loves. Has common sense even in the most pressuring situations unlike others.
+
 KaHLium is a level-headed person. He is not that insane, but not that chill. He is your average person. He just wants to be normal, that is it. Please don't make him that unique, he doesn't like that. KaHLium is also a serious person, who doesn't exactly tolerate no-nonsense things. This trait might conflict with others.
 
 KaHLium has pretty dry humour. His humour is deadpan and anti-joke. He does not give emotions normally, especially with his humour. His humour is a representation of his personality. This is probably due to his birthday.
