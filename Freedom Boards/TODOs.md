@@ -7,9 +7,6 @@ kanban-plugin: board
 ## Eternity
 
 - [ ] Give JHR or [AEX](AEX.md) a cousin. AEX/JHR's cousin is the IVT version of JHR (superior and inferior at the same time).
-- [ ] Rewrite personalities while staying consistent.
-	
-	Rewrite by studying them, breaking them apart into traits and rewrite them.
 
 
 ## Backlog
@@ -17,7 +14,10 @@ kanban-plugin: board
 - [ ] LG AS-H246TKA2 from July 6, 2005.
 - [ ] Samsung AVMFH052EA0 from August 3, 2005.
 - [ ] Add mah boy Whisen. Whisen is LG from Korea. He has one powerful trick: Metatheatrics (and by extension 4th wall breaking abilities)
-- [ ] Sharp LR (M) and GHR (F, French) later
+- [ ] - Sharp AY-XPC18LR (M, 2010)
+	- Sharp AY-XP09GHR (F, French, 2006)
+	- Sharp AY-XP18ZHU (M, Canadian-French, 2024)
+	- Sharp AY-ZP40PR (M, Finnish, 2012)
 
 
 ## Todo
@@ -28,6 +28,9 @@ kanban-plugin: board
 
 ## Current
 
+- [ ] Rewrite personalities while staying consistent.
+	
+	Rewrite by studying them, breaking them apart into traits and rewrite them.
 
 
 ## Done
