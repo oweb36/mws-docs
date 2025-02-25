@@ -10,9 +10,11 @@ She was born in 2008. She is a pansexual demigirl (she/they).
 If skin color mattered, she is white.
 
 ## Personality
+TLDR: Optimist, always looking to the bright side of life and cheering up people's hope with (sometimes unrealistic) motivations and dreams (that may annoy others sometimes). Nurturing, kind and gentle but may fail on sociopaths or just evil people. Tries to prepare you for survival. Easily hurt emotionally, and withdraw as a defense response. Very forgiving and is willing to drop past mistakes such as those emotional harms that causes her to isolate her.
+
 GiSY is an optimist. She always looks to the bright side of life, no matter the conditions. This may be annoying to others who may be realists. GiSY is always trying to bring people's hopes and motivations up, even if they are not realistic. She just wants to make people happy you know that right?
 
-GiSY also is a very kind and gentle demigirl. She's out there to care and nurture others. She may even try to teach and train her fellow friends on how to live, and survive. She also tries to nurture kindness, but that doesn't always works on some [sociopathic](VXU.md#DeltaCXG) people.
+GiSY also is a very kind and gentle demigirl. She's out there to care and nurture others. She may even try to teach and train her fellow friends on how to live, and survive. She also tries to nurture kindness, but that doesn't always works on some [sociopathic or even evil](VXU.md#DeltaCXG) people.
 
 GiSY also can get hurt easily emotionally. She's very sensitive due to her nature. If she's hurt, then GiSY may recede and withdraw from society. Misunderstanding her is one way to hurt her.
 
