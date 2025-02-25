@@ -13,13 +13,15 @@ If skin color mattered, he silver.
 
 ## Personality
 
+TLDR: Sexist misogynist. Just plain rude in general to men, but very sexist to women. Would try to show why men/male is superior to woman/female. Stubborn and very hard to learn and teach. A total asshole who is a total saddist. How saddist? Not happy if nobody is suffering. He baits for suffering unlike [Avxy](Avxy.md) who baits for fun. Freedom loving and timeout hating.
+
 Misogynistic strawman misogynist of MWS.
 
 NEptha believes that Males like him is superior over females. He believes that men is the greatest sex and gender over anything else. Trans? Nah! Demi? Nah! Man is life for him, everything else is death.
 
 Because of this, NEptha seems rude to non male people. Even if they are nice to him, he rejects them and treats them as slaves. Something tells me that NEptha is still living like in the 1420s. Even with this, he is still slightly rude to male people.
 
-NEptha may need to be taught a lesson on why man is not the superior, but equal to everything. But its hard, because NEptha is quite stubborn at learning even though if he already  made mistakes. NEptha thinks lessons are for wimps and weaklings. NEptha is very close-minded in life.
+NEptha may need to be taught a lesson on why man is not the superior, but equal to everything. But its hard, because NEptha is quite stubborn at learning even though if he already made mistakes. NEptha thinks lessons are for wimps and weaklings. NEptha is very close-minded in life.
 
 NEptha in general is an asshole. He treats people poorly. He feels that men is superior, and that feeds into him. He does not have a heart of gold, but a heart of jerk. Some of NEptha's antics are like [Avxy](Avxy.md) but worst. He wants to see people suffer. He is a sadist, who is happy from other's suffering. If his antics doesn't cause others to suffer, he is not happy. NEptha would like to bait reactions and pain. Unlike Avxy who just baits reactions for fun, NEptha baits reactions and pain.
 
