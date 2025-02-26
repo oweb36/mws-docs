@@ -6,6 +6,8 @@ They are a Samsung APH450PG floor-standing [heat pump](Air%20Conditioners.md). T
 They were born in 2003. They are an agender non-binary asexual (they/them).
 
 ## Personality 
+TLDR: Introvert, warm. Comforts those who needs it. Observant for those who needs him. Prone to anxiety outbursts if overwheled or pressured.
+
 Taph is an introvert. He has empathy for others. He cares about others, but is too introverted to do anything. In the case he does something, he is actually warm. He might even warm them up literally. Though mostly he will let others try to comfort the disturbed and will only act if the other empathetical people fails to comfort.
 
 Taph is also fairly observant. He is mainly observant to nature and other people. he uses this ability to figure out who is actually in need of love. He also uses his observational ability to figure out what plants are they and how they are doing. He is after all, a nature lover and would love to see eye-soothing greenery.
