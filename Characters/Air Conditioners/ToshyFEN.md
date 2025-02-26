@@ -32,6 +32,8 @@ Both minds (FEN and RBC) prefers to be refered to as he/him because they both ar
 
 ## Personality
 
+TLDR: One person, two minds.
+
 ToshyFEN is one person, but he has multiple minds. 
 
 [FEN](#FEN) is the volatile boi while [FEN](#FEN) is the chill and cautious one.
