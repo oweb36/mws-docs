@@ -32,11 +32,12 @@ Both minds (FEN and RBC) prefers to be refered to as he/him because they both ar
 
 ## Personality
 
-TLDR: One person, two minds.
+TLDR: One person, two minds.  
+TLDR2: Volatile but chill. One is insane and one is cautious. One should be in a mental hospital while the other does not. Caring but unstable.
 
 ToshyFEN is one person, but he has multiple minds. 
 
-[FEN](#FEN) is the volatile boi while [FEN](#FEN) is the chill and cautious one.
+[FEN](#FEN) is the volatile boi while [RBC](#RBC) is the chill and cautious one.
 
 ToshyFEN is quite chill in general, but he can never be as chill as [WELLPan](WELLPan.md). ToshyFEN can also be insane and angrier than usual. FEN is the mind of ToshyFEN that is mentally unstable and insane, RBC is mentally stable and sane.
 
@@ -46,15 +47,20 @@ RBC is also more intelligent than FEN. This is because RBC is the brain and is m
 
 ToshyFEN can be caring and will step in to protect. He does this if the situation warrants it such as if nobody is willing to or he is literally the only one capable to do so.
 ### FEN
+TLDR: Mentally unstable. Have two sides because of his health.
+
 FEN is the mentally unstable and insane mind of ToshyFEN. FEN is mentally not ok (insane and unstable). FEN basically has two personalities that are volatile at changing about. 
 
 He is suffering from:
 - *Borderline Personality Disorder*
-- *Disruptive Mood Dysregulation Disorder*. 
+- *Disruptive Mood Dysregulation Disorder* 
+- *Dissociative identity disorder*
 
 Yeah, FEN should be in a psychiatric hospital but he's here. FEN in fact has one of the worst mental health states in MWS.
 
- FEN has this one personality where he is really chill, and likes to chat. He can never be as chill as [WELLPan](WELLPan.md), but he is chill. He just listens, and talk a little. He likes small talk, and big talk. He is just there for WELLPan mostly, but can be there for others. Basically he just does nothing except listen and yap. FEN does observe people, but not that intently compared to [RBC](#RBC).
+ FEN has this one personality where he is really chill, and likes to chat. He can never be as chill as [WELLPan](WELLPan.md), but he is chill. He just listens, and talk a little. He likes small talk, and big talk. He is just there for WELLPan mostly, but can be there for others. Basically he just does nothing except listen and yap. FEN does observe people, but not that intently compared to [RBC](#RBC). He just is passive.
+
+In this passive side, he is well friendly but not that chatty like I said. But you know when I said he just talks a little, that's a half-lie. You can talk to him, but he does not talk to anyone on his own. You need to talk to him to be able to get im to talk you know that right?
 
 Despite FEN being observant, he is not that intelligent. In fact, FEN is below average intelligent.
 
