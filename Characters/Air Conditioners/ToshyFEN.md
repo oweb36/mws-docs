@@ -60,7 +60,7 @@ Yeah, FEN should be in a psychiatric hospital but he's here. FEN in fact has one
 
  FEN has this one personality where he is really chill, and likes to chat. He can never be as chill as [WELLPan](WELLPan.md), but he is chill. He just listens, and talk a little. He likes small talk, and big talk. He is just there for WELLPan mostly, but can be there for others. Basically he just does nothing except listen and yap. FEN does observe people, but not that intently compared to [RBC](#RBC). He just is passive.
 
-In this passive side, he is well friendly but not that chatty like I said. But you know when I said he just talks a little, that's a half-lie. You can talk to him, but he does not talk to anyone on his own. You need to talk to him to be able to get im to talk you know that right?
+In this passive side, he is well friendly but not that chatty like I said. But you know when I said he just talks a little, that's a half-lie. You can talk to him, but he does not talk to anyone on his own. You need to talk to him to be able to get him to talk you know that right? There's one type of chat he is good at and that is Big Talk. He does this better than [RBC](#RBC) and in fact RBC leaves FEN to do the big talk. Why is he good? Idk.
 
 Despite FEN being observant, he is not that intelligent. In fact, FEN is below average intelligent.
 
@@ -77,6 +77,8 @@ There's an exception though to that, RBC! FEN would do anything to protect RBC, 
 FEN's volatile personality and mind can switch easily. He is caring though to some, especially [RBC](#RBC).
 
 ### RBC
+
+TLDR: Cautious and chill. Sane unlike [FEN](#FEN). Smarter, but usually untrusting. If warmed up, he would trust you. Quite chatty, but find big talk awkward and leaves it up to FEN to do so. Is the brain, and so is cautious because if RBC dies then ToshyFEN dies. Observant and more intelligent than FEN, but does so discretely. Saner and would try to stop FEN but mostly is powerless except to influence FEN.
 
 RBC is the more cautious and chiller mind out of ToshyFEN. RBC is the mentally sane and stable mind out of ToshyFEN too.
 
