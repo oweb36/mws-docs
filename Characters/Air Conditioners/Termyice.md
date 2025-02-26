@@ -5,14 +5,19 @@ Termyice is a LG SN09ICEV [air conditioner](Air%20Conditioners.md). Her series i
 
 Termyice was born in 2011. She is a heterosexual female (she/her).
 
+There are several ways to call her:
+- Termyice -> Term-E-yise (Actual name).
+- Termy -> Term-E (Nickname).
+- Ice -> Ice (Nickname).
+
 ## Personality
-Termyice is well a unique girl.
+TLDR: Anxiety and slight anger issues. Angst-ridden and easily agitated and triggered. Extroverted and gentle (with some exceptions) though. Do not trigger her though.
 
-She has anxiety and slight anger issues. Termyice is angst-ridden and agitated easily. Termyice though is quite gentle and extroverted.
+Termyice is well a unique girl to say the least.
 
-Basically Termyice and you can be friends easily, but beware that she is quite anxious, worried and easily triggered and agitated.
+She has anxiety and slight anger issues. Termyice is angst-ridden and agitated easily. Termyice though is quite gentle (with some exceptions) and extroverted. She not only is agitated easily but can be trigged quite easy like holding a grenade with its safety pin removed or you being covered in wasps. You don't know and don't want to know what she can do to you if she's triggered. Ignorance is bliss in this situation. But agitating her does not mean triggering her.
 
-TBA extension
+Basically Termyice and you can be friends easily, but beware that she is quite anxious, worried and easily triggered and agitated. She can be friendly but just don't trigger her hard enough. It may not end well for you. You can try calming her down if you want to.
 
 ## Relations
 
