@@ -18,6 +18,7 @@ kanban-plugin: board
 	- Sharp AY-XP09GHR (F, French, 2006)
 	- Sharp AY-XP18ZHU (M, Canadian-French, 2024)
 	- Sharp AY-ZP40PR (M, Finnish, 2012)
+- [ ] Sort [air conditioners](Air%20Conditioners.md) into different types.
 
 
 ## Todo
