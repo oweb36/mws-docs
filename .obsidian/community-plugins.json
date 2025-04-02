@@ -1,5 +1,7 @@
 [
   "obsidian-git",
   "obsidian-kanban",
-  "OA-file-hider"
+  "OA-file-hider",
+  "terminal",
+  "obsidian-shellcommands"
 ]
