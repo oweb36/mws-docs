@@ -34,7 +34,12 @@ What's This?: This board is for how the characters will be in the future. How th
 	GiSY and AngelSaph serves different purposes niches, but they can and do work together to do more.
 - [ ] [Xeo](Xeo.md) would be taller, and be damaged (cracks and slight inward bent as scars, she is still ok though dw about her as she still works). 
 	
+	## Personality
 	She would have controlled some of her anger issues, but she still has some of the anger issues left (Its her now). Xeo is still the angriest person, but she would have mellowed out a bit.
+	
+	Well this bitch slag though her angriest anger is now eternal can socialize better. She can be nice and chill but you can feel the eternal anger within. In fact, you can feel both your and her heart burning.
+	
+	With this way sociable side, beware of her rage and wrath. Its worse than before, and even more dangerous. Xeo just found a way to control it.
 - [ ] [MHeLy](MHeLy.md) would have a massive overhaul in identity and appearance, probably. She got a **GLOW UP**!
 	
 	## Appearance and physiology
@@ -77,6 +82,12 @@ What's This?: This board is for how the characters will be in the future. How th
 	
 	DeltaCXG was the one who opened her eyes to the world's futility. DeltaCXG had hurt her many times and now she sees that the world needs help. She is way less nice so she can do the duty of helping the world a better place. And yes, DeltaCXG basically betrayed her at some point.
 - [ ] [ToshyFEN](ToshyFEN.md) won't grow taller, but he has extra things.
+	
+	Still durable AF.
+	
+	## Appearance
+	
+	Still similar, but he now wears ninja headbands to reflect his new other assassin side.
 	## Personality
 	
 	He is less chill, but still ok. FEN is saner and and less sane at the same time. He is more volatile at times. RBC is more cautious.
@@ -85,6 +96,10 @@ What's This?: This board is for how the characters will be in the future. How th
 	FEN would also be more paranoid of the whole world and its evilness to add spice. He fears a lot now. RBC also would be more paranoid and cautious like I said.
 	
 	FEN being less sane than before means that he would suffer more mental disorders, but him being saner means that he would have more control. So he is more chill and more volatile, but when he melts down he's crazier.
+	
+	Also despite him being way more chill, he is way more sociable. He will talk more than his younger self and he can do crap you know. He now can trash talk others and roast them, but he is nice when sociable and everything is right.
+	
+	Also ToshyFEN as a whole would gain another side. Stealth Assassin side. He can assassinate others if needed. Way more competent.
 - [ ] [Aufs](Aufs.md) is more normal.
 	
 	Aufs is more normal. He is less weird than before, but he is more stalking than before. Aufs also opens up even more.
