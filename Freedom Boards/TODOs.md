@@ -10,6 +10,9 @@ kanban-plugin: board
 
 ## Backlog
 
+- [ ] Sort [air conditioners](Air%20Conditioners.md) into different types, and other bits. Use properties
+	
+	And also make groups, alliance, cliques and all that crap.
 - [ ] Give JHR or [AEX](AEX.md) a cousin. AEX/JHR's cousin is the IVT version of JHR (superior and inferior at the same time).
 - [ ] LG AS-H246TKA2 from July 6, 2005.
 - [ ] Samsung AVMFH052EA0 from August 3, 2005.
@@ -18,7 +21,18 @@ kanban-plugin: board
 	- Sharp AY-XP09GHR (F, French, 2006)
 	- Sharp AY-XP18ZHU (M, Canadian-French, 2024)
 	- Sharp AY-ZP40PR (M, Finnish, 2012)
-- [ ] Sort [air conditioners](Air%20Conditioners.md) into different types.
+- [ ] Starmexed.
+	
+	5-Indoor Multi!
+	- MSXY-FN24VE
+	- MSXY-FN10VE
+	- MSXY-FN18VE
+	- MSXY-FN13VE
+	- MSXY-FN13VE
+	
+	With MXY-5G48VA2
+	
+	They are *MSYX* as a collective.
 
 
 ## Todo
