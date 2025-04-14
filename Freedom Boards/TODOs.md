@@ -14,29 +14,36 @@ kanban-plugin: board
 - [ ] LG AS-H246TKA2 from July 6, 2005.
 - [ ] Samsung AVMFH052EA0 from August 3, 2005.
 - [ ] Add mah boy Whisen. Whisen is LG from Korea. He has one powerful trick: Metatheatrics (and by extension 4th wall breaking abilities)
-- [ ] - Sharp AY-XPC18LR (M, 2010) -> XYLR
-	- Sharp AY-XP09GHR (F, French, 2006) -> GHR
-	- Sharp AY-XP18ZHU (M, Canadian-French, 2024)
+- [ ] - Sharp AY-XPC18LR (M, Italian, 2010) -> XYLR -> 2010s Gen-Z kid who enjoys EDM.
+	- Sharp AY-XP09GHR (F, French, 2006) -> GHR - Fashion
+	- Sharp AY-XP18ZHU (M, Canadian-French, 2024) -> ZHU
 	- Sharp AY-ZP40PR (M, Finnish, 2012) -> ZiP
 - [ ] Starmexed.
 	
 	5-Indoor Multi!
 	- MSXY-FN24VE  
-		- MSYX-24
+		- MSYX-F24
+		- F (she/her)
 	- MSXY-FN10VE 
 		- MSYX-10
+		- M (he/him)
 	- MSXY-FN18VE 
 		- MSYX-18
+		- M (he/him)
 	- MSXY-FN13VE 
 		- MSYX-13
+		- F (she/her)
 	- MSXY-FN20VE 
 		- MSYX-20
+		- M (he/him)
 	- *MXY-5G48VA2*
-		- MSYX-548
+		- MSYX-V548
+		- Intersex-Male-Genderfluid (she/he/they)
+		- Canonically XXY unlike others which is either X or Y.
 	
 	They are *MSYX* as a collective. Yes, their name is MSYX.
 	
-	What about the individual names, well its *MSYX*-***WTFid****. What is ***WTFid*** you might ask? Well its their number.
+	What about the individual names, well its unique as they use numbers.
 
 
 ## Todo
