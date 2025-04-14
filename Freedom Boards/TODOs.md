@@ -10,33 +10,40 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] Sort [air conditioners](Air%20Conditioners.md) into different types, and other bits. Use properties
-	
-	And also make groups, alliance, cliques and all that crap.
 - [ ] Give JHR or [AEX](AEX.md) a cousin. AEX/JHR's cousin is the IVT version of JHR (superior and inferior at the same time).
 - [ ] LG AS-H246TKA2 from July 6, 2005.
 - [ ] Samsung AVMFH052EA0 from August 3, 2005.
 - [ ] Add mah boy Whisen. Whisen is LG from Korea. He has one powerful trick: Metatheatrics (and by extension 4th wall breaking abilities)
-- [ ] - Sharp AY-XPC18LR (M, 2010)
-	- Sharp AY-XP09GHR (F, French, 2006)
+- [ ] - Sharp AY-XPC18LR (M, 2010) -> XYLR
+	- Sharp AY-XP09GHR (F, French, 2006) -> GHR
 	- Sharp AY-XP18ZHU (M, Canadian-French, 2024)
-	- Sharp AY-ZP40PR (M, Finnish, 2012)
+	- Sharp AY-ZP40PR (M, Finnish, 2012) -> ZiP
 - [ ] Starmexed.
 	
 	5-Indoor Multi!
-	- MSXY-FN24VE
-	- MSXY-FN10VE
-	- MSXY-FN18VE
-	- MSXY-FN13VE
-	- MSXY-FN13VE
+	- MSXY-FN24VE  
+		- MSYX-24
+	- MSXY-FN10VE 
+		- MSYX-10
+	- MSXY-FN18VE 
+		- MSYX-18
+	- MSXY-FN13VE 
+		- MSYX-13
+	- MSXY-FN20VE 
+		- MSYX-20
+	- *MXY-5G48VA2*
+		- MSYX-548
 	
-	With MXY-5G48VA2
+	They are *MSYX* as a collective. Yes, their name is MSYX.
 	
-	They are *MSYX* as a collective.
+	What about the individual names, well its *MSYX*-***WTFid****. What is ***WTFid*** you might ask? Well its their number.
 
 
 ## Todo
 
+- [ ] Sort [air conditioners](Air%20Conditioners.md) into different types, and other bits. Use properties
+	
+	And also make groups, alliance, cliques and all that crap.
 - [ ] Give [Termyice](Termyice.md) and [LCN](LCN.md) life as the first LG people.
 - [ ] [REU](REU.md) personality time.
 
@@ -82,6 +89,10 @@ kanban-plugin: board
 	In AEX, PCR is the only female. AEX is now therefore a bigender (he/she) because there's a female and males. AEX is also non-binary (they/them) because AEX is now 4 person in 1 person. You can now refer to AEX as he/she/they/them.
 
 
+## Done2
+
+
+
 ***
 
 ## Archive
@@ -113,6 +124,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false]}
 ```
 %%
