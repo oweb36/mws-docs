@@ -4,11 +4,11 @@ ToshyFEN is a [character](Characters) as a contestant on the [[Megarchive Wareho
 
 ToshyFEN is a Toshiba floor-standing RAV-RM1601FT-EN [heat pump](Air%20Conditioners.md). His name is pronounced as Toh-she-Fen.
 
-He was born in 2021, as a British person. He is a cisgender and heterosexual male.
+He was born in 2021, as a British person. He is a cisgender and heterosexual male. He/Him.
 
 He is one of the most durable person in MWS; He can survive injuries that would incapacitate or even kill others, and he can tolerate severe pain such as crotch kicks. ToshyFEN is also very heavy, in fact he is the heaviest out of them all.
 
-ToshyFEN is kinda the most intelligent, but also not the most intelligent.
+ToshyFEN is kinda the most intelligent, but also not the most intelligent. He is not sane enough to be able to handle this.
 
 If skin color matters, ToshyFEN is white.
 
@@ -16,19 +16,36 @@ ToshyFEN is the younger brother to [ToshyMEF](ToshyMEF.md). They almost look sim
 
 ToshyFEN's Lite-Vision plus (RBC-AMSU51-EN) controller is his brain and his main method of being adjusted and controlled. ToshyFEN also has a TCB-AX32E2 wireless receiver kit installed and attached to him, which is an auxiliary way to control him wirelessly. ToshyFEN's Lite-Vision plus controller is his brain and is exposed to the world, so he is careful of it.
 
+He is one person, but [double minded literally](#Double%20Minded): [RBC-AMSUS](#RBC-AMSUS) and [FEN](#FEN). He is both sane and insane.
+
 ### Double Minded
 
 ToshyFEN actually has two minds, and each of his minds has a face. ToshyFEN is still the same person though.
 
 The main and dominant mind of ToshyFEN is at the front panel of his main body, while the auxilliary and recessive mind of ToshyFEN is in his controller. 
 
-The dominant mind of ToshyFEN is named FEN while the recessive controller mind of ToshyFEN is named RBC. RBC is named that way because RBC is literaly a Toshiba RBC-AMSU51-EN controller. RBC also has control over ToshyFEN's TCB-AX32E2 wireless receiver (RBC can talk and beep thru the TCB receiver, because normally RBC is mute without the TCB receiver). 
+The dominant mind of ToshyFEN is named FEN while the recessive controller mind of ToshyFEN is named RBC-AMSUS. RBC-AMSUS is named that way because RBC-AMSUS is literaly a Toshiba RBC-AMSU51-EN controller. RBC-AMSUS also has control over ToshyFEN's TCB-AX32E2 wireless receiver (RBC-AMSUS can talk and beep thru the TCB receiver, because normally RBC-AMSUS is mute without the TCB receiver). TCB is not sentient and a new mind, but a part of RBC-AMSUS. TCB is like RBC-AMSUS' vocal cords, but very nerfed. **also RBC-AMSUS' nickname is RBC as a shortened term, in fact we got an [entire section dedicated to it](#Naming%20and%20Triviality).**
 
-RBC is actually ToshyFEN's brain (because RBC is ToshyFEN's controller). If RBC is somehow gets damaged or killed, ToshyFEN would actually die. Yes, FEN would also die with RBC if RBC dies and vice versa. RBC is ToshyFEN's achilles' heel, and ToshyFEN would protect RBC. This is an irony because FEN is the dominant mind while RBC is the recessive and auxiliary mind despite RBC being ToshyFEN's brain. RBC is exposed to the outside world unlike [ToshyMEF](ToshyMEF.md)'s controller that is hidden behind a protective cover. ToshyFEN's wireless receiver is not his brain unlike RBC, but it is the way RBC can talk and beep (and consequently the way ToshyFEN beeps).
+RBC is actually ToshyFEN's brain (because RBC is ToshyFEN's controller). If RBC-AMSUS is somehow gets damaged or killed, ToshyFEN would actually die. Yes, FEN would also die with RBC-AMSUS if RBC dies and vice versa. RBC-AMSUS is ToshyFEN's achilles' heel, and ToshyFEN would protect RBC. This is an irony because FEN is the dominant mind while RBC is the recessive and auxiliary mind despite RBC being ToshyFEN's brain. RBC is exposed to the outside world unlike [ToshyMEF](ToshyMEF.md)'s controller that is hidden behind a protective cover. ToshyFEN's wireless receiver is not his brain unlike RBC, but it is the way RBC can talk and beep (and consequently the way ToshyFEN beeps).
 
-FEN shows his face in the front panel physically, which means you can interact with his face. RBC shows his face in the lcd screen. RBC can't actually see well due to the quality of his lcd screen (resolution is quite crunchy like a dot matrix screen and has horrible color channels with him having 8-bit RGB coloring), but RBC is still capable of seeing (he ain't blind, neither is he colorblind).
+FEN shows his face in the front panel physically, which means you can interact with his face. RBC shows his face in the lcd screen. RBC-AMSUS can't actually see well due to the quality of his lcd screen (resolution is quite crunchy like a dot matrix screen and has horrible color channels with him having 8-bit RGB coloring), but RBC-AMSUS is still capable of seeing (he ain't blind, neither is he colorblind, but just poor vision).
 
-Both minds (FEN and RBC) prefers to be refered to as he/him because they both are the same person (ToshyFEN). They are not different a person, so don't refer to both of them as they/them. ToshyFEN likes it when you use ToshyFEN to refer to both of his minds and use FEN or RBC when you want to refer to one of his individual minds.
+Both minds (FEN and RBC-AMSUS) prefers to be refered to as he/him because they both are the same person (ToshyFEN). They are not different a person, so don't refer to both of them as they/them. ToshyFEN likes it when you use ToshyFEN to refer to both of his minds and use FEN or RBC when you want to refer to one of his individual minds.
+
+### Naming and Triviality
+
+- **RBC-AMSUS**
+	- Name of ToshyFEN's Controller.
+	- Full name derived from his model -> *RBC-AMSU51-EN*
+	- RBC (Nickname)
+	- AMSUS (Nickname, less prefered but sure).
+- **FEN**
+	- The dominant guy.
+	- Also the name of ToshyFEN's main dominant mind.
+	- AKA ToshyFEN's body.
+- **ToshyFEN**
+	- The Collective mind of both [RBC](#RBC-AMSUS) and [FEN](#FEN).
+	- He/him not They/them.
 
 ## Personality
 
@@ -37,9 +54,9 @@ TLDR2: Volatile but chill. One is insane and one is cautious. One should be in a
 
 ToshyFEN is one person, but he has multiple minds. 
 
-[FEN](#FEN) is the volatile boi while [RBC](#RBC) is the chill and cautious one.
+[FEN](#FEN) is the volatile boi while [RBC-AMSUS](#RBC-AMSUS) is the chill and cautious one.
 
-ToshyFEN is quite chill in general, but he can never be as chill as [WELLPan](WELLPan.md). ToshyFEN can also be insane and angrier than usual. FEN is the mind of ToshyFEN that is mentally unstable and insane, RBC is mentally stable and sane.
+ToshyFEN is quite chill in general, but he can never be as chill as [WELLPan](WELLPan.md). ToshyFEN can also be insane and angrier than usual. FEN is the mind of ToshyFEN that is mentally unstable and insane, RBC-AMSUS is mentally stable and sane.
 
 In a nutshell for the above, FEN is not OK but he is the most capable one while RBC is OK but he is 'disabled' to say the least. With this, ToshyFEN in general has some of the worst mental health state.
 
@@ -58,9 +75,9 @@ He is suffering from:
 
 Yeah, FEN should be in a psychiatric hospital but he's here. FEN in fact has one of the worst mental health states in MWS.
 
- FEN has this one personality where he is really chill, and likes to chat. He can never be as chill as [WELLPan](WELLPan.md), but he is chill. He just listens, and talk a little. He likes small talk, and big talk. He is just there for WELLPan mostly, but can be there for others. Basically he just does nothing except listen and yap. FEN does observe people, but not that intently compared to [RBC](#RBC). He just is passive.
+ FEN has this one personality where he is really chill, and likes to chat. He can never be as chill as [WELLPan](WELLPan.md), but he is chill. He just listens, and talk a little. He likes small talk, and big talk. He is just there for WELLPan mostly, but can be there for others. Basically he just does nothing except listen and yap. FEN does observe people, but not that intently compared to [RBC](#RBC-AMSUS). He just is passive.
 
-In this passive side, he is well friendly but not that chatty like I said. But you know when I said he just talks a little, that's a half-lie. You can talk to him, but he does not talk to anyone on his own. You need to talk to him to be able to get him to talk you know that right? There's one type of chat he is good at and that is Big Talk. He does this better than [RBC](#RBC) and in fact RBC leaves FEN to do the big talk. Why is he good? Idk.
+In this passive side, he is well friendly but not that chatty like I said. But you know when I said he just talks a little, that's a half-lie. You can talk to him, but he does not talk to anyone on his own. You need to talk to him to be able to get him to talk you know that right? There's one type of chat he is good at and that is Big Talk. He does this better than [RBC](#RBC-AMSUS) and in fact RBC leaves FEN to do the big talk. Why is he good? Idk.
 
 Despite FEN being observant, he is not that intelligent. In fact, FEN is below average intelligent.
 
@@ -74,11 +91,11 @@ FEN is caring sometimes when he is chill. He would step in to stop carnage if he
 
 There's an exception though to that, RBC! FEN would do anything to protect RBC, as RBC is not only him, RBC is also his brain and also his "brother." FEN would even kill others just to protect RBC. FEN, even in his unhinged personality would still protect RBC.
 
-FEN's volatile personality and mind can switch easily. He is caring though to some, especially [RBC](#RBC).
+FEN's volatile personality and mind can switch easily. He is caring though to some, especially [RBC](#RBC-AMSUS).
 
-### RBC
+### RBC-AMSUS
 
-TLDR: Cautious and chill. Sane unlike [FEN](#FEN). Smarter, but usually untrusting. If warmed up, he would trust you. Quite chatty, but find big talk awkward and leaves it up to FEN to do so. Is the brain, and so is cautious because if RBC dies then ToshyFEN dies. Observant and more intelligent than FEN, but does so discretely. Saner and would try to stop FEN but mostly is powerless except to influence FEN.
+TLDR: Cautious and chill. Sane unlike [FEN](#FEN). Smarter, but usually untrusting. If warmed up, he would trust you. Quite chatty, but find big talk awkward and leaves it up to FEN to do so. Is the brain, and so is cautious because if RBC dies then ToshyFEN dies. Observant and more intelligent than FEN, but does so discretely. Saner and would try to stop FEN but mostly is powerless except to influence FEN. Does not like you lobotomizing him and ToshyFEN.
 
 RBC is the more cautious and chiller mind out of ToshyFEN. RBC is the mentally sane and stable mind out of ToshyFEN too.
 
@@ -91,6 +108,8 @@ RBC is very observant, even more observant than [FEN](#FEN). RBC observes things
 RBC is also the saner one, and he would try to stop FEN. RBC though doesn't have the power to control FEN because he is recessive, and wishes that one day he has just enough power to influence and control FEN. The only thing RBC can do is talk to FEN silently and influence his thoughts, but he has no power over the movement of ToshyFEN.
 
 RBC cares for FEN and wishes he could help influence him for good, but he doesn't have enough power to do so. RBC knows that FEN really cares for him.
+
+Also RBC-AMSUS does not like it if you tinker too much or deeply with him. By doing so, you are basically changing the way ToshyFEN's brain works. Nobody likes to get lobotomized, including RBC-AMSUS, [FEN](#FEN) and ToshyFEN. He might let you change temperature, fan and mode but do not try to go very deep and change deep setups like features, filter lifespan and all those other technical junkies bits. Please, by modifying them you are literally digitally-lobotomizing ToshyFEN.
 
 
 ## Relations
