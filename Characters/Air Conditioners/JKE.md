@@ -28,7 +28,7 @@ Crap talks of Xeo: "You ain't deluxe," "Why so small?"
 
 You get it.
 
-### [NEptha](NEptha.md)
+### [NAEphthalene (NEptha)](NAEphthalene.md)
 NEptha sees JKE as a version of himself, a less advanced one. He sees JKE as inferior. Don't worry, he is kinda like a big brother to him. NEptha is very supportive to JKE because they are similar.
 
 NEptha and JKE both are aware that they aren't actually siblings.

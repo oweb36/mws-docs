@@ -4,12 +4,18 @@ NEptha is a [character](Characters) as a contestant on the [[Megarchive Warehous
 
 NEptha is a Panasonic CS-NE9LKE wall-mounted [heat pump](Air%20Conditioners.md). NEptha is a superior version of [JKE](JKE.md) and both a superior and inferior version of [Xeo](Xeo.md).
 
-NEptha's name is pronounced as Neptune and Naphthalene. The "NEp" is pronounced as the "Nep" in Neptune, while the "tha" is pronounced as the "tha" in Naphthalene.
+NEptha's name is pronounced as Neptune and Naphthalene. The "NEp" is pronounced as the "Nep" in Neptune, while the "tha" is pronounced as the "tha" in Naphthalene. His name is derived from his model (NE) and Naphthalene.
 
 He was born in 2010. He is a cisgender and asexual male (he/him).
 If skin color mattered, he silver.
 
 [This](panasonic-amber-gemstone-ironoxide-deice-2010_cs-ne9lke.pdf) is NEptha's reference manual.
+
+### Name
+
+Since NEptha has a long name, here are several shortened/alternate/nick names for him:
+- NEptha (Old name, prefered)
+- NAphtha
 
 ## Personality
 

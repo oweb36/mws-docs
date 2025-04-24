@@ -33,7 +33,7 @@ Crap talks of Xeo: "You ain't deluxe," "Why so small?"
 
 You get it.
 
-### [NEptha](NEptha.md)
+### [NAEphthalene (NEptha)](NAEphthalene.md)
 NEptha dislikes Xeo. Its because Xeo is a woman, and just catty.
 
 ### [RXe](RXe.md)

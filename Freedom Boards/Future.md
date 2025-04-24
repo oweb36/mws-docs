@@ -105,7 +105,7 @@ What's This?: This board is for how the characters will be in the future. How th
 	Aufs is more normal. He is less weird than before, but he is more stalking than before. Aufs also opens up even more.
 	
 	Aufs would even be more yellowed than before.
-- [ ] [NEptha](NEptha.md) would become one of the most monstrous beings. He would be way stronger, but we'll see his strength. 
+- [ ] [NAEphthalene (NEptha)](NAEphthalene.md) would become one of the most monstrous beings. He would be way stronger, but we'll see his strength. 
 	
 	Well, for one he would have crystals budding all over his body. Those are green KEP crystals and they pierce through out his body. Its kinda like a flesh monster except that crystals pierces their body and those crystals are natural. He has KEP nucleation-budding crystals inside of him.
 	
