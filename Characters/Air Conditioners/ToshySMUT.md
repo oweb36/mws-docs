@@ -12,6 +12,8 @@ ToshySMUT has a RBC-AX32U(W)-E and RBC-AMS51E-EN installed in him. This means th
 
 ## Personality
 
+TLDR: Rude and smutty, albeit unintentional. Does not know how to express himself in a nice way. Does not know how to socialize. Does not know how to talk to others properly. No social life and is too isolated. Good person at heart, just no social life. Wishes to tell you tales, but umm he has no idea how, and ends up driving you away. Aware of this fax.
+
 He is rude and smutty, but not bad. He just doesn't know how to express himself nicely. He is just a poor misunderstood soul, who is trying to be nice but people take him as a rude person.
 
 ToshySMUT appears as rude as he would interrupt people randomly, and say not so nice stuff about others. He would sometimes drop bombshell truths about others when its not appropriate. This is why people see him as a smut.
