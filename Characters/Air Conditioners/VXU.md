@@ -33,23 +33,32 @@ Whatever you do, don't try to disconnect a member of VXU from VXU. That's quite 
 Since VXU is a triad that is also a single person, each of the people in VXU has their own personalities. Each of them has contrasting personality that can balance each other out.
 
 ### DeltaCXG
+TLDR: Psychopathic, sadist and uncaring saboteur. Cares for a few (MXU, CTUX), but still bullies them (especially the latter). Empathy-lacking, enjoys people suffering. Noticeably targets girls more than boys. Not good.
 
-DeltaCGX is the sociopathic, sadistic and uncaring saboteur. He cares for his siblings (AKA those who is part of VXU, including MXU), but doesn't care about others except for a select few.
+DeltaCGX is the ~~sociopathic~~ psychopathic, sadistic and uncaring saboteur. He cares for his siblings (AKA those who is part of VXU, including MXU), but doesn't care about others except for a select few. Despite this, he still bullies [MXU](#MXU) because MXU is too kind.
 
-DeltaCXG is the bad person here. 
+He not only lacks empathy, he also enjoys watching other people suffer. Though not discriminatory, he noticeably targets girls more than the boys.
+
+DeltaCXG is the bad person here. Well, it's more like he has a personality disorder, but that does not excuse what he does.
 ## CTUX
+
+TLDR: Strong willed, overconfident and arrogant-ass guy. Great at leadership and strategic thinking, but whatevs. Known to underestimate people at times. He can be humble though at times. Not that ~~sociopathic~~ psychopathic unlike [DeltaCXG](#DeltaCXG). He would not willingly hurt others unlike DeltaCXG, and violence is too far. Would like to stop this psychopath, but CTUX does not have the power to do so unlike [MXU](#MXU) and would like to protect others. Is good.
 
 CTUX is the overconfident and arrogant, but strong willed competitor, and is a good person in general. He is confident and determined. He can lead people with his great leadership skills, and is intelligent. He can strategically think.
 
 CTUX's arrogance due to his confidence may lead him to underestimate others. Although his arrogance manifests quite often, at times he is humble
 
-CTUX is not that sociopathic though. He would not willingly hurt others, unlike his fellow brother [DeltaCXG](#DeltaCXG). He finds physical violence too far for him. CTUX would also try to stop DeltaCXG if he can, like [MXU](#MXU) is brother, but he is too powerless to do so (at least MXU is the one capable of that). If he has power, CTUX would protect others.
+CTUX is not that psychopathic ~~sociopathic~~ though. He would not willingly hurt others, unlike his fellow brother [DeltaCXG](#DeltaCXG). He finds physical violence too far for him. CTUX would also try to stop DeltaCXG if he can, like [MXU](#MXU) is brother, but he is too powerless to do so (at least MXU is the one capable of that). If he has power, CTUX would protect others.
 
 CTUX inherently is not a bad person, but genuinely a good person. He is just too arrogant and leadership-oriented for this good side to manifest frequently.
 
 ## MXU
 
+TLDR: Gentle. Not brash, and would stop [this ~~sociopath~~ psychopath](#DeltaCXG) from terrorizing and hurting others. Snap-ass. And is good, and has power unlike [CTUX](VXU.md) bruh.
+
 MXU is the gentle one. He is not as brash as the others. MXU would even try to stop his fellow brothers, especially [DeltaCXG](#DeltaCXG) from terrorizing others.
+
+Can be assertive at times, especially with DeltaCXG. May also be quite snappy, but yeah that is him.
 
 MXU is a good person definitely. He has power, but is armless.
 
