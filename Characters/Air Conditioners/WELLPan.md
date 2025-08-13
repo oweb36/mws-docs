@@ -10,6 +10,7 @@ If skin color matters, he is white.
 He is one of the strongest person in the Megarchive Warehouse Show. He is also one of the most intelligent person in MWS. WELLPan is also one of the slowest person in MWS. WELLPan is one of the sanest person in MWS.
 
 ## Personality
+TLDR: Chill Guy, Lazy Bum, Smart, Sane.
 
 WELLPan is one of the chillest and most easygoing person in the Megarchive Warehouse Show. He is pretty much the easygoing vibe carrier in AACOS. He has that unhinged, yet chill humor. WELLPan is also kinda lazy and unmotivated at times. To get his thin body to do something, you should motivate him.
 
