@@ -6,13 +6,13 @@ kanban-plugin: board
 
 ## Eternity
 
-- [ ] Give JHR or [AEX](AEX.md) a cousin. AEX/JHR's cousin is the IVT version of JHR (superior and inferior at the same time).
-- [ ] LG AS-H246TKA2 (F24AHJ) from July 6, 2005.
 
 
 ## Backlog
 
+- [ ] Give JHR or [AEX](AEX.md) a cousin. AEX/JHR's cousin is the IVT version of JHR (superior and inferior at the same time).
 - [ ] Samsung AVMFH052EA0 from August 3, 2005.
+- [ ] LG AS-H246TKA2 (F24AHJ) from July 6, 2005.
 - [ ] Add mah boy Whisen. Whisen is LG from Korea. He has one powerful trick: Metatheatrics (and by extension 4th wall breaking abilities)
 - [ ] - Sharp AY-XPC18LR (M, Italian, 2010) -> XYLR -> 2010s Gen-Z kid who enjoys EDM.
 	- Sharp AY-XP09GHR (F, French, 2006) -> GHR - Fashion
