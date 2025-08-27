@@ -8,18 +8,20 @@ She was born in August 10, 2010. She is a cisgender and bisexual female (she/her
 If skin color mattered, she's silver.
 
 ## Personality
+TLDR: Angry-ass. Bitchy-ass catty girl. Quite hostile, especially to women/girls. Gives you ***EMOTIONAL DAMAGE!*** Known to physically assault others, in the most girlish way we men call as **Catfighting**. Usually falls like a **sad** if someone does decides to strike back. Almost never in a good mood. Anger may subside, but **NEVER** fully. My be good, but **NOT** that as she is still an asshole Yes, has a golden heart, but shadowed by anger and eternal rage. Known to use harm and laceration as a love language, since thats all she knows to show love. Yeah, she has social skill issues lol.
 
-She's the catty one.
 
-Xeo is pretty catty, bitchy and passive aggressive. Very catty to say the least. She's very hostile to others, especially other female people or women. She hates other girls basically. Xeo may insult others, pretty brutally. The way she insults can give others, even the hardened ones ***EMOTIONAL DAMAGE!*** So don't cross her path or go near her when Xeo is in the process of brutally murdering someone psychologically and emotionally.
+She's the angry-ass catty one.
 
-Xeo would also sometimes physically assault others. Its not that severe, its your typical **WOMAN** fight, the pretty frail **WOMAN** fight. Catfight, yeah! Flail hands, yeah! That's how she fights. Others would either ignore her, or if they are really annoyed they would give her a (sometimes brutal) beatdown and causing her to (sometimes pretty badly) get hurt. Xeo wouldn't fight back, because she's also a Coward.
+Yeah, she is also smart enough. May not be *academia* smart, but is **street** smart.
 
 You might say: "She's actually an evil person, she does this for fun!" **N O P E**! There's a valid reason for her pretty rude and aggressive behavior.
 
-Xeo is always angry. She's never in a good mood, never with others. Her anger might subside, but shall never completely be gone and away. Xeo will be that one angry person in [MWS](Megarchive%20Warehouse%20Show.md). While other characters like [ToshyFEN](ToshyFEN.md) and [Aurl](Aurl.md) has their chill moments, Xeo has none of those. She is never chill, but will always be angery. Even the moments where her anger subsides is considered as unicorn. Its rare!
+While other characters like [ToshyFEN](ToshyFEN.md) and [Aurl](Aurl.md) has their chill moments. She ain't [WELLPan](WELLPan.md) bruh.
 
-And yes, Xeo has unresolved anger issues. It has gone on for so long that its probably unresolvable. She's not a good person to be with, due to how she's always angry.
+Despite that, she can be good. Not nice, not kind, just good in some mysterious way. So yeah, we got an extremely angry good girl here eh this lesbian bitch-ass ~~faggot~~-slag. And yes, she has some goodness, but shadowed by the anger.
+
+She is known to be good with her girlfriend(s), but still quite a wrathful ragin' bitch-ass woman/girl she is.
 
 ## Relations
 
