@@ -1,10 +1,13 @@
-Piss is an important background [character](Characters.md) on the [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show.md).
+---
+dob: 2007-03-03
+---
+Piss is a competing [character](Characters.md) on the [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show.md).
 
 ## Identity
 
 Piss is a Sharp SJ-F75PS-SL [refridgerator](Refridgerators.md). He is here because its my childhood refridgerator. His name is pronounced as just Piss, yeah actual pee Piss. His name is derived from the PS part of his SJ-F75PS-SL species.
 
-He was born in 2007 as an Asian-European. Piss is a cisgender and heterosexual male.
+He was born in March 3, 2007 as an Asian-European. Piss is a cisgender and heterosexual male.
 If skin color is considered, he is gray.
 
 [Sev](Sev.md) is the elder sibling to Piss.
