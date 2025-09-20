@@ -1,5 +1,5 @@
 
-Wheamy is a [character](Characters.md) as a contestant on the [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show.md).
+Wheamy is a [character](Characters.md) as an important background guy on the [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show.md).
 
 ## Identity
 Wheamy is an LG WM2101HW [washing machine](Washing%20Machines.md). His name is pronounced as Whim-my.
