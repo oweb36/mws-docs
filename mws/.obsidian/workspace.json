@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "8752afe8397ef0a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b380bd6a3901b452",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5acb12a1d7397b24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Megarchive Warehouse Show/AACOS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "AACOS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61d7548c14144904",
+    "type": "split",
+    "children": [
+      {
+        "id": "db6721793a307fc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fd004052fe7fb13",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fd9fbdef2179448d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c125784a1d7084ed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237.5
+  },
+  "right": {
+    "id": "0152b41450335af7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9fa753d32678432",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c60b5d7e8a470d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Characters/Air Conditioners/Xeo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Xeo"
+            }
+          },
+          {
+            "id": "bcc69e0bb3e1d0a6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "307499866518af9d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ea6a14bbf6eb6be4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Freedom Boards/TODOs.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of TODOs"
+            }
+          },
+          {
+            "id": "ffccaba71c8fddfc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "6dc6265556a5831f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 282.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "terminal:Open terminal": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false
+    }
+  },
+  "active": "ffccaba71c8fddfc",
+  "lastOpenFiles": [
+    "Megarchive Warehouse Show",
+    "Characters/Bench/Bench.md",
+    "Characters/Bench/Fridges/Piss.md",
+    "Characters/Bench/Washing Machines/Fisios.md",
+    "Characters/Bench/Washing Machines/Wheamy.md",
+    "Characters/Bench/Washing Machines/Wap.md",
+    "Characters/Bench/Washing Machines/REU.md",
+    "Characters/Bench/Washing Machines/Idendiby.md",
+    "Characters/Bench/Fridges/Sid.md",
+    "Characters/Bench/Fridges/Sev.md",
+    "Characters/Bench",
+    "Characters/Air Conditioners/ZSRK.md",
+    "Characters/Air Conditioners/VXU.md",
+    "Characters/Air Conditioners/NAEphthalene.md",
+    "Characters/Air Conditioners/ZeNer.md",
+    "Characters/Air Conditioners/Xeo.md",
+    "Characters/Air Conditioners/Xefa.md",
+    "Characters/Air Conditioners/WELLPan.md",
+    "Freedom Craps/Ranking Fun/Tierlist.md",
+    "Freedom Craps/Ranking Fun/Strength.md",
+    "Freedom Craps/Ranking Fun/Sanity.md",
+    "Freedom Craps/Ranking Fun/Intelligence.md",
+    "Attachments/PDFFiles/panasonic-amber-gemstone-ironoxide-deice-2010_cs-ne9lke.pdf",
+    "jcputils/mdcompile.py",
+    "jcputils/README.md",
+    "jcputils/LICENSE",
+    "jcputils",
+    "Freedom Craps/Bases/Age.base",
+    "Freedom Boards/Ranking Fun/Tierlist.md",
+    "Freedom Boards/Ranking Fun/Strength.md",
+    "Freedom Boards/Ranking Fun/Sanity.md",
+    "Freedom Boards/Ranking Fun/Intelligence.md",
+    "Freedom Boards/Ranking Fun",
+    "Freedom Boards/Paintings.canvas",
+    "Freedom Boards",
+    "Freedom Craps/Bases",
+    "Freedom Craps/Ranking Fun",
+    "Freedom Craps/Paintings.canvas",
+    "lee-keybum.jpg",
+    "Untitled.canvas",
+    "Pasted image 20241117211950.png"
+  ]
+}

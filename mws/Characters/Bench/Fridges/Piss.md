@@ -1,4 +1,4 @@
-Piss is a background [character](Characters.md) on the [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show.md).
+Piss is an important background [character](Characters.md) on the [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show.md).
 
 ## Identity
 
