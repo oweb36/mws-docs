@@ -1,10 +1,13 @@
+---
+dob: 2007-08-15
+---
 RXe is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]]. She originally appeared in [[AACOS]].
 
 ## Identity
 
 RXe is a Daikin wall-mounted FTXR50EV1B9 [heat pump](Air%20Conditioners.md). RXe is the **old Daikin Ururu-Sarara** series.
 
-RXe was born in 2007. She's a cisgender and lesbian female (she/her).  
+RXe was born in August 15, 2007. She's a cisgender and lesbian female (she/her).  
 If RXe's skin color matter, she is gray.
 
 RXe is the older sister to [ZeNer](ZeNer.md).

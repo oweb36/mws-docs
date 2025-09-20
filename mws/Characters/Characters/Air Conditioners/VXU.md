@@ -4,6 +4,7 @@ aliases:
   - DXCG
   - CTUX
   - MXU
+dob: 2011-11-11
 ---
 VXU is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]]. They originally appeared in [[AACOS]], an old part of old ObjecWeb36. This is because they are not just one person.
 

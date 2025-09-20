@@ -1,9 +1,12 @@
+---
+dob: 2003-11-09
+---
 ASTAC is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]].
 
 ## Identity
 They are a Samsung APH450PG floor-standing [heat pump](Air%20Conditioners.md). Their name is pronounced as Taf/Taph.
 
-They were born in 2003. They are an agender non-binary asexual (they/them).
+They were born in November 9, 2003. They are an agender non-binary asexual (they/them).
 
 ## Personality 
 TLDR: Introvert, warm. Comforts those who needs it. Observant for those who needs him. Prone to anxiety outbursts if overwheled or pressured.

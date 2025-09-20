@@ -1,10 +1,18 @@
+---
+dob: 2021-08-06
+aliases:
+  - FEN
+  - RBC
+  - RBC-AMSUS
+  - AMSUS
+---
 ToshyFEN is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]].
 
 ## Identity
 
 ToshyFEN is a Toshiba floor-standing RAV-RM1601FT-EN [heat pump](Air%20Conditioners.md). His name is pronounced as Toh-she-Fen.
 
-He was born in 2021, as a British person. He is a cisgender and heterosexual male. He/Him.
+He was born in August 6, 2021, as a British person. He is a cisgender and heterosexual male. He/Him.
 
 He is one of the most durable person in MWS; He can survive injuries that would incapacitate or even kill others, and he can tolerate severe pain such as crotch kicks. ToshyFEN is also very heavy, in fact he is the heaviest out of them all.
 

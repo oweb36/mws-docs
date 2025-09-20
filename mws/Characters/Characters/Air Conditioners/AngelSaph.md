@@ -1,3 +1,6 @@
+---
+dob: 2022-09-13
+---
 AngelSaph is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]].
 
 ## Identity

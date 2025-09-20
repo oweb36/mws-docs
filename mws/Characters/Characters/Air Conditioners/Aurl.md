@@ -1,10 +1,13 @@
+---
+dob: 2013-08-27
+---
 Aurl is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]].
 
 ## Identity
 
-He is a wall-mounted Fujitsu 15RLS2H [heat pump](Air%20Conditioners.md). His name is pronounced Oral as in Oral speech.
+He is a wall-mounted Fujitsu ASU15RLS2 [heat pump](Air%20Conditioners.md). His name is pronounced Oral as in Oral speech.
 
-Aurl was born in 2013. He is a cisgender and heterosexual male.  
+Aurl was born in August 27, 2013. He is a cisgender and heterosexual male.  
 If skin color matters, Aurl is white.
 
 Aurl is not the most intelligent in [MWS](Megarchive%20Warehouse%20Show.md).

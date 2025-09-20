@@ -1,3 +1,6 @@
+---
+dob: 2015-06-07
+---
 ToshyMEM is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]]. She originally appeared in [[AACOS]].
 
 
@@ -5,7 +8,7 @@ ToshyMEM is a [character](Characters) as a contestant on the [[Megarchive Wareho
 
 She is a Toshiba wall-mounted MMK-AP0124MHP-E1 [heat pump](Air%20Conditioners.md). Her named is pronounced as Toh-she-mem. Her name is unique as its not based of her model name, but based of her species's brand and unrelated words (Toshy from Toshiba, MEM from somewhere).
 
-She was born on 2015. She is a Cisgender and Heterosexual female (she/her).  
+She was born on June 7, 2015. She is a Cisgender and Heterosexual female (she/her).  
 If skin color matters, she is white.
 
 ## Personality

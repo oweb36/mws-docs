@@ -1,3 +1,6 @@
+---
+dob: 2018-07-07
+---
 Vista is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]].
 
 ## Identity

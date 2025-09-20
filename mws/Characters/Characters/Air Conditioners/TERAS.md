@@ -1,3 +1,6 @@
+---
+dob: 2006-04-11
+---
 TERAS is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]].
 ## Identity
 

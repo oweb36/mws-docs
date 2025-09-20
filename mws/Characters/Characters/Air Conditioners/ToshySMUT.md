@@ -1,10 +1,13 @@
+---
+dob: 2013-01-24
+---
 ToshySMUT is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]].
 
 ## Identity
 
 He is a Toshiba RAV-SM804UTP-E 4-way cassette  [heat pump](Air%20Conditioners.md). His name is pronounced as Toh-She-Smut.
 
-He was born in 2013. He is a bisexual demiboy (he/them).
+He was born in January 24, 2013. He is a bisexual demiboy (he/them).
 
 If skin color matters, ToshySMUT is white.
 

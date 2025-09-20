@@ -1,10 +1,13 @@
+---
+dob: 2006-07-16
+---
 Xefa is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]].
 
 ## Identity
 
 She's a Panasonic CS-XE12EKE wall-mounted [heat pump](Air%20Conditioners.md). Her name is pronounced as Xe-fa.
 
-She was born in 2006. She is a cisgender and lesbian female (she/her).  
+She was born in July 16, 2006. She is a cisgender and lesbian female (she/her).  
 If skin color mattered, she's white.
 
 She wears dental braces because she's the valley girl. Not for *bri'ish* teeth, but for *valley girl* cosmetic reasons. Yes, valley girls wear braces because they are valley girls not nerd girls.

@@ -1,3 +1,6 @@
+---
+dob: 2009-07-09
+---
 JVXH is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]]. She originally appeared in [[AACOS]].
 
 ## Identity
@@ -8,9 +11,9 @@ She is a wall-mounted Daikin FTXG09HVJU [heat pump](Air%20Conditioners.md), a **
 - J-V-X-H
 She's an inferior version of [RXe](RXe.md) in a nutshell.
 
-JVXH, being an inferior version to RXe, has the same design. There is just a little difference though. The only difference is with the indicators, where JVXH is missing one lamp (because she's inferior).
+JVXH, being an inferior version to RXe, has the same design. There is just a little difference though. The only difference is with the indicators, where JVXH is missing one lamp (because she's inferior). JVXH after all is part of the Quaternity series, not the Ururu Sarara one!
 
-JVXH was born in July 2009. She is a cisgender and lesbian female (she/her).  
+JVXH was born in July 9, 2009. She is a cisgender and lesbian female (she/her).  
 If skin color matters, she is gray just like RXe.
 
 JVXH's teeth is unique. She has a chipped tooth, which is from her ruthless behavior. She also wears dental braces because tooth and its cool. Yeah, she's kinda tomboyish but idk.

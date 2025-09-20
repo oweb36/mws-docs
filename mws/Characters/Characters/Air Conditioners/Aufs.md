@@ -1,3 +1,6 @@
+---
+dob: 2002-09-09
+---
 Aufs is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]].
 
 ## Identity
@@ -6,10 +9,6 @@ Aufs is a Fujitsu AU54TFCMF  [heat pump](Air%20Conditioners.md). His name has se
 - A-U-F-S, or Ay-You-Eff-Ess. (Very disliked)
 - Aufs, or Offs (Disliked)
 - Au-F-S, or O-F-S (Preferred)
-
-The reason why his name is so divergent from his model is because during the development of Aufs, his species as the Fujitsu **AUG54FUAS** (Still a cassette heat pump).  
-He was changed into a Fujitsu AUY45AGB3W because there was more documentation with the AUY45AGB3W compared to the Fujitsu AUG54FUAS. Aufs then was **RETCONED** into the final form of AU54TFCMF because there's many documentation of it as the S-Series VRF system.  
-His name Aufs was derived from the "AU" and the "FUAS" of the Fujitsu AUG54FUAS (Excuse to use the awesome filesystem name of aufs and yes I'm a nerd), and its kept here because it just is too good of a name to waste. 
 
 He's a VRF boi, hailing from the S-Series VRF system of Fujitsu.
 
@@ -20,6 +19,14 @@ He is white if skin color matters. He has yellowed quite a bit from age, but he 
 Aufs is more durable than the average person in the [Megarchive Warehouse](Megarchive%20Warehouse.md). He can survive way more injuries and potentially even injuries that are lethal to a normal person in the [Megarchive Warehouse](Megarchive%20Warehouse.md), but he can't beat [ToshyFEN](ToshyFEN.md). Aufs is also the sanest person in MWS, he would probably one of the only few to sane if everyone goes insane. 
 
 Aufs is also kinda the butt monkey of the [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show.md). He also has the power of [Metatheatrics](#Metatheatrics).
+
+### Name History
+
+> You may ask yourself why is his name so divergently mismatched.
+
+The reason why his name is so divergent from his model is because during the development of Aufs, his species as the Fujitsu **AUG54FUAS** (Still a cassette heat pump).  
+He was changed into a Fujitsu AUY45AGB3W because there was more documentation with the AUY45AGB3W compared to the Fujitsu AUG54FUAS. Aufs then was **RETCONED** into the final form of AU54TFCMF because there's many documentation of it as the S-Series VRF system.  
+His name Aufs was derived from the "AU" and the "FUAS" of the Fujitsu AUG54FUAS (Excuse to use the awesome filesystem name of aufs and yes I'm a nerd), and its kept here because it just is too good of a name to waste. 
 ### Being the Butt Monkey
 
 Aufs is kinda the butt monkey of MWS. Its a semi-official status. He is also the iron butt monkey of MWS. He is the punching bag of MWS, the guy of comedic sadism.

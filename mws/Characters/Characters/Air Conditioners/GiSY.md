@@ -1,3 +1,6 @@
+---
+dob: 2008-05-10
+---
 GiSY is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]].
 
 
@@ -5,7 +8,7 @@ GiSY is a [character](Characters) as a contestant on the [[Megarchive Warehouse 
 
 She is a wall-mounted Sharp AH-AP12GSY [air conditioner](Air%20Conditioners.md). Her name is pronounced Jee-See and her name is derived from the GSY portion of her species.
 
-She was born in 2008. She is a pansexual demigirl (she/they).
+She was born in May 10, 2008. She is a pansexual demigirl (she/they).
 
 If skin color mattered, she is white.
 

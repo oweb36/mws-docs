@@ -1,3 +1,6 @@
+---
+dob: 2005-06-06
+---
 
 Raiie is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]] with a different name.
 

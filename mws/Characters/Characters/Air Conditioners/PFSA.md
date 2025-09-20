@@ -1,10 +1,13 @@
+---
+dob: 1997-07-10
+---
 PFSA is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]] under a slightly unextended name.
 
 ## Identity
 
 He is a Mitsubishi Electric (Mr. Slim) PKH-4FKSA [air conditioner](Air%20Conditioners.md). His name is pronounced as Pee-Visa.
 
-He was born in 1999. He is a cisgender and heterosexual male.
+He was born in July 10, 1997. He is a cisgender and heterosexual male.
 
 He would be white if skin color matters.
 

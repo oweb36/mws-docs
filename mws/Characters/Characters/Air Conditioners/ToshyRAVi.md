@@ -1,10 +1,13 @@
+---
+dob: 2021-04-25
+---
 ToshyRAVi is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]]. She originally appeared in [[AACOS]].
 
 ## Identity
 
 She is a Toshiba RAV-GM301KRTP-A wall-mounted [heat pump](Air%20Conditioners.md). Her name is pronounced as Toh-she-Rav-ee, where the Rav-ee is pronounced like the Ravi in *Ravioli*.
 
-She was born in 2021. She is a cisgender female (she/her).
+She was born in April 25, 2021. She is a cisgender female (she/her).
 
 If skin color matters, ToshRAVi is white.
 

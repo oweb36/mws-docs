@@ -1,3 +1,6 @@
+---
+dob: 2010-10-10
+---
 Xeo is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]].
 
 ## Identity

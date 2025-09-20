@@ -1,3 +1,6 @@
+---
+dob: 2010-06-14
+---
 JKE is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]].
 
 ## Identity
@@ -6,7 +9,7 @@ He is a Panasonic wall-mounted CS-CE12JKE-1 [heat pump](Air%20Conditioners.md). 
 
 He is unique from other Panasonics in that his power lamp also acts as a deice lamp. He would go to deice mode when the area he is currently in is too cold. His power/deice lamp is normally green (not deice), but blue in deicing mode.
 
-He was born in 2010. He is a cisgender and heterosexual male.
+He was born in June 14, 2010. He is a cisgender and heterosexual male.
 
 If skin color matters, JKE is gray.
 
