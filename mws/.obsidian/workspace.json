@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "59e3087d1521ade5",
+        "id": "452138e8451d04ce",
         "type": "tabs",
         "children": [
           {
-            "id": "c83146cf09169e9b",
+            "id": "474dbb03af382421",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -194,8 +194,11 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "ffccaba71c8fddfc",
+  "active": "9fd004052fe7fb13",
   "lastOpenFiles": [
+    "Characters/Characters.md",
+    "Characters/Air Conditioners/VXU.md",
+    "Characters/Air Conditioners/AEX.md",
     "Freedom Boards/Ranking Fun/Intelligence.md",
     "Freedom Boards/Funsies.md",
     "Freedom Boards/Episodes TODO.md",
@@ -214,7 +217,6 @@
     "Characters/Bench/Fridges/Sev.md",
     "Characters/Bench",
     "Characters/Air Conditioners/ZSRK.md",
-    "Characters/Air Conditioners/VXU.md",
     "Characters/Air Conditioners/NAEphthalene.md",
     "Characters/Air Conditioners/ZeNer.md",
     "Characters/Air Conditioners/Xeo.md",
@@ -224,11 +226,9 @@
     "Freedom Craps/Ranking Fun/Strength.md",
     "Attachments/PDFFiles/panasonic-amber-gemstone-ironoxide-deice-2010_cs-ne9lke.pdf",
     "jcputils/mdcompile.py",
-    "jcputils/README.md",
     "jcputils/LICENSE",
     "jcputils",
     "Freedom Craps/Bases/Age.base",
-    "Freedom Boards/Ranking Fun/Tierlist.md",
     "Freedom Boards/Ranking Fun",
     "Freedom Boards/Paintings.canvas",
     "Freedom Boards",

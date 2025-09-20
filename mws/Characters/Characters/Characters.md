@@ -5,8 +5,9 @@ They are people of the [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show
 
 There is object:
 - Racism
+- Sexism
 - Violence (Slapback and brutal)
-Cus its funny.
+Cus its funny. Offense is funny, but we need to alert woke too!
 
 Characters are people in the MWS universe. They have life and soul. They are unique in their identities and personalities.
 
