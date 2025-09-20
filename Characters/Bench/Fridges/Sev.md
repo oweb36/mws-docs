@@ -1,4 +1,4 @@
-Sev is a [character](Characters.md) as a contestant on the [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show.md).
+Sev is a [character](Characters.md) as a background one on the [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show.md).
 ## Identity
 
 Sev is a Sharp SJ-F72PV [refridgerator](Refridgerators.md). Their name is pronounced as the Sev in Seven.
