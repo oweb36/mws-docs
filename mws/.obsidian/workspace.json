@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b380bd6a3901b452",
+        "id": "59e3087d1521ade5",
         "type": "tabs",
         "children": [
           {
-            "id": "5acb12a1d7397b24",
+            "id": "c83146cf09169e9b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Megarchive Warehouse Show/AACOS.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "AACOS"
+              "title": "New tab"
             }
           }
         ]
@@ -210,6 +196,12 @@
   },
   "active": "ffccaba71c8fddfc",
   "lastOpenFiles": [
+    "Freedom Boards/Ranking Fun/Intelligence.md",
+    "Freedom Boards/Funsies.md",
+    "Freedom Boards/Episodes TODO.md",
+    "Freedom Craps/Ranking Fun/Sanity.md",
+    "Freedom Craps/Ranking Fun/Intelligence.md",
+    "Megarchive Warehouse Show/AACOS.md",
     "Megarchive Warehouse Show",
     "Characters/Bench/Bench.md",
     "Characters/Bench/Fridges/Piss.md",
@@ -230,8 +222,6 @@
     "Characters/Air Conditioners/WELLPan.md",
     "Freedom Craps/Ranking Fun/Tierlist.md",
     "Freedom Craps/Ranking Fun/Strength.md",
-    "Freedom Craps/Ranking Fun/Sanity.md",
-    "Freedom Craps/Ranking Fun/Intelligence.md",
     "Attachments/PDFFiles/panasonic-amber-gemstone-ironoxide-deice-2010_cs-ne9lke.pdf",
     "jcputils/mdcompile.py",
     "jcputils/README.md",
@@ -239,14 +229,10 @@
     "jcputils",
     "Freedom Craps/Bases/Age.base",
     "Freedom Boards/Ranking Fun/Tierlist.md",
-    "Freedom Boards/Ranking Fun/Strength.md",
-    "Freedom Boards/Ranking Fun/Sanity.md",
-    "Freedom Boards/Ranking Fun/Intelligence.md",
     "Freedom Boards/Ranking Fun",
     "Freedom Boards/Paintings.canvas",
     "Freedom Boards",
     "Freedom Craps/Bases",
-    "Freedom Craps/Ranking Fun",
     "Freedom Craps/Paintings.canvas",
     "lee-keybum.jpg",
     "Untitled.canvas",
