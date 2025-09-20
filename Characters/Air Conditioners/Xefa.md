@@ -30,16 +30,30 @@ The funny thing is that Xefa will always act like a Teenager despite her growing
 
 With that, she is a serial gossiper. Give her a gossip and there she goes!
 
-She isn't smart, or even intelligent that much. If Xefa had hair and stereotype, she would also be the dumb blonde. Xefa is not a brainless beauty alright, she still has some intelligence, just not a lot. Xefa is **NOT THAT** dumb to the point where she forgets how to breath (not) or even live (neither). She can do math, but the elementary one (AKA arithmetic). Her dumbness is **NOT SO DUMB** she cannot even walk, or do arithmetic.
+She isn't smart, or even intelligent that much. If Xefa had hair and stereotype, she would also be the dumb blonde. Xefa is not a brainless beauty alright, she still has some intelligence, just not a lot. Xefa is **NOT THAT** dumb to the point where she forgets how to breath (not) or even live (also neither). She can do math, but the elementary one (AKA arithmetic). Her dumbness is **NOT SO DUMB** she cannot even walk, or do arithmetic. 
+
+>Xefa has **intelligence to LIVE and even DO ARITHMETIC**, not for higher-problem solving like trigonometry and stuff.
 
 ## Relations
 
 ### [Xeo](Xeo.md)
-They are couples eh. Not a very harmonic one, but they stick.
+They are couples eh. 
+
+Its not harmonic, but very vitriolic. But its good, cus they know what is great.
+
+It may seem not harmonious, but it somehow is. And Xeo's love language is well [slightly](void:a-massive-understatement) lacerating.
+
+You can ay that this is a `Vitrionic Best Friend` kind of relationship, except that it is romantic too (and sexual due to no ace).
 
 ### [JVXH](JVXH.md)
 JVXH fights with Xefa over who's the best lesbian couple.
 
 JVXH points out that Xefa is a valley girl, while Xefa accueses JVXH  of being a school shooter. That's *ad hominem* and its not civil.
+
+### [WELLPan](WELLPan.md)
+
+WELLPan is chill. She has no qualms with him.
+
+Not a lot to say.
 
 #airconditioner 

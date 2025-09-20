@@ -44,7 +44,9 @@ NEptha is a stuborn guy who is not nice to anybody.
 ## Relations
 
 ### [Xeo](Xeo.md)
-NEptha dislikes Xeo. Its because Xeo is a woman, and just catty. He doesn't exactly like her overly aggressive behavior.
+NEpthalene dislikes Xeo. Its because Xeo is a woman, and just catty.  He doesn't exactly like her overly aggressive behavior. And also NEptha is a freaking sexist.
+
+Well, Xeo also dislikes him cus he's a bastard.
 
 ### [JKE](JKE.md)
 NEptha sees JKE as a version of himself, a less advanced one. He sees JKE as inferior. Don't worry, he is kinda like a big brother to him. NEptha is very supportive to JKE because they are similar.

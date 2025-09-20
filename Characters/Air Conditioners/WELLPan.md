@@ -10,17 +10,19 @@ If skin color matters, he is white.
 He is one of the strongest person in the Megarchive Warehouse Show. He is also one of the most intelligent person in MWS. WELLPan is also one of the slowest person in MWS. WELLPan is one of the sanest person in MWS.
 
 ## Personality
-TLDR: Chill Guy, Lazy Bum, Smart, Sane.
+TLDR: Chill Guy, Lazy Bum, Smart, Sane. Actually capable, but is lazy. Would like to be your friend if you want.
 
 WELLPan is one of the chillest and most easygoing person in the Megarchive Warehouse Show. He is pretty much the easygoing vibe carrier in AACOS. He has that unhinged, yet chill humor. WELLPan is also kinda lazy and unmotivated at times. To get his thin body to do something, you should motivate him.
 
-WELLPan also doesn't really care about his surroundings that much, unless he is actually doing a **NOT SO LAZY** action like idk, **MOVING**? He is very oblivious, but thats only because like I said, he doesn't care about the surroundings. He is very care free. After all, he is lazy and chill to care about the chaos and his surroundings eh? This carefree personality and behavior of WELLPan is the reason why WELLPan is one of the sanest. He doesn't care about the madness, and with that he doesn't let the chaos and insanity of the world bother him to insanity. He deals with his own problems and things.
+WELLPan also doesn't really care about his surroundings that much, unless he is actually doing a **NOT SO LAZY** action like idk, **MOVING**? He is very oblivious, but thats only because like I said, he doesn't care about the surroundings. He is very care free. After all, he is lazy and chill to care about the chaos and his surroundings eh? This carefree personality and behavior of WELLPan is the reason why WELLPan is one of the sanest. He doesn't care about the madness, and with that he doesn't let the chaos and insanity of the world bother him to insanity. He deals with his own problems and things, which is very little.
 
 WELLPan is also very nonchalant at even the worst things. He (sometimes good, sometimes bad) treats everything as if its an everyday thing. To him, everything is alright and nothing ever goes wrong. Somebody dies? He treats that as a daily occurence. Somebody commits a war crime? Nah, to him its normal. Mass torture? Everything is alright, torture is normal. Basically he is very calm even at the most egregious things ever done or to happen.
 
 WELLPan is very smart. He is a bookworm. He likes to read a lot. This shows that WELLPan is smart, but is too unmotivated to do things. He can lead and serve as a voice of guidance and leadership to motivate and guide others (his competitors/friends), but only if he is bothered to do so.
 
-WELLPan may struggle with motivation and laziness, but don't underestimate him. He has the potential to win, but he doesn't want to. He is too chill. Everyone, well almost everyone likes him because he is easy to get along with.
+WELLPan actually has extreme potential. With his intelligence as mentioned before, he has a lot to offer. The problem? Like I said, very lazy and chill.
+
+WELLPan may struggle with motivation and laziness, but don't underestimate him. He has the potential to win, but he doesn't want to. He is too chill. Everyone, well almost everyone likes him because he is easy to get along with. In fact, he would like to be your friend (of course you don't have to accept, and he is fine with this too).
 ### When he isn't chill and why?
 Whatever you do, don't disturb him when he's reading or underestimate him, he doesn't like that. Nobody likes to be disturbed when reading books, in a library. Thats one of the few things that could actually piss him off.
 
@@ -69,5 +71,17 @@ He is so befuddled at WELLPan's chilness and lack of seriousness.
 They are friends, because they are *SANE* unlike [some](ToshyFEN.md) other people or friends.
 
 WELLPan might question Aufs at times about his behavior of lurking in the dark. He feels something is off when that happens, but he understands about Aufs. WELLPan knows that Aufs is very complicated.
+
+## [Xeo](Xeo.md)
+
+WELLPan is chill. WELLPan is one of the people Xeo has no problems with.
+
+Xeo might snark WELLPan once in a while, but its not **THAT** big of a deal since WELLPan is chill and Xeo has no qualms.
+
+## [Xefa](Xefa.md)
+
+WELLPan is chill. She has no qualms with him.
+
+Not a lot to say.
 
 #airconditioner #weirdidentities
