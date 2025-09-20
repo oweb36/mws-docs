@@ -7,6 +7,8 @@ aliases:
 ---
 VXU is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]]. They originally appeared in [[AACOS]], an old part of old ObjecWeb36. This is because they are not just one person.
 
+DeltaCXG specifically was a host on old ObjecWeb36. Ig he still has that status, but for now he is just a competitor to win whatever [AEX](AEX.md) has.
+
 ## Identity
 
 VXU is actually a multi-system triplet composed of 3 mind/people that is also a single person:

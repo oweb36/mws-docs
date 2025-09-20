@@ -8,7 +8,8 @@ If skin color matters, he is white.
 
 ## Personality
 
-In a nutshell, a detective.
+> In a nutshell, a detective.
+> TLDR: Cool! Fierce deducer. Short-temper ass boi that causes him to be impulsive. Do not underestimate this guy. But also be ware that he is firm on his stances.
 
 ZSRK has a fierce personality, with the mind of a detective and a great deducer. He is ready to dive first into mysteries. He uses his awesome deductive and analysis skill to unravel even some of the most complex, or even unsolved puzzles. He knows where to look for things, and he knows what to do next. That's some great level detective skills.
 
