@@ -50,13 +50,15 @@ Everyone here is still sane, don't worry. This is just relative to each members 
 
 Everyone in AEX is some kind of european. AEX is also european.
 
-AEX identifies as non-binary would like to be referred to as they/them, meanwhile each individual members have their own pronouns and gender identity. This is because if you are referring to AEX, just like [VXU](VXU.md) you are referring to 4 person rather than one and therefore would be a mix of gender and pronouns (the non-binaryness is to help abstract the differences).
+AEX identifies as non-binary would like to be referred to as they/them, meanwhile each individual members have their own pronouns and gender identity. This is because if you are referring to AEX, just like [VXU](VXU.md) you are referring to 4 person (aka collective referencing) rather than one and therefore would be a mix of gender and pronouns (the non-binaryness is to help abstract the differences).
 
 Whatever you do, don't try to disconnect a member of AEX from AEX. This is not only rude, but would also hurt them. An example is disconnecting [EXMGR](AEX.md#EXMGR) from [JHR](#JHR) by ripping JHR off or disconnecting the cables. Not only would it hurt both EXMGR and JHR, but it would also hurt [HR](#HR) and [PCR](#PCR).
 
 Some cool things is that [JHR](#JHR) is the only one capable of being installed as a single-split system. [PCR](#PCR) and [HR](#HR) is meant for multi-split installations (which they are right now) and not single split systems. [EXMGR](#EXMGR) is an outdoor unit for multi-split systems.
 
 [EXMGR](#EXMGR), [JHR](#JHR) and [HR](#HR) are the original installations while [PCR](#PCR) is a later addition.
+
+AEX was born in their full form in April 12, 2010 despite the 3 initial members (JHR, HR, EXMGR) being born way earlier as PCR is a late bloomer.
 ### JHR
 JHR is a wall-mounted Sharp AY-XPC12JHR [heat pump](Air%20Conditioners.md). His name is pronounced as Jay-Eitch-Ar and derived from the JHR part of his species as a Sharp AY-XPC12JHR.
 

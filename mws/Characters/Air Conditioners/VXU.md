@@ -24,11 +24,13 @@ They are attached to a steel board with pipes and wires connecting them together
 
 MXU only has legs, but DeltaCXG and CTUX has both arms and legs. Its not that useful really as MXU is the legs of VXU, not DeltaCXG and CTUX.
 
-Both MXU and CTUX were born in August 12, 2008. DeltaCXG is a later addition to them, as he was born in November 11, 2011. VXU is non-binary (they/them), but their individual members are all strictly cisgender males. DeltaCXG is heterosexual while CTUX is bisexually heteroflexible and MXU is Asexual. The reason why VXU is non-binary, but MXU, CTUX and DeltaCXG is male is because VXU is not just one person, but three person as one person.
+Both MXU and CTUX were born in August 12, 2008. DeltaCXG is a later addition to them, as he was born in November 11, 2011. VXU is non-binary (they/them), but their individual members are all strictly cisgender males. DeltaCXG is heterosexual while CTUX is bisexually heteroflexible and MXU is Asexual. The reason why VXU is non-binary, but MXU, CTUX and DeltaCXG is male is because VXU is not just one person, but three person as one person (aka referencing VXU is collective referencing).
 
 If skin color matters, VXU is white.
 
 Whatever you do, don't try to disconnect a member of VXU from VXU. That's quite rude and it hurts to do so. An example is disconnecting [MXU](#MXU) from [DeltaCXG](#DeltaCXG) by ripping DeltaCXG off or disconnecting their cables. It would hurt [CTUX](#CTUX) too.
+
+Funny thing is that because DeltaCXG was born later, this means that VXU before DeltaCXG is non-functional lol. VXU reached their full form when DeltaCXG was born (AKA November 11, 2011).
 
 ## Personality
 

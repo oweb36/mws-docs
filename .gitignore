@@ -3,7 +3,7 @@
 **/.DS_Store
 
 # Ignore workspace
-.obsidian/workspace.json
+**/.obsidian/workspace.json
 node_modules/
 
 # Ignore compiled output
