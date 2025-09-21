@@ -36,4 +36,9 @@ CKHSC shows JHR the way of the traditional life, which would have been lost if i
 
 With the difference in the generations, JHR and CKHSC knows the progression of life.
 
+### [WELLPan](WELLPan.md)
+
+CKHSC: Get yo ass up, WELLPan.
+WELLPan: Lemme enjoy my life.
+
 #airconditioner 

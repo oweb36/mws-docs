@@ -13,8 +13,10 @@ If skin color matters, he is white.
 
 He is one of the strongest person in the Megarchive Warehouse Show. He is also one of the most intelligent person in MWS. WELLPan is also one of the slowest person in MWS. WELLPan is one of the sanest person in MWS.
 
+WELLPan also [cannot be angry](#Chillsacking). He is unable to feel anger, as his soul and *brain* lacks it in him. Its against the laws of the universe for him to be angry. 
+
 ## Personality
-TLDR: Chill Guy, Lazy Bum, Smart, Sane. Actually capable, but is lazy. Would like to be your friend if you want.
+TLDR: Chill Guy, Lazy Bum, Smart, Sane. Actually capable, but is lazy. Would like to be your friend if you want. Cannot actually get angry, but still understands anger.
 
 WELLPan is one of the chillest and most easygoing person in the Megarchive Warehouse Show. He is pretty much the easygoing vibe carrier in AACOS. He has that unhinged, yet chill humor. WELLPan is also kinda lazy and unmotivated at times. To get his thin body to do something, you should motivate him.
 
@@ -26,18 +28,28 @@ WELLPan is very smart. He is a bookworm. He likes to read a lot. This shows that
 
 WELLPan actually has extreme potential. With his intelligence as mentioned before, he has a lot to offer. The problem? Like I said, very lazy and chill.
 
-WELLPan may struggle with motivation and laziness, but don't underestimate him. He has the potential to win, but he doesn't want to. He is too chill. Everyone, well almost everyone likes him because he is easy to get along with. In fact, he would like to be your friend (of course you don't have to accept, and he is fine with this too).
-### When he isn't chill and why?
-Whatever you do, don't disturb him when he's reading or underestimate him, he doesn't like that. Nobody likes to be disturbed when reading books, in a library. Thats one of the few things that could actually piss him off.
+WELLPan may struggle with motivation and laziness, but don't underestimate him. He has the potential to win, but he doesn't want to. He is too chill. 
 
-WELLPan can still panic and freak out, but it's way calmer than other's freakout. His chillness reduces the impact of it. Meltdowns are potentially a different story, especially if WELLPan is pushed. Nobody said that WELLPan has infinite patience.
+Everyone, well almost everyone likes him because he is easy to get along with. In fact, he would like to be your friend (of course you don't have to accept, and he is fine with this too). He is easy to befriend, and he actually does not take it personally if you turn his offer. So yeah, he is one friend to trust.
 
-Meltdowns are like wrath and rage. Its kinda scary, because WELLPan is nice, chill and patient. He won't do physical violence or domestic abuse, but he will chew you out pretty badly. So don't push or piss him off, such as disturbing him when he's reading books. This is also why you don't underestimate him.
+And oh also smth! [WELLPan actually cannot get angry](#Chillsacking). His soul and *brain* simply does not have that in him. Even if you try to split his personality into multiples, you won't find anger from it. Its actually against the laws of the universe for him to be angry, so he chill. He still understands anger.
+
+### Chillsacking
+
+WELLPan is very chill. In fact he cannot feel anger at all, literally!
+
+WELLPan's *brain* literally does not have the required [*neural circuits and neural pathways*](void:more-like-electrica-traces) for anger. You won't even find activity even remotely resembling anger! He is just that chill.
+
+In his soul, no anger at all. Not repressed, just not there. He is that chill. Its as if he was formed and born without anger (It is).
+
+Normally when you split someone and their soul into their constituent personalities, you will find anger in some form or capacity, either as the foundation or just another personality. In WELLPan, splitting him the same way and there will be no anger. He does not have anger in him, and you cannot find it anywhere.
+
+Cool fact that makes this guaranteed: It's against the laws of the universe and the laws of physics for him to be angry. The universe enforces this. Try to inject anger into him and it will be rejected and yeeted out. If you do see him display anger in any level, that is ominous as someone clearly has broken the laws of the universe (I hope we don't see this).
 
 ## Relations
 
 ### [Aurl](Aurl.md)
-They are frenemies, but they are more of a friend that enemies. The only conflict that they can be in is in a friendly little competition of who can be the chillest, and WELLPan always wins. They just hang out with each other.
+They are frenemies (at least on Aurl's side), but they are more of a friend that enemies (Enemy is only on Aurl's side). The only conflict that they can be in is in a friendly little competition of who can be the chillest, and WELLPan always wins. They just hang out with each other.
 
 ## [ToshyFEN](ToshyFEN.md)
 They are typically duos. WELLPan is the chiller in this duo, while ToshyFEN is the more active one. ToshyFEN is the motivator to WELLPan to get him to do something. WELLPan is aware of ToshyFEN's very bad mental health state, and he does whatever he can to keep it under control.
@@ -58,18 +70,17 @@ They aren't close, but they are there. WELLPan and ToshyMEF are close due to few
 
 WELLPan knows the slight homophobia of ToshyMEF.
 
-### [WELLPan](WELLPan.md)
-To ToshyMEM, WELLPan is just dead weight. She may appreciate his presence, but he doesn't really do much.
-
 ### [ToshyMEM](ToshyMEM.md)
-To ToshyMEM, WELLPan is just dead weight. She may appreciate his presence, but he doesn't really do much.
+To ToshyMEM in competitions, WELLPan is just dead weight. She may appreciate his presence, but he doesn't really do much. She asks one question: Why you gotta be dead weight, why you are throwing away this chance.
 
-She asks one question: Why.
+Otherwise, they are chill. No personal beef. WELLPan is too chill for that, and she appreciates it.
 
 ### [KaHLium](KaHLium.md)
-KaHLium asks one question to WELLPan: Why.
+KaHLium asks one question and says one thing to WELLPan: Why, and also you so chill we can be friends.
 
-He is so befuddled at WELLPan's chilness and lack of seriousness.
+He is so befuddled at WELLPan's chilness, lack of seriousness, and [**INANGERABILITY**](void:made-up-word-for-cannot-be-angered). Very confusing and mysterious to this dry guy.
+
+Still can chat. He is friends with this guy, despite him actually confusing him.
 
 ### [Aufs](Aufs.md)
 They are friends, because they are *SANE* unlike [some](ToshyFEN.md) other people or friends.
@@ -87,5 +98,10 @@ Xeo might snark WELLPan once in a while, but its not **THAT** big of a deal sinc
 WELLPan is chill. She has no qualms with him.
 
 Not a lot to say.
+
+### [CKHSC](CKHSC.md)
+
+CKHSC: Get yo ass up, WELLPan.
+WELLPan: Lemme enjoy my life.
 
 #airconditioner #weirdidentities

@@ -28,7 +28,7 @@ Inside him, there is a dark part of him that wants him to hurt others. That dark
 
 ### [WELLPan](WELLPan.md)
 
-They are frenemies, but they are more of a friend that enemies. The only conflict that they can be in is in a friendly little competition of who can be the chillest, and WELLPan always wins. They just hang out with each other.
+They are frenemies (at least on Aurl's side), but they are more of a friend that enemies (Enemy is only on Aurl's side). The only conflict that they can be in is in a friendly little competition of who can be the chillest, and WELLPan always wins. They just hang out with each other.
 
 ### [ToshyFEN](ToshyFEN.md)
 Aurl respects ToshyFEN despite being older than him. Aurl knows about the strength of ToshyFEN, and how can his anger meltdowns go.

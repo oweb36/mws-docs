@@ -47,12 +47,10 @@ kanban-plugin: board
 
 ## Todo
 
-- [ ] LG AS-H246TKA2 (F24AHJ) from July 6, 2005.
 
 
 ## Current
 
-- [ ] Give [Termyice](Termyice.md) and [LCN](LCN.md) life as the first LG people.
 - [ ] Sort [air conditioners](Air%20Conditioners.md) into different types, and other bits. Use properties
 	
 	And also make groups, alliance, cliques and all that crap.
@@ -64,7 +62,33 @@ kanban-plugin: board
 ## Done
 
 **Complete**
+- [x] LG AS-H246TKA2 (F24AHJ) from July 6, 2005. ✅ 2025-09-21
 - [x] [REU](REU.md) personality time. ✅ 2025-09-21
+
+
+## Done2
+
+**Complete**
+- [x] Give [Termyice](Termyice.md) and [LCN](LCN.md) life as the first LG people. ✅ 2025-09-21
+- [x] Awux -> Awu-See ✅ 2025-09-21
+	
+	Fujitsu AWU18CXQ. Female.
+- [x] NEptha ✅ 2025-09-21
+	
+	Panasonic CS-NE12LKE.
+	Male.
+
+
+## Done3
+
+**Complete**
+- [x] Give [JHR](AEX.md#JHR) siblings and cousins. Then assimilate JHR into a person-lith kinda like [VXU](VXU.md) with his siblings as he and his siblings are capable of multi-split unit operation. ✅ 2025-09-21
+	
+	His siblings are a Sharp AE-XM30GR, AY-XPC7JR and AY-XPM18HR. 
+	
+	This monolith person-lith is called as "AEX" (Pronounced as Ax or Axe). JHR is still called JHR. AY-XPM18HR's name is HR, AE-XM30GR is EXMGR (Pronounced as E-X-M-G-R or E-X-Manager) and AY-XPC7JR is PCR (Pronounced as P-C-R).
+	
+	In AEX, PCR is the only female. AEX is now therefore a bigender (he/she) because there's a female and males. AEX is also non-binary (they/them) because AEX is now 4 person in 1 person. You can now refer to AEX as he/she/they/them.
 - [x] Aufs -> A-U-F-S (Ay-You-Eff-Es)
 	
 	Fujitsu AUY36AGB3W cassette. His name is because his old species (development) was the Fujitsu AUG54FUAS cassette, but its too good so its kept.
@@ -80,30 +104,6 @@ kanban-plugin: board
 	Aufs likes to use the pronouns he/them.
 	
 	Aufs is toric, he likes men. This is why he has the "he" in his pronouns.
-
-
-## Done2
-
-**Complete**
-- [x] Awux -> Awu-See ✅ 2025-09-21
-	
-	Fujitsu AWU18CXQ. Female.
-- [x] NEptha ✅ 2025-09-21
-	
-	Panasonic CS-NE12LKE.
-	Male.
-- [x] Give [JHR](AEX.md#JHR) siblings and cousins. Then assimilate JHR into a person-lith kinda like [VXU](VXU.md) with his siblings as he and his siblings are capable of multi-split unit operation. ✅ 2025-09-21
-	
-	His siblings are a Sharp AE-XM30GR, AY-XPC7JR and AY-XPM18HR. 
-	
-	This monolith person-lith is called as "AEX" (Pronounced as Ax or Axe). JHR is still called JHR. AY-XPM18HR's name is HR, AE-XM30GR is EXMGR (Pronounced as E-X-M-G-R or E-X-Manager) and AY-XPC7JR is PCR (Pronounced as P-C-R).
-	
-	In AEX, PCR is the only female. AEX is now therefore a bigender (he/she) because there's a female and males. AEX is also non-binary (they/them) because AEX is now 4 person in 1 person. You can now refer to AEX as he/she/they/them.
-
-
-## Done3
-
-**Complete**
 
 
 ***

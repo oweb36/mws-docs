@@ -56,9 +56,11 @@ JHR dislikes one thing about KaHLium, his no-nonsense nature. He feels like he c
 Anyways, JHR tends towards the love side more than the hate side of his relationship with KaHLium. Basically JHR is more friends than enemies with KaHLium.
 
 ### [WELLPan](WELLPan.md)
-KaHLium asks one question to WELLPan: Why.
+KaHLium asks one question and says one thing to WELLPan: Why, and also you so chill we can be friends.
 
-He is so befuddled at WELLPan's chilness and lack of seriousness.
+He is so befuddled at WELLPan's chilness, lack of seriousness, and [**INANGERABILITY**](void:made-up-word-for-cannot-be-angered). Very confusing and mysterious to this dry guy.
+
+Still can chat. He is friends with this guy, despite him actually confusing him.
 
 ### [ZSRK](ZSRK.md)
 The dry joker and the temper-tantrum throwing detective comes together.
