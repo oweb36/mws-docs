@@ -8,11 +8,16 @@ views:
     order:
       - file.name
       - dob
-    sort:
-      - property: dob
-        direction: ASC
+    sort: []
   - type: table
     name: Identity
     filters:
       and:
         - file.hasTag("airconditioner")
+        - file.hasProperty("Gender-Identity")
+    order:
+      - file.name
+      - Gender-Identity
+    sort:
+      - property: Gender-Identity
+        direction: ASC
