@@ -10,7 +10,10 @@ He is a Samsung WD0604REU [washing machine](Washing%20Machines.md). His name is 
 He was born in June 9, 2011. He's an asexual demiboy (he/they).
 
 ## Personality
-TBA
+
+> TLDR: Straightforward Dismissor, and Stable. A mastermind, who is quite silent lol. Manners are average though despite his personality. Does not get angry that much. REU is also quite an ingenious (not on the level of [so](AEX)[me](MHeLy) [people](WELLPan)), but does not have the emotional intelligence to be considerate.
+
+Read the TLDR boi! I ain't explaining all of that! Its good enuf!
 
 ## Relations
 

@@ -12,7 +12,6 @@ kanban-plugin: board
 
 - [ ] Give JHR or [AEX](AEX.md) a cousin. AEX/JHR's cousin is the IVT version of JHR (superior and inferior at the same time).
 - [ ] Samsung AVMFH052EA0 from August 3, 2005.
-- [ ] LG AS-H246TKA2 (F24AHJ) from July 6, 2005.
 - [ ] Add mah boy Whisen. Whisen is LG from Korea. He has one powerful trick: Metatheatrics (and by extension 4th wall breaking abilities)
 - [ ] - Sharp AY-XPC18LR (M, Italian, 2010) -> XYLR -> 2010s Gen-Z kid who enjoys EDM.
 	- Sharp AY-XP09GHR (F, French, 2006) -> GHR - Fashion
@@ -48,15 +47,15 @@ kanban-plugin: board
 
 ## Todo
 
-- [ ] Sort [air conditioners](Air%20Conditioners.md) into different types, and other bits. Use properties
-	
-	And also make groups, alliance, cliques and all that crap.
-- [ ] Give [Termyice](Termyice.md) and [LCN](LCN.md) life as the first LG people.
-- [ ] [REU](REU.md) personality time.
+- [ ] LG AS-H246TKA2 (F24AHJ) from July 6, 2005.
 
 
 ## Current
 
+- [ ] Give [Termyice](Termyice.md) and [LCN](LCN.md) life as the first LG people.
+- [ ] Sort [air conditioners](Air%20Conditioners.md) into different types, and other bits. Use properties
+	
+	And also make groups, alliance, cliques and all that crap.
 - [ ] Rewrite personalities while staying consistent.
 	
 	Rewrite by studying them, breaking them apart into traits and rewrite them.
@@ -65,13 +64,7 @@ kanban-plugin: board
 ## Done
 
 **Complete**
-- [x] NEptha
-	
-	Panasonic CS-NE12LKE.
-	Male.
-- [x] Awux -> Awu-See
-	
-	Fujitsu AWU18CXQ. Female.
+- [x] [REU](REU.md) personality time. ✅ 2025-09-21
 - [x] Aufs -> A-U-F-S (Ay-You-Eff-Es)
 	
 	Fujitsu AUY36AGB3W cassette. His name is because his old species (development) was the Fujitsu AUG54FUAS cassette, but its too good so its kept.
@@ -87,7 +80,19 @@ kanban-plugin: board
 	Aufs likes to use the pronouns he/them.
 	
 	Aufs is toric, he likes men. This is why he has the "he" in his pronouns.
-- [x] Give [JHR](AEX.md#JHR) siblings and cousins. Then assimilate JHR into a person-lith kinda like [VXU](VXU.md) with his siblings as he and his siblings are capable of multi-split unit operation.
+
+
+## Done2
+
+**Complete**
+- [x] Awux -> Awu-See ✅ 2025-09-21
+	
+	Fujitsu AWU18CXQ. Female.
+- [x] NEptha ✅ 2025-09-21
+	
+	Panasonic CS-NE12LKE.
+	Male.
+- [x] Give [JHR](AEX.md#JHR) siblings and cousins. Then assimilate JHR into a person-lith kinda like [VXU](VXU.md) with his siblings as he and his siblings are capable of multi-split unit operation. ✅ 2025-09-21
 	
 	His siblings are a Sharp AE-XM30GR, AY-XPC7JR and AY-XPM18HR. 
 	
@@ -96,8 +101,9 @@ kanban-plugin: board
 	In AEX, PCR is the only female. AEX is now therefore a bigender (he/she) because there's a female and males. AEX is also non-binary (they/them) because AEX is now 4 person in 1 person. You can now refer to AEX as he/she/they/them.
 
 
-## Done2
+## Done3
 
+**Complete**
 
 
 ***
@@ -131,6 +137,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false]}
 ```
 %%

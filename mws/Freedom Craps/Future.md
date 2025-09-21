@@ -7,39 +7,48 @@ What's This?: This board is for how the characters will be in the future. How th
 
 ## Future Ideas
 
-- [ ] [AngelSaph](AngelSaph.md) is now fully grown and tall. 
+- [ ] [ToshyFEN](ToshyFEN.md) won't grow taller, but he has extra things.
 	
-	## Angelity
-	He now also has a ring that floats with him, that allows him to see from the back. It has eyes at the back. This ring is made of the same material as his halo.
+	Still durable AF.
 	
-	This ring only appears he is good, both in physical, mental and emotional state. It dissapears when one of them is deterioriating.
+	## Appearance
 	
-	AngelSaph would also obtain wings. Metalic wings. He can fly.
-	
-	His halo would also be harder, so its harder to damage. Now you can't just hit him and expect it to break, but his back is still his achilles' heel.
-	
-	## Biology
-	
-	His biological organs will matured. They have reached post-puberty stages. He is an adult by this point.
-	
-	## Psychology
-	
-	He would become more mature, and way tougher mentally. He would still be empathetic to others and still depressed.
-	
-	This means that you can't no longer easily bully his mental state into deterioration. He is now fully mature and can take a beating.
-- [ ] [GiSY](GiSY.md) would become taller. She would also become a partial angel like [AngelSaph](AngelSaph.md). Like AngelSaph, she would later also have some of her body partially become flesh the AngelSaph way. So she would later become an enchanced cyborg being. She would be biologically female in this case.
-	
-	Her halo would behave like AngelSaph, except the emotional indications because she is more noticable about her mental and emotional health unlike AngelSaph. Her halo is unique though, as its made of 18K rose gold, giving her halo a unique look. Her halo also looks like a lower-grade-quality version of [AngelSaph](AngelSaph.md)'s halo. Its as if her halo has been broken and then someone poorly rewelded bits of her halo again.
-	
-	GiSY and AngelSaph serves different purposes niches, but they can and do work together to do more.
-- [ ] [Xeo](Xeo.md) would be taller, and be damaged (cracks and slight inward bent as scars, she is still ok though dw about her as she still works). 
-	
+	Still similar, but he now wears ninja headbands to reflect his new other assassin side.
 	## Personality
-	She would have controlled some of her anger issues, but she still has some of the anger issues left (Its her now). Xeo is still the angriest person, but she would have mellowed out a bit.
 	
-	Well this bitch slag though her angriest anger is now eternal can socialize better. She can be nice and chill but you can feel the eternal anger within. In fact, you can feel both your and her heart burning.
+	He is less chill, but still ok. FEN is saner and and less sane at the same time. He is more volatile at times. RBC is more cautious.
 	
-	With this way sociable side, beware of her rage and wrath. Its worse than before, and even more dangerous. Xeo just found a way to control it.
+	
+	FEN would also be more paranoid of the whole world and its evilness to add spice. He fears a lot now. RBC also would be more paranoid and cautious like I said.
+	
+	FEN being less sane than before means that he would suffer more mental disorders, but him being saner means that he would have more control. So he is more chill and more volatile, but when he melts down he's crazier.
+	
+	Also despite him being way more chill, he is way more sociable. He will talk more than his younger self and he can do crap you know. He now can trash talk others and roast them, but he is nice when sociable and everything is right.
+	
+	Also ToshyFEN as a whole would gain another side. Stealth Assassin side. He can assassinate others if needed. Way more competent.
+- [ ] [Aufs](Aufs.md) is more normal.
+	
+	Aufs is more normal. He is less weird than before, but he is more stalking than before. Aufs also opens up even more.
+	
+	Aufs would even be more yellowed than before due to age.
+- [ ] [NAEphthalene (NEptha)](NAEphthalene.md) would become one of the most monstrous beings. He would be way stronger, but we'll see his strength. 
+	
+	Well, for one he would have crystals budding all over his body. Those are green KEP crystals and they pierce through out his body. Its kinda like a Siliconic flesh monster except that crystals pierces their body and those crystals are natural. He has KEP nucleation-budding crystals inside of him.
+	
+	This monster-like being is actually called a Torrentmesh, whose biology is based on Silicon instead of Carbon.
+	
+	NEptha would also lets say be reborn (ig). Lets say his left side almost the majority of it gets replaced by metal cybernetics. 
+	- Left eye is enchanced for night vision, but crappy day vision resolution (both color and low-light). 
+	- Left leg is replaced with metallic cybernetic.
+	- Left arm is intact.
+	- Additional logic board as brain. NEptha now has two brains, which is messed up. His original brain on the left side and another one somewhere else.
+	Don't worry, the Panasonic logo is left intact.
+	
+	And also yes he has now flesh. But its not human. its not complete human, but more of collections of flesh. His right side has a kind of among us impostor mouth flesh. Yeah he is way monstrous.
+
+
+## Future Ideas 2
+
 - [ ] [MHeLy](MHeLy.md) would have a massive overhaul in identity and appearance, probably. She got a **GLOW UP**!
 	
 	## Appearance and physiology
@@ -67,6 +76,8 @@ What's This?: This board is for how the characters will be in the future. How th
 	
 	DeltaCXG is not responsible for the cracks and scars of MHeLY. MheLy herself doesn't even know how she even got them.
 	
+	With this, [GiSY](GiSY.md) will be taking her place ig.
+	
 	### Body
 	With the help of [AngelSaph](AngelSaph.md), MHeLy also have part of flesh in her body. She is also now part flesh and part body. She now has true free-will, and will need to eat and drink. She now understands AngelSaph.
 	
@@ -81,42 +92,43 @@ What's This?: This board is for how the characters will be in the future. How th
 	She is still nice and kind, but not that nice as before. Life has shown to be futile to her. 
 	
 	DeltaCXG was the one who opened her eyes to the world's futility. DeltaCXG had hurt her many times and now she sees that the world needs help. She is way less nice so she can do the duty of helping the world a better place. And yes, DeltaCXG basically betrayed her at some point.
-- [ ] [ToshyFEN](ToshyFEN.md) won't grow taller, but he has extra things.
+- [ ] [Xeo](Xeo.md) would be taller, and be damaged (cracks and slight inward bent as scars, she is still ok though dw about her as she still works). 
 	
-	Still durable AF.
-	
-	## Appearance
-	
-	Still similar, but he now wears ninja headbands to reflect his new other assassin side.
 	## Personality
+	She would have controlled some of her anger issues, but she still has some of the anger issues left (Its her now). Xeo is still the angriest person, but she would have mellowed out a bit.
 	
-	He is less chill, but still ok. FEN is saner and and less sane at the same time. He is more volatile at times. RBC is more cautious.
+	Well this bitch slag though her angriest anger is now eternal can socialize better. She can be nice and chill but you can feel the eternal anger within. In fact, you can feel both your and her heart burning.
 	
+	With this way sociable side, beware of her rage and wrath. Its worse than before, and even more dangerous. Xeo just found a way to control it.
+
+
+## Future Ideas 3
+
+- [ ] [AngelSaph](AngelSaph.md) is now fully grown and tall. 
 	
-	FEN would also be more paranoid of the whole world and its evilness to add spice. He fears a lot now. RBC also would be more paranoid and cautious like I said.
+	## Angelity
+	He now also has a ring that floats with him, that allows him to see from the back. It has eyes at the back. This ring is made of the same material as his halo.
 	
-	FEN being less sane than before means that he would suffer more mental disorders, but him being saner means that he would have more control. So he is more chill and more volatile, but when he melts down he's crazier.
+	This ring only appears he is good, both in physical, mental and emotional state. It dissapears when one of them is deterioriating.
 	
-	Also despite him being way more chill, he is way more sociable. He will talk more than his younger self and he can do crap you know. He now can trash talk others and roast them, but he is nice when sociable and everything is right.
+	AngelSaph would also obtain wings. Metalic wings. He can fly.
 	
-	Also ToshyFEN as a whole would gain another side. Stealth Assassin side. He can assassinate others if needed. Way more competent.
-- [ ] [Aufs](Aufs.md) is more normal.
+	His halo would also be harder, so its harder to damage. Now you can't just hit him and expect it to break, but his back is still his achilles' heel.
 	
-	Aufs is more normal. He is less weird than before, but he is more stalking than before. Aufs also opens up even more.
+	## Biology
 	
-	Aufs would even be more yellowed than before.
-- [ ] [NAEphthalene (NEptha)](NAEphthalene.md) would become one of the most monstrous beings. He would be way stronger, but we'll see his strength. 
+	His biological organs will matured. They have reached post-puberty stages. He is an adult by this point.
 	
-	Well, for one he would have crystals budding all over his body. Those are green KEP crystals and they pierce through out his body. Its kinda like a flesh monster except that crystals pierces their body and those crystals are natural. He has KEP nucleation-budding crystals inside of him.
+	## Psychology
 	
-	NEptha would also lets say be reborn (ig). Lets say his left side almost the majority of it gets replaced by metal cybernetics. 
-	- Left eye is enchanced for night vision, but crappy day vision resolution (both color and low-light). 
-	- Left leg is replaced with metallic cybernetic.
-	- Left arm is intact.
-	- Additional logic board as brain. NEptha now has two brains, which is messed up. His original brain on the left side and another one somewhere else.
-	Don't worry, the Panasonic logo is left intact.
+	He would become more mature, and way tougher mentally. He would still be empathetic to others and still depressed.
 	
-	And also yes he has now flesh. But its not human. its not complete human, but more of collections of flesh. His right side has a kind of among us impostor mouth flesh. Yeah he is way monstrous.
+	This means that you can't no longer easily bully his mental state into deterioration. He is now fully mature and can take a beating.
+- [ ] [GiSY](GiSY.md) would become taller. She would also become a partial angel like [AngelSaph](AngelSaph.md). Like AngelSaph, she would later also have some of her body partially become flesh the AngelSaph way. So she would later become an enchanced cyborg being. She would be biologically female in this case.
+	
+	Her halo would behave like AngelSaph, except the emotional indications because she is more noticable about her mental and emotional health unlike AngelSaph. Her halo is unique though, as its made of 18K rose gold, giving her halo a unique look. Her halo also looks like a lower-grade-quality version of [AngelSaph](AngelSaph.md)'s halo. Its as if her halo has been broken and then someone poorly rewelded bits of her halo again.
+	
+	GiSY and AngelSaph serves different purposes niches, but they can and do work together to do more.
 
 
 ## Future Todo
@@ -132,6 +144,6 @@ What's This?: This board is for how the characters will be in the future. How th
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
 ```
 %%
