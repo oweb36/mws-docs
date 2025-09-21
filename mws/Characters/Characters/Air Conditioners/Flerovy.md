@@ -1,5 +1,6 @@
 ---
 dob: 2008-04-10
+Gender-Identity: Male
 ---
 Flerovy is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]].
 

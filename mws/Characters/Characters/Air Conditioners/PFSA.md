@@ -1,5 +1,6 @@
 ---
 dob: 1997-07-10
+Gender-Identity: Male
 ---
 PFSA is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]] under a slightly unextended name.
 

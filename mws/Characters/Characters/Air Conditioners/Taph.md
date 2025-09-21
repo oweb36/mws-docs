@@ -1,5 +1,6 @@
 ---
 dob: 2003-11-09
+Gender-Identity: Non-Binary
 ---
 ASTAC is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]].
 

@@ -1,5 +1,6 @@
 ---
 dob: 2018-07-07
+Gender-Identity: Bigender
 ---
 Vista is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]].
 

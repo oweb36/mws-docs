@@ -1,5 +1,6 @@
 ---
 dob: 2007-08-15
+Gender-Identity: Female
 ---
 RXe is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]]. She originally appeared in [[AACOS]].
 

@@ -1,5 +1,6 @@
 ---
 dob: 2006-04-11
+Gender-Identity: Male
 ---
 TERAS is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]].
 ## Identity

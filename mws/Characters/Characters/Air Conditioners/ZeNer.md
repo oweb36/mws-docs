@@ -1,5 +1,6 @@
 ---
 dob: 2017-08-16
+Gender-Identity: Genderfluid
 ---
 ZeNer is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]].
 

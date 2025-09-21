@@ -1,5 +1,6 @@
 ---
 dob: 2003-07-22
+Gender-Identity: Male
 ---
 CKHSC is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]].
 

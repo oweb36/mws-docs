@@ -1,5 +1,6 @@
 ---
 dob: 2008-05-10
+Gender-Identity: Demigirl
 ---
 GiSY is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]].
 

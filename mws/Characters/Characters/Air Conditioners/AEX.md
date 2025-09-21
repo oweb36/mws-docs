@@ -5,6 +5,7 @@ aliases:
   - HR
   - PCR
 dob: 2010-04-12
+Gender-Identity: Collective
 ---
 AEX is a [character](Characters.md) the host of [[Megarchive Warehouse Show]]. AEX also used to be the host of [[AACOS]], but you know its now a part of the [[Megarchive Warehouse Show]]. 
 

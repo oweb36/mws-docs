@@ -1,5 +1,6 @@
 ---
 dob: 2003-01-03
+Gender-Identity: Male
 ---
 Raiie is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]].
 

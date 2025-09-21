@@ -1,5 +1,6 @@
 ---
 dob: 2013-08-27
+Gender-Identity: Male
 ---
 Aurl is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]].
 

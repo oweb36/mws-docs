@@ -1,5 +1,6 @@
 ---
 dob: 2006-02-28
+Gender-Identity: Male
 ---
 ASTAC is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]].
 

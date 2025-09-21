@@ -1,5 +1,6 @@
 ---
 dob: 2021-04-25
+Gender-Identity: Female
 ---
 ToshyRAVi is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]]. She originally appeared in [[AACOS]].
 

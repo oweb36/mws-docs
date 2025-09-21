@@ -1,15 +1,18 @@
 views:
   - type: table
-    name: Table
+    name: Age
     filters:
       and:
-        - file.hasProperty("dob")
         - file.hasTag("airconditioner")
+        - file.hasProperty("dob")
     order:
       - file.name
       - dob
     sort:
       - property: dob
         direction: ASC
-    columnSize:
-      file.name: 298
+  - type: table
+    name: Identity
+    filters:
+      and:
+        - file.hasTag("airconditioner")

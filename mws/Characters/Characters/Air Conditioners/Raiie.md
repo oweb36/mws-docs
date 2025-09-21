@@ -1,5 +1,6 @@
 ---
 dob: 2005-06-06
+Gender-Identity: Genderfluid
 ---
 
 Raiie is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]] with a different name.

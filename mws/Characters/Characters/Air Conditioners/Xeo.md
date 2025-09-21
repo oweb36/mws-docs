@@ -1,5 +1,6 @@
 ---
 dob: 2010-10-10
+Gender-Identity: Female
 ---
 Xeo is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]].
 

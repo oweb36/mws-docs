@@ -1,11 +1,12 @@
 ---
 dob: 2005-04-06
+Gender-Identity: Female
 ---
 ToshyMEF is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]].
 ## Identity
 She is a Toshiba MMF-AP0151H floor standing [heat pump](Air%20Conditioners.md). Her name is pronounced as Toh-She-Mef.
 
-She was born in April 6, 2005. She is a TV-sexual cisgendered-female (she/her). She is TV-sexual because she's attracted to LG TVs, as she finds LG TVs better than LGBTQ. Well, at least LG TVs can handle 4k and many colors, unlike LGBTQ with its 6-colored flag (why am I doing this).
+She was born in April 6, 2005. She is a TV-sexual cisgendered-female (she/her). She is TV-sexual because she's attracted to LG TVs, as she finds LG TVs better than LGBTQ. Well, at least LG TVs can handle 4k and many colors, unlike LGBTQ with its 6-colored flag (why am I doing this). This means she is in her own zone, along with [WELLPan](WELLPan.md).
 
 If skin color mattered, ToshyMEF is white.
 

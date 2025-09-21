@@ -5,6 +5,7 @@ aliases:
   - RBC
   - RBC-AMSUS
   - AMSUS
+Gender-Identity: Male
 ---
 ToshyFEN is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]].
 

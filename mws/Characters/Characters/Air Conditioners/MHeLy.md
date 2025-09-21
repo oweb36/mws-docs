@@ -1,5 +1,6 @@
 ---
 dob: 2012-09-19
+Gender-Identity: Female
 ---
 MHeLy is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]]. She originally appeared in [[AACOS]].
 ## Identity
