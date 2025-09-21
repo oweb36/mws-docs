@@ -6,7 +6,7 @@ aliases:
   - PCR
 dob: 2010-04-12
 ---
-AEX is a [character](Characters) the host of [[Megarchive Warehouse Show]]. AEX also used to be the host of [[AACOS]], but you know its now a part of the [[Megarchive Warehouse Show]]. 
+AEX is a [character](Characters.md) the host of [[Megarchive Warehouse Show]]. AEX also used to be the host of [[AACOS]], but you know its now a part of the [[Megarchive Warehouse Show]]. 
 
 When I said that AEX also used to be the host of AACOS, I meant [JHR](AEX.md#JHR) of AEX and not AEX as a whole. This also means that JHR is the host of MWS, and the rest are just his co-host because they are also AEX ig. To recap this, JHR is the host while the rest kinda co-hosts.
 

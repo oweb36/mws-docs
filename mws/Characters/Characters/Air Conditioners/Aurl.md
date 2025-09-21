@@ -1,7 +1,7 @@
 ---
 dob: 2013-08-27
 ---
-Aurl is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]].
+Aurl is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]].
 
 ## Identity
 

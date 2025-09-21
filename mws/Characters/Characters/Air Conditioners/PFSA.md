@@ -1,7 +1,7 @@
 ---
 dob: 1997-07-10
 ---
-PFSA is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]] under a slightly unextended name.
+PFSA is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]] under a slightly unextended name.
 
 ## Identity
 

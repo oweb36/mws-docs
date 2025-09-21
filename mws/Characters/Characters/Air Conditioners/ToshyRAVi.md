@@ -1,7 +1,7 @@
 ---
 dob: 2021-04-25
 ---
-ToshyRAVi is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]]. She originally appeared in [[AACOS]].
+ToshyRAVi is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]]. She originally appeared in [[AACOS]].
 
 ## Identity
 

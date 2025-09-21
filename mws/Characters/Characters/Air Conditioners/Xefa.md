@@ -1,7 +1,7 @@
 ---
 dob: 2006-07-16
 ---
-Xefa is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]].
+Xefa is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]].
 
 ## Identity
 

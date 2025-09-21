@@ -1,7 +1,7 @@
 ---
 dob: 2008-05-10
 ---
-GiSY is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]].
+GiSY is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]].
 
 
 ## Identity

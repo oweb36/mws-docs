@@ -1,7 +1,7 @@
 ---
 dob: 2006-02-28
 ---
-ASTAC is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]].
+ASTAC is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]].
 
 ## Identity
 

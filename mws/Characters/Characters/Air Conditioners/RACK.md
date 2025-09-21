@@ -1,7 +1,7 @@
 ---
 dob: 2003-01-03
 ---
-Raiie is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]].
+Raiie is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]].
 
 ## Identity
 

@@ -6,7 +6,7 @@ aliases:
   - RBC-AMSUS
   - AMSUS
 ---
-ToshyFEN is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]].
+ToshyFEN is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]].
 
 ## Identity
 

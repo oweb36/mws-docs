@@ -1,7 +1,7 @@
 ---
 dob: 2015-06-07
 ---
-ToshyMEM is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]]. She originally appeared in [[AACOS]].
+ToshyMEM is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]]. She originally appeared in [[AACOS]].
 
 
 ## Identity

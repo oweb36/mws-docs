@@ -1,7 +1,7 @@
 ---
 dob: 2005-07-03
 ---
-WELLPan is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]].
+WELLPan is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]].
 
 ## Identity
 

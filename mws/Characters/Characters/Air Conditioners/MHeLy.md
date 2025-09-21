@@ -1,7 +1,7 @@
 ---
 dob: 2012-09-19
 ---
-MHeLy is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]]. She originally appeared in [[AACOS]].
+MHeLy is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]]. She originally appeared in [[AACOS]].
 ## Identity
 
 MHeLy is a wall-mounted Sharp AY-A9MHL [air conditioner](Air%20Conditioners.md). MHeLy is the 5th generation in the Sharp Sayonara Panas series, AKA she is the **Sayonara Panas V/Sayonara Panas 5** air conditioner. Her name is pronounced as M-H-Elly. You can write her name as MHLy (That's the original, but somehow it got lost), but she would prefer if you write her name as MHeLy.

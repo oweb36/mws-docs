@@ -1,7 +1,7 @@
 ---
 dob: 2009-09-11
 ---
-KaHLium is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]].
+KaHLium is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]].
 
 ## Identity
 

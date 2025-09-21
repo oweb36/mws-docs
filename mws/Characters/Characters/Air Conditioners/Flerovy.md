@@ -1,7 +1,7 @@
 ---
 dob: 2008-04-10
 ---
-Flerovy is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]].
+Flerovy is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]].
 
 ## Identity
 

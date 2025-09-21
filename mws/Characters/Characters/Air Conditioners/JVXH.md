@@ -1,7 +1,7 @@
 ---
 dob: 2009-07-09
 ---
-JVXH is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]]. She originally appeared in [[AACOS]].
+JVXH is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]]. She originally appeared in [[AACOS]].
 
 ## Identity
 

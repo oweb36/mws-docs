@@ -1,7 +1,7 @@
 ---
 dob: 2003-02-10
 ---
-Awux is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]].
+Awux is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]].
 
 ## Identity
 

@@ -1,7 +1,7 @@
 ---
 dob: 2006-04-11
 ---
-TERAS is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]].
+TERAS is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]].
 ## Identity
 
 TERAS is a Hitachi RAS-14EH2 wall-mounted [heat pump](Air%20Conditioners.md). His name is prounced as Teh-Ras, or *'teras'* in Indonesian.

@@ -1,7 +1,7 @@
 ---
 dob: 2005-04-06
 ---
-ToshyMEF is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]].
+ToshyMEF is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]].
 ## Identity
 She is a Toshiba MMF-AP0151H floor standing [heat pump](Air%20Conditioners.md). Her name is pronounced as Toh-She-Mef.
 

@@ -1,7 +1,7 @@
 ---
 dob: 2002-09-09
 ---
-Aufs is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]].
+Aufs is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]].
 
 ## Identity
 

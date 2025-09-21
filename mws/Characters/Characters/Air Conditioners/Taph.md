@@ -1,7 +1,7 @@
 ---
 dob: 2003-11-09
 ---
-ASTAC is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]].
+ASTAC is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]].
 
 ## Identity
 They are a Samsung APH450PG floor-standing [heat pump](Air%20Conditioners.md). Their name is pronounced as Taf/Taph.

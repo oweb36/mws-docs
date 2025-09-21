@@ -5,7 +5,7 @@ aliases:
   - Naphthalene
 dob: 2010-11-21
 ---
-NEptha is a [character](Characters) as a contestant on the [[Megarchive Warehouse Show]].
+NEptha is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]].
 
 ## Identity
 
