@@ -1,6 +1,10 @@
 ---
 dob: 2006-04-09
+cssclasses:
+  - no-inline
 ---
+# Sev
+
 Sev is a [character](Characters.md) as a background one on the [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show.md).
 ## Identity
 

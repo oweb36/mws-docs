@@ -1,10 +1,15 @@
-WTF
+Well, this is more like an entire family ig but whatever.
 
 ## About
 
-WHAT
+Basically anybody part of Daikin's Emura series is an Emurean.
 ## Members
 
-WHO
+| Member | Description |
+| ------ | ----------- |
+|        |             |
+
+
+#relational-groups 
 
 #relational-groups 

@@ -1,6 +1,10 @@
 ---
 dob: 2011-06-09
+cssclasses:
+  - no-inline
 ---
+# REU
+
 REU is a [character](Characters.md) as a background child on the [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show.md).
 
 ## Identity

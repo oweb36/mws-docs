@@ -1,6 +1,10 @@
 ---
 dob: 2005-10-26
+cssclasses:
+  - no-inline
 ---
+# TKA
+
 TKA is a background [character](Characters.md) on the [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show.md).
 ## Identity
 

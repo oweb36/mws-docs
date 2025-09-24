@@ -1,6 +1,10 @@
 ---
 dob: 2024-08-07
+cssclasses:
+  - no-inline
 ---
+# Idendiby
+
 Idendiby is a [character](Characters.md) as a background one on the [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show.md).
 
 ## Identity

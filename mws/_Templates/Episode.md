@@ -1,4 +1,8 @@
-
+---
+cssclasses:
+  - no-inline
+---
+# {{title}}
 ## Nutshell
 
 {}

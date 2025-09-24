@@ -1,8 +1,10 @@
 ---
-
 kanban-plugin: board
-
+cssclasses:
+  - no-inline
 ---
+
+# {{title}}
 
 ## S
 

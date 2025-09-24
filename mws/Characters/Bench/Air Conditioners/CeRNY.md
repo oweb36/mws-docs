@@ -1,6 +1,10 @@
 ---
 dob: 2013-08-18
+cssclasses:
+  - no-inline
 ---
+# CeRNY
+
 CeRNY is a [character](Characters.md) as a {role} on the [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show.md).
 ## Identity
 

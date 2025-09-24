@@ -10,11 +10,8 @@ That is what Relational Groups are!
 
 ## List
 
-[Let dataviews do the job](void:cus-i-am-lazy).
-
-```dataview
-LIST
-FROM #relational-groups 
-```
+- [Emureans](Emureans.md)
+- [Ethereans](Ethereans.md)
+- [TRIPLEX](TRIPLEX.md)
 
 #relational-groups 

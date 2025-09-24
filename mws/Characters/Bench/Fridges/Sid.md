@@ -1,6 +1,10 @@
 ---
 dob: 2018-09-09
+cssclasses:
+  - no-inline
 ---
+# Sid
+
 Sid is a [character](Characters.md) as a background one on the [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show.md).
 
 ## Identity
