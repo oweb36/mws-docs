@@ -2,11 +2,11 @@
 dob: 2003-02-10
 Gender-Identity: Female
 ---
-Awux is a [character](Characters.md) as a contestant on the [Megarchive Warehouse Show](../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md).
+Awu is a [character](Characters.md) as a contestant on the [Megarchive Warehouse Show](../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md).
 
 ## Identity
 
-Awux is a Fujitsu AWU18CXQ [heat pump](Air%20Conditioners.md). Her name is pronounced as A-wu-xy, AKA Awu-See.
+Awux is a Fujitsu AWU18CXQ [heat pump](../../Species/Air%20Conditioners.md). Her name is pronounced as A-wu, AKA Awu.
 
 She was born in February 10, 2003. She is a sapphic cisgender female (she/her). She likes women basically.
 

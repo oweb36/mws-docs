@@ -7,7 +7,7 @@ Idendiby is a [character](Characters.md) as a background one on the [Megarchive 
 
 ## Identity
 
-Idendiby is a Samsung WW11DB9B84GD [washing machine](Washing%20Machines.md). His name is a play one the 11DB part and Identity (I am not good with names) and is pronounced as Identiby.
+Idendiby is a Samsung WW11DB9B84GD [washing machine](../../Species/Washing%20Machines.md). His name is a play one the 11DB part and Identity (I am not good with names) and is pronounced as Identiby.
 
 He was born on August 7, 2024 as a Singaporean. He is your male that doesn't know what is identity except for his own name, species and age.  
 If skin color is considered, he is gray.

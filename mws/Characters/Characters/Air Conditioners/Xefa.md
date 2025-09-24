@@ -6,7 +6,7 @@ Xefa is a [character](Characters.md) as a contestant on the [Megarchive Warehous
 
 ## Identity
 
-She's a Panasonic CS-XE12EKE wall-mounted [heat pump](Air%20Conditioners.md). Her name is pronounced as Xe-fa.
+She's a Panasonic CS-XE12EKE wall-mounted [heat pump](../../Species/Air%20Conditioners.md). Her name is pronounced as Xe-fa.
 
 She was born in July 16, 2006. She is a cisgender and lesbian female (she/her).  
 If skin color mattered, she's white.

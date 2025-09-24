@@ -4,7 +4,7 @@ dob: 2006-10-24
 GHR is a [character](Characters.md) as a contestant (ig) on the [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show.md).
 ## Identity
 
-GHR is a Sharp wall-mounted AY-XP12GHR [heat pump](Air%20Conditioners.md). A deluxe one, and also a nordic inverter too! 
+GHR is a Sharp wall-mounted AY-XP12GHR [heat pump](../../Species/Air%20Conditioners.md). A deluxe one, and also a nordic inverter too! 
 
 Obvious where her name is derived from. Pronounced as G-H-R (Gee-H-Are).
 

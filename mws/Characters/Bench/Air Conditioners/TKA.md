@@ -6,7 +6,7 @@ dob: 2005-10-26
 TKA is a background [character](Characters.md) on the [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show.md).
 ## Identity
 
-TKA is an LG wall-mounted AS-H246TKA2 [heat pump](Air%20Conditioners.md). 
+TKA is an LG wall-mounted AS-H246TKA2 [heat pump](../../Species/Air%20Conditioners.md). 
 
 TKA was born in October 26, 2005. He is a cisgender and heterosexual male (he/him) because his personality is not there to understand the complexity of LGBTQ.
 

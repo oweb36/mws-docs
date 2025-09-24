@@ -6,7 +6,7 @@ ZeNer is a [character](Characters.md) as a contestant on the [Megarchive Warehou
 
 ## Identity
 
-ZeNer is a Daikin FTXZ50NV1B wall-mounted [heat pump](Air%20Conditioners.md). His name is pronounced as Zee-Ner, like zener diodes. Zener is the new **Daikin Ururu Sarara**, AKA the **Daikin Ururu Sarara 7 *(US7)***.
+ZeNer is a Daikin FTXZ50NV1B wall-mounted [heat pump](../../Species/Air%20Conditioners.md). His name is pronounced as Zee-Ner, like zener diodes. Zener is the new **Daikin Ururu Sarara**, AKA the **Daikin Ururu Sarara 7 *(US7)***.
 
 He was born in August 16, 2017. He is a genderfluid pansexual, but prefers to be male (he/him) except under certain circumstances aka being mutogender.
 

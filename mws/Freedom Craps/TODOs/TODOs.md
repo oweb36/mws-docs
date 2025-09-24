@@ -47,7 +47,7 @@ kanban-plugin: board
 
 ## Current
 
-- [x] Give [them](../../Characters/Characters/Air%20Conditioners/Air%20Conditioners.md) into different types, and other bits. Use properties
+- [x] Give [them](../../Characters/Species/Air%20Conditioners.md) into different types, and other bits. Use properties
 	
 	And also make groups, alliance, cliques and all that crap.
 - [ ] Rewrite personalities while staying consistent.

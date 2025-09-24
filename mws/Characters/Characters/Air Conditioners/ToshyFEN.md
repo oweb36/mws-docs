@@ -11,7 +11,7 @@ ToshyFEN is a [character](Characters.md) as a contestant on the [Megarchive Ware
 
 ## Identity
 
-ToshyFEN is a Toshiba floor-standing RAV-RM1601FT-EN [heat pump](Air%20Conditioners.md). His name is pronounced as Toh-she-Fen.
+ToshyFEN is a Toshiba floor-standing RAV-RM1601FT-EN [heat pump](../../Species/Air%20Conditioners.md). His name is pronounced as Toh-she-Fen.
 
 He was born in August 6, 2021, as a British person. He is a cisgender and heterosexual male. He/Him.
 

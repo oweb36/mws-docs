@@ -4,7 +4,7 @@ dob: 2012-03-04
 ZiP is a [character](Characters.md) as a {role} on the [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show.md).
 ## Identity
 
-ZiP is a Sharp wall-mounted AY-ZP40PR [heat pump](Air%20Conditioners.md). ZiP hails from Finland, making him Finnish.
+ZiP is a Sharp wall-mounted AY-ZP40PR [heat pump](../../Species/Air%20Conditioners.md). ZiP hails from Finland, making him Finnish.
 
 ZiP was born in ~~M~~arch 4, 2012. He is a cisgender but gay male (he/him).
 

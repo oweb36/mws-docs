@@ -1,6 +1,6 @@
 The Megarchive Warehouse is the place where the [Megarchive Warehouse Show](../Megarchive%20Warehouse%20Show.md) takes place in. It also acts as the living space, and home for the [characters](../../Characters/Characters.md) of the [Megarchive Warehouse Show](../Megarchive%20Warehouse%20Show.md); the [characters](../../Characters/Characters.md)  of [MWS](../Megarchive%20Warehouse%20Show.md) are the residents of the [Megarchive Warehouse](.md).
 
-Its just your warehouse of products and parts. There are parts and showcase like appliances such as [air conditioners](../../Characters/Characters/Air%20Conditioners/Air%20Conditioners.md), [washing machines](../../Characters/Bench/Washing%20Machines/Washing%20Machines.md), [refridgerators](../../Characters/Bench/Fridges/Refridgerators.md) and etc. The warehouse also has a comprehensive library and index for the residents to use. The living quarters is where they spend most of their time.
+Its just your warehouse of products and parts. There are parts and showcase like appliances such as [air conditioners](../../Characters/Species/Air%20Conditioners.md), [washing machines](../../Characters/Species/Washing%20Machines.md), [refridgerators](../../Characters/Species/Refridgerators.md) and etc. The warehouse also has a comprehensive library and index for the residents to use. The living quarters is where they spend most of their time.
 
 The warehouse is not the most futuristic, because they don't have a lot to go with. They just have enough money to do well and survive a nice life, but not enough for a savvy and luxurious life. Everyone who is a resident is ok though as everything is alright. This is why some of the furnitures and appliances aren't so new, but instead old.
 
@@ -25,7 +25,7 @@ There's a kitchen, which is pretty much useless to all the residents, except Ang
 There's a sunroof somewhere here for everyone to peek at the sky.
 
 ### Beds
-There's also an array of bed, with outlets for the residents to plug in for the night. Each bed is personalized and customized to each of them. So the [air conditioners](../../Characters/Characters/Air%20Conditioners/Air%20Conditioners.md) beds are tailored to them, while the [washing machines](../../Characters/Bench/Washing%20Machines/Washing%20Machines.md) also have tailored beds, and etc...
+There's also an array of bed, with outlets for the residents to plug in for the night. Each bed is personalized and customized to each of them. So the [air conditioners](../../Characters/Species/Air%20Conditioners.md) beds are tailored to them, while the [washing machines](../../Characters/Species/Washing%20Machines.md) also have tailored beds, and etc...
 
 Basically its personalized in the way they are going to be mounted typically. For washing machines, they are on the floor. For wall mounted bois, they are on the wall like how they are mounted normally. Ceiling cassette bois? On the ceiling they sleep and mount.
 

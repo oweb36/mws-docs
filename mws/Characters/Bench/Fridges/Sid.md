@@ -7,7 +7,7 @@ Sid is a [character](Characters.md) as a background one on the [Megarchive Wareh
 
 ## Identity
 
-Sid is a Sharp SJ-FSD910 [refridgerator](Refridgerators.md). Their name is pronounced as seed.
+Sid is a Sharp SJ-FSD910 [refridgerator](../../Species/Refridgerators.md). Their name is pronounced as seed.
 
 They were born in September 9, 2017. He is a bisexual non-binary (they/them).
 

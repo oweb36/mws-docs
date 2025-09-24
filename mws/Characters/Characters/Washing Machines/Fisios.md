@@ -5,7 +5,7 @@ Fisios is a [character](Characters.md) as a contestant girl on the [Megarchive W
 
 ## Identity
 
-She is an LG F1443KDS [washing machine](Washing%20Machines.md). Her name is pronounced as Fis-ios, but she can be called as just Fis.
+She is an LG F1443KDS [washing machine](../../Species/Washing%20Machines.md). Her name is pronounced as Fis-ios, but she can be called as just Fis.
 
 She was born in June 12, 2011. She is a cisgender and heterosexual female (she/her).
 

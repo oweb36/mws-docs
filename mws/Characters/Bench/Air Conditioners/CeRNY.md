@@ -6,7 +6,7 @@ dob: 2013-08-18
 CeRNY is a [character](Characters.md) as a {role} on the [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show.md).
 ## Identity
 
-CeRNY is a Midea floor-standing MFGA-55ARFN1 [heat pump](Air%20Conditioners.md). Clearly her name is not from it, but from CRN ([idk where](void:not)).
+CeRNY is a Midea floor-standing MFGA-55ARFN1 [heat pump](../../Species/Air%20Conditioners.md). Clearly her name is not from it, but from CRN ([idk where](void:not)).
 
 CeRNY was born in August 18, 2013. She is a cisgender and heterosexual female.
 

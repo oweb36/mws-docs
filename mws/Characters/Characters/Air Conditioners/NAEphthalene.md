@@ -10,7 +10,7 @@ NAEpthalene is a [character](Characters.md) as a contestant on the [Megarchive W
 
 ## Identity
 
-NAEpthalene is a Panasonic CS-NE9LKE wall-mounted [heat pump](Air%20Conditioners.md). NAEpthalene is a superior version of [JKE](JKE.md) and both a superior and inferior version of [Xeo](Xeo.md). NAEpthalene is a Latvian-Swedish guy.
+NAEpthalene is a Panasonic CS-NE9LKE wall-mounted [heat pump](../../Species/Air%20Conditioners.md). NAEpthalene is a superior version of [JKE](JKE.md) and both a superior and inferior version of [Xeo](Xeo.md). NAEpthalene is a Latvian-Swedish guy.
 
 NAEpthalene's name is pronounced as Neptune and Naphthalene. The "NEp" is pronounced as the "Nep" in Neptune, while the "tha" is pronounced as the "tha" in Naphthalene. His name is derived from his model (NE), Naphtha and Naphthalene.
 

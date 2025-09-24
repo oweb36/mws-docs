@@ -5,7 +5,7 @@ Gender-Identity: Male
 TERAS is a [character](Characters.md) as a contestant on the [Megarchive Warehouse Show](../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md). He originally appeared in [AACOS](../../../Megarchive%20Warehouse%20Show/AACOS.md).
 ## Identity
 
-TERAS is a Hitachi RAS-14EH2 wall-mounted [heat pump](Air%20Conditioners.md). His name is prounced as Teh-Ras, or *'teras'* in Indonesian.
+TERAS is a Hitachi RAS-14EH2 wall-mounted [heat pump](../../Species/Air%20Conditioners.md). His name is prounced as Teh-Ras, or *'teras'* in Indonesian.
 
 Teras was born in April 11, 2006. He is a cisgender and heterosexual male (he/him).
 

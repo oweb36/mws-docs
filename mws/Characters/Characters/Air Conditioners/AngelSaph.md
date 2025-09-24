@@ -2,13 +2,13 @@
 dob: 2022-09-13
 Gender-Identity: Demifluid Male
 ---
-# AngelSap
+# AngelSaph
 
 AngelSaph is a [character](Characters.md) as a contestant on the [Megarchive Warehouse Show](../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md).
 
 ## Identity
 
-He is a Gree Sapphire SAP18HP230V1AH wall-mounted [heat pump](Air%20Conditioners.md). His name is pronounced as Angel-Saph.
+He is a Gree Sapphire SAP18HP230V1AH wall-mounted [heat pump](../../Species/Air%20Conditioners.md). His name is pronounced as Angel-Saph.
 
 He was born on September 13, 2022. He is a demifluid male (he/they). This means that he is half male and half genderfluid. Normally his genderfluid side is female, making him bigender, but he can change his genderfluid side into any other if the circustance and situation warrants it. This means that AngelSaph is also mutogenderous. You can also count him as bigender, but its is a kind-off situation.
 
@@ -39,7 +39,7 @@ The Halo being an intergral part of AngelSaph's body can give him tactile sensat
 - Sharp pain. He will feel sharp pain if his halo is broken via harsh impact or pretty aggressive bonks. Its a sharp pain.
 - Dulled pain and ache. He will feel this (slightly dulled) pain and aching from his remaining halo that is broken.
 - Extreme pain. He will feel this if only a small remaining bit of his halo is remaining. This basically means that his halo is severely damaged, basically almost destroyed. He can pass out at this point.
-- Not so dull headache. He will feel this if the halo is completely destroyed, or basically the halo is damaged to the point no remaining bit is intact. In a nutshell, AngelSaph will feel this kind of headache if he has no halo, or just looks like a normal [heat pump](Air%20Conditioners.md).
+- Not so dull headache. He will feel this if the halo is completely destroyed, or basically the halo is damaged to the point no remaining bit is intact. In a nutshell, AngelSaph will feel this kind of headache if he has no halo, or just looks like a normal [heat pump](../../Species/Air%20Conditioners.md).
 - Touch. He will feel touch on his halo if you touch his halo.
 - Dull ache. He would feel a dull aching feeling if you tug or pull on his halo. This is already rude to do, as thats like pulling someone's by their ponytail.
 

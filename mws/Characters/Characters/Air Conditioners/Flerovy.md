@@ -6,7 +6,7 @@ Flerovy is a [character](Characters.md) as a contestant on the [Megarchive Wareh
 
 ## Identity
 
-Flerovy is a Daikin FVQ125BV1B floor-standing [heat pump](Air%20Conditioners.md). His name is pronounced Flerovy.
+Flerovy is a Daikin FVQ125BV1B floor-standing [heat pump](../../Species/Air%20Conditioners.md). His name is pronounced Flerovy.
 
 Flerovy was born April 10, 2008. He is a cisgender and heterosexual male.
 
@@ -18,7 +18,7 @@ Flerovy is well one of the intelligent fellas here in [MWS](Megarchive%20Warehou
 
 From that, you see that Flerovy is quite introverted. He is also shy, staying away from bold actions on the front scene. He is the *behind-the-scenes* kind of guy. 
 
-Flerovy also has perfectionism problems. He is so bothered with imperfect things (like [Awux](Awux.md)) to the point where he would correct them. He is quite compulsive with this behavior and will even do it in inappropriate moments. Flerovy would be bogged with thoughts of the imperfect thing and correct them *on-the-spot*. He will even recheck the imperfect object in question multiple times even if he has correct them. Yeah, he has OCD.
+Flerovy also has perfectionism problems. He is so bothered with imperfect things (like [Awu](Awu.md)) to the point where he would correct them. He is quite compulsive with this behavior and will even do it in inappropriate moments. Flerovy would be bogged with thoughts of the imperfect thing and correct them *on-the-spot*. He will even recheck the imperfect object in question multiple times even if he has correct them. Yeah, he has OCD.
 
 With all that, you can approach him. Find the correct way, and you might find him as an affable and friendly guy. He may seem shy from the outside, but he is different if you can interact with him the right way.
 

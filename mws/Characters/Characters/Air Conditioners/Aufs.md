@@ -8,7 +8,7 @@ Aufs is a [character](Characters.md) as a contestant on the [Megarchive Warehous
 
 ## Identity
 
-Aufs is a Fujitsu AU54TFCMF  [heat pump](Air%20Conditioners.md). His name has several pronunciations which he can accept, which includes:
+Aufs is a Fujitsu AU54TFCMF  [heat pump](../../Species/Air%20Conditioners.md). His name has several pronunciations which he can accept, which includes:
 - A-U-F-S, or Ay-You-Eff-Ess. (Very disliked)
 - Aufs, or Offs (Disliked)
 - Au-F-S, or O-F-S (Preferred)

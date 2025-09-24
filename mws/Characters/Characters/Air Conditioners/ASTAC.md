@@ -2,13 +2,13 @@
 dob: 2006-02-28
 Gender-Identity: Male
 ---
-
+# ASTAC
 
 ASTAC is a [character](Characters.md) as a contestant on the [Megarchive Warehouse Show](../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md). He originally appeared in [AACOS](../../../Megarchive%20Warehouse%20Show/AACOS.md).
 
 ## Identity
 
-He is a wall-mounted Fujitsu ASTA18LCC [heat pump](Air%20Conditioners.md). Obvious where the name is derived from (**ASTA**18L**C***C*).
+He is a wall-mounted Fujitsu ASTA18LCC [heat pump](../../Species/Air%20Conditioners.md). Obvious where the name is derived from (**ASTA**18L**C***C*).
 
 You can either pronounce him as an acronym (A-S-T-A-C), Ass-tack, or Assta-C (like Ecstacy but whatevs).
 

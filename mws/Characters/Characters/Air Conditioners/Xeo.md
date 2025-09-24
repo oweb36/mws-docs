@@ -6,7 +6,7 @@ Xeo is a [character](Characters.md) as a contestant on the [Megarchive Warehouse
 
 ## Identity
 
-She's a Panasonic CS-XE21MKEW wall-mounted [heat pump](Air%20Conditioners.md). Xeo is a superior version of [JKE](JKE.md). Her name is pronounced as Xeo (AKA Seyo). Don't call her shio or sio (AKA see-yo), she would attack you for that.
+She's a Panasonic CS-XE21MKEW wall-mounted [heat pump](../../Species/Air%20Conditioners.md). Xeo is a superior version of [JKE](JKE.md). Her name is pronounced as Xeo (AKA Seyo). Don't call her shio or sio (AKA see-yo), she would attack you for that.
 
 She was born in August 10, 2010. She is a cisgender and bisexual female (she/her).  
 If skin color mattered, she's silver.

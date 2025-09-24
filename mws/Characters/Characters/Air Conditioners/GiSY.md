@@ -7,7 +7,7 @@ GiSY is a [character](Characters.md) as a contestant on the [Megarchive Warehous
 
 ## Identity
 
-She is a wall-mounted Sharp AH-AP12GSY [air conditioner](Air%20Conditioners.md). Her name is pronounced Jee-See and her name is derived from the GSY portion of her species.
+She is a wall-mounted Sharp AH-AP12GSY [air conditioner](../../Species/Air%20Conditioners.md). Her name is pronounced Jee-See and her name is derived from the GSY portion of her species.
 
 She was born in May 10, 2008. She is a pansexual demigirl (she/they).
 

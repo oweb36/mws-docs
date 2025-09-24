@@ -5,7 +5,7 @@ dob: 2009-12-19
 Wheamy is a [character](Characters.md) as a contestant guy on the [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show.md).
 
 ## Identity
-Wheamy is an LG WM2101HW [washing machine](Washing%20Machines.md). His name is pronounced as Whim-my.
+Wheamy is an LG WM2101HW [washing machine](../../Species/Washing%20Machines.md). His name is pronounced as Whim-my.
 
 He was born on December 19, 2009. He is a cisgender and pansexual male (he/him).
 

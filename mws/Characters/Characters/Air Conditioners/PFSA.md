@@ -6,7 +6,7 @@ PFSA is a [character](Characters.md) as a contestant on the [Megarchive Warehous
 
 ## Identity
 
-He is a Mitsubishi Electric (Mr. Slim) PKH-4FKSA [air conditioner](Air%20Conditioners.md). His name is pronounced as Pee-Visa.
+He is a Mitsubishi Electric (Mr. Slim) PKH-4FKSA [air conditioner](../../Species/Air%20Conditioners.md). His name is pronounced as Pee-Visa.
 
 He was born in July 10, 1997. He is a cisgender and heterosexual male.
 

@@ -6,7 +6,7 @@ ToshySMUT is a [character](Characters.md) as a contestant on the [Megarchive War
 
 ## Identity
 
-He is a Toshiba RAV-SM804UTP-E 4-way cassette  [heat pump](Air%20Conditioners.md). His name is pronounced as Toh-She-Smut.
+He is a Toshiba RAV-SM804UTP-E 4-way cassette  [heat pump](../../Species/Air%20Conditioners.md). His name is pronounced as Toh-She-Smut.
 
 He was born in January 24, 2013. He is a bisexual demiboy (he/them).
 

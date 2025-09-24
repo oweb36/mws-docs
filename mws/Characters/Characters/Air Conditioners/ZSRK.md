@@ -5,7 +5,7 @@ Gender-Identity: Male
 ZSRK is a [character](Characters.md) as a contestant on the [Megarchive Warehouse Show](../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md). He originally appeared in [AACOS](../../../Megarchive%20Warehouse%20Show/AACOS.md).
 
 ## Identity
-He is a Mitsubishi Heavy Industries SRK60ZSXA-W [heat pump](Air%20Conditioners.md). His name is pronounced as Z-Serk, or Caesar if it starts with Z instead of C and has an extra k in the end (Zaesark). Or you can just call him Z-S-R-K.
+He is a Mitsubishi Heavy Industries SRK60ZSXA-W [heat pump](../../Species/Air%20Conditioners.md). His name is pronounced as Z-Serk, or Caesar if it starts with Z instead of C and has an extra k in the end (Zaesark). Or you can just call him Z-S-R-K.
 
 He was born in September 14, 2017. He is a cisgender and heterosexual male.  
 If skin color matters, he is white.

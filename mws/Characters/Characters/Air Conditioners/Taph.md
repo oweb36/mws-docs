@@ -5,7 +5,7 @@ Gender-Identity: Non-Binary
 ASTAC is a [character](Characters.md) as a contestant on the [Megarchive Warehouse Show](../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md).
 
 ## Identity
-They are a Samsung APH450PG floor-standing [heat pump](Air%20Conditioners.md). Their name is pronounced as Taf/Taph.
+They are a Samsung APH450PG floor-standing [heat pump](../../Species/Air%20Conditioners.md). Their name is pronounced as Taf/Taph.
 
 They were born in November 9, 2003. They are an agender non-binary asexual (they/them).
 

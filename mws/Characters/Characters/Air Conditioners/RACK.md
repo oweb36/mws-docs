@@ -6,7 +6,7 @@ Raiie is a [character](Characters.md) as a contestant on the [Megarchive Warehou
 
 ## Identity
 
-He is a Hitachi RAK-60NH4 wall-mounted [heat pump](Air%20Conditioners.md). His name is pronounced as rack, just like rack-mounted servers.
+He is a Hitachi RAK-60NH4 wall-mounted [heat pump](../../Species/Air%20Conditioners.md). His name is pronounced as rack, just like rack-mounted servers.
 
 He was born in January 3, 2003. He is a cisgender and heterosexual male.
 
