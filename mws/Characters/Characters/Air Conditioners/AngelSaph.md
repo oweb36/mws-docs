@@ -1,7 +1,11 @@
 ---
 dob: 2022-09-13
 Gender-Identity: Demifluid Male
+cssclasses:
+  - no-inline
 ---
+# AngelSap
+
 AngelSaph is a [character](Characters.md) as a contestant on the [Megarchive Warehouse Show](../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md).
 
 ## Identity

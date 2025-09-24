@@ -8,5 +8,6 @@
   ],
   "newLinkFormat": "relative",
   "attachmentFolderPath": "_Attachments",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "showInlineTitle": false
 }
