@@ -1,6 +1,7 @@
 ---
 dob: 2009-12-19
 ---
+# Wheamy
 
 Wheamy is a [character](Characters.md) as a contestant guy on the [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show.md).
 

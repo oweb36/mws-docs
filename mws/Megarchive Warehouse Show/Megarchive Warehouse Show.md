@@ -3,6 +3,8 @@ aliases:
   - mws
   - MWS
 ---
+# MWS
+
 This is a large object show that encompasses older object show of mine such as [AACOS](AACOS.md) and others. Its based of my megarchive manual archives and collections. This show is part of the larger umbrella of ObjecWeb36.
 
 This show is both competition and slice-of-life based.

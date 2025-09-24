@@ -1,3 +1,5 @@
+# MW
+
 The Megarchive Warehouse is the place where the [Megarchive Warehouse Show](../Megarchive%20Warehouse%20Show.md) takes place in. It also acts as the living space, and home for the [characters](../../Characters/Characters.md) of the [Megarchive Warehouse Show](../Megarchive%20Warehouse%20Show.md); the [characters](../../Characters/Characters.md)  of [MWS](../Megarchive%20Warehouse%20Show.md) are the residents of the [Megarchive Warehouse](.md).
 
 Its just your warehouse of products and parts. There are parts and showcase like appliances such as [air conditioners](../../Characters/Species/Air%20Conditioners.md), [washing machines](../../Characters/Species/Washing%20Machines.md), [refridgerators](../../Characters/Species/Refridgerators.md) and etc. The warehouse also has a comprehensive library and index for the residents to use. The living quarters is where they spend most of their time.

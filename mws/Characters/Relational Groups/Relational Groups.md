@@ -2,6 +2,8 @@
 aliases:
   - Relational Group
 ---
+# Relational Groups
+
 > Wtf are this things you may ask?
 
 Well, things are more interesting if there are cliques and groups around.
