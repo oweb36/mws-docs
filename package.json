@@ -5,14 +5,21 @@
   "main": ".",
   "scripts": {
     "build": "npm exec -- @11ty/eleventy",
-    "start": "npm exec -- @11ty/eleventy --serve"
-  },  
+    "start": "npm exec -- @11ty/eleventy --serve",
+    "clean": "node _smods/clean.js"
+  },
   "repository": "https://github.com/oweb36/mws-docs.git",
   "author": "MXPSQL",
   "license": "MIT",
   "private": true,
-  "devDependencies": {},
+  "devDependencies": {
+    "rimraf": "^6.0.1"
+  },
   "dependencies": {
-    "@11ty/eleventy": "^3.0.0"
+    "@11ty/eleventy": "^3.0.0",
+    "@photogabble/eleventy-plugin-interlinker": "^1.1.0",
+    "markdown-it": "^14.1.0",
+    "markdown-it-obsidian": "^1.1.0",
+    "markdown-it-replace-link": "^1.2.2"
   }
 }
