@@ -1,8 +1,6 @@
 ---
 dob:
 Gender-Identity:
-cssclasses:
-  - no-inline
 ---
 # {{title}}
 

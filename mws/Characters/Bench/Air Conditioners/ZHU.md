@@ -1,7 +1,5 @@
 ---
 dob: 2024-06-24
-cssclasses:
-  - no-inline
 ---
 # ZHU
 

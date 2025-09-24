@@ -1,7 +1,5 @@
 ---
 dob: 2024-08-07
-cssclasses:
-  - no-inline
 ---
 # Idendiby
 

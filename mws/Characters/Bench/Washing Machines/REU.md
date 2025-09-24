@@ -1,7 +1,5 @@
 ---
 dob: 2011-06-09
-cssclasses:
-  - no-inline
 ---
 # REU
 

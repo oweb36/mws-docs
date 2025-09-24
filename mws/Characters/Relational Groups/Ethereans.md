@@ -1,7 +1,3 @@
----
-cssclasses:
-  - no-inline
----
 # Ethereans
 
 The Ethereans is a pretty exclusive [Relational Group](Relational%20Groups.md)

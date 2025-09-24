@@ -1,8 +1,6 @@
 ---
 dob: 2022-09-13
 Gender-Identity: Demifluid Male
-cssclasses:
-  - no-inline
 ---
 # AngelSap
 

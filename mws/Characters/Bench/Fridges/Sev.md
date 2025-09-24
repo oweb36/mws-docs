@@ -1,7 +1,5 @@
 ---
 dob: 2006-04-09
-cssclasses:
-  - no-inline
 ---
 # Sev
 

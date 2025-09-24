@@ -1,7 +1,5 @@
 ---
 dob: 2010-01-08
-cssclasses:
-  - no-inline
 ---
 # XYLR
 

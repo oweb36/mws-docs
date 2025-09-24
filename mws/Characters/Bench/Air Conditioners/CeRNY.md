@@ -1,7 +1,5 @@
 ---
 dob: 2013-08-18
-cssclasses:
-  - no-inline
 ---
 # CeRNY
 

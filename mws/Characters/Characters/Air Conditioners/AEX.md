@@ -6,8 +6,6 @@ aliases:
   - PCR
 dob: 2010-04-12
 Gender-Identity: Collective
-cssclasses:
-  - no-inline
 ---
 # AEX
 

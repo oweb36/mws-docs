@@ -1,7 +1,3 @@
----
-cssclasses:
-  - no-inline
----
 # {{title}}
 
 WTF

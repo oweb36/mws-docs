@@ -1,7 +1,5 @@
 ---
 dob: 2005-10-26
-cssclasses:
-  - no-inline
 ---
 # TKA
 

@@ -2,8 +2,6 @@
 aliases:
   - air conditioner
   - heat pump
-cssclasses:
-  - no-inline
 ---
 # Air Conditioners
 

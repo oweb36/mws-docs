@@ -1,7 +1,5 @@
 ---
 dob: 2011-01-13
-cssclasses:
-  - no-inline
 ---
 # Wap
 

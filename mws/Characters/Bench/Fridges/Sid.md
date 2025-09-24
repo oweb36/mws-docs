@@ -1,7 +1,5 @@
 ---
 dob: 2018-09-09
-cssclasses:
-  - no-inline
 ---
 # Sid
 
