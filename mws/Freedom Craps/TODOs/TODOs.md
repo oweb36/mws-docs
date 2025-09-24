@@ -74,10 +74,12 @@ kanban-plugin: board
 ## Done2
 
 **Complete**
-- [x]  [Termyice](../../Characters/Characters/Air%20Conditioners/Termyice.md) and [LCN](../../Characters/Characters/Air%20Conditioners/LCN.md) life as the first LG people. ✅ 2025-09-21
+- [x] [Termyice](../../Characters/Characters/Air%20Conditioners/Termyice.md) and [LCN](../../Characters/Characters/Air%20Conditioners/LCN.md) life as the first LG people. ✅ 2025-09-21
 - [x] Awux -> Awu-See ✅ 2025-09-24
 	
 	Fujitsu AWU18CXQ. Female.
+	
+	UPDATE: Awux is now Awu!
 - [x] NEptha ✅ 2025-09-21
 	
 	Panasonic CS-NE12LKE.
@@ -87,7 +89,7 @@ kanban-plugin: board
 ## Done3
 
 **Complete**
-- [AEX](../../Characters/Characters/Air%20Conditioners/AEX.md#JHR) siblings and cousins. Then assimilate JHR into a person-lith kinda like [VXU](../../Characters/Characters/Air%20Conditioners/VXU.md) with his siblings as he and his siblings are capable of multi-split unit operation. ✅ 2025-09-21
+- [ ] [AEX](../../Characters/Characters/Air%20Conditioners/AEX.md#JHR) siblings and cousins. Then assimilate JHR into a person-lith kinda like [VXU](../../Characters/Characters/Air%20Conditioners/VXU.md) with his siblings as he and his siblings are capable of multi-split unit operation. ✅ 2025-09-21
 	
 	His siblings are a Sharp AE-XM30GR, AY-XPC7JR and AY-XPM18HR. 
 	
