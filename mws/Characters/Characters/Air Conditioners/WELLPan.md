@@ -2,6 +2,8 @@
 dob: 2005-07-03
 Gender-Identity: Male
 ---
+# WELLPan
+
 WELLPan is a [character](Characters.md) as a contestant on the [Megarchive Warehouse Show](../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md). He originally appeared in [AACOS](../../../Megarchive%20Warehouse%20Show/AACOS.md).
 
 ## Identity

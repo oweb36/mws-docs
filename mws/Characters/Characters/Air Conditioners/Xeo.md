@@ -2,6 +2,8 @@
 dob: 2010-10-10
 Gender-Identity: Female
 ---
+# Xeo
+
 Xeo is a [character](Characters.md) as a contestant on the [Megarchive Warehouse Show](../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md).
 
 ## Identity

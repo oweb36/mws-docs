@@ -1,6 +1,8 @@
 ---
 dob: 2006-10-24
 ---
+# GHR
+
 GHR is a [character](Characters.md) as a contestant (ig) on the [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show.md).
 ## Identity
 

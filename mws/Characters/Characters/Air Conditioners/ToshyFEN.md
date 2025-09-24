@@ -7,6 +7,8 @@ aliases:
   - AMSUS
 Gender-Identity: Male
 ---
+# ToshyFEN
+
 ToshyFEN is a [character](Characters.md) as a contestant on the [Megarchive Warehouse Show](../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md). He originally appeared in [AACOS](../../../Megarchive%20Warehouse%20Show/AACOS.md).
 
 ## Identity

@@ -2,6 +2,8 @@
 dob: 2009-07-09
 Gender-Identity: Female
 ---
+# JVXH
+
 JVXH is a [character](Characters.md) as a contestant on the [Megarchive Warehouse Show](../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md). She originally appeared in [AACOS](../../../Megarchive%20Warehouse%20Show/AACOS.md).
 
 ## Identity
