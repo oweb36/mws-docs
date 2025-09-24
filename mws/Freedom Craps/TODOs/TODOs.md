@@ -6,17 +6,8 @@ kanban-plugin: board
 
 ## Eternity
 
-
-
-## Backlog
-
-- [ ] Give JHR or [AEX](AEX.md) a cousin. AEX/JHR's cousin is the IVT version of JHR (superior and inferior at the same time).
 - [ ] Samsung AVMFH052EA0 from August 3, 2005.
 - [ ] Add mah boy Whisen. Whisen is LG from Korea. He has one powerful trick: Metatheatrics (and by extension 4th wall breaking abilities)
-- [ ] - Sharp AY-XPC18LR (M, Italian, 2010) -> XYLR -> 2010s Gen-Z kid who enjoys EDM.
-	- Sharp AY-XP09GHR (F, French, 2006) -> GHR - Fashion
-	- Sharp AY-XP18ZHU (M, Canadian-French, 2024) -> ZHU
-	- Sharp AY-ZP40PR (M, Finnish, 2012) -> ZiP
 - [ ] Starmexed.
 	
 	5-Indoor Multi!
@@ -45,6 +36,11 @@ kanban-plugin: board
 	What about the individual names, well its unique as they use numbers.
 
 
+## Backlog
+
+- [ ] Give JHR or [AEX](AEX.md) a cousin. AEX/JHR's cousin is the IVT version of JHR (superior and inferior at the same time).
+
+
 ## Todo
 
 
@@ -59,10 +55,19 @@ kanban-plugin: board
 	Rewrite by studying them, breaking them apart into traits and rewrite them.
 
 
+## Always Current
+
+- [ ] Complete #TODO
+
+
 ## Done
 
 **Complete**
-- [x] LG AS-H246TKA2 (F24AHJ) from July 6, 2005. ✅ 2025-09-21
+- [x] - Sharp AY-XPC18LR (M, Italian, 2010) -> [XYLR](XYLR.md) -> 2010s Gen-Z kid who enjoys EDM. ✅ 2025-09-21
+	- Sharp AY-XP09GHR (F, French, 2006) -> [GHR](GHR.md) - Fashion
+	- Sharp AY-XP18ZHU (M, Canadian-French, 2024) -> [ZHU](ZHU.md)
+	- Sharp AY-ZP40PR (M, Finnish, 2012) -> [ZiP](ZiP.md)
+- [x] LG AS-H246TKA2 (F24AHJ) from July 6, 2005. [TKA](TKA.md) my boi! ✅ 2025-09-21
 - [x] [REU](REU.md) personality time. ✅ 2025-09-21
 
 
@@ -89,7 +94,7 @@ kanban-plugin: board
 	This monolith person-lith is called as "AEX" (Pronounced as Ax or Axe). JHR is still called JHR. AY-XPM18HR's name is HR, AE-XM30GR is EXMGR (Pronounced as E-X-M-G-R or E-X-Manager) and AY-XPC7JR is PCR (Pronounced as P-C-R).
 	
 	In AEX, PCR is the only female. AEX is now therefore a bigender (he/she) because there's a female and males. AEX is also non-binary (they/them) because AEX is now 4 person in 1 person. You can now refer to AEX as he/she/they/them.
-- [x] Aufs -> A-U-F-S (Ay-You-Eff-Es)
+- [x] Aufs -> A-U-F-S (Ay-You-Eff-Es) ✅ 2025-09-21
 	
 	Fujitsu AUY36AGB3W cassette. His name is because his old species (development) was the Fujitsu AUG54FUAS cassette, but its too good so its kept.
 	
@@ -118,7 +123,7 @@ kanban-plugin: board
 - [ ] ToshyMEF
 	
 	Toshiba MMF-AP0151H. Female.
-	Older version of [ToshyFEN](../Characters/Air%20Conditioners/ToshyFEN.md), possibly siblings? ~ November 21, 2024 10:54:46 PM
+	Older version of [ToshyFEN](ToshyFEN.md), possibly siblings? ~ November 21, 2024 10:54:46 PM
 - [ ] Add a new smug character named Avxy, which is a Sharp AIOT air conditioner. He is a smug little shit, a cocky little shit. ~ November 21, 2024 10:54:46 PM
 - [ ] Xeo, female (she/her).
 	
@@ -137,6 +142,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false,false]}
 ```
 %%

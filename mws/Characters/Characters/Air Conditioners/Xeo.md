@@ -54,7 +54,7 @@ Crap talks of Xeo: "You ain't deluxe," "Why so small?"
 You get it.
 
 ### [NAEphthalene (NEptha)](NAEphthalene.md)
-NEpthalene dislikes Xeo. Its because Xeo is a woman, and just catty.  He doesn't exactly like her overly aggressive behavior. And also NEptha is a freaking sexist.
+NAEpthalene dislikes Xeo. Its because Xeo is a woman, and just catty.  He doesn't exactly like her overly aggressive behavior. And also NEptha is a freaking sexist.
 
 Well, Xeo also dislikes him cus he's a bastard.
 
@@ -69,4 +69,4 @@ WELLPan is chill. WELLPan is one of the people Xeo has no problems with.
 
 Xeo might snark WELLPan once in a while, but its not **THAT** big of a deal since WELLPan is chill and Xeo has no qualms.
 
-#airconditioner 
+#airconditioner #etherean 

@@ -6,33 +6,37 @@ aliases:
 dob: 2010-11-21
 Gender-Identity: Male
 ---
-NEptha is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]].
+NAEpthalene is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]].
 
 ## Identity
 
-NEptha is a Panasonic CS-NE9LKE wall-mounted [heat pump](Air%20Conditioners.md). NEptha is a superior version of [JKE](JKE.md) and both a superior and inferior version of [Xeo](Xeo.md).
+NAEpthalene is a Panasonic CS-NE9LKE wall-mounted [heat pump](Air%20Conditioners.md). NAEpthalene is a superior version of [JKE](JKE.md) and both a superior and inferior version of [Xeo](Xeo.md). NAEpthalene is a Latvian-Swedish guy.
 
-NEptha's name is pronounced as Neptune and Naphthalene. The "NEp" is pronounced as the "Nep" in Neptune, while the "tha" is pronounced as the "tha" in Naphthalene. His name is derived from his model (NE), Naphtha and Naphthalene.
+NAEpthalene's name is pronounced as Neptune and Naphthalene. The "NEp" is pronounced as the "Nep" in Neptune, while the "tha" is pronounced as the "tha" in Naphthalene. His name is derived from his model (NE), Naphtha and Naphthalene.
 
 He was born in November 21, 2010. He is a cisgender and an asexual gay male (he/him). (He is gay cus he hates women and likes men, but asexual cus he jackassery)
-If skin color mattered, he silver.
+If skin color mattered, he white.
 
-[This](panasonic-amber-gemstone-ironoxide-deice-2010_cs-ne9lke.pdf) is NEptha's reference manual.
+[This](panasonic-amber-gemstone-ironoxide-deice-2010_cs-ne9lke.pdf) is NAEpthalene's reference manual.
 
 ### Name
 
-Since NEptha has a long name, here are several shortened/alternate/nick names for him:
-- NEptha (Old name, prefered)
-- NAphtha (Less prefered, he is not naphtha)
-- Naphthalene (Even less prefered, neither is he naphthalene)
+Since NAEpthalene has a long name, here are several shortened/alternate/nick names for him:
+- NEptha (Old name, preferred)
+- NAEptha (Semi-old combinatorics)
+- NAphtha (Less preferred, he is not naphtha)
+- Naphthalene (Even less preferred, neither is he naphthalene)
+- NEpthalene (Inconsistent-ass)
+- NAmptha (NAmptha his-ass)
+> Also spelling is inconsistent
 
 ## Personality
 
-TLDR: Sexist misogynist. Just plain rude in general to men, but very sexist to women. Would try to show why men/male is superior to woman/female. Stubborn and very hard to learn and teach. A total asshole who is a total saddist. How saddist? Not happy if nobody is suffering. He baits for suffering unlike [Avxy](Avxy.md) who baits for fun. Freedom loving and timeout hating.
+> TLDR: Sexist misogynist. Just plain rude in general to men, but very sexist to women. Would try to show why men/male is superior to woman/female. Stubborn and very hard to learn and teach. A total asshole who is a total saddist. How saddist? Not happy if nobody is suffering. He baits for suffering unlike [Avxy](Avxy.md) who baits for fun. Freedom loving and timeout hating.
 
 Misogynistic strawman misogynist of MWS.
 
-NEptha believes that Males like him is superior over females. He believes that men is the greatest sex and gender over anything else. Trans? Nah! Demi? Nah! Man is life for him, everything else is death.
+NAEpthalene believes that Males like him is superior over females. He believes that men is the greatest sex and gender over anything else. Trans? Nah! Demi? Nah! Man is life for him, everything else is death.
 
 Because of this, NEptha seems rude to non male people. Even if they are nice to him, he rejects them and treats them as slaves. Something tells me that NEptha is still living like in the 1420s. Even with this, he is still slightly rude to male people.
 
@@ -46,18 +50,15 @@ NEptha is a stuborn guy who is not nice to anybody.
 ## Relations
 
 ### [Xeo](Xeo.md)
-NEpthalene dislikes Xeo. Its because Xeo is a woman, and just catty.  He doesn't exactly like her overly aggressive behavior. And also NEptha is a freaking sexist.
+NAEpthalene dislikes Xeo. Its because Xeo is a woman, and just catty.  He doesn't exactly like her overly aggressive behavior. And also NEptha is a freaking sexist.
 
 Well, Xeo also dislikes him cus he's a bastard.
 
 ### [JKE](JKE.md)
-NEptha sees JKE as a version of himself, a less advanced one. He sees JKE as inferior. Don't worry, he is kinda like a big brother to him. NEptha is very supportive to JKE because they are similar.
+NAEpthalene sees JKE as a version of himself, a less advanced one. He sees JKE as inferior. Don't worry, he is kinda like a big brother to him (even if JKE is older). NAEpthalene is very supportive to JKE because they are similar.
 
-NEptha and JKE both are aware that they aren't actually siblings.
-
+NAEpthalene and JKE both are aware that they aren't actually siblings.
 ### [Wheamy](Wheamy.md)
-Wheamy finds NEptha more pleasant in comparrison to [others](VXU.md#DeltaCXG). He is still not happy with him.
+Wheamy finds NAEpthalene more pleasant in comparison to [others](VXU.md#DeltaCXG). He is still not happy with him cus sexism? Bro what? To him thats just a low.
 
-Sexism? Bro what? To him thats just a low.
-
-#airconditioner 
+#airconditioner #etherean #triplex

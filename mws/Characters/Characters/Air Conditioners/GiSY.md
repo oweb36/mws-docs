@@ -47,5 +47,11 @@ They are good friends. MHeLy and GiSY's caring nature pairs them together. They 
 
 They are very happy together. They aren't a couple though. MHeLy is not a lesbian or LGBTQ in nature alright?
 
+### [AngelSaph](AngelSaph.md)
+
+AngelSaph and GiSY are life partners. Not romantic partners, nor sexual partners.
+
+They always are there for each other when they need them. You know GiSY is there when AngelSaph really needs her, and vice-versa. They are similar, but `delta modus operandi`.
+
 
 #airconditioner 
