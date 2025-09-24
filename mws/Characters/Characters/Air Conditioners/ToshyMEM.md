@@ -2,7 +2,7 @@
 dob: 2015-06-07
 Gender-Identity: Female
 ---
-ToshyMEM is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]]. She originally appeared in [[AACOS]].
+ToshyMEM is a [character](Characters.md) as a contestant on the [Megarchive Warehouse Show](../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md). She originally appeared in [AACOS](../../../Megarchive%20Warehouse%20Show/AACOS.md).
 
 
 ## Identity

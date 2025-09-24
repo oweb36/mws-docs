@@ -38,7 +38,7 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] Give JHR or [AEX](AEX.md) a cousin. AEX/JHR's cousin is the IVT version of JHR (superior and inferior at the same time).
+- [x] Give [JHR](../../Characters/Characters/Air%20Conditioners/AEX.md) a cousin. AEX/JHR's cousin is the IVT version of JHR (superior and inferior at the same time).
 
 
 ## Todo
@@ -47,7 +47,7 @@ kanban-plugin: board
 
 ## Current
 
-- [ ] Sort [air conditioners](Air%20Conditioners.md) into different types, and other bits. Use properties
+- [x] Give [them](../../Characters/Characters/Air%20Conditioners/Air%20Conditioners.md) into different types, and other bits. Use properties
 	
 	And also make groups, alliance, cliques and all that crap.
 - [ ] Rewrite personalities while staying consistent.
@@ -63,19 +63,19 @@ kanban-plugin: board
 ## Done
 
 **Complete**
-- [x] - Sharp AY-XPC18LR (M, Italian, 2010) -> [XYLR](XYLR.md) -> 2010s Gen-Z kid who enjoys EDM. ✅ 2025-09-21
-	- Sharp AY-XP09GHR (F, French, 2006) -> [GHR](GHR.md) - Fashion
-	- Sharp AY-XP18ZHU (M, Canadian-French, 2024) -> [ZHU](ZHU.md)
-	- Sharp AY-ZP40PR (M, Finnish, 2012) -> [ZiP](ZiP.md)
+- [x] - Sharp AY-XPC18LR (M, Italian, 2010) -> [XYLR](../../Characters/Bench/Air%20Conditioners/XYLR.md) -> 2010s Gen-Z kid who enjoys EDM. ✅ 2025-09-21
+	- Sharp AY-XP09GHR (F, French, 2006) -> [GHR](../../Characters/Characters/Air%20Conditioners/GHR.md) - Fashion
+	- Sharp AY-XP18ZHU (M, Canadian-French, 2024) -> [ZHU](../../Characters/Bench/Air%20Conditioners/ZHU.md)
+	- Sharp AY-ZP40PR (M, Finnish, 2012) -> [ZiP](../../Characters/Characters/Air%20Conditioners/ZiP.md)
 - [x] LG AS-H246TKA2 (F24AHJ) from July 6, 2005. [TKA](TKA.md) my boi! ✅ 2025-09-21
-- [x] [REU](REU.md) personality time. ✅ 2025-09-21
+- [x] [REU](../../Characters/Bench/Washing%20Machines/REU.md) personality time. ✅ 2025-09-21
 
 
 ## Done2
 
 **Complete**
-- [x] Give [Termyice](Termyice.md) and [LCN](LCN.md) life as the first LG people. ✅ 2025-09-21
-- [x] Awux -> Awu-See ✅ 2025-09-21
+- [x]  [Termyice](../../Characters/Characters/Air%20Conditioners/Termyice.md) and [LCN](../../Characters/Characters/Air%20Conditioners/LCN.md) life as the first LG people. ✅ 2025-09-21
+- [x] Awux -> Awu-See ✅ 2025-09-24
 	
 	Fujitsu AWU18CXQ. Female.
 - [x] NEptha ✅ 2025-09-21
@@ -87,7 +87,7 @@ kanban-plugin: board
 ## Done3
 
 **Complete**
-- [x] Give [JHR](AEX.md#JHR) siblings and cousins. Then assimilate JHR into a person-lith kinda like [VXU](VXU.md) with his siblings as he and his siblings are capable of multi-split unit operation. ✅ 2025-09-21
+- [AEX](../../Characters/Characters/Air%20Conditioners/AEX.md#JHR) siblings and cousins. Then assimilate JHR into a person-lith kinda like [VXU](../../Characters/Characters/Air%20Conditioners/VXU.md) with his siblings as he and his siblings are capable of multi-split unit operation. ✅ 2025-09-21
 	
 	His siblings are a Sharp AE-XM30GR, AY-XPC7JR and AY-XPM18HR. 
 	
@@ -123,17 +123,17 @@ kanban-plugin: board
 - [ ] ToshyMEF
 	
 	Toshiba MMF-AP0151H. Female.
-	Older version of [ToshyFEN](ToshyFEN.md), possibly siblings? ~ November 21, 2024 10:54:46 PM
+	Older version of [ToshyFEN](../../Characters/Characters/Air%20Conditioners/ToshyFEN.md), possibly siblings? ~ November 21, 2024 10:54:46 PM
 - [ ] Add a new smug character named Avxy, which is a Sharp AIOT air conditioner. He is a smug little shit, a cocky little shit. ~ November 21, 2024 10:54:46 PM
 - [ ] Xeo, female (she/her).
 	
-	Panasonic CS-XE21MKEW from 2010. Superior version of [JKE](JKE.md).
+	Panasonic CS-XE21MKEW from 2010. Superior version of [JKE](../../Characters/Characters/Air%20Conditioners/JKE.md).
 	
 	The catty, bitchy and passive aggressive kind. She doesn't harm physically (mostly), but is quite hostile. 
 	
 	Her physicall attacks mostly goes as catfighting. She might get a (potentially brutal) physical beatdown from others though, as she won't fight back. Coward.
 	
-	She is also quite angry as a person, its rare to see her in a good mood. Unlike the others such as [Aurl](Aurl.md) and [ToshyFEN](ToshyFEN.md), she is never calm, she is always angery. She has unresolved anger issues.
+	She is also quite angry as a person, its rare to see her in a good mood. Unlike the others such as [Aurl](../../Characters/Characters/Air%20Conditioners/Aurl.md) and [ToshyFEN](../../Characters/Characters/Air%20Conditioners/ToshyFEN.md), she is never calm, she is always angery. She has unresolved anger issues.
 	
 	Xeo is indeed the ratfucker bitch. She is not a good person definitely. ~ November 21, 2024 10:54:46 PM
 - [ ] Add Angelsaph, a Gree Saphire air conditioner. He has a golden-white shiny halo made of solid gold-titanium-platinum-aluminium alloy. This halo is part of his body and can act as a protection. It can regenerate slowly if its damaged.

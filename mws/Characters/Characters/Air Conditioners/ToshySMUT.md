@@ -2,7 +2,7 @@
 dob: 2013-01-24
 Gender-Identity: Demiboy
 ---
-ToshySMUT is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]].
+ToshySMUT is a [character](Characters.md) as a contestant on the [Megarchive Warehouse Show](../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md). He originally appeared in [AACOS](../../../Megarchive%20Warehouse%20Show/AACOS.md).
 
 ## Identity
 

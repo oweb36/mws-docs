@@ -2,4 +2,4 @@ AACOS is an Object Show all about Air Conditioners, Heat Pumps and their compani
 
 AACOS stands for AACOS Air Conditioner Object Show. Its a recursive acronym cus its fun.
 
-The characters present in AACOS are [air conditioners](Air%20Conditioners.md).
+The characters present in AACOS are [air conditioners](../Characters/Characters/Air%20Conditioners/Air%20Conditioners.md).

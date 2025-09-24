@@ -2,7 +2,7 @@
 dob: 2009-09-11
 Gender-Identity: Male
 ---
-KaHLium is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]].
+KaHLium is a [character](Characters.md) as a contestant on the [Megarchive Warehouse Show](../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md). He originally appeared in [AACOS](../../../Megarchive%20Warehouse%20Show/AACOS.md).
 
 ## Identity
 

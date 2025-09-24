@@ -6,7 +6,7 @@ aliases:
 dob: 2010-11-21
 Gender-Identity: Male
 ---
-NAEpthalene is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]].
+NAEpthalene is a [character](Characters.md) as a contestant on the [Megarchive Warehouse Show](../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md).
 
 ## Identity
 

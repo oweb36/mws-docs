@@ -1,4 +1,4 @@
-Metatheatrics is an ability in [MWS](Megarchive%20Warehouse%20Show.md). Its an ability to be aware of the show itself. Metatheatrics gives wielders the ability to be aware of their existence, their nature and the show where they exists. 
+Metatheatrics is an ability in [MWS](../Megarchive%20Warehouse%20Show.md). Its an ability to be aware of the show itself. Metatheatrics gives wielders the ability to be aware of their existence, their nature and the show where they exists. 
 
 Whoever has the power is also aware of the 4th wall, the camera, and the audience due to their metatheatrical abilities. This means they can break the 4th wall. People though get confused when they see the wielders of metatheatrics talking to *"nobody"* (that *"nobody"* is the camera and audience).
 

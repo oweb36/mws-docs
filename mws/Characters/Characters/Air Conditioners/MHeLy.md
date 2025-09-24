@@ -2,7 +2,7 @@
 dob: 2012-09-19
 Gender-Identity: Female
 ---
-MHeLy is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]]. She originally appeared in [[AACOS]].
+MHeLy is a [character](Characters.md) as a contestant on the [Megarchive Warehouse Show](../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md). She originally appeared in [AACOS](../../../Megarchive%20Warehouse%20Show/AACOS.md).
 ## Identity
 
 MHeLy is a wall-mounted Sharp AY-A9MHL [air conditioner](Air%20Conditioners.md). MHeLy is the 5th generation in the Sharp Sayonara Panas series, AKA she is the **Sayonara Panas V/Sayonara Panas 5** air conditioner. Her name is pronounced as M-H-Elly. You can write her name as MHLy (That's the original, but somehow it got lost), but she would prefer if you write her name as MHeLy.
@@ -42,7 +42,7 @@ MHeLy is a close friend to [JHR](AEX.md#JHR), and vice versa. MHeLy has known JH
 ## [KaHLium](KaHLium.md)
 MHeLy is KaHLium's younger sister. KaHLium loves her and is protective of her. MHeLy motivates and makes KaHLium happy when he's down.
 
-### [[GiSY]]
+### [GiSY](GiSY.md)
 They are good friends. MHeLy and GiSY's caring nature pairs them together. They would work together to not only care, but make the world a better place for everyone.
 
 They are very happy together. They aren't a couple though. MHeLy is not a lesbian or LGBTQ in nature alright?

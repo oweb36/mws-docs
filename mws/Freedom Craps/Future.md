@@ -7,7 +7,7 @@ What's This?: This board is for how the characters will be in the future. How th
 
 ## Future Ideas
 
-- [ ] [ToshyFEN](ToshyFEN.md) won't grow taller, but he has extra things.
+- [ ](../Characters/Characters/Air%20Conditioners/ToshyFEN.md) won't grow taller, but he has extra things.
 	
 	Still durable AF.
 	
@@ -26,7 +26,7 @@ What's This?: This board is for how the characters will be in the future. How th
 	Also despite him being way more chill, he is way more sociable. He will talk more than his younger self and he can do crap you know. He now can trash talk others and roast them, but he is nice when sociable and everything is right.
 	
 	Also ToshyFEN as a whole would gain another side. Stealth Assassin side. He can assassinate others if needed. Way more competent.
-- [ ] [Aufs](Aufs.md) is more normal.
+- [ ](../Characters/Characters/Air%20Conditioners/Aufs.md) is more normal.
 	
 	Aufs is more normal. He is less weird than before, but he is more stalking than before. Aufs also opens up even more.
 	
@@ -49,7 +49,7 @@ What's This?: This board is for how the characters will be in the future. How th
 
 ## Future Ideas 2
 
-- [ ] [MHeLy](MHeLy.md) would have a massive overhaul in identity and appearance, probably. She got a **GLOW UP**!
+- [ ](../Characters/Characters/Air%20Conditioners/MHeLy.md) would have a massive overhaul in identity and appearance, probably. She got a **GLOW UP**!
 	
 	## Appearance and physiology
 	She is way taller than currently. Way taller.
@@ -70,16 +70,16 @@ What's This?: This board is for how the characters will be in the future. How th
 	
 	Let me add that MHeLy also has scars. They are in the form of cracks and scars. Their appearance detailed in the body section. Its permanent. 
 	
-	[DeltaCXG](VXU.md#DeltaCXG) was the one who broke MHeLy's ankle. DeltaCXG broke her right ankle by stepping her ankle at just the right angle, and he did it with so much force it not only sprained MHeLy's ankle, but also broke the bones.
+	[](../Characters/Characters/Air%20Conditioners/VXU.md#DeltaCXG) was the one who broke MHeLy's ankle. DeltaCXG broke her right ankle by stepping her ankle at just the right angle, and he did it with so much force it not only sprained MHeLy's ankle, but also broke the bones.
 	
 	DeltaCXG was not the one to break MHeLy's wrist btw. It was MHeLy's fault for being goofy and clumsy that one moment. She is not that clumsy normally, but let's say she fell off some stairs. Also this happened after DeltaCXG broke her ankle lmfao.
 	
 	DeltaCXG is not responsible for the cracks and scars of MHeLY. MheLy herself doesn't even know how she even got them.
 	
-	With this, [GiSY](GiSY.md) will be taking her place ig.
+	With this, [GiSY](../Characters/Characters/Air%20Conditioners/GiSY.md) will be taking her place ig.
 	
 	### Body
-	With the help of [AngelSaph](AngelSaph.md), MHeLy also have part of flesh in her body. She is also now part flesh and part body. She now has true free-will, and will need to eat and drink. She now understands AngelSaph.
+	With the help of [AngelSaph](../Characters/Characters/Air%20Conditioners/AngelSaph.md), MHeLy also have part of flesh in her body. She is also now part flesh and part body. She now has true free-will, and will need to eat and drink. She now understands AngelSaph.
 	
 	With this new fleshiness, MHeLy can truly regenerate. It doesn't help with her destroyed bones and ligaments at her right ankle and wrist, as they were destroyed before she became this flesh-electronic cyborg being.
 	
@@ -92,7 +92,7 @@ What's This?: This board is for how the characters will be in the future. How th
 	She is still nice and kind, but not that nice as before. Life has shown to be futile to her. 
 	
 	DeltaCXG was the one who opened her eyes to the world's futility. DeltaCXG had hurt her many times and now she sees that the world needs help. She is way less nice so she can do the duty of helping the world a better place. And yes, DeltaCXG basically betrayed her at some point.
-- [ ] [Xeo](Xeo.md) would be taller, and be damaged (cracks and slight inward bent as scars, she is still ok though dw about her as she still works). 
+- [ ](../Characters/Characters/Air%20Conditioners/Xeo.md) would be taller, and be damaged (cracks and slight inward bent as scars, she is still ok though dw about her as she still works). 
 	
 	## Personality
 	She would have controlled some of her anger issues, but she still has some of the anger issues left (Its her now). Xeo is still the angriest person, but she would have mellowed out a bit.
@@ -104,7 +104,7 @@ What's This?: This board is for how the characters will be in the future. How th
 
 ## Future Ideas 3
 
-- [ ] [AngelSaph](AngelSaph.md) is now fully grown and tall. 
+- [ ](../Characters/Characters/Air%20Conditioners/AngelSaph.md) is now fully grown and tall. 
 	
 	## Angelity
 	He now also has a ring that floats with him, that allows him to see from the back. It has eyes at the back. This ring is made of the same material as his halo.
@@ -124,9 +124,9 @@ What's This?: This board is for how the characters will be in the future. How th
 	He would become more mature, and way tougher mentally. He would still be empathetic to others and still depressed.
 	
 	This means that you can't no longer easily bully his mental state into deterioration. He is now fully mature and can take a beating.
-- [ ] [GiSY](GiSY.md) would become taller. She would also become a partial angel like [AngelSaph](AngelSaph.md). Like AngelSaph, she would later also have some of her body partially become flesh the AngelSaph way. So she would later become an enchanced cyborg being. She would be biologically female in this case.
+- [ ](../Characters/Characters/Air%20Conditioners/GiSY.md) would become taller. She would also become a partial angel like [AngelSaph](../Characters/Characters/Air%20Conditioners/AngelSaph.md). Like AngelSaph, she would later also have some of her body partially become flesh the AngelSaph way. So she would later become an enchanced cyborg being. She would be biologically female in this case.
 	
-	Her halo would behave like AngelSaph, except the emotional indications because she is more noticable about her mental and emotional health unlike AngelSaph. Her halo is unique though, as its made of 18K rose gold, giving her halo a unique look. Her halo also looks like a lower-grade-quality version of [AngelSaph](AngelSaph.md)'s halo. Its as if her halo has been broken and then someone poorly rewelded bits of her halo again.
+	Her halo would behave like AngelSaph, except the emotional indications because she is more noticable about her mental and emotional health unlike AngelSaph. Her halo is unique though, as its made of 18K rose gold, giving her halo a unique look. Her halo also looks like a lower-grade-quality version of [AngelSaph](../Characters/Characters/Air%20Conditioners/AngelSaph.md)'s halo. Its as if her halo has been broken and then someone poorly rewelded bits of her halo again.
 	
 	GiSY and AngelSaph serves different purposes niches, but they can and do work together to do more.
 

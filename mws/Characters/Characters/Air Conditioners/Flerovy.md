@@ -2,7 +2,7 @@
 dob: 2008-04-10
 Gender-Identity: Male
 ---
-Flerovy is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]].
+Flerovy is a [character](Characters.md) as a contestant on the [Megarchive Warehouse Show](../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md).
 
 ## Identity
 

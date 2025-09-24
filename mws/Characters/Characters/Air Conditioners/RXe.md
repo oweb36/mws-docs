@@ -2,7 +2,7 @@
 dob: 2007-08-15
 Gender-Identity: Female
 ---
-RXe is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]]. She originally appeared in [[AACOS]].
+RXe is a [character](Characters.md) as a contestant on the [Megarchive Warehouse Show](../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md). She originally appeared in [AACOS](../../../Megarchive%20Warehouse%20Show/AACOS.md).
 
 ## Identity
 
@@ -35,7 +35,7 @@ MHeLy is one of the people RXe is genuinely kind to. MHeLy has been supporting R
 
 They are couples. They are very close to each other. JVXH is one of the people she's actually genuinely kind to, as they are lesbian couples.
 
-### [[VXU]]
+### [VXU](VXU.md)
 
 RXe has a complicated relationship with VXU as they are 3 people in one. She likes [MXU](VXU.md#MXU), as he is chill. He has done nothign wrong to RXe, and neither does she.
 

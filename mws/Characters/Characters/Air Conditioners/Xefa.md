@@ -2,7 +2,7 @@
 dob: 2006-07-16
 Gender-Identity: Female
 ---
-Xefa is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]].
+Xefa is a [character](Characters.md) as a contestant on the [Megarchive Warehouse Show](../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md).
 
 ## Identity
 

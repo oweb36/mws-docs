@@ -2,7 +2,7 @@
 dob: 2018-03-14
 Gender-Identity: Male
 ---
-ASTAC is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]].
+ASTAC is a [character](Characters.md) as a contestant on the [Megarchive Warehouse Show](../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md).
 
 ## Identity
 Avxy is a Sharp AH-XP10VXY [air conditioner](Air%20Conditioners.md). His name is pronounced as:

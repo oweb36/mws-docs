@@ -3,7 +3,7 @@ aliases:
   - air conditioner
   - heat pump
 ---
-These [character](Characters.md) are a class of species in the [[Megarchive Warehouse Show]]. 
+These [character](Characters.md) are a class of species in the [Megarchive Warehouse Show](../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md). 
 
 The Air Conditioners encompasses Air Conditioners, Heat Pumps and their accessories such as their controllers and outdoor units. Well, the last in the bunch of those objects are technically incorrect, but eh. So Air Conditioners are just megaclasses.
 

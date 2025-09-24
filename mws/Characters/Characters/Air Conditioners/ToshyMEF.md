@@ -2,7 +2,7 @@
 dob: 2005-04-06
 Gender-Identity: Female
 ---
-ToshyMEF is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]].
+ToshyMEF is a [character](Characters.md) as a contestant on the [Megarchive Warehouse Show](../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md).
 ## Identity
 She is a Toshiba MMF-AP0151H floor standing [heat pump](Air%20Conditioners.md). Her name is pronounced as Toh-She-Mef.
 

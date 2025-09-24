@@ -16,3 +16,5 @@ The show that it encompasses is:
 The name Megarchive in both MWS and my megarchive manual collections is a portmanteau of *Mega* and *Archive*.
 
 MWS is not family friendly, neither it aims to.
+
+> UPDATE ig kinda: MWS is literally AACOS, but slightly more Diverse lol.

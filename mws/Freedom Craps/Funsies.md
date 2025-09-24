@@ -1,6 +1,6 @@
-Fun things to do like imagining what if situations! Its a hub for [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show.md) what-if situations.
+Fun things to do like imagining what if situations! Its a hub for [Megarchive Warehouse Show](../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md) what-if situations.
 
-## [ToshyFEN](ToshyFEN.md)
+## [ToshyFEN](../Characters/Characters/Air%20Conditioners/ToshyFEN.md)
 
 He's not mentally ok, so its fun to see what happens!
 

@@ -2,7 +2,7 @@
 dob: 2018-07-07
 Gender-Identity: Bigender
 ---
-Vista is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]].
+Vista is a [character](Characters.md) as a contestant on the [Megarchive Warehouse Show](../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md).
 
 ## Identity
 Vista is a Daikin FFQ18Q2VJU 4-way-flow compact cassette [heat pump](Air%20Conditioners.md). Vista's name is pronounced as Vista. Her name is derived from her series' name, which is Vista instead of her model.

@@ -2,7 +2,7 @@
 dob: 2003-02-10
 Gender-Identity: Female
 ---
-Awux is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]].
+Awux is a [character](Characters.md) as a contestant on the [Megarchive Warehouse Show](../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md).
 
 ## Identity
 

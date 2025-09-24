@@ -2,7 +2,7 @@
 dob: 2013-08-27
 Gender-Identity: Male
 ---
-Aurl is a [character](Characters.md) as a contestant on the [[Megarchive Warehouse Show]]. He originally appeared in [[AACOS]].
+Aurl is a [character](Characters.md) as a contestant on the [Megarchive Warehouse Show](../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md). He originally appeared in [AACOS](../../../Megarchive%20Warehouse%20Show/AACOS.md).
 
 ## Identity
 
@@ -16,7 +16,7 @@ Aurl is not the most intelligent in [MWS](Megarchive%20Warehouse%20Show.md).
 ## Personality
 TLDR: Chill, unfazed and unbothered. Intel-gathering observer, questioning people's browsing history at times (slightly dissapointed in some of them). Uses intel for cunning plans. Outsmarter. Temper volatile, and can get nasty. Prone to school shooting. Darkness lays within him in the form of sadism, unleashed during temper outbreaks.
 
-He is both positive and negative. He is normally calm, but no one can beat the chillness of [[WELLPan]].
+He is both positive and negative. He is normally calm, but no one can beat the chillness of [WELLPan](WELLPan.md).
 
 He normally is unfazed and unbothered, or that is what he looks like on the surface. He is quite observant on his surrounding, allowing him to gather intel on others, and their browsing history. He is slightly disappointed with what some of them had looked up, but its not that major nasty.
 
