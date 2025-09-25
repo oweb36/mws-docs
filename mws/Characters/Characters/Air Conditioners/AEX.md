@@ -6,6 +6,7 @@ aliases:
   - PCR
 dob: 2010-04-12
 Gender-Identity: Collective
+Sexual-Identity: Collective
 ---
 # AEX
 

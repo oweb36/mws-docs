@@ -1,6 +1,7 @@
 ---
 dob: 2017-08-16
 Gender-Identity: Genderfluid
+Sexual-Identity: Pansexual
 ---
 # ZeNer
 

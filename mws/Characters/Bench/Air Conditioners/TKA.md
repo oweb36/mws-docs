@@ -1,5 +1,7 @@
 ---
 dob: 2005-10-26
+Gender-Identity: Male
+Sexual-Identity: Heterosexual
 ---
 # TKA
 

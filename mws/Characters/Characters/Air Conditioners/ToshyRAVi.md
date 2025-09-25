@@ -1,6 +1,7 @@
 ---
 dob: 2021-04-25
 Gender-Identity: Female
+Sexual-Identity: Heterosexual
 ---
 # ToshyRAVi
 
@@ -10,7 +11,7 @@ ToshyRAVi is a [character](Characters.md) as a contestant on the [Megarchive War
 
 She is a Toshiba RAV-GM301KRTP-A wall-mounted [heat pump](../../Species/Air%20Conditioners.md). Her name is pronounced as Toh-she-Rav-ee, where the Rav-ee is pronounced like the Ravi in *Ravioli*.
 
-She was born in April 25, 2021. She is a cisgender female (she/her).
+She was born in April 25, 2021. She is a cisgender heterosexual female (she/her).
 
 If skin color matters, ToshRAVi is white.
 

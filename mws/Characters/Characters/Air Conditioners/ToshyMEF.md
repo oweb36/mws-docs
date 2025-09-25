@@ -1,6 +1,7 @@
 ---
 dob: 2005-04-06
 Gender-Identity: Female
+Sexual-Identity: LGTV
 ---
 # ToshyMEF
 

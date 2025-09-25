@@ -1,6 +1,7 @@
 ---
 dob: 2013-08-27
 Gender-Identity: Male
+Sexual-Identity: Heterosexual
 ---
 # Aurl
 

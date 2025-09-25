@@ -5,6 +5,9 @@ aliases-notanymore:
   - Naphthalene
 dob: 2010-11-21
 Gender-Identity: Male
+Sexual-Identity:
+  - Gay
+  - Aroace
 ---
 # NAEphthalene
 
@@ -16,7 +19,7 @@ NAEpthalene is a Panasonic CS-NE9LKE wall-mounted [heat pump](../../Species/Air%
 
 NAEpthalene's name is pronounced as Neptune and Naphthalene. The "NEp" is pronounced as the "Nep" in Neptune, while the "tha" is pronounced as the "tha" in Naphthalene. His name is derived from his model (NE), Naphtha and Naphthalene.
 
-He was born in November 21, 2010. He is a cisgender and an asexual gay male (he/him). (He is gay cus he hates women and likes men, but asexual cus he jackassery)
+He was born in November 21, 2010. He is a cisgender and a gay-oriented aroace male (he/him). (He is gay cus he hates women and likes men, but aroace cus he jackassery). Still, he homosexual.
 If skin color mattered, he white.
 
 [This](../../../_Attachments/PDFFiles/NAEphthalene/NAEphthalene-om.pdf) and [That](../../../_Attachments/PDFFiles/NAEphthalene/NAEphthalene-sm.pdf) is NAEpthalene's reference manual.

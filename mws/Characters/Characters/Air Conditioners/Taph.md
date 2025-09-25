@@ -1,6 +1,7 @@
 ---
 dob: 2003-11-09
 Gender-Identity: Non-Binary
+Sexual-Identity: Asexual
 ---
 # Taph
 

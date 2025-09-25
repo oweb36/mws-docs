@@ -1,5 +1,7 @@
 ---
 dob: 2012-03-04
+Gender-Identity: Male
+Sexual-Identity: Gay
 ---
 # ZiP
 

@@ -1,6 +1,7 @@
 ---
 dob:
 Gender-Identity:
+Sexual-Identity:
 ---
 # {{title}}
 

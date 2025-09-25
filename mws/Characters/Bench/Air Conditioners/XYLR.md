@@ -1,5 +1,7 @@
 ---
 dob: 2010-01-08
+Gender-Identity: Male
+Sexual-Identity: Heterosexual
 ---
 # XYLR
 

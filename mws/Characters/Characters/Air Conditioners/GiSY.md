@@ -1,6 +1,7 @@
 ---
 dob: 2008-05-10
 Gender-Identity: Demigirl
+Sexual-Identity: Pansexual
 ---
 # GiSY
 

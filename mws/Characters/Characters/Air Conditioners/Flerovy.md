@@ -1,6 +1,7 @@
 ---
 dob: 2008-04-10
 Gender-Identity: Male
+Sexual-Identity: Heterosexual
 ---
 # Flerovy
 

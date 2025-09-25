@@ -1,6 +1,7 @@
 ---
 dob: 2005-06-06
 Gender-Identity: Genderfluid
+Sexual-Identity: Pansexual
 ---
 # Raiie
 

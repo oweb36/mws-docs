@@ -1,6 +1,7 @@
 ---
 dob: 2006-07-16
 Gender-Identity: Female
+Sexual-Identity: Lesbian
 ---
 # Xefa
 

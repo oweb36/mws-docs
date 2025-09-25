@@ -1,6 +1,7 @@
 ---
 dob: 2009-07-09
 Gender-Identity: Female
+Sexual-Identity: Lesbian
 ---
 # JVXH
 

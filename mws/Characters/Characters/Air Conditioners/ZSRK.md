@@ -1,6 +1,7 @@
 ---
 dob: 2017-09-14
 Gender-Identity: Male
+Sexual-Identity: Heterosexual
 ---
 # ZSRK
 

@@ -1,6 +1,7 @@
 ---
 dob: 2011-11-10
 Gender-Identity: Female
+Sexual-Identity: Heterosexual
 ---
 # Termyice
 

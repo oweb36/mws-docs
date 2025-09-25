@@ -1,6 +1,9 @@
 ---
 dob: 2002-09-09
 Gender-Identity: Bigender Genderfluix WTF
+Sexual-Identity:
+  - Toric
+  - Asexual
 ---
 # Aufs
 

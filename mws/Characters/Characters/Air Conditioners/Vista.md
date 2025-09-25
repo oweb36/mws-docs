@@ -1,6 +1,7 @@
 ---
 dob: 2018-07-07
 Gender-Identity: Bigender
+Sexual-Identity: Asexual
 ---
 # Vista
 

@@ -1,5 +1,7 @@
 ---
 dob: 2013-08-18
+Gender-Identity: Female
+Sexual-Identity: Heterosexual
 ---
 # CeRNY
 

@@ -1,6 +1,7 @@
 ---
 dob: 2010-10-10
 Gender-Identity: Female
+Sexual-Identity: Bisexual
 ---
 # Xeo
 

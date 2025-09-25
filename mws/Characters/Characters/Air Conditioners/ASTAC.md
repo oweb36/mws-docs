@@ -1,6 +1,7 @@
 ---
 dob: 2006-02-28
 Gender-Identity: Male
+Sexual-Identity: Heterosexual
 ---
 # ASTAC
 

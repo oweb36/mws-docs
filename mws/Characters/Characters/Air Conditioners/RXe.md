@@ -1,6 +1,7 @@
 ---
 dob: 2007-08-15
 Gender-Identity: Female
+Sexual-Identity: Lesbian
 ---
 # RXe
 

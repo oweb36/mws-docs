@@ -1,6 +1,9 @@
 ---
 dob: 2010-06-14
 Gender-Identity: Male
+Sexual-Identity:
+  - Heterosexual
+  - Aroace
 ---
 # JKE
 
@@ -12,7 +15,7 @@ He is a Panasonic wall-mounted CS-CE12JKE-1 [heat pump](../../Species/Air%20Cond
 
 He is ([mostly](NAEphthalene.md)) unique from other Panasonics in that his power lamp also acts as a deice lamp. He would go to deice mode when the area he is currently in is too cold. His power/deice lamp is normally green (not deice), but blue in deicing mode.
 
-He was born in June 14, 2010. He is a cisgender and heterosexual male.
+He was born in June 14, 2010. He is a cisgender and a heterosexual-oriented aroace male.
 
 If skin color matters, JKE is gray.
 

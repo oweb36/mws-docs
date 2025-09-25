@@ -1,6 +1,7 @@
 ---
 dob: 2003-07-22
 Gender-Identity: Male
+Sexual-Identity: Heterosexual
 ---
 # CKHSC
 
@@ -10,7 +11,7 @@ CKHSC is a [character](Characters.md) as a contestant on the [Megarchive Warehou
 
 He is a wall-mounted Panasonic CS-C24CKH-7 [air conditioner](../../Species/Air%20Conditioners.md). His name is pronounced as Check-See.
 
-He was born in July 22, 2003. He is a cisgender and heterosexual male (he/him) because he is too old to be bothered with LGBTQ.  
+He was born in July 22, 2003. He is a cisgender and heterosexual male (he/him) because he is too old (for him) to be bothered with LGBTQ.  
 If skin color matters, CKHSC is white.
 
 ## Personality

@@ -6,6 +6,7 @@ aliases:
   - RBC-AMSUS
   - AMSUS
 Gender-Identity: Male
+Sexual-Identity: Heterosexual
 ---
 # ToshyFEN
 
