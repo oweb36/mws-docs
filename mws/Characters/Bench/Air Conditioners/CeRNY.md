@@ -12,7 +12,9 @@ CeRNY is a Midea floor-standing MFGA-55ARFN1 [heat pump](../../Species/Air%20Con
 
 CeRNY was born in August 18, 2013. She is a cisgender and heterosexual female.
 
-Btw CeRNY is also known for using Mascara. And oh, also very awesome and cool fact: She can skate and play games. Also CeRNY is canonically someone with Level-1 [ASD](void:Autism-Spectrum-Disorder)
+Btw CeRNY is also known for using Mascara. And oh, also very awesome and cool fact: She can skate and play games. Also CeRNY is canonically someone with Level-1 [ASD](void:Autism-Spectrum-Disorder).
+
+[This](CeRNY_om.pdf) and [THat](CeRNY_sm.pdf) too.
 
 ## Personality
 
@@ -73,4 +75,4 @@ So CeRNY still may be nice, but **BEWARE** for you still can piss off and anger 
 
 ## Relations
 
-#airconditioner #TODO 
+#airconditioner 
