@@ -7,8 +7,8 @@ import markdownItObsidian from "markdown-it-obsidian";
 let markdownItOptions = {
   html: true,
   replaceLink: function (link, env) {
-    // Convert links such as `./blah.md` to `.././blah/`.
-    return link.replace(/^\./, '../.').replace(/.md$/, '/');
+    // Convert links such as `./blah.md` to `.././blah`.
+    return link.replace(/^\./, '../.').replace(/.md$/, '');
   }
 };
 
