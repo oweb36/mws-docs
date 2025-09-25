@@ -19,7 +19,7 @@ NAEpthalene's name is pronounced as Neptune and Naphthalene. The "NEp" is pronou
 He was born in November 21, 2010. He is a cisgender and an asexual gay male (he/him). (He is gay cus he hates women and likes men, but asexual cus he jackassery)
 If skin color mattered, he white.
 
-[This](panasonic-amber-gemstone-ironoxide-deice-2010_cs-ne9lke.pdf) is NAEpthalene's reference manual.
+[This](../../../_Attachments/PDFFiles/NAEphthalene/NAEphthalene-om.pdf) and [That](../../../_Attachments/PDFFiles/NAEphthalene/NAEphthalene-sm.pdf) is NAEpthalene's reference manual.
 
 ### Name
 
@@ -30,7 +30,7 @@ Since NAEpthalene has a long name, here are several shortened/alternate/nick nam
 - Naphthalene (Even less preferred, neither is he naphthalene)
 - NEpthalene (Inconsistent-ass)
 - NAmptha (NAmptha his-ass)
-> Also spelling is inconsistent
+> Also spelling is inconsistent. Its very difficult to write and spell lol.
 
 ## Personality
 
