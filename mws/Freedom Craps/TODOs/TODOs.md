@@ -38,7 +38,6 @@ kanban-plugin: board
 
 ## Backlog
 
-- [x] Give [JHR](../../Characters/Characters/Air%20Conditioners/AEX.md) a cousin. AEX/JHR's cousin is the IVT version of JHR (superior and inferior at the same time).
 
 
 ## Todo
@@ -47,12 +46,13 @@ kanban-plugin: board
 
 ## Current
 
-- [x] Give [them](../../Characters/Species/Air%20Conditioners.md) into different types, and other bits. Use properties
+- [ ] Give [them](../../Characters/Species/Air%20Conditioners.md) into different types, and other bits. Use properties
 	
 	And also make groups, alliance, cliques and all that crap.
 - [ ] Rewrite personalities while staying consistent.
 	
 	Rewrite by studying them, breaking them apart into traits and rewrite them.
+- [ ] Break Multi-Personality peeps into a folder with the collective and individual people/entities.
 
 
 ## Always Current
@@ -89,6 +89,9 @@ kanban-plugin: board
 ## Done3
 
 **Complete**
+- [x] Give [JHR](../../Characters/Characters/Air%20Conditioners/AEX.md) a cousin. AEX/JHR's cousin is the IVT version of JHR (superior and inferior at the same time).
+	
+	[Ivy](../../Characters/Bench/Air%20Conditioners/Ivy.md)
 - [ ] [AEX](../../Characters/Characters/Air%20Conditioners/AEX.md#JHR) siblings and cousins. Then assimilate JHR into a person-lith kinda like [VXU](../../Characters/Characters/Air%20Conditioners/VXU.md) with his siblings as he and his siblings are capable of multi-split unit operation. ✅ 2025-09-21
 	
 	His siblings are a Sharp AE-XM30GR, AY-XPC7JR and AY-XPM18HR. 
