@@ -2,6 +2,7 @@
 
 These R their ages.
 
+> Only viewable in Obsidian
 
 ```dataview
 TABLE 
