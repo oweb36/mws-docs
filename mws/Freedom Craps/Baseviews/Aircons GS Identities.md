@@ -9,8 +9,8 @@ Some are complex, but here are their gender and sexual identities ig.
 
 ```dataview
 TABLE 
-gender-identity as "Gender Identity",
-sexual-identity as "Sexual Identity"
+Gender-Identity as "Gender Identity",
+Sexual-Identity as "Sexual Identity"
 FROM #airconditioner 
 sort (gender-identity = NULL) ASC, (sexual-identity = null) ASC, file.name ASC
 ```
