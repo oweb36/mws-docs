@@ -9,7 +9,7 @@ Awu is a [character](Characters.md) as a contestant on the [Megarchive Warehouse
 
 ## Identity
 
-Awu is a Fujitsu AWU18CXQ [heat pump](../../Species/Air%20Conditioners.md). Her name is pronounced as A-wu, AKA Awu.
+Awu is a Fujitsu AWU24RXQ [heat pump](../../Species/Air%20Conditioners.md). Her name is pronounced as A-wu, AKA Awu.
 
 She was born in February 10, 2003. She is a sapphic cisgender female (she/her). She likes women basically.
 
