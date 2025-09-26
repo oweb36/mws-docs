@@ -8,5 +8,5 @@ Where did they come from?
 TABLE 
 Nationality as "Nationality"
 FROM #airconditioner 
-SORT Nationality ASC
+SORT (Nationality = null) ASC, Nationality ASC, file.name ASC
 ```

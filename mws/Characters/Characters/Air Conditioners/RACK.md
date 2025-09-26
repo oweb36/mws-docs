@@ -2,7 +2,9 @@
 dob: 2003-01-03
 Gender-Identity: Male
 Sexual-Identity: Heterosexual
-Na:
+Nationality:
+  - UK
+  - England
 ---
 # RACK
 
@@ -12,7 +14,7 @@ RACK is a [character](Characters.md) as a contestant on the [Megarchive Warehous
 
 He is a Hitachi RAK-60NH4 wall-mounted [heat pump](../../Species/Air%20Conditioners.md). His name is pronounced as rack, just like rack-mounted servers.
 
-He was born in January 3, 2003. He is a cisgender and heterosexual male.
+He was born in January 3, 2003. He is a cisgender and heterosexual male. English.
 
 He is the elder brother and sibling to [TERAS](TERAS.md) and [Raiie](Raiie.md) respectively.
 

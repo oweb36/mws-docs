@@ -2,6 +2,9 @@
 dob: 2017-08-16
 Gender-Identity: Genderfluid
 Sexual-Identity: Pansexual
+Nationality:
+  - UK
+  - England
 ---
 # ZeNer
 
@@ -11,7 +14,7 @@ ZeNer is a [character](Characters.md) as a contestant on the [Megarchive Warehou
 
 ZeNer is a Daikin FTXZ50NV1B wall-mounted [heat pump](../../Species/Air%20Conditioners.md). His name is pronounced as Zee-Ner, like zener diodes. Zener is the new **Daikin Ururu Sarara**, AKA the **Daikin Ururu Sarara 7 *(US7)***.
 
-He was born in August 16, 2017. He is a genderfluid pansexual, but prefers to be male (he/him) except under certain circumstances aka being mutogender.
+He was born in August 16, 2017. He is a genderfluid pansexual, but prefers to be male (he/him) except under certain circumstances aka being mutogender. Fine english.
 
 He is the younger sibling of [RXe](RXe.md).
 

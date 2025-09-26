@@ -75,7 +75,7 @@ ToshyFEN is quite chill in general, but he can never be as chill as [WELLPan](WE
 
 In a nutshell for the above, FEN is not OK but he is the most capable one while RBC is OK but he is 'disabled' to say the least. With this, ToshyFEN in general has some of the worst mental health state.
 
-RBC is also more intelligent than FEN. This is because RBC is the brain and is more observant. FEN has a below average intelligence. RBC is one of the most intelligent and smartest mind in the [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show.md) along with [JHR](AEX/AEX.md#JHR), [WELLPan](WELLPan.md) and [MHeLy](MHeLy.md). RBC can't really use his intelligence to the full potential because the below-average-intelligence FEN is the dominant mind.
+RBC is also more intelligent than FEN. This is because RBC is the brain and is more observant. FEN has a below average intelligence. RBC is one of the most intelligent and smartest mind in the [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show.md) along with [JHR](AEX/JHR.md), [WELLPan](WELLPan.md) and [MHeLy](MHeLy.md). RBC can't really use his intelligence to the full potential because the below-average-intelligence FEN is the dominant mind.
 
 ToshyFEN can be caring and will step in to protect. He does this if the situation warrants it such as if nobody is willing to or he is literally the only one capable to do so.
 ### FEN

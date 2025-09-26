@@ -2,6 +2,8 @@
 dob: 2006-07-16
 Gender-Identity: Female
 Sexual-Identity: Lesbian
+Nationality:
+  - Australia
 ---
 # Xefa
 
@@ -13,6 +15,8 @@ She's a Panasonic CS-XE12EKE wall-mounted [heat pump](../../Species/Air%20Condit
 
 She was born in July 16, 2006. She is a cisgender and lesbian female (she/her).  
 If skin color mattered, she's white.
+
+Xefa is an Australian, which makes her an Aussie Lesbi.
 
 She wears dental braces because she's the valley girl. Not for *bri'ish* teeth, but for *valley girl* cosmetic reasons. Yes, valley girls wear braces because they are valley girls not nerd girls.
 

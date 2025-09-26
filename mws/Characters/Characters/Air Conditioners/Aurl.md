@@ -2,6 +2,9 @@
 dob: 2013-08-27
 Gender-Identity: Male
 Sexual-Identity: Heterosexual
+Nationality:
+  - United States of America
+  - Texas
 ---
 # Aurl
 
@@ -13,6 +16,8 @@ He is a wall-mounted Fujitsu ASU15RLS2 [heat pump](../../Species/Air%20Condition
 
 Aurl was born in August 27, 2013. He is a cisgender and heterosexual male.  
 If skin color matters, Aurl is white.
+
+An American Texan.
 
 Aurl is not the most intelligent in [MWS](Megarchive%20Warehouse%20Show.md).
 

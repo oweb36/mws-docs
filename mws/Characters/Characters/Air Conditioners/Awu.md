@@ -3,6 +3,7 @@ dob: 2003-02-10
 Gender-Identity: Female
 Sexual-Identity: Sapphic
 Nationality:
+  - Australia
 ---
 # Awu
 
@@ -12,7 +13,9 @@ Awu is a [character](Characters.md) as a contestant on the [Megarchive Warehouse
 
 Awu is a Fujitsu AWU24RXQ [heat pump](../../Species/Air%20Conditioners.md). Her name is pronounced as A-wu, AKA Awu.
 
-She was born in February 10, 2003. She is a sapphic cisgender female (she/her). She likes women basically.
+She was born in February 10, 2003. She is a sapphic cisgender female (she/her). She likes women basically. 
+
+An Aussie.
 
 She is white if skin color matters.
 

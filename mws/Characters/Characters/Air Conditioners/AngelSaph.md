@@ -6,6 +6,7 @@ Sexual-Identity:
   - "null"
 Nationality:
   - United States of America
+  - Minnesota
 ---
 # AngelSaph
 
@@ -23,7 +24,7 @@ AngelSaph also has a halo. Its detailed in the section titled [Halo](#Halo). He 
 
 He has flesh unlike others of MWS. 
 
-And yes, he is an American. No guns though.
+And yes, he is an American. A Minnesotan. No guns though.
 
 ### Body
 
@@ -103,8 +104,8 @@ AngelSaph is also there when GiSY is isolated due to being emotionally damaged b
 ### [Wheamy](Wheamy.md)
 Wheamy protects AngelSaph not only because of his young age, but also due to his emotional and physical vulnerability.
 
-### [AEX](AEX/AEX.md)
-[JHR](AEX/AEX.md#JHR) and AngelSaph are actually ok friends. They spend time together, sometimes. AngelSaph is quite wary of JHR's tendency to be sociopathic.
+### [JHR](AEX/JHR.md)
+[JHR](AEX/JHR.md) and AngelSaph are actually ok friends. They spend time together, sometimes. AngelSaph is quite wary of JHR's tendency to be sociopathic.
 
 ### [Piss](Piss.md)
 AngelSaph does not like the hoarding nature of Piss. He wants and needs food to live, but Piss doesn't understand why. He actually fights Piss just so he can eat.

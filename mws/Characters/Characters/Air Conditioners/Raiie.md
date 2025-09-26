@@ -2,6 +2,9 @@
 dob: 2005-06-06
 Gender-Identity: Genderfluid
 Sexual-Identity: Pansexual
+Nationality:
+  - UK
+  - England
 ---
 # Raiie
 
@@ -13,7 +16,7 @@ He is a Hitachi RAI-25NH5 4-way cassette [heat pump](../../Species/Air%20Conditi
 
 He was born on June 6, 2005. He is a pansexual genderfluid person. Raiie prefers to be male (he/him), but Raiie will change if he has too when the circumstances and situation warrants it (such as male persecution), AKA mutogender.
 
-[TERAS](TERAS.md) is the younger brother of Raiie, while [RACK](RACK.md) is the elder brother to Raii.
+[TERAS](TERAS.md) is the younger brother of Raiie, while [RACK](RACK.md) is the elder brother to Raii. English.
 
 If skin color matters, he is white.
 ## Personality

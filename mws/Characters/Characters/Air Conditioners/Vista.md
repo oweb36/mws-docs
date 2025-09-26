@@ -39,8 +39,8 @@ KaHLium respects Vista for being logical. He knows that Vista is actually smart 
 
 KaHLium has one thing that makes him quite sad at times, but not sad at times. He wishes that he has Vista's wet humor. KaHLium knows that his humor is dry, and on the contrary Vista's humor is wet.
 
-### [AEX](AEX/AEX.md)
-Vista is friends with [JHR](AEX/AEX.md#JHR) because of one thing they have in common: A *TRS-80 Model 100*.
+### [JHR](AEX/JHR.md)
+Vista is friends with [JHR](AEX/JHR.md) because of one thing they have in common: A *TRS-80 Model 100*.
 
 They work together programming that ancient tech. Vista is the one to teach JHR because despite JHR being intelligent and able to use computers, he has no idea how to program.
 

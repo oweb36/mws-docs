@@ -3,6 +3,7 @@ dob: 2003-11-09
 Gender-Identity: Non-Binary
 Sexual-Identity: Asexual
 Nationality:
+  - Hungary
 ---
 # Taph
 
@@ -10,6 +11,8 @@ Taph is a [character](Characters.md) as a contestant on the [Megarchive Warehous
 
 ## Identity
 They are a Samsung APH450PG floor-standing [heat pump](../../Species/Air%20Conditioners.md). Their name is pronounced as Taf/Taph.
+
+Hungarian.
 
 They were born in November 9, 2003. They are an agender non-binary asexual (they/them).
 

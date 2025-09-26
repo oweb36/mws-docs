@@ -4,6 +4,7 @@ Gender-Identity: Female
 Sexual-Identity: Lesbian
 Nationality:
   - United States of America
+  - Rhode Island.
 ---
 # JVXH
 
@@ -15,7 +16,7 @@ She is a wall-mounted Daikin FTXG09HVJU [heat pump](../../Species/Air%20Conditio
 - Jay-Vee-Sih
 - Jay-Vax
 - J-V-X-H
-She's an inferior version of [RXe](RXe.md) in a nutshell. And yes, she is from America.
+She's an inferior version of [RXe](RXe.md) in a nutshell. And yes, she is from America and specifically Rhode Island.
 
 JVXH, being an inferior version to RXe, has the same design. There is just a little difference though. The only difference is with the indicators, where JVXH is missing one lamp (because she's inferior). JVXH after all is part of the Quaternity series, not the Ururu Sarara one!
 

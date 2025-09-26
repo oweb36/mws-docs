@@ -3,6 +3,8 @@ dob: 2006-04-11
 Gender-Identity: Male
 Sexual-Identity: Heterosexual
 Nationality:
+  - UK
+  - England
 ---
 # TERAS
 
@@ -11,7 +13,7 @@ TERAS is a [character](Characters.md) as a contestant on the [Megarchive Warehou
 
 TERAS is a Hitachi RAS-14EH2 wall-mounted [heat pump](../../Species/Air%20Conditioners.md). His name is prounced as Teh-Ras, or *'teras'* in Indonesian.
 
-Teras was born in April 11, 2006. He is a cisgender and heterosexual male (he/him).
+Teras was born in April 11, 2006. He is a cisgender and heterosexual male (he/him). English.
 
 [Raiie](Raiie.md) and [RACK](RACK.md) is the elder sibling to TERAS.
 

@@ -3,6 +3,7 @@ dob: 2013-01-24
 Gender-Identity: Demiboy
 Sexual-Identity: Bisexual
 Nationality:
+  - Australia
 ---
 # ToshySMUT
 
@@ -12,7 +13,7 @@ ToshySMUT is a [character](Characters.md) as a contestant on the [Megarchive War
 
 He is a Toshiba RAV-SM804UTP-E 4-way cassette  [heat pump](../../Species/Air%20Conditioners.md). His name is pronounced as Toh-She-Smut.
 
-He was born in January 24, 2013. He is a bisexual demiboy (he/them).
+He was born in January 24, 2013. He is a bisexual demiboy (he/them). A freaking aussie indeed.
 
 If skin color matters, ToshySMUT is white.
 

@@ -20,9 +20,9 @@ Flerovy was born April 10, 2008. He is a cisgender and heterosexual male.
 
 ## Personality
 
-TLDR: Intelligent and slightly-shy introvert. OCD-afflicted perfectionist, with compulsive actions to perfect anything (even in inappropriate moments). Large knowledge base (not as big as [JHR](AEX/AEX.md#JHR) and others on par with him) Unwilling mentor, rather be chill. Quite affable and friendly if approached at the right way.
+TLDR: Intelligent and slightly-shy introvert. OCD-afflicted perfectionist, with compulsive actions to perfect anything (even in inappropriate moments). Large knowledge base (not as big as [JHR](AEX/JHR.md) and others on par with him) Unwilling mentor, rather be chill. Quite affable and friendly if approached at the right way.
 
-Flerovy is well one of the intelligent fellas here in [MWS](Megarchive%20Warehouse%20Show.md). His knowledge base is quite huge but not as much to his peers (such as [JHR](AEX/AEX.md#JHR), [MHeLy](MHeLy.md) and [WELLPan](WELLPan.md)). He does not want to teach but rather be on his own and do his own things and chilling but people still seek to him whenever those three big people aren't available. Flerovy basically likes to keep his knowledge to himself.
+Flerovy is well one of the intelligent fellas here in [MWS](Megarchive%20Warehouse%20Show.md). His knowledge base is quite huge but not as much to his peers (such as [JHR](AEX/JHR.md), [MHeLy](MHeLy.md) and [WELLPan](WELLPan.md)). He does not want to teach but rather be on his own and do his own things and chilling but people still seek to him whenever those three big people aren't available. Flerovy basically likes to keep his knowledge to himself.
 
 From that, you see that Flerovy is quite introverted. He is also shy, staying away from bold actions on the front scene. He is the *behind-the-scenes* kind of guy. 
 

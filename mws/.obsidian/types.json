@@ -27,6 +27,7 @@
     "Sexual-Identity": "multitext",
     "Name": "multitext",
     "Nationality": "multitext",
-    "Gender-Identity": "multitext"
+    "Gender-Identity": "multitext",
+    "Na": "multitext"
   }
 }

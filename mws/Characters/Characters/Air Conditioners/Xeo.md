@@ -2,6 +2,10 @@
 dob: 2010-10-10
 Gender-Identity: Female
 Sexual-Identity: Bisexual
+Nationality:
+  - UK
+  - Wales
+  - Scotland
 ---
 # Xeo
 
@@ -10,6 +14,8 @@ Xeo is a [character](Characters.md) as a contestant on the [Megarchive Warehouse
 ## Identity
 
 She's a Panasonic CS-XE21MKEW wall-mounted [heat pump](../../Species/Air%20Conditioners.md). Xeo is a superior version of [JKE](JKE.md). Her name is pronounced as Xeo (AKA Seyo). Don't call her shio or sio (AKA see-yo), she would attack you for that.
+
+She is actually both Welsh and Scottish!
 
 She was born in August 10, 2010. She is a cisgender and bisexual female (she/her).  
 If skin color mattered, she's silver.

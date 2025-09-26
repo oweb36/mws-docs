@@ -2,6 +2,9 @@
 dob: 2024-06-24
 Gender-Identity: Male
 Sexual-Identity: "null"
+Nationality:
+  - France
+  - Canada
 ---
 # ZHU
 
