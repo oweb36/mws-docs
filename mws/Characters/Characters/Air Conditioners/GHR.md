@@ -2,6 +2,9 @@
 dob: 2006-10-24
 Gender-Identity: Male
 Sexual-Identity: Heterosexual
+Nationality:
+  - France
+  - Norway
 ---
 # GHR
 

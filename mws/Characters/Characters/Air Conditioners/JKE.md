@@ -4,6 +4,8 @@ Gender-Identity: Male
 Sexual-Identity:
   - Heterosexual
   - Aroace
+Nationality:
+  - Finnish
 ---
 # JKE
 
@@ -11,7 +13,7 @@ JKE is a [character](Characters.md) as a contestant on the [Megarchive Warehouse
 
 ## Identity
 
-He is a Panasonic wall-mounted CS-CE12JKE-1 [heat pump](../../Species/Air%20Conditioners.md). His name is pronounced as Jay-Kay-Ee, or Jake, though he prefers the first one.
+He is a Panasonic wall-mounted CS-CE12JKE-1 [heat pump](../../Species/Air%20Conditioners.md). His name is pronounced as Jay-Kay-Ee, or Jake, though he prefers the first one. A Finland guy.
 
 He is ([mostly](NAEphthalene.md)) unique from other Panasonics in that his power lamp also acts as a deice lamp. He would go to deice mode when the area he is currently in is too cold. His power/deice lamp is normally green (not deice), but blue in deicing mode.
 

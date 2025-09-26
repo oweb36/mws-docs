@@ -13,6 +13,7 @@ Avxy is a [character](Characters.md) as a contestant on the [Megarchive Warehous
 Avxy is a Sharp AH-XP10VXY [air conditioner](../../Species/Air%20Conditioners.md). His name is pronounced as:
 - AVC or Ay-Vee-See. (Prefered)
 - Avix.
+Someone from Indonesia.
 
 He was born in March 14, 2018. He is a cisgender and pansexual male (he/him).
 He is black if skin color matters.

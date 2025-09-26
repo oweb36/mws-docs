@@ -2,6 +2,7 @@
 dob: 2006-04-11
 Gender-Identity: Male
 Sexual-Identity: Heterosexual
+Nationality:
 ---
 # TERAS
 

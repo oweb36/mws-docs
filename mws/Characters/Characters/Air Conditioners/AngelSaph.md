@@ -21,7 +21,9 @@ Also his sexuality is unexplained, but its quite unique. He is J-Sexual, which i
 
 AngelSaph also has a halo. Its detailed in the section titled [Halo](#Halo). He is a partial Angel.
 
-He has flesh unlike others of MWS.
+He has flesh unlike others of MWS. 
+
+And yes, he is an American. No guns though.
 
 ### Body
 

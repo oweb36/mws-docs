@@ -2,6 +2,8 @@
 dob: 2007-08-15
 Gender-Identity: Female
 Sexual-Identity: Lesbian
+Nationality:
+  - UK/English
 ---
 # RXe
 
@@ -9,7 +11,9 @@ RXe is a [character](Characters.md) as a contestant on the [Megarchive Warehouse
 
 ## Identity
 
-RXe is a Daikin wall-mounted FTXR50EV1B9 [heat pump](../../Species/Air%20Conditioners.md). RXe is the **old Daikin Ururu-Sarara** series.
+RXe is a Daikin wall-mounted FTXR50EV1B9 [heat pump](../../Species/Air%20Conditioners.md). RXe is the **old Daikin Ururu-Sarara** series. 
+
+A British from England. Not that affable.
 
 RXe was born in August 15, 2007. She's a cisgender and lesbian female (she/her).  
 If RXe's skin color matter, she is gray.

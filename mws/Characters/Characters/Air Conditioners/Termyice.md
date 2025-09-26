@@ -2,6 +2,8 @@
 dob: 2011-11-10
 Gender-Identity: Female
 Sexual-Identity: Heterosexual
+Nationality:
+  - Indonesia
 ---
 # Termyice
 
@@ -16,6 +18,8 @@ There are several ways to call her:
 - Termyice -> Term-E-yise (Actual name).
 - Termy -> Term-E (Nickname).
 - Ice -> Ice (Nickname).
+
+From Indonesia.
 
 ## Personality
 TLDR: Anxiety and slight anger issues. Angst-ridden and easily agitated and triggered. Extroverted and gentle (with some exceptions) though. Do not trigger her though.

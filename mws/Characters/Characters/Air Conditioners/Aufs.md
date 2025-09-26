@@ -20,7 +20,7 @@ Aufs is a Fujitsu AU54TFCMF  [heat pump](../../Species/Air%20Conditioners.md). H
 
 He's a VRF boi, hailing from the S-Series VRF system of Fujitsu.
 
-He was born in September 9, 2002. They are Bigender, its a very [complicated topic](#Gender%20Identity). His pronouns are (he/them).
+He was born in September 9, 2002. They are Bigender, its a very [complicated topic](#Gender%20Identity). His pronouns are (he/them). A russian, but not the Vodka-addicted one.
 
 He is white if skin color matters. He has yellowed quite a bit from age, but he is still white. Aufs can be retrobrighted, but he rather stay in this yellowed state.
 

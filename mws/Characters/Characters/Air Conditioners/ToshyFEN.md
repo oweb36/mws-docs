@@ -7,6 +7,8 @@ aliases:
   - AMSUS
 Gender-Identity: Male
 Sexual-Identity: Heterosexual
+Nationality:
+  - UK/English
 ---
 # ToshyFEN
 
@@ -16,7 +18,7 @@ ToshyFEN is a [character](Characters.md) as a contestant on the [Megarchive Ware
 
 ToshyFEN is a Toshiba floor-standing RAV-RM1601FT-EN [heat pump](../../Species/Air%20Conditioners.md). His name is pronounced as Toh-she-Fen.
 
-He was born in August 6, 2021, as a British person. He is a cisgender and heterosexual male. He/Him.
+He was born in August 6, 2021, as a British person from England. He is a cisgender and heterosexual male. He/Him.
 
 He is one of the most durable person in MWS; He can survive injuries that would incapacitate or even kill others, and he can tolerate severe pain such as crotch kicks. ToshyFEN is also very heavy, in fact he is the heaviest out of them all.
 

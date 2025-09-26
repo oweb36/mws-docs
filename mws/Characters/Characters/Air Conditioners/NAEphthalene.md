@@ -8,6 +8,9 @@ Gender-Identity: Male
 Sexual-Identity:
   - Gay
   - Aroace
+Nationality:
+  - Latvia
+  - Sweden
 ---
 # NAEphthalene
 
