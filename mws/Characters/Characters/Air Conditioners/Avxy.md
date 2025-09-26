@@ -2,6 +2,8 @@
 dob: 2018-03-14
 Gender-Identity: Male
 Sexual-Identity: Pansexual
+Nationality:
+  - Indonesia
 ---
 # Avxy
 

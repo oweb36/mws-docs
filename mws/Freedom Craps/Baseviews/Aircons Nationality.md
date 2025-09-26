@@ -8,4 +8,5 @@ Where did they come from?
 TABLE 
 Nationality as "Nationality"
 FROM #airconditioner 
+SORT Nationality ASC
 ```

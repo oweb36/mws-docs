@@ -4,6 +4,8 @@ Gender-Identity: Bigender Genderfluix WTF
 Sexual-Identity:
   - Toric
   - Asexual
+Nationality:
+  - Russia
 ---
 # Aufs
 

@@ -2,6 +2,8 @@
 dob: 2006-02-28
 Gender-Identity: Male
 Sexual-Identity: Heterosexual
+Nationality:
+  - Australia
 ---
 # ASTAC
 
@@ -9,7 +11,7 @@ ASTAC is a [character](Characters.md) as a contestant on the [Megarchive Warehou
 
 ## Identity
 
-He is a wall-mounted Fujitsu ASTA18LCC [heat pump](../../Species/Air%20Conditioners.md). Obvious where the name is derived from (**ASTA**18L**C***C*).
+He is a wall-mounted Fujitsu ASTA18LCC [heat pump](../../Species/Air%20Conditioners.md). Obvious where the name is derived from (**ASTA**18L**C***C*). An australian ig.
 
 You can either pronounce him as an acronym (A-S-T-A-C), Ass-tack, or Assta-C (like Ecstacy but whatevs).
 

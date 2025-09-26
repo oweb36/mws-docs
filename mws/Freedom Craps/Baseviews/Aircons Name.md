@@ -8,4 +8,5 @@ Name ig
 TABLE 
 Name as "Name"
 FROM #airconditioner 
+SORT Name ASC
 ```

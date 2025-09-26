@@ -2,6 +2,7 @@
 dob: 2003-02-10
 Gender-Identity: Female
 Sexual-Identity: Sapphic
+Nationality:
 ---
 # Awu
 

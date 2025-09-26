@@ -2,6 +2,8 @@
 dob: 2008-04-10
 Gender-Identity: Male
 Sexual-Identity: Heterosexual
+Nationality:
+  - UK/Scotland
 ---
 # Flerovy
 
@@ -10,6 +12,8 @@ Flerovy is a [character](Characters.md) as a contestant on the [Megarchive Wareh
 ## Identity
 
 Flerovy is a Daikin FVQ125BV1B floor-standing [heat pump](../../Species/Air%20Conditioners.md). His name is pronounced Flerovy.
+
+Straight from the UK, he is from Scotland. He ain't your normal stereotypical Scottish though.
 
 Flerovy was born April 10, 2008. He is a cisgender and heterosexual male.
 

@@ -4,6 +4,8 @@ Gender-Identity: Demifluid Male
 Sexual-Identity:
   - J-Sexual
   - "null"
+Nationality:
+  - United States of America
 ---
 # AngelSaph
 
