@@ -3,7 +3,8 @@ dob: 2007-08-15
 Gender-Identity: Female
 Sexual-Identity: Lesbian
 Nationality:
-  - UK/English
+  - UK
+  - England
 ---
 # RXe
 

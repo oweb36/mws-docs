@@ -2,6 +2,9 @@
 dob: 2005-04-06
 Gender-Identity: Female
 Sexual-Identity: LGTV
+Nationality:
+  - UK
+  - England
 ---
 # ToshyMEF
 
@@ -13,7 +16,7 @@ She was born in April 6, 2005. She is a TV-sexual cisgendered-female (she/her). 
 
 If skin color mattered, ToshyMEF is white.
 
-ToshyMEF is the older sister to [ToshyFEN](ToshyFEN.md). They almost look similar except to their controller, where ToshyFEN has the newer "Lite-Vision plus" one.
+ToshyMEF is the older sister to [ToshyFEN](ToshyFEN.md). They almost look similar except to their controller, where ToshyFEN has the newer "Lite-Vision plus" one. Also a British from England.
 
 ToshyMEF is quite durable, but not as durable as compared to [ToshyFEN](ToshyFEN.md). ToshyMEF is also quite capable, but not as strong as ToshyFEN. ToshyMEF can even subdue [VXU](VXU.md) like ToshyFEN, and even subdue ToshyFEN if needed. 
 

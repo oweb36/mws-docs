@@ -7,6 +7,9 @@ aliases:
 dob: 2011-11-11
 Gender-Identity: Collective
 Sexual-Identity: Collective
+Nationality:
+  - UK
+  - England
 ---
 # VXU
 

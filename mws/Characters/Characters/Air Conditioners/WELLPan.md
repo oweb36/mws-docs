@@ -4,6 +4,8 @@ Gender-Identity: Male
 Sexual-Identity:
   - Apache Attack Helicopter
   - Helisexual
+Nationality:
+  - Hungary
 ---
 # WELLPan
 
@@ -14,7 +16,9 @@ WELLPan is a [character](Characters.md) as a contestant on the [Megarchive Wareh
 WELLPan is a Samsung AS09BPAN wall-mounted [heat pump](../../Species/Air%20Conditioners.md). His name is pronounced as Well-Pan. His name is derived from the PAN of his species' model name and the *Well equidistributed long-period linear (WELL)* random number generator.
 
 WELLPan was born in July 3, 2005. He is a cisgender and helisexual male (he/him). Yes, he sexually identifies as an Apache Attack Helicopter (Helisexual). This is not a joke (kinda). Also he is not a part of the LGBTQ community, so he is kinda in his own zone along with [ToshyMEF](ToshyMEF.md). 
-If skin color matters, he is white.
+If skin color matters, he is white. 
+
+A Hungarian indeed. Goulash m8?
 
 He is one of the strongest person in the Megarchive Warehouse Show. He is also one of the most intelligent person in MWS. WELLPan is also one of the slowest person in MWS. WELLPan is one of the sanest person in MWS.
 

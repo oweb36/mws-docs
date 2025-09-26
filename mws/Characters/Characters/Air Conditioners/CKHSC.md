@@ -3,7 +3,8 @@ dob: 2003-07-22
 Gender-Identity: Male
 Sexual-Identity: Heterosexual
 Nationality:
-  - UK/English
+  - UK
+  - England
 ---
 # CKHSC
 

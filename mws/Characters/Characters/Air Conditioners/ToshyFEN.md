@@ -8,7 +8,8 @@ aliases:
 Gender-Identity: Male
 Sexual-Identity: Heterosexual
 Nationality:
-  - UK/English
+  - UK
+  - England
 ---
 # ToshyFEN
 
