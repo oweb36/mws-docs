@@ -16,7 +16,7 @@ Vista has the Type-2/Type-B panel (BYFQ60C2W1S) installed. She also has both the
 
 If skin color matters, Vista is silver-white.
 
-Vista owns a *TRS-80 Model 100* portable computer. She is tech-savvy with it, and knows how to program it. She doesn't have much (along with others) but can afford a computer. [JHR](AEX.md#JHR) is the other people to own a *TRS-80 Model 100*.
+Vista owns a *TRS-80 Model 100* portable computer. She is tech-savvy with it, and knows how to program it. She doesn't have much (along with others) but can afford a computer. [JHR](AEX/AEX.md#JHR) is the other people to own a *TRS-80 Model 100*.
 
 ## Personality
 TLDR: Ok. One of the intelligent and observant one, but unlike others is indeed fun. Tech-savvy who uses tech to solve problem, always throwing technology at problems even when its inappropriate. Optimistic realist, also a natural and a ful unapologetic one. Reckless confident, and also goofy and silly. Goofy and silly is contrast to others, and is actually humorous and not dry and bland. Sometimes humor is offensive or done at inappropriate time, and she stands by it.
@@ -36,8 +36,8 @@ KaHLium respects Vista for being logical. He knows that Vista is actually smart 
 
 KaHLium has one thing that makes him quite sad at times, but not sad at times. He wishes that he has Vista's wet humor. KaHLium knows that his humor is dry, and on the contrary Vista's humor is wet.
 
-### [AEX](AEX.md)
-Vista is friends with [JHR](AEX.md#JHR) because of one thing they have in common: A *TRS-80 Model 100*.
+### [AEX](AEX/AEX.md)
+Vista is friends with [JHR](AEX/AEX.md#JHR) because of one thing they have in common: A *TRS-80 Model 100*.
 
 They work together programming that ancient tech. Vista is the one to teach JHR because despite JHR being intelligent and able to use computers, he has no idea how to program.
 

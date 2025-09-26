@@ -89,10 +89,10 @@ kanban-plugin: board
 ## Done3
 
 **Complete**
-- [x] Give [JHR](../../Characters/Characters/Air%20Conditioners/AEX.md) a cousin. AEX/JHR's cousin is the IVT version of JHR (superior and inferior at the same time).
+- [x] Give [JHR](../../Characters/Characters/Air%20Conditioners/AEX/AEX.md) a cousin. AEX/JHR's cousin is the IVT version of JHR (superior and inferior at the same time).
 	
 	[Ivy](../../Characters/Bench/Air%20Conditioners/Ivy.md)
-- [ ] [AEX](../../Characters/Characters/Air%20Conditioners/AEX.md#JHR) siblings and cousins. Then assimilate JHR into a person-lith kinda like [VXU](../../Characters/Characters/Air%20Conditioners/VXU.md) with his siblings as he and his siblings are capable of multi-split unit operation. ✅ 2025-09-21
+- [ ] [AEX](../../Characters/Characters/Air%20Conditioners/AEX/AEX.md#JHR) siblings and cousins. Then assimilate JHR into a person-lith kinda like [VXU](../../Characters/Characters/Air%20Conditioners/VXU.md) with his siblings as he and his siblings are capable of multi-split unit operation. ✅ 2025-09-21
 	
 	His siblings are a Sharp AE-XM30GR, AY-XPC7JR and AY-XPM18HR. 
 	

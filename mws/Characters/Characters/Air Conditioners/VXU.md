@@ -12,7 +12,7 @@ Sexual-Identity: Collective
 
 VXU is a [character](Characters.md) as a contestant on the [Megarchive Warehouse Show](../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md). They originally appeared in [AACOS](../../../Megarchive%20Warehouse%20Show/AACOS.md), an old part of old ObjecWeb36. This is because they are not just one person.
 
-DeltaCXG specifically was a host on old ObjecWeb36. Ig he still has that status, but for now he is just a competitor to win whatever [AEX](AEX.md) has.
+DeltaCXG specifically was a host on old ObjecWeb36. Ig he still has that status, but for now he is just a competitor to win whatever [AEX](AEX/AEX.md) has.
 
 ## Identity
 
@@ -125,7 +125,7 @@ DeltaCXG is also fearful of ToshyFEN because his mental health is not good and h
 
 So, MXU and CTUX are concerned and rather not get in trouble with ToshyFEN. DeltaCXg on the other hand, though knows the danger of ToshyFEN would still try to make some trouble with him.
 
-#### [AEX](AEX.md)
+#### [AEX](AEX/AEX.md)
 HR has a love-hate relationship with VXU.
 
 HR respects [MXU](VXU.md#MXU) for attempting to stop [DeltaCXG](VXU.md#DeltaCXG) if he can. HR though feels at times MXU is incompetent or even slacking off at this responsibility.

@@ -63,7 +63,7 @@ In this duo, they could actually destroy the entire cast of MWS due to their she
 
 ToshyFEN's meltdown might cause WELLPan to freak out if there's nobody to stop him.
 
-### [AEX](AEX.md)
+### [AEX](AEX/AEX.md)
 They are good friends. JHR and WELLPan likes to read books in their spare time together.
 
 PCR and EXMGR also is on good terms. HR is neutral with him, because WELLPan is very chill.

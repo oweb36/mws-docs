@@ -7,17 +7,19 @@ aliases:
 dob: 2010-04-12
 Gender-Identity: Collective
 Sexual-Identity: Collective
+Nationality:
+  - European
 ---
 # AEX
 
-AEX is a [character](Characters.md) the host of [Megarchive Warehouse Show](../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md). AEX also used to be the host of [AACOS](../../../Megarchive%20Warehouse%20Show/AACOS.md), but you know its now a part of the [Megarchive Warehouse Show](../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md). 
+AEX is a [character](Characters.md) the host of [Megarchive Warehouse Show](../../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md). AEX also used to be the host of [AACOS](../../../../Megarchive%20Warehouse%20Show/AACOS.md), but you know its now a part of the [Megarchive Warehouse Show](../../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md). 
 
 When I said that AEX also used to be the host of AACOS, I meant [JHR](AEX.md#JHR) of AEX and not AEX as a whole. This also means that JHR is the host of MWS, and the rest are just his co-host because they are also AEX ig. To recap this, JHR is the host while the rest kinda co-hosts.
 
 AEX is kinda like [VXU](VXU.md) in physiology. 
 
 ## Identity
-AEX is a Sharp Multi-Split [heat pump](../../Species/Air%20Conditioners.md) system. They are a quadruplets composed of 4 units:
+AEX is a Sharp Multi-Split [heat pump](../../../Species/Air%20Conditioners.md) system. They are a quadruplets composed of 4 units:
 - JHR (AY-XPC12JHR)
 - EXMGR (AE-XM30GR)
 - HR (AY-XPM18HR)
@@ -65,7 +67,7 @@ Some cool things is that [JHR](#JHR) is the only one capable of being installed 
 
 AEX was born in their full form in April 12, 2010 despite the 3 initial members (JHR, HR, EXMGR) being born way earlier as PCR is a late bloomer.
 ### JHR
-JHR is a wall-mounted Sharp AY-XPC12JHR [heat pump](../../Species/Air%20Conditioners.md). His name is pronounced as Jay-Eitch-Ar and derived from the JHR part of his species as a Sharp AY-XPC12JHR.
+JHR is a wall-mounted Sharp AY-XPC12JHR [heat pump](../../../Species/Air%20Conditioners.md). His name is pronounced as Jay-Eitch-Ar and derived from the JHR part of his species as a Sharp AY-XPC12JHR.
 
 JHR is the dominant sibling out of AEX. He is not the strongest one physically though in AEX. JHR is one of the most intelligent person in MWS.
 
@@ -79,7 +81,7 @@ If skin color is considered, he is white.
 JHR owns a *TRS-80 Model 100* portable computer. He finds it way useful for life and work purposes. The other people to own a *TRS-80 Model 100* is [Vista](Vista.md).
 
 ### EXMGR
-EXMGR is a Sharp AE-XM30GR [outdoor unit](../../Species/Air%20Conditioners.md). EXMGR though can support 4 units, is configured to support 3 because of [HR](#HR). 
+EXMGR is a Sharp AE-XM30GR [outdoor unit](../../../Species/Air%20Conditioners.md). EXMGR though can support 4 units, is configured to support 3 because of [HR](#HR). 
 
 EXMGR's name is pronounced as:
 - E-X-M-G-R
@@ -99,7 +101,7 @@ EXMGR is a cisgender and heterosexual male (he/him).
 EXMGR is white if skin color matters.
 
 ### HR
-HR is a Sharp AY-XPM18HR [heat pump](../../Species/Air%20Conditioners.md). His name is pronounced as H-R just like how you pronounce the abbreviation of *Human Resources*. His name is derived from the "HR" of his species' model.
+HR is a Sharp AY-XPM18HR [heat pump](../../../Species/Air%20Conditioners.md). His name is pronounced as H-R just like how you pronounce the abbreviation of *Human Resources*. His name is derived from the "HR" of his species' model.
 
 HR was born in March 15, 2008. He's part of the same batch as [EXMGR](#EXMGR) and [JHR](#JHR). He's part of the same batch as [JHR](#JHR) and [EXMGR](#EXMGR), and therefore have the same birthday.
 
@@ -112,7 +114,7 @@ HR is a cisgender male. HR is unlabelled in sexual orientation as he has no idea
 HR is (supposedly) white if skin color matters. I say supposedly because he is currently yellowed. Its not severely yellowed, and therefore it doesn't bother him. This yellowing shows HR's age. Its kinda a sore thumb, but a proud sore thumb.
 
 ### PCR
-PCR is a Sharp AY-XPC7JR [heat pump](../../Species/Air%20Conditioners.md). Her name is pronounced as P-C-R (Pee-See-Arr) aka like how you pronounce the PCR test for Covid-19. Her name is derived from the "XPC" and the "FR" of her species' model.
+PCR is a Sharp AY-XPC7JR [heat pump](../../../Species/Air%20Conditioners.md). Her name is pronounced as P-C-R (Pee-See-Arr) aka like how you pronounce the PCR test for Covid-19. Her name is derived from the "XPC" and the "FR" of her species' model.
 
 PCR was born in February 19, 2010. She's a later addition to AEX. PCR is the least dominant out of AEX.
 
