@@ -1,19 +1,20 @@
 ---
-dob: 2008-08-15
+dob: 2008-03-15
 Gender-Identity:
   - Male
 Sexual-Identity:
   - Heterosexual
 Nationality:
-  - European
+  - Greece
 Name:
+Multi-Association: AEX
 ---
 # EXMGR
 
 EXMGR is a [character](../../../Characters.md) as a member of [AEX](AEX.md) on the [Megarchive Warehouse Show](../../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md).
 ## Identity
 
-EXMGR is a Sharp AE-XM30GR [outdoor unit](../../../Species/Air%20Conditioners.md). EXMGR though can support 4 units, is configured to support 3 because of [HR](HR.md). 
+EXMGR is a Sharp AE-XM30GR [outdoor unit](../../../Species/Air%20Conditioners.md). EXMGR though can support 4 units, is configured to support 3 because of [MHR](MHR.md). 
 
 EXMGR's name is pronounced as:
 - E-X-M-G-R

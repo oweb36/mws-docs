@@ -5,6 +5,9 @@ Sexual-Identity: Heterosexual
 Nationality:
   - France
   - Norway
+Name:
+  - Alexandra
+  - Alexandra Gabrielle H. R.
 ---
 # GHR
 

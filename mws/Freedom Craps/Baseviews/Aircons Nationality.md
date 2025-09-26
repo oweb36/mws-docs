@@ -3,6 +3,8 @@
 Where did they come from?
 
 > Only viewable in Obsidian
+> 
+> [Moar](Aircons%20Name.md)
 
 ```dataview
 TABLE 

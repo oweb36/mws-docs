@@ -28,6 +28,7 @@
     "Name": "multitext",
     "Nationality": "multitext",
     "Gender-Identity": "multitext",
-    "Na": "multitext"
+    "Na": "multitext",
+    "Multi-Members": "multitext"
   }
 }

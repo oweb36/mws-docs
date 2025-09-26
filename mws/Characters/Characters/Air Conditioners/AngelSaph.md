@@ -7,6 +7,8 @@ Sexual-Identity:
 Nationality:
   - United States of America
   - Minnesota
+Name:
+  - Sapphy
 ---
 # AngelSaph
 
@@ -96,8 +98,12 @@ She cares for him, and is with him when AngelSaph needs help the most. She just 
 
 AngelSaph also cares about MHeLy, not just because she cares about him, but because AngelSaph knows that she is good as a whole. He is also there for MHeLy when she needs him the most.
 
-### [GiSY](GiSY.md)
-She's the one to bring AngelSaph's mood up. GiSY is very optimistic and would cheer AngelSaph up when times are tough, to always look on the bright side of life.
+### [GiSelleY](GiSelleY.md)
+AngelSaph and GiSelleY are life partners. Not romantic partners, nor sexual partners.
+
+They always are there for each other when they need them. You know GiSelleY is there when AngelSaph really needs her, and vice-versa. They are similar, but `delta modus operandi`.
+
+GiSelleY's the one to bring AngelSaph's mood up. GiSY is very optimistic and would cheer AngelSaph up when times are tough, to always look on the bright side of life.
 
 AngelSaph is also there when GiSY is isolated due to being emotionally damaged by others, especially by [that one nasty sociopathic person who bullies him and her](VXU.md#DeltaCXG). He helps her heal and recover too you know that? AngelSaph is aware of DeltaCXG bullying GiSY.
 

@@ -4,6 +4,8 @@ Gender-Identity: Male
 Sexual-Identity: Gay
 Nationality:
   - Finnish
+Name:
+  - Zip
 ---
 # ZiP
 
@@ -11,6 +13,8 @@ ZiP is a [character](Characters.md) as a {role} on the [Megarchive Warehouse Sho
 ## Identity
 
 ZiP is a Sharp wall-mounted AY-ZP40PR [heat pump](../../Species/Air%20Conditioners.md). ZiP hails from Finland, making him Finnish.
+
+ZiP's name is derived from the ZP. And his name is also Zip.
 
 ZiP was born in ~~M~~arch 4, 2012. He is a cisgender but gay male (he/him).
 

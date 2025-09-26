@@ -4,6 +4,8 @@ Gender-Identity:
 Sexual-Identity:
 Nationality:
 Name:
+Multi-Members:
+Multi-Association:
 ---
 # {{title}}
 

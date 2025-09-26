@@ -4,7 +4,13 @@ dob: 2010-04-12
 Gender-Identity: Collective
 Sexual-Identity: Collective
 Nationality:
-  - European
+  - Greece
+Name:
+Multi-Members:
+  - JHR
+  - EXMGR
+  - HR
+  - PCR
 ---
 # AEX
 
@@ -18,7 +24,7 @@ AEX is kinda like [VXU](../VXU.md) in physiology.
 AEX is a Sharp Multi-Split [heat pump](../../../Species/Air%20Conditioners.md) system. They are a quadruplets composed of 4 units:
 - [JHR](JHR.md)
 - [EXMGR](EXMGR.md)
-- [HR](HR.md)
+- [MHR](MHR.md)
 - [PCR](PCR.md)
 
 AEX's name is pronounced as:
@@ -32,7 +38,7 @@ These quadruplets are siblings. AEX is like [VXU](../VXU.md), where they are fou
 Have this dominance list (top is most dominant):
 1. [JHR](JHR.md)
 2. [EXMGR](EXMGR.md)
-3. [HR](HR.md)
+3. [MHR](MHR.md)
 4. [PCR](PCR.md)
 Yeah, PCR is least dominant in AEX despite her being the nicest. Funnily enough, she is the only normal one, cus everyone else in AEX has something wrong in some way mentally. Everyone does not have full-on mental disorders such as [ToshyFEN](../ToshyFEN.md) and no way are they as bad as ToshyFEN's mental health, and this also means that everyone is sane. Nobody is insane in AEX. Its just that everyone except PCR have quirks in their mental state/headspace.
 
@@ -42,11 +48,11 @@ Have this friendliness list (top is the most friendly):
 1. [PCR](PCR.md)
 2. [EXMGR](EXMGR.md)
 3. [JHR](JHR.md)
-4. [HR](HR.md)
+4. [MHR](MHR.md)
 
 Have this sanity ranking too (Top is most sane, bottom is least):
 - [PCR](PCR.md)
-- [HR](HR.md)
+- [MHR](MHR.md)
 - [JHR](JHR.md)
 - [EXMGR](EXMGR.md)
 Everyone here is still sane, don't worry. This is just relative to each members of AEX. EXMGR while being the least sane in AEX, is still sane to the outside world. This means that PCR, HR and JHR is still sane as EXMGR is the least sane in this siblingry while still being sane to the outside world.
@@ -55,11 +61,11 @@ Everyone in AEX is some kind of european. AEX is also european.
 
 AEX identifies as non-binary would like to be referred to as they/them, meanwhile each individual members have their own pronouns and gender identity. This is because if you are referring to AEX, just like [VXU](../VXU.md) you are referring to 4 person (aka collective referencing) rather than one and therefore would be a mix of gender and pronouns (the non-binaryness is to help abstract the differences).
 
-Whatever you do, don't try to disconnect a member of AEX from AEX. This is not only rude, but would also hurt them. An example is disconnecting [EXMGR](EXMGR.md) from [JHR](JHR.md) by ripping JHR off or disconnecting the cables. Not only would it hurt both EXMGR and JHR, but it would also hurt [HR](HR.md) and [PCR](PCR.md).
+Whatever you do, don't try to disconnect a member of AEX from AEX. This is not only rude, but would also hurt them. An example is disconnecting [EXMGR](EXMGR.md) from [JHR](JHR.md) by ripping JHR off or disconnecting the cables. Not only would it hurt both EXMGR and JHR, but it would also hurt [MHR](MHR.md) and [PCR](PCR.md).
 
 Some cool things is that [JHR](JHR.md) and [PCR](PCR.md) is the only one capable of being installed as a single-split system. [HR](#HR) is meant for multi-split installations (which they are right now) and not single split systems. [EXMGR](EXMGR.md) is an outdoor unit for multi-split systems.
 
-[EXMGR](EXMGR.md) [HR](HR.md) and [HR](HR.md) are the original installations while [PCR](PCR.md) is a later addition.
+[EXMGR](EXMGR.md) [MHR](MHR.md) and [MHR](MHR.md) are the original installations while [PCR](PCR.md) is a later addition.
 
 AEX was born in their full form in April 12, 2010 despite the 3 initial members (JHR, HR, EXMGR) being born way earlier as PCR is a late bloomer.
 ### JHR
@@ -78,7 +84,7 @@ JHR is the dominant sibling out of AEX. He is not the strongest one physically t
 
 ### HR
 
-> Explained more in [his own page](HR.md).
+> Explained more in [his own page](MHR.md).
 
 ### PCR
 

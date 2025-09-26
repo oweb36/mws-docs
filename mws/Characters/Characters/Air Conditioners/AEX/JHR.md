@@ -1,12 +1,14 @@
 ---
-dob: 2008-08-15
+dob: 2008-03-15
 Gender-Identity:
   - Male
 Sexual-Identity:
   - Bisexual
 Nationality:
-  - European
+  - Greece
 Name:
+  - Jay
+Multi-Association: AEX
 ---
 # JHR
 
@@ -88,7 +90,7 @@ CKHSC shows JHR the way of the traditional life, which would have been lost if i
 With the difference in the generations, JHR and CKHSC knows the progression of life.
 
 ### [Vista](../Vista.md)
-Vista is friends with [](AEX.md#JHR) because of one thing they have in common: A *TRS-80 Model 100*.
+Vista is friends with [JHR](JHR.md) because of one thing they have in common: A *TRS-80 Model 100*.
 
 They work together programming that ancient tech. Vista is the one to teach JHR because despite JHR being intelligent and able to use computers, he has no idea how to program.
 

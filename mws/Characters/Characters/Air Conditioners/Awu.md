@@ -4,6 +4,8 @@ Gender-Identity: Female
 Sexual-Identity: Sapphic
 Nationality:
   - Australia
+Name:
+  - Awu
 ---
 # Awu
 

@@ -55,7 +55,8 @@ Wheamy is very confused and worried about ToshyFEN. ToshyFEN to him is a mentall
 
 ### [NAEphthalene](NAEphthalene.md)
 
-Wheamy finds NAEpthalene more pleasant in comparison to [others](VXU.md#DeltaCXG). He is still not happy with him cus sexism? Bro what? To him thats just a low.
+Wheamy finds NAEphthalene more pleasant in comparison to [others](VXU.md#DeltaCXG). He is still not happy with him cus sexism? Bro what? To him thats just a low.
+
 
 
 #washingmachines 

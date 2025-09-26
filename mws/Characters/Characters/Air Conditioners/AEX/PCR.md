@@ -1,9 +1,13 @@
 ---
 dob: 2010-02-19
 Gender-Identity:
+  - Female
 Sexual-Identity:
+  - Heterosexual
 Nationality:
+  - Greece
 Name:
+Multi-Association: AEX
 ---
 # PCR
 

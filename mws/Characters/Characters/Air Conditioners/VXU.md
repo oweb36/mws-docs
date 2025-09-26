@@ -79,15 +79,15 @@ MXU is a good person definitely. He has power, but is armless.
 ### [Avxy](Avxy.md)
 
 Avxy actually fears [DeltaCXG](VXU.md#DeltaCXG). He knows that DeltaCXG would go too far in harming others. While Avxy only wants to get people's reactions, DeltaCXG would actually harm them, literally. 
-### [GiSY](GiSY.md)
+### [GiSelleY](GiSelleY.md)
 
-[DeltaCXG](#DeltaCXG) is the one who likes to bully GiSY. He knows that GiSY is sensitive, and he still does it. He just wants to feel her pain. DeltaCXG wants to be a sadist towards this poor soul who just wants to make the world a better place.
+[DeltaCXG](#DeltaCXG) is the one who likes to bully GiSelleY. He knows that GiSelleY is sensitive, and he still does it. He just wants to feel her pain. DeltaCXG wants to be a sadist towards this poor soul who just wants to make the world a better place.
 
-A pesk- ```I mean helpful``` fellow sibling of VXU, [MXU](#MXU) is the reason why this bullying is not happening everyday. DeltaCXG would actually try to hurt GiSY, but MXU has been intervening in all of these cases, much to DeltaCGX's chargin and GiSY's ```help me pls idk the vocab pls```. MXU would intervene by walking away.
+A pesk- ```I mean helpful``` fellow sibling of DeltaCXG (or [VXU](VXU.md)), [MXU](#MXU) is the reason why this bullying is not happening everyday. DeltaCXG would actually try to hurt GiSelleY, but MXU has been intervening in all of these cases, much to DeltaCGX's chargin and GiSelleY's ```help me pls idk the vocab pls```. MXU would intervene by walking away.
 
-MXU is not always succesful in intervention though. DeltaCXG has hurt GiSY few times. DeltaCXG has said very nasty and demoralizing things to GiSY before MXU could intervene by walking away. 
+MXU is not always succesful in intervention though. DeltaCXG has hurt GiSelleY few times. DeltaCXG has said very nasty and demoralizing things to GiSelleY before MXU could intervene by walking away. 
 
-DeltaCXG also has actually assaulted her succesfully, resulting in injuries to GiSY. He once punched and struck her so hard, he managed to crack her body. Yeah, DeltaCXG actually hits demigirls, and is a women beater (probably). Not that it matters though.
+DeltaCXG also has actually assaulted her succesfully, resulting in injuries to GiSelleY. He once punched and struck her so hard, he managed to crack her body. Yeah, DeltaCXG actually hits demigirls, and is a women beater (probably). Not that it matters though.
 
 ### [RXe](RXe.md)
 
@@ -128,12 +128,12 @@ DeltaCXG is also fearful of ToshyFEN because his mental health is not good and h
 
 So, MXU and CTUX are concerned and rather not get in trouble with ToshyFEN. DeltaCXg on the other hand, though knows the danger of ToshyFEN would still try to make some trouble with him.
 
-#### [HR](AEX/HR.md)
-HR has a love-hate relationship with VXU.
+#### [MHR](AEX/MHR.md)
+MHR has a love-hate relationship with VXU.
 
-HR respects [MXU](VXU.md#MXU) for attempting to stop [DeltaCXG](VXU.md#DeltaCXG) if he can. HR though feels at times MXU is incompetent or even slacking off at this responsibility.
+MHR respects [MXU](../VXU.md#MXU) for attempting to stop [this dumbass](../VXU.md#DeltaCXG) if he can. MHR though feels at times MXU is incompetent or even slacking off at this responsibility.
 
-HR has problems with DeltaCXG. He does not like DeltaCXG bullying and harming others. HR would rip DeltaCXG if he dares hurt [PCR](#PCR). HR is also that one guy along with ToshyFEN to stop DeltaCXG if needed.
+MHR has problems with DeltaCXG. He does not like DeltaCXG bullying and harming others. MHR would rip DeltaCXG if he dares hurt [PCR](#PCR). MHR is also that one guy along with ToshyFEN to stop DeltaCXG if needed.
 
 
 #airconditioner #multi-split 

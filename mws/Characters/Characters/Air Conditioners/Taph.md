@@ -4,13 +4,15 @@ Gender-Identity: Non-Binary
 Sexual-Identity: Asexual
 Nationality:
   - Hungary
+Name:
+  - Taphy
 ---
 # Taph
 
 Taph is a [character](Characters.md) as a contestant on the [Megarchive Warehouse Show](../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md).
 
 ## Identity
-They are a Samsung APH450PG floor-standing [heat pump](../../Species/Air%20Conditioners.md). Their name is pronounced as Taf/Taph.
+They are a Samsung APH450PG floor-standing [heat pump](../../Species/Air%20Conditioners.md). Their name is pronounced as Taf/Taph. They are also called Taphy (Taffy).
 
 Hungarian.
 

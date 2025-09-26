@@ -5,6 +5,9 @@ Sexual-Identity: Heterosexual
 Nationality:
   - UK
   - England
+Name:
+  - Cerny
+  - Cerny Arraffin
 ---
 # CeRNY
 

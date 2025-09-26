@@ -5,6 +5,8 @@ Sexual-Identity: Heterosexual
 Nationality:
   - United States of America
   - Texas
+Name:
+  - Aurelius
 ---
 # Aurl
 
@@ -12,7 +14,9 @@ Aurl is a [character](Characters.md) as a contestant on the [Megarchive Warehous
 
 ## Identity
 
-He is a wall-mounted Fujitsu ASU15RLS2 [heat pump](../../Species/Air%20Conditioners.md). His name is pronounced Oral as in Oral speech.
+He is a wall-mounted Fujitsu ASU15RLS2 [heat pump](../../Species/Air%20Conditioners.md). 
+
+His name is pronounced Oral as in Oral speech. Aurelius is his long name btw!
 
 Aurl was born in August 27, 2013. He is a cisgender and heterosexual male.  
 If skin color matters, Aurl is white.

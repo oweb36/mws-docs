@@ -4,6 +4,9 @@ Gender-Identity: Female
 Sexual-Identity: Lesbian
 Nationality:
   - Australia
+Name:
+  - Xefaela
+  - Xela Xefaela Xiana
 ---
 # Xefa
 
@@ -19,6 +22,12 @@ If skin color mattered, she's white.
 Xefa is an Australian, which makes her an Aussie Lesbi.
 
 She wears dental braces because she's the valley girl. Not for *bri'ish* teeth, but for *valley girl* cosmetic reasons. Yes, valley girls wear braces because they are valley girls not nerd girls.
+
+## Name
+
+She has a real name. Its `Xefaela`, and ye we get it. Its an expanded version of her name.
+
+Her full name is **`Xela Xefaela Xiana`**.
 
 ## Personality
 TLDR: Valley Girl. Teenager. "bitch" user. Sassy and rude, but loyal and kind. Dumb, but **NOT THAT** dumb. Serial gossiper.

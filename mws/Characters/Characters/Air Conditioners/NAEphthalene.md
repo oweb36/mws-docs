@@ -11,32 +11,38 @@ Sexual-Identity:
 Nationality:
   - Latvia
   - Sweden
+Name:
+  - Naephthalene
+  - Naephthalene Phoriphesus Kubrix
 ---
 # NAEphthalene
 
-NAEpthalene is a [character](Characters.md) as a contestant on the [Megarchive Warehouse Show](../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md).
+NAEphthalene is a [character](Characters.md) as a contestant on the [Megarchive Warehouse Show](../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md).
 
 ## Identity
 
-NAEpthalene is a Panasonic CS-NE9LKE wall-mounted [heat pump](../../Species/Air%20Conditioners.md). NAEpthalene is a superior version of [JKE](JKE.md) and both a superior and inferior version of [Xeo](Xeo.md). NAEpthalene is a Latvian-Swedish guy.
+NAEphthalene is a Panasonic CS-NE9LKE wall-mounted [heat pump](../../Species/Air%20Conditioners.md). NAEphthalene is a superior version of [JKE](JKE.md) and both a superior and inferior version of [Xeo](Xeo.md). NAEphthalene is a Latvian-Swedish guy.
 
-NAEpthalene's name is pronounced as Neptune and Naphthalene. The "NEp" is pronounced as the "Nep" in Neptune, while the "tha" is pronounced as the "tha" in Naphthalene. His name is derived from his model (NE), Naphtha and Naphthalene.
+NAEphthalene's name is pronounced as Neptune and Naphthalene. The "NEp" is pronounced as the "Nep" in Neptune, while the "tha" is pronounced as the "tha" in Naphthalene. His name is derived from his model (NE), Naphtha and Naphthalene.
 
 He was born in November 21, 2010. He is a cisgender and a gay-oriented aroace male (he/him). (He is gay cus he hates women and likes men, but aroace cus he jackassery). Still, he homosexual.
 If skin color mattered, he white.
 
-[This](../../../_Attachments/PDFFiles/NAEphthalene/NAEphthalene-om.pdf) and [That](../../../_Attachments/PDFFiles/NAEphthalene/NAEphthalene-sm.pdf) is NAEpthalene's reference manual.
+[This](../../../_Attachments/PDFFiles/NAEphthalene/NAEphthalene-om.pdf) and [That](../../../_Attachments/PDFFiles/NAEphthalene/NAEphthalene-sm.pdf) is NAEphthalene's reference manual.
 
 ### Name
 
-Since NAEpthalene has a long name, here are several shortened/alternate/nick names for him:
+Since NAEphthalene has a long name, here are several shortened/alternate/nick names for him:
 - NEptha (Old name, preferred)
 - NAEptha (Semi-old combinatorics)
 - NAphtha (Less preferred, he is not naphtha)
 - Naphthalene (Even less preferred, neither is he naphthalene)
 - NEpthalene (Inconsistent-ass)
 - NAmptha (NAmptha his-ass)
-> Also spelling is inconsistent. Its very difficult to write and spell lol.
+- NPK (explained later)
+> Also spelling is [inconsistent](void:NAEpthalene). Its very difficult to write and spell lol.
+
+This guy is also known as **`Naephthalene Phoriphesus Kubrix`** AKA **NPK**. 
 
 ## Personality
 
@@ -44,7 +50,7 @@ Since NAEpthalene has a long name, here are several shortened/alternate/nick nam
 
 Misogynistic strawman misogynist of MWS.
 
-NAEpthalene believes that Males like him is superior over females. He believes that men is the greatest sex and gender over anything else. Trans? Nah! Demi? Nah! Man is life for him, everything else is death.
+NAEphthalene believes that Males like him is superior over females. He believes that men is the greatest sex and gender over anything else. Trans? Nah! Demi? Nah! Man is life for him, everything else is death.
 
 Because of this, NEptha seems rude to non male people. Even if they are nice to him, he rejects them and treats them as slaves. Something tells me that NEptha is still living like in the 1420s. Even with this, he is still slightly rude to male people.
 
@@ -58,15 +64,15 @@ NEptha is a stuborn guy who is not nice to anybody.
 ## Relations
 
 ### [Xeo](Xeo.md)
-NAEpthalene dislikes Xeo. Its because Xeo is a woman, and just catty.  He doesn't exactly like her overly aggressive behavior. And also NEptha is a freaking sexist.
+NAEphthalene dislikes Xeo. Its because Xeo is a woman, and just catty.  He doesn't exactly like her overly aggressive behavior. And also NEptha is a freaking sexist.
 
 Well, Xeo also dislikes him cus he's a bastard.
 
 ### [JKE](JKE.md)
-NAEpthalene sees JKE as a version of himself, a less advanced one. He sees JKE as inferior. Don't worry, he is kinda like a big brother to him (even if JKE is older). NAEpthalene is very supportive to JKE because they are similar.
+NAEphthalene sees JKE as a version of himself, a less advanced one. He sees JKE as inferior. Don't worry, he is kinda like a big brother to him (even if JKE is older). NAEphthalene is very supportive to JKE because they are similar.
 
-NAEpthalene and JKE both are aware that they aren't actually siblings.
+NAEphthalene and JKE both are aware that they aren't actually siblings.
 ### [Wheamy](Wheamy.md)
-Wheamy finds NAEpthalene more pleasant in comparison to [others](VXU.md#DeltaCXG). He is still not happy with him cus sexism? Bro what? To him thats just a low.
+Wheamy finds NAEphthalene more pleasant in comparison to [others](VXU.md#DeltaCXG). He is still not happy with him cus sexism? Bro what? To him thats just a low.
 
 #airconditioner #etherean #triplex

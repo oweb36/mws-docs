@@ -40,8 +40,8 @@ Crap talks of Xeo: "You ain't deluxe," "Why so small?"
 You get it.
 
 ### [NAEphthalene (NEptha)](NAEphthalene.md)
-NAEpthalene sees JKE as a version of himself, a less advanced one. He sees JKE as inferior. Don't worry, he is kinda like a big brother to him (even if JKE is older). NAEpthalene is very supportive to JKE because they are similar.
+NAEphthalene sees JKE as a version of himself, a less advanced one. He sees JKE as inferior. Don't worry, he is kinda like a big brother to him (even if JKE is older). NAEphthalene is very supportive to JKE because they are similar.
 
-NAEpthalene and JKE both are aware that they aren't actually siblings.
+NAEphthalene and JKE both are aware that they aren't actually siblings.
 
 #airconditioner 
