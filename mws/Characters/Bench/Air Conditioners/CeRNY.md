@@ -14,13 +14,15 @@ Name:
 CeRNY is a [character](../../Characters.md) as a backgrounder on the [Megarchive Warehouse Show](../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md).
 ## Identity
 
-CeRNY is a Midea floor-standing MFGA-55ARFN1 [heat pump](../../Species/Air%20Conditioners.md). Clearly her name is not from it, but from CRN ([idk where](void:not)).
+CeRNY is a Midea floor-standing MFGA-55ARFN1 [heat pump](../../Species/Air%20Conditioners.md). 
+
+Clearly her name is not from it, but from CRN ([idk where](void:not)). Her real/full name ig is `Cerny Arraffin`.
 
 CeRNY was born in August 18, 2013. She is a cisgender and heterosexual female. CeRNY is canonically diagnosed with Level-1 [ASD](void:Autism-Spectrum-Disorder).
 
-British.
+British from England.
 
-Mental health is considered as unhealthy and below average, but not pathological like [ToshyFEN](../../Characters/Air%20Conditioners/ToshyFEN.md) or even TBA.
+Mental health is considered as unhealthy and below average, but not pathological like [ToshyFEN](../../Characters/Air%20Conditioners/ToshyFEN/ToshyFEN.md) or even TBA.
 
 [This](CeRNY_om.pdf) and [THat](CeRNY_sm.pdf) too.
 
@@ -53,7 +55,7 @@ Oh, but she's not just that. CeRNY is also kind, and (mostly) nice. She is the m
 
 CeRNY is also notable for being good and righteous. She likes good, and dislikes evil. This is one of her berserk points.
 
-Btw please do not burden or overload her. She may be kind, but not **THAT** exactly stable, and yes CeRNY is also stable and **NOT THAT** [un](ToshyFEN)stable. If you managed to push her past that point, prepare for meltdowns. Not anger meltdowns. Her meltdowns are anxiety attacks with emotional meltdowns and panic attacks. It's not internal or silent either.
+Btw please do not burden or overload her. She may be kind, but not **THAT** exactly stable, and yes CeRNY is also stable and **NOT THAT** [un](../../Characters/Air%20Conditioners/ToshyFEN/ToshyFEN.md)stable. If you managed to push her past that point, prepare for meltdowns. Not anger meltdowns. Her meltdowns are anxiety attacks with emotional meltdowns and panic attacks. It's not internal or silent either.
 
 She may be nice, but **BEWARE** for you still can piss off and anger her. If you actually managed to piss her until she angery, **BEWARE**! [Explained more here](#Anger). Also her anger is just a part of her personality (she is actually kind).
 

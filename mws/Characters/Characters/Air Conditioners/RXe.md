@@ -43,18 +43,18 @@ MHeLy is one of the people RXe is genuinely kind to. MHeLy has been supporting R
 
 They are couples. They are very close to each other. JVXH is one of the people she's actually genuinely kind to, as they are lesbian couples.
 
-### [VXU](VXU.md)
+### [VXU](VXU/VXU.md)
 
-RXe has a complicated relationship with VXU as they are 3 people in one. She likes [MXU](VXU.md#MXU), as he is chill. He has done nothign wrong to RXe, and neither does she.
+RXe has a complicated relationship with VXU as they are 3 people in one. She likes [MXU](VXU/VXU.md#MXU), as he is chill. He has done nothign wrong to RXe, and neither does she.
 
-RXe has a slight disdain with [CTUX](VXU.md#CTUX) cus of his arrogance at times. She doesn't think he deserves or even qualify to lead people. RXe thinks he is too full of himself.
+RXe has a slight disdain with [CTUX](VXU/VXU.md#CTUX) cus of his arrogance at times. She doesn't think he deserves or even qualify to lead people. RXe thinks he is too full of himself.
 
-The one person of VXU that RXe has a problem with is [DeltaCXG](VXU.md#DeltaCXG) as DeltaCXG would also hurt others. RXe sees DeltaCXG as competition.
+The one person of VXU that RXe has a problem with is [DeltaCXG](VXU/VXU.md#DeltaCXG) as DeltaCXG would also hurt others. RXe sees DeltaCXG as competition.
 
 ### [Wheamy](Wheamy.md)
 Wheamy hates the shit out of RXe. He has to deal with many potential abusers to his dependees. He doesn't need more!
 
-### [ToshyFEN](ToshyFEN.md)
+### [ToshyFEN](ToshyFEN/ToshyFEN.md)
 RXe finds ToshyFEN too unpredictable to manipulate. She doesn't know if what she does would trigger him. She doesn't even bother to manipulate ToshyFEN for her own because she doesn't know what would ToshyFEN do next.
 
 ToshyFEN is the kind of person to stop RXe when she gets too far. ToshyFEN also in fact will and have stopped her multiple times.

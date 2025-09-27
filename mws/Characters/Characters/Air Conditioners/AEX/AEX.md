@@ -18,7 +18,7 @@ AEX is a [character](../../../Characters.md) the host of [Megarchive Warehouse S
 
 When I said that AEX also used to be the host of AACOS, I meant [JHR](JHR.md) of AEX and not AEX as a whole. This also means that JHR is the host of MWS, and the rest are just his co-host because they are also AEX ig. To recap this, JHR is the host while the rest kinda co-hosts.
 
-AEX is kinda like [VXU](../VXU.md) in physiology. 
+AEX is kinda like [VXU](../VXU/VXU.md) in physiology. 
 
 ## Identity
 AEX is a Sharp Multi-Split [heat pump](../../../Species/Air%20Conditioners.md) system. They are a quadruplets composed of 4 units:
@@ -33,14 +33,14 @@ AEX's name is pronounced as:
 - Axe
 - Ex
 
-These quadruplets are siblings. AEX is like [VXU](../VXU.md), where they are four person in a single person. [JHR](JHR.md) is the dominant sibling out of AEX.
+These quadruplets are siblings. AEX is like [VXU](../VXU/VXU.md), where they are four person in a single person. [JHR](JHR.md) is the dominant sibling out of AEX.
 
 Have this dominance list (top is most dominant):
 1. [JHR](JHR.md)
 2. [EXMGR](EXMGR.md)
 3. [MHR](MHR.md)
 4. [PCR](PCR.md)
-Yeah, PCR is least dominant in AEX despite her being the nicest. Funnily enough, she is the only normal one, cus everyone else in AEX has something wrong in some way mentally. Everyone does not have full-on mental disorders such as [ToshyFEN](../ToshyFEN.md) and no way are they as bad as ToshyFEN's mental health, and this also means that everyone is sane. Nobody is insane in AEX. Its just that everyone except PCR have quirks in their mental state/headspace.
+Yeah, PCR is least dominant in AEX despite her being the nicest. Funnily enough, she is the only normal one, cus everyone else in AEX has something wrong in some way mentally. Everyone does not have full-on mental disorders such as [ToshyFEN](../ToshyFEN/ToshyFEN.md) and no way are they as bad as ToshyFEN's mental health, and this also means that everyone is sane. Nobody is insane in AEX. Its just that everyone except PCR have quirks in their mental state/headspace.
 
 Another note is despite JHR being more dominant than EXMGR, EXMGR is the method of locomotion for AEX. So EXMGR is responsible for movement because he is the legs while JHR, HR and PCR are not the legs.
 
@@ -59,7 +59,7 @@ Everyone here is still sane, don't worry. This is just relative to each members 
 
 Everyone in AEX is some kind of european. AEX is also european.
 
-AEX identifies as non-binary would like to be referred to as they/them, meanwhile each individual members have their own pronouns and gender identity. This is because if you are referring to AEX, just like [VXU](../VXU.md) you are referring to 4 person (aka collective referencing) rather than one and therefore would be a mix of gender and pronouns (the non-binaryness is to help abstract the differences).
+AEX identifies as non-binary would like to be referred to as they/them, meanwhile each individual members have their own pronouns and gender identity. This is because if you are referring to AEX, just like [VXU](../VXU/VXU.md) you are referring to 4 person (aka collective referencing) rather than one and therefore would be a mix of gender and pronouns (the non-binaryness is to help abstract the differences).
 
 Whatever you do, don't try to disconnect a member of AEX from AEX. This is not only rude, but would also hurt them. An example is disconnecting [EXMGR](EXMGR.md) from [JHR](JHR.md) by ripping JHR off or disconnecting the cables. Not only would it hurt both EXMGR and JHR, but it would also hurt [MHR](MHR.md) and [PCR](PCR.md).
 
@@ -92,7 +92,7 @@ JHR is the dominant sibling out of AEX. He is not the strongest one physically t
 
 ## Personality
 
-AEX, just like [VXU](../VXU.md) is a quadruplet of a person and therefore have multiple personalities for each member.
+AEX, just like [VXU](../VXU/VXU.md) is a quadruplet of a person and therefore have multiple personalities for each member.
 
 To understand them, you need to take a look at each individual member.
 

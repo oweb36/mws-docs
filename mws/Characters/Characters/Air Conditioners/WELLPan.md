@@ -60,7 +60,7 @@ Cool fact that makes this guaranteed: It's against the laws of the universe and 
 ### [Aurl](Aurl.md)
 They are frenemies (at least on Aurl's side), but they are more of a friend that enemies (Enemy is only on Aurl's side). The only conflict that they can be in is in a friendly little competition of who can be the chillest, and WELLPan always wins. They just hang out with each other.
 
-## [ToshyFEN](ToshyFEN.md)
+## [ToshyFEN](ToshyFEN/ToshyFEN.md)
 They are typically duos. WELLPan is the chiller in this duo, while ToshyFEN is the more active one. ToshyFEN is the motivator to WELLPan to get him to do something. WELLPan is aware of ToshyFEN's very bad mental health state, and he does whatever he can to keep it under control.
 
 In this duo, they could actually destroy the entire cast of MWS due to their sheer physical strength. ToshyFEN would likely be the one to start it, and he would drag WELLPan into this madness. ToshyFEN would also probably stick WELLPan to his back, and bring him along.
@@ -92,7 +92,7 @@ He is so befuddled at WELLPan's chilness, lack of seriousness, and [**INANGERABI
 Still can chat. He is friends with this guy, despite him actually confusing him.
 
 ### [Aufs](Aufs.md)
-They are friends, because they are *SANE* unlike [some](ToshyFEN.md) other people or friends.
+They are friends, because they are *SANE* unlike [some](ToshyFEN/ToshyFEN.md) other people or friends.
 
 WELLPan might question Aufs at times about his behavior of lurking in the dark. He feels something is off when that happens, but he understands about Aufs. WELLPan knows that Aufs is very complicated.
 

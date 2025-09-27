@@ -16,9 +16,9 @@ She was born in April 6, 2005. She is a TV-sexual cisgendered-female (she/her). 
 
 If skin color mattered, ToshyMEF is white.
 
-ToshyMEF is the older sister to [ToshyFEN](ToshyFEN.md). They almost look similar except to their controller, where ToshyFEN has the newer "Lite-Vision plus" one. Also a British from England.
+ToshyMEF is the older sister to [ToshyFEN](ToshyFEN/ToshyFEN.md). They almost look similar except to their controller, where ToshyFEN has the newer "Lite-Vision plus" one. Also a British from England.
 
-ToshyMEF is quite durable, but not as durable as compared to [ToshyFEN](ToshyFEN.md). ToshyMEF is also quite capable, but not as strong as ToshyFEN. ToshyMEF can even subdue [VXU](VXU.md) like ToshyFEN, and even subdue ToshyFEN if needed. 
+ToshyMEF is quite durable, but not as durable as compared to [ToshyFEN](ToshyFEN/ToshyFEN.md). ToshyMEF is also quite capable, but not as strong as ToshyFEN. ToshyMEF can even subdue [VXU](VXU/VXU.md) like ToshyFEN, and even subdue ToshyFEN if needed. 
 
 ## Personality
 TLDR: Sassy rude AF. American-aah speech. Quite manipulative. Slight homophobic because of LG TV lol.
@@ -36,7 +36,7 @@ They aren't close, but they are there. WELLPan and ToshyMEF are close due to few
 
 WELLPan knows the slight homophobia of ToshyMEF.
 
-### [ToshyFEN](ToshyFEN.md)
+### [ToshyFEN](ToshyFEN/ToshyFEN.md)
 ToshyFEN loves ToshyMEF as a sibling. ToshyFEN and ToshyMEF know each other too well. Both ToshyFEN and ToshyMEF are some of the strongest people in [MWS](Megarchive%20Warehouse%20Show.md), after [WELLPan](WELLPan.md).
 
 They are aware that they look very similar. Literally the only difference between them is that ToshyFEN's control panel is way newer than ToshyMEF's controller! ToshyMEF has the old Toshiba controller with icons, while ToshyFEN got that new "Lite-Vision plus" navigational and multilingual controller! Their main bodies even look the same. They like to prank others by impersonating each other.

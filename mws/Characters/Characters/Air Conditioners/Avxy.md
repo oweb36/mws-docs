@@ -33,9 +33,9 @@ Avxy doesn't like racism, especially to black people. This is because he is well
 
 ## Relations
 
-### [DeltaCXG](VXU.md#DeltaCXG)
+### [DeltaCXG](VXU/VXU.md#DeltaCXG)
 
-Avxy actually fears [[DeltaCXG](VXU.md#DeltaCXG)]. He knows that DeltaCXG would go too far in harming others. While Avxy only wants to get people's reactions, DeltaCXG would actually harm them, literally. 
+Avxy actually fears [[DeltaCXG](VXU/VXU.md#DeltaCXG)]. He knows that DeltaCXG would go too far in harming others. While Avxy only wants to get people's reactions, DeltaCXG would actually harm them, literally. 
 
 ### [KaHLium](KaHLium.md)
 

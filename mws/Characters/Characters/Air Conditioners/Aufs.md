@@ -24,7 +24,7 @@ He was born in September 9, 2002. They are Bigender, its a very [complicated top
 
 He is white if skin color matters. He has yellowed quite a bit from age, but he is still white. Aufs can be retrobrighted, but he rather stay in this yellowed state.
 
-Aufs is more durable than the average person in the [Megarchive Warehouse](Megarchive%20Warehouse.md). He can survive way more injuries and potentially even injuries that are lethal to a normal person in the [Megarchive Warehouse](Megarchive%20Warehouse.md), but he can't beat [ToshyFEN](ToshyFEN.md). Aufs is also the sanest person in MWS, he would probably one of the only few to sane if everyone goes insane. 
+Aufs is more durable than the average person in the [Megarchive Warehouse](Megarchive%20Warehouse.md). He can survive way more injuries and potentially even injuries that are lethal to a normal person in the [Megarchive Warehouse](Megarchive%20Warehouse.md), but he can't beat [ToshyFEN](ToshyFEN/ToshyFEN.md). Aufs is also the sanest person in MWS, he would probably one of the only few to sane if everyone goes insane. 
 
 Aufs is also kinda the butt monkey of the [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show.md). He also has the power of [Metatheatrics](#Metatheatrics).
 
@@ -91,7 +91,7 @@ Because Aufs has [Metatheatrical](#Metatheatrics) abilities, naturally he would 
 ## Relations
 
 ### [WELLPan](WELLPan.md)
-They are friends, because they are *SANE* unlike [some](ToshyFEN.md) other people or friends.
+They are friends, because they are *SANE* unlike [some](ToshyFEN/ToshyFEN.md) other people or friends.
 
 WELLPan might question Aufs at times about his behavior of lurking in the dark. He feels something is off when that happens, but he understands about Aufs. WELLPan knows that Aufs is very complicated.
 

@@ -30,7 +30,7 @@ GiSelleY is a bubbly optimist. She always looks to the bright side of life, no m
 
 How chatty? Yappatron. She will try to find someone to chat lol. But whatevs.
 
-GiSelleY also is a very kind and gentle demigirl. She's out there to care and nurture others. She may even try to teach and train her fellow friends on how to live, and survive. She also tries to nurture kindness, but that doesn't always works on some [sociopathic or even evil](VXU.md#DeltaCXG) people. 
+GiSelleY also is a very kind and gentle demigirl. She's out there to care and nurture others. She may even try to teach and train her fellow friends on how to live, and survive. She also tries to nurture kindness, but that doesn't always works on some [sociopathic or even evil](VXU/VXU.md#DeltaCXG) people. 
 
 GiSelleY is bubbly after all eh?
 
@@ -40,11 +40,11 @@ GiSelleY is quite forgiving at least. She will forget any past harm, conflict an
 
 ## Relations
 
-### [DeltaCXG](VXU.md#DeltaCXG)
+### [DeltaCXG](VXU/VXU.md#DeltaCXG)
 
 [DeltaCXG](#DeltaCXG) is the one who likes to bully GiSelleY. He knows that GiSelleY is sensitive, and he still does it. He just wants to feel her pain. DeltaCXG wants to be a sadist towards this poor soul who just wants to make the world a better place.
 
-A pesk- ```I mean helpful``` fellow sibling of DeltaCXG (or [VXU](VXU.md)), [MXU](#MXU) is the reason why this bullying is not happening everyday. DeltaCXG would actually try to hurt GiSelleY, but MXU has been intervening in all of these cases, much to DeltaCGX's chargin and GiSelleY's ```help me pls idk the vocab pls```. MXU would intervene by walking away.
+A pesk- ```I mean helpful``` fellow sibling of DeltaCXG (or [VXU](VXU/VXU.md)), [MXU](#MXU) is the reason why this bullying is not happening everyday. DeltaCXG would actually try to hurt GiSelleY, but MXU has been intervening in all of these cases, much to DeltaCGX's chargin and GiSelleY's ```help me pls idk the vocab pls```. MXU would intervene by walking away.
 
 MXU is not always succesful in intervention though. DeltaCXG has hurt GiSelleY few times. DeltaCXG has said very nasty and demoralizing things to GiSelleY before MXU could intervene by walking away. 
 
@@ -64,7 +64,7 @@ They always are there for each other when they need them. You know GiSelleY is t
 
 GiSelleY's the one to bring AngelSaph's mood up. GiSY is very optimistic and would cheer AngelSaph up when times are tough, to always look on the bright side of life.
 
-AngelSaph is also there when GiSY is isolated due to being emotionally damaged by others, especially by [that one nasty sociopathic person who bullies him and her](VXU.md#DeltaCXG). He helps her heal and recover too you know that? AngelSaph is aware of DeltaCXG bullying GiSY.
+AngelSaph is also there when GiSY is isolated due to being emotionally damaged by others, especially by [that one nasty sociopathic person who bullies him and her](VXU/VXU.md#DeltaCXG). He helps her heal and recover too you know that? AngelSaph is aware of DeltaCXG bullying GiSY.
 
 
 #airconditioner 

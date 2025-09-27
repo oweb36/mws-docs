@@ -73,6 +73,6 @@ NAEphthalene sees JKE as a version of himself, a less advanced one. He sees JKE 
 
 NAEphthalene and JKE both are aware that they aren't actually siblings.
 ### [Wheamy](Wheamy.md)
-Wheamy finds NAEphthalene more pleasant in comparison to [others](VXU.md#DeltaCXG). He is still not happy with him cus sexism? Bro what? To him thats just a low.
+Wheamy finds NAEphthalene more pleasant in comparison to [others](VXU/VXU.md#DeltaCXG). He is still not happy with him cus sexism? Bro what? To him thats just a low.
 
 #airconditioner #etherean #triplex

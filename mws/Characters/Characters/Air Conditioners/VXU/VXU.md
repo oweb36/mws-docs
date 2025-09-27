@@ -13,7 +13,7 @@ Nationality:
 ---
 # VXU
 
-VXU is a [character](Characters.md) as a contestant on the [Megarchive Warehouse Show](../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md). They originally appeared in [AACOS](../../../Megarchive%20Warehouse%20Show/AACOS.md), an old part of old ObjecWeb36. This is because they are not just one person.
+VXU is a [character](Characters.md) as a contestant on the [Megarchive Warehouse Show](../../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md). They originally appeared in [AACOS](../../../../Megarchive%20Warehouse%20Show/AACOS.md), an old part of old ObjecWeb36. This is because they are not just one person.
 
 DeltaCXG specifically was a host on old ObjecWeb36. Ig he still has that status, but for now he is just a competitor to win whatever [AEX](AEX/AEX.md) has.
 
@@ -24,7 +24,7 @@ VXU is actually a multi-system triplet composed of 3 mind/people that is also a 
 - CTUX
 - MXU
 
-MXU is Daikin 2MXU40GV1B. DeltaCXG is a wall-mounted Daikin CTXU42G2V1B, while CTUX is a wall-mounted Daikin CTXU50G2V1B. This is because VXU is a **Daikin Multi-Ururu Multi-Split system**. VXU is a [heat pump](../../Species/Air%20Conditioners.md) system, as all their members (DeltaCXG, MXU and CTUX) are heat pumps. They are basically siblings, but also the same person.
+MXU is Daikin 2MXU40GV1B. DeltaCXG is a wall-mounted Daikin CTXU42G2V1B, while CTUX is a wall-mounted Daikin CTXU50G2V1B. This is because VXU is a **Daikin Multi-Ururu Multi-Split system**. VXU is a [heat pump](../../../Species/Air%20Conditioners.md) system, as all their members (DeltaCXG, MXU and CTUX) are heat pumps. They are basically siblings, but also the same person.
 
 CTUX was from AACOS while DeltaCXG was from an old part of old ObjecWeb36.
 
@@ -116,7 +116,7 @@ DeltaCXG wouldn't do anything to JVXH. Even though he knows that JVXH fears him,
 ### [MHeLy](MHeLy.md)
 MHeLy is very accepting of DeltaCXG despite knowing the danger. MHeLy is one of the few people to actually have the balls to approach DeltaCXG.
 
-### [ToshyFEN](ToshyFEN.md)
+### [ToshyFEN](ToshyFEN/ToshyFEN.md)
 VXU has two sides: Fear and concern.
 
 [MXU](VXU.md#MXU) is quite concerned and fearful about ToshyFEN. MXU is concerned about his mental wellbeing, as you know ToshyFEN has some of the worst mental health states in MWS. He is also feareful because he knows that ToshyFEN can do some unhinged shit.
@@ -131,7 +131,7 @@ So, MXU and CTUX are concerned and rather not get in trouble with ToshyFEN. Delt
 #### [MHR](AEX/MHR.md)
 MHR has a love-hate relationship with VXU.
 
-MHR respects [MXU](../VXU.md#MXU) for attempting to stop [this dumbass](../VXU.md#DeltaCXG) if he can. MHR though feels at times MXU is incompetent or even slacking off at this responsibility.
+MHR respects [MXU](VXU.md#MXU) for attempting to stop [this dumbass](VXU.md#DeltaCXG) if he can. MHR though feels at times MXU is incompetent or even slacking off at this responsibility.
 
 MHR has problems with DeltaCXG. He does not like DeltaCXG bullying and harming others. MHR would rip DeltaCXG if he dares hurt [PCR](#PCR). MHR is also that one guy along with ToshyFEN to stop DeltaCXG if needed.
 

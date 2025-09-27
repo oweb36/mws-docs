@@ -34,7 +34,7 @@ Yeah, she is also smart enough. May not be *academia* smart, but is **street** s
 
 You might say: "She's actually an evil person, she does this for fun!" **N O P E**! There's a valid reason for her pretty rude and aggressive behavior.
 
-While other characters like [ToshyFEN](ToshyFEN.md) and [Aurl](Aurl.md) has their chill moments. She ain't [WELLPan](WELLPan.md) bruh.
+While other characters like [ToshyFEN](ToshyFEN/ToshyFEN.md) and [Aurl](Aurl.md) has their chill moments. She ain't [WELLPan](WELLPan.md) bruh.
 
 Despite that, she can be good. Not nice, not kind, just good in some mysterious way. So yeah, we got an extremely angry good girl here eh this lesbian bitch-ass ~~faggot~~-slag. And yes, she has some goodness, but shadowed by the anger.
 

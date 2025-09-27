@@ -28,7 +28,7 @@ Wheamy is the guardian for Idendiby. Idendiby is very young, and Wheamy is there
 ### [AngelSaph](AngelSaph.md)
 Wheamy protects AngelSaph not only because of his young age, but also due to his emotional and physical vulnerability.
 
-### [DeltaCXG](VXU.md#DeltaCXG)
+### [DeltaCXG](../Air%20Conditioners/VXU/VXU.md#DeltaCXG)
 Wheamy hates him for making not only his life hell, but burdens him in protecting others. DeltaCXG has harmed others, and potentially everyone. Wheamy doesn't need an extra abuser to deal with.
 
 ### [RXe](RXe.md)
@@ -46,7 +46,7 @@ Wheamy doesn't protect JHR because JHR can do so himself.
 
 Its pretty good basically with their relationship.
 
-### [ToshyFEN](ToshyFEN.md)
+### [ToshyFEN](../Air%20Conditioners/ToshyFEN/ToshyFEN.md)
 Wheamy doesn't know what to do with ToshyFEN. He has a dillema: help him or hate him. He doesn't know whether he should help and protect ToshyFEN or hate and try to avoid him.
 
 Wheamy feels this way because he knows that ToshyFEN is still young, and in fact younger than him. Wheamy also knows that ToshyFEN needs some help because he is aware of his poor mental health. The other side is that Wheamy knows that ToshyFEN can be unhinged and angry. ToshyFEN might even make his life harder than what he has know.
@@ -55,7 +55,7 @@ Wheamy is very confused and worried about ToshyFEN. ToshyFEN to him is a mentall
 
 ### [NAEphthalene](NAEphthalene.md)
 
-Wheamy finds NAEphthalene more pleasant in comparison to [others](VXU.md#DeltaCXG). He is still not happy with him cus sexism? Bro what? To him thats just a low.
+Wheamy finds NAEphthalene more pleasant in comparison to [others](../Air%20Conditioners/VXU/VXU.md#DeltaCXG). He is still not happy with him cus sexism? Bro what? To him thats just a low.
 
 
 

@@ -44,10 +44,10 @@ MHR is basically a gruff introvert. He is good but he ain't nice.
 
 ## Relations
 
-#### [VXU](../VXU.md)
+#### [VXU](../VXU/VXU.md)
 MHR has a love-hate relationship with VXU.
 
-MHR respects [MXU](../VXU.md#MXU) for attempting to stop [this dumbass](../VXU.md#DeltaCXG) if he can. MHR though feels at times MXU is incompetent or even slacking off at this responsibility.
+MHR respects [MXU](../VXU/VXU.md#MXU) for attempting to stop [this dumbass](../VXU/VXU.md#DeltaCXG) if he can. MHR though feels at times MXU is incompetent or even slacking off at this responsibility.
 
 MHR has problems with DeltaCXG. He does not like DeltaCXG bullying and harming others. MHR would rip DeltaCXG if he dares hurt [PCR](#PCR). MHR is also that one guy along with ToshyFEN to stop DeltaCXG if needed.
 

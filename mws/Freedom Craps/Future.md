@@ -7,7 +7,7 @@ What's This?: This board is for how the characters will be in the future. How th
 
 ## Future Ideas
 
-- [ ](../Characters/Characters/Air%20Conditioners/ToshyFEN.md) won't grow taller, but he has extra things.
+- [ ](../Characters/Characters/Air%20Conditioners/ToshyFEN/ToshyFEN.md) won't grow taller, but he has extra things.
 	
 	Still durable AF.
 	
@@ -70,7 +70,7 @@ What's This?: This board is for how the characters will be in the future. How th
 	
 	Let me add that MHeLy also has scars. They are in the form of cracks and scars. Their appearance detailed in the body section. Its permanent. 
 	
-	[](../Characters/Characters/Air%20Conditioners/VXU.md#DeltaCXG) was the one who broke MHeLy's ankle. DeltaCXG broke her right ankle by stepping her ankle at just the right angle, and he did it with so much force it not only sprained MHeLy's ankle, but also broke the bones.
+	[](../Characters/Characters/Air%20Conditioners/VXU/VXU.md#DeltaCXG) was the one who broke MHeLy's ankle. DeltaCXG broke her right ankle by stepping her ankle at just the right angle, and he did it with so much force it not only sprained MHeLy's ankle, but also broke the bones.
 	
 	DeltaCXG was not the one to break MHeLy's wrist btw. It was MHeLy's fault for being goofy and clumsy that one moment. She is not that clumsy normally, but let's say she fell off some stairs. Also this happened after DeltaCXG broke her ankle lmfao.
 	

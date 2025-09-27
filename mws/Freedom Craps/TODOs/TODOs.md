@@ -92,7 +92,7 @@ kanban-plugin: board
 - [x] Give [JHR](../../Characters/Characters/Air%20Conditioners/AEX/JHR.md) a cousin. AEX/JHR's cousin is the IVT version of JHR (superior and inferior at the same time).
 	
 	[Ivy](../../Characters/Bench/Air%20Conditioners/Ivy.md)
-- [ ] [AEX](../../Characters/Characters/Air%20Conditioners/AEX/AEX.md#JHR) siblings and cousins. Then assimilate JHR into a person-lith kinda like [VXU](../../Characters/Characters/Air%20Conditioners/VXU.md) with his siblings as he and his siblings are capable of multi-split unit operation. ✅ 2025-09-21
+- [ ] [AEX](../../Characters/Characters/Air%20Conditioners/AEX/AEX.md#JHR) siblings and cousins. Then assimilate JHR into a person-lith kinda like [VXU](../../Characters/Characters/Air%20Conditioners/VXU/VXU.md) with his siblings as he and his siblings are capable of multi-split unit operation. ✅ 2025-09-21
 	
 	His siblings are a Sharp AE-XM30GR, AY-XPC7JR and AY-XPM18HR. 
 	
@@ -128,7 +128,7 @@ kanban-plugin: board
 - [ ] ToshyMEF
 	
 	Toshiba MMF-AP0151H. Female.
-	Older version of [ToshyFEN](../../Characters/Characters/Air%20Conditioners/ToshyFEN.md), possibly siblings? ~ November 21, 2024 10:54:46 PM
+	Older version of [ToshyFEN](../../Characters/Characters/Air%20Conditioners/ToshyFEN/ToshyFEN.md), possibly siblings? ~ November 21, 2024 10:54:46 PM
 - [ ] Add a new smug character named Avxy, which is a Sharp AIOT air conditioner. He is a smug little shit, a cocky little shit. ~ November 21, 2024 10:54:46 PM
 - [ ] Xeo, female (she/her).
 	
@@ -138,7 +138,7 @@ kanban-plugin: board
 	
 	Her physicall attacks mostly goes as catfighting. She might get a (potentially brutal) physical beatdown from others though, as she won't fight back. Coward.
 	
-	She is also quite angry as a person, its rare to see her in a good mood. Unlike the others such as [Aurl](../../Characters/Characters/Air%20Conditioners/Aurl.md) and [ToshyFEN](../../Characters/Characters/Air%20Conditioners/ToshyFEN.md), she is never calm, she is always angery. She has unresolved anger issues.
+	She is also quite angry as a person, its rare to see her in a good mood. Unlike the others such as [Aurl](../../Characters/Characters/Air%20Conditioners/Aurl.md) and [ToshyFEN](../../Characters/Characters/Air%20Conditioners/ToshyFEN/ToshyFEN.md), she is never calm, she is always angery. She has unresolved anger issues.
 	
 	Xeo is indeed the ratfucker bitch. She is not a good person definitely. ~ November 21, 2024 10:54:46 PM
 - [ ] Add Angelsaph, a Gree Saphire air conditioner. He has a golden-white shiny halo made of solid gold-titanium-platinum-aluminium alloy. This halo is part of his body and can act as a protection. It can regenerate slowly if its damaged.

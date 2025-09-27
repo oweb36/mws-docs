@@ -78,15 +78,15 @@ He on the inside, though is another story. It's quite a struggle there. He is qu
 
 ## Relations
 
-### [DeltaCXG](VXU.md#DeltaCXG)
+### [DeltaCXG](VXU/VXU.md#DeltaCXG)
 
 DeltaCXG on several occasions has hit AngelSaph on the back of his head/body. This has resulted in his halo breaking on the impacted section. He does this to him way too often for safety's sake. DeltaCXG enjoys AngelSaph's pain, which is technically child abuse.
 
 DeltaCXG is not interested in harming AngelSaph emotionally and making him in pain that way, but enjoys causing him physical pain. DeltaCXG on some of these occasions has hurt AngelSaph so hard that his body actually managed to crack pretty badly, and bleed. 
 
-[MXU](VXU.md#MXU) has intervened on several of these incidents, with some being successful and some failing. MXU always intervenes by walking away as thats the only thing he can do.
+[MXU](VXU/VXU.md#MXU) has intervened on several of these incidents, with some being successful and some failing. MXU always intervenes by walking away as thats the only thing he can do.
 
-### [MXU](VXU.md#MXU)
+### [MXU](VXU/VXU.md#MXU)
 AngelSaph sees MXU as his physical protector. MXU knows what DeltaCXG has done, and has intervened in several occasions. AngelSaph actually likes MXU.
 
 He is not always succesful, but he tries. AngelSaph understands that MXU may not always be succesful. MXU always intervenes by walking away as thats the only thing he can do.
@@ -105,7 +105,7 @@ They always are there for each other when they need them. You know GiSelleY is t
 
 GiSelleY's the one to bring AngelSaph's mood up. GiSY is very optimistic and would cheer AngelSaph up when times are tough, to always look on the bright side of life.
 
-AngelSaph is also there when GiSY is isolated due to being emotionally damaged by others, especially by [that one nasty sociopathic person who bullies him and her](VXU.md#DeltaCXG). He helps her heal and recover too you know that? AngelSaph is aware of DeltaCXG bullying GiSY.
+AngelSaph is also there when GiSY is isolated due to being emotionally damaged by others, especially by [that one nasty sociopathic person who bullies him and her](VXU/VXU.md#DeltaCXG). He helps her heal and recover too you know that? AngelSaph is aware of DeltaCXG bullying GiSY.
 
 ### [Wheamy](Wheamy.md)
 Wheamy protects AngelSaph not only because of his young age, but also due to his emotional and physical vulnerability.
