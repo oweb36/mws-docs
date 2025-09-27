@@ -22,7 +22,7 @@ CeRNY was born in August 18, 2013. She is a cisgender and heterosexual female. C
 
 British from England.
 
-Mental health is considered as unhealthy and below average, but not pathological like [ToshyFEN](../../Characters/Air%20Conditioners/ToshyFEN/ToshyFEN.md) or even TBA.
+Mental health is considered as unhealthy and below average, but not pathological like [ToshyFEN](../../Characters/Air%20Conditioners/ToshyFEN/ToshyFEN.md) or even [CIFS](CIFS.md).
 
 [This](CeRNY_om.pdf) and [THat](CeRNY_sm.pdf) too.
 
