@@ -56,7 +56,7 @@ ToshyFEN is one person, but he has multiple minds.
 
 [FEN](#FEN) is the volatile boi while [RBC-AMSUS](#RBC-AMSUS) is the chill and cautious one.
 
-ToshyFEN is quite chill in general, but he can never be as chill as [WELLPan](WELLPan.md). ToshyFEN can also be insane and angrier than usual. FEN is the mind of ToshyFEN that is mentally unstable and insane, RBC-AMSUS is mentally stable and sane.
+ToshyFEN is quite chill in general, but he can never be as chill as [WELLPan](WELLPan.md). ToshyFEN can also be insane and angrier than usual. FEN is the mind of ToshyFEN that is mentally unstable (not as bad as [CIFS](../../../Bench/Air%20Conditioners/CIFS.md)) and insane, RBC-AMSUS is mentally stable and sane.
 
 In a nutshell for the above, FEN is not OK but he is the most capable one while RBC is OK but he is 'disabled' to say the least. With this, ToshyFEN in general has some of the worst mental health state.
 
@@ -115,6 +115,12 @@ VXU has two sides: Fear and concern.
 DeltaCXG is also fearful of ToshyFEN because his mental health is not good and he can do unhinged shit again. DeltaCXG fears what ToshyFEN is capable of. Even with that, DeltaCXG would still try to bully this guy. DeltaCXG knows that ToshyFEN is one of the few people capable of stopping him.
 
 So, MXU and CTUX are concerned and rather not get in trouble with ToshyFEN. DeltaCXg on the other hand, though knows the danger of ToshyFEN would still try to make some trouble with him.
+
+### [CIFS](../../../Bench/Air%20Conditioners/CIFS.md)
+
+CIFS, you need to go to the mental assylum. Even ToshyFEN (the already less sane one) thinks you need to go!
+
+Stop killing us all and get help! You are not the savior!
 
 
 #airconditioner 

@@ -57,6 +57,10 @@ Wheamy is very confused and worried about ToshyFEN. ToshyFEN to him is a mentall
 
 Wheamy finds NAEphthalene more pleasant in comparison to [others](../Air%20Conditioners/VXU/VXU.md#DeltaCXG). He is still not happy with him cus sexism? Bro what? To him thats just a low.
 
+### [CIFS](../../Bench/Air%20Conditioners/CIFS.md)
+
+Wheamy won't even dare to go near CIFS for fear of being killed.
+
 
 
 #washingmachines 

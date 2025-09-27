@@ -26,7 +26,7 @@ FEN btw is the dominant one in [ToshyFEN](ToshyFEN.md), while RBC-AMSUS is submi
 
 ## Personality
 
-TLDR: Mentally unstable. Have two sides because of his health.
+TLDR: Mentally unstable (is shit, but not as much as [CIFS'](../../../Bench/Air%20Conditioners/CIFS.md)). Have two sides because of his health.
 
 FEN is the mentally unstable and insane mind of ToshyFEN. FEN is mentally not ok (insane and unstable). FEN basically has two personalities that are volatile at changing about. 
 
@@ -35,7 +35,7 @@ He is suffering from:
 - *Disruptive Mood Dysregulation Disorder* 
 - *Dissociative identity disorder*
 
-Yeah, FEN should be in a psychiatric hospital but he's here. FEN in fact has one of the worst mental health states in MWS.
+Yeah, FEN should be in a psychiatric hospital but he's here. FEN has a relatively worse mental health in MWS compared to the rest. However, he is completely fine compared to [one guy](../../../Bench/Air%20Conditioners/CIFS.md).
 
  FEN has this one personality where he is really chill, and likes to chat. He can never be as chill as [WELLPan](WELLPan.md), but he is chill. He just listens, and talk a little. He likes small talk, and big talk. He is just there for WELLPan mostly, but can be there for others. Basically he just does nothing except listen and yap. FEN does observe people, but not that intently compared to [RBC](#RBC-AMSUS). He just is passive.
 

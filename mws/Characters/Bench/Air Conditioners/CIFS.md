@@ -46,4 +46,14 @@ Slow and sudden. He is sleep-bound and very tired. Likes sleeping alot.
 
 ## Relations
 
+### [ToshyFEN](../../Characters/Air%20Conditioners/ToshyFEN/ToshyFEN.md)
+
+CIFS, you need to go to the mental assylum. Even ToshyFEN (the already less sane one) thinks you need to go!
+
+Stop killing us all and get help! You are not the savior!
+
+### [Wheamy](../../Characters/Washing%20Machines/Wheamy.md)
+
+Wheamy won't even dare to go near CIFS for fear of being killed.
+
 #airconditioner 
