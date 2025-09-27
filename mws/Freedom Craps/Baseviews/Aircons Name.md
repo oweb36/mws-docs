@@ -9,6 +9,6 @@ Name ig like hooman names if we really want to. Not everybody has them.
 ```dataview
 TABLE 
 Name as "Name"
-FROM #airconditioner 
+FROM #airconditioner AND -"_Templates"
 SORT (Name = null) ASC, file.name ASC
 ```

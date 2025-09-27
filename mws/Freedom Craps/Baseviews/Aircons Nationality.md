@@ -9,6 +9,6 @@ Where did they come from?
 ```dataview
 TABLE 
 Nationality as "Nationality"
-FROM #airconditioner 
+FROM #airconditioner AND -"_Templates"
 SORT (Nationality = null) ASC, Nationality ASC, file.name ASC
 ```

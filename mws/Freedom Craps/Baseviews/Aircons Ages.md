@@ -11,7 +11,7 @@ TABLE
 dob as "Date of Birth", 
 durationformat(dur(date(today) - dob), "y'y' M'm' d'd'") AS 
 "Age (YYYY-MM-DD)"
-FROM #airconditioner
+FROM #airconditioner AND -"_Templates"
 SORT (dob = NULL) ASC, dob ASC
 ```
 

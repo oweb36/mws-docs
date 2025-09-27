@@ -15,5 +15,6 @@ That is what Relational Groups are!
 - [Emureans](Emureans.md)
 - [Ethereans](Ethereans.md)
 - [TRIPLEX](TRIPLEX.md)
+- [SWATPaper](SWATPaper.md)
 
 #relational-groups 

@@ -11,7 +11,7 @@ Some are complex, but here are their gender and sexual identities ig.
 TABLE 
 Gender-Identity as "Gender Identity",
 Sexual-Identity as "Sexual Identity"
-FROM #airconditioner 
+FROM #airconditioner AND -"_Templates"
 sort (gender-identity = NULL) ASC, (sexual-identity = null) ASC, file.name ASC
 ```
 

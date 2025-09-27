@@ -1,42 +1,44 @@
 ---
 aliases:
-  - DeltaCXG
-  - DXCG
-  - CTUX
-  - MXU
 dob: 2011-11-11
-Gender-Identity: Collective
+Gender-Identity:
+  - Collective
+  - Non-Binary
 Sexual-Identity: Collective
 Nationality:
   - UK
   - England
+Multi-Members:
+  - MXU
+  - DeltaCXG
+  - CTUX
 ---
 # VXU
 
 VXU is a [character](Characters.md) as a contestant on the [Megarchive Warehouse Show](../../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md). They originally appeared in [AACOS](../../../../Megarchive%20Warehouse%20Show/AACOS.md), an old part of old ObjecWeb36. This is because they are not just one person.
 
-DeltaCXG specifically was a host on old ObjecWeb36. Ig he still has that status, but for now he is just a competitor to win whatever [AEX](AEX/AEX.md) has.
+[DeltaCXG](DeltaCXG.md) specifically was a host on old ObjecWeb36. Ig he still has that status, but for now he is just a competitor to win whatever [AEX](AEX/AEX.md) has.
 
 ## Identity
 
 VXU is actually a multi-system triplet composed of 3 mind/people that is also a single person:
-- DeltaCXG (DCXG)
-- CTUX
-- MXU
+- [DeltaCXG (DCXG)](DeltaCXG.md)
+- [CTUX](CTUX.md)
+- [MXU](MXU.md)
 
-MXU is Daikin 2MXU40GV1B. DeltaCXG is a wall-mounted Daikin CTXU42G2V1B, while CTUX is a wall-mounted Daikin CTXU50G2V1B. This is because VXU is a **Daikin Multi-Ururu Multi-Split system**. VXU is a [heat pump](../../../Species/Air%20Conditioners.md) system, as all their members (DeltaCXG, MXU and CTUX) are heat pumps. They are basically siblings, but also the same person.
+ VXU is a **Daikin Multi-Ururu Multi-Split system**. VXU is a [heat pump](../../../Species/Air%20Conditioners.md) system, as all their members (DeltaCXG, MXU and CTUX) are heat pumps. They are basically siblings, but also the kinda the same person.
 
-CTUX was from AACOS while DeltaCXG was from an old part of old ObjecWeb36.
+[CTUX](CTUX.md) was from AACOS while [DCXG](DeltaCXG.md) was from an old part of old ObjecWeb36.
 
 They are attached to a steel board with pipes and wires connecting them together, making them one. MXU is at the bottom, the legs of VXU, while DeltaCXG and CTUX is above MXU (CTUX is placed higher than DeltaCXG). MXU is the leg of VXU, while DeltaCXG and CTUX despite having legs, is instead the arms. DeltaCXG is one pair of arms, while CTUX is another pair of arms, so VXU has 4 arms in total.
 
 MXU only has legs, but DeltaCXG and CTUX has both arms and legs. Its not that useful really as MXU is the legs of VXU, not DeltaCXG and CTUX.
 
-Both MXU and CTUX were born in August 12, 2008. DeltaCXG is a later addition to them, as he was born in November 11, 2011. VXU is non-binary (they/them), but their individual members are all strictly cisgender males. DeltaCXG is heterosexual while CTUX is bisexually heteroflexible and MXU is Asexual. The reason why VXU is non-binary, but MXU, CTUX and DeltaCXG is male is because VXU is not just one person, but three person as one person (aka referencing VXU is collective referencing).
+VXU is non-binary (they/them), but their individual members are all strictly cisgender males.  The reason why VXU is non-binary, but MXU, CTUX and DeltaCXG is male is because VXU is not just one person, but three person as one person (aka referencing VXU is collective referencing).
 
 If skin color matters, VXU is white.
 
-Whatever you do, don't try to disconnect a member of VXU from VXU. That's quite rude and it hurts to do so. An example is disconnecting [MXU](#MXU) from [DeltaCXG](#DeltaCXG) by ripping DeltaCXG off or disconnecting their cables. It would hurt [CTUX](#CTUX) too.
+Whatever you do, don't try to disconnect a member of VXU from VXU. That's quite rude and it hurts to do so. An example is disconnecting [MXU](MXU.md) from [DeltaCXG](DeltaCXG.md) by ripping DeltaCXG off or disconnecting their cables. It would hurt [CTUX](CTUX.md) too.
 
 Funny thing is that because DeltaCXG was born later, this means that VXU before DeltaCXG is non-functional lol. VXU reached their full form when DeltaCXG was born (AKA November 11, 2011).
 
@@ -44,35 +46,7 @@ Funny thing is that because DeltaCXG was born later, this means that VXU before 
 
 Since VXU is a triad that is also a single person, each of the people in VXU has their own personalities. Each of them has contrasting personality that can balance each other out.
 
-### DeltaCXG
-TLDR: Psychopathic, sadist and uncaring saboteur. Cares for a few (MXU, CTUX), but still bullies them (especially the latter). Empathy-lacking, enjoys people suffering. Noticeably targets girls more than boys. Not good.
-
-DeltaCGX is the ~~sociopathic~~ psychopathic, sadistic and uncaring saboteur. He cares for his siblings (AKA those who is part of VXU, including MXU), but doesn't care about others except for a select few. Despite this, he still bullies [MXU](#MXU) because MXU is too kind.
-
-He not only lacks empathy, he also enjoys watching other people suffer. Though not discriminatory, he noticeably targets girls more than the boys.
-
-DeltaCXG is the bad person here. Well, it's more like he has a personality disorder, but that does not excuse what he does.
-## CTUX
-
-TLDR: Strong willed, overconfident and arrogant-ass guy. Great at leadership and strategic thinking, but whatevs. Known to underestimate people at times. He can be humble though at times. Not that ~~sociopathic~~ psychopathic unlike [DeltaCXG](#DeltaCXG). He would not willingly hurt others unlike DeltaCXG, and violence is too far. Would like to stop this psychopath, but CTUX does not have the power to do so unlike [MXU](#MXU) and would like to protect others. Is good.
-
-CTUX is the overconfident and arrogant, but strong willed competitor, and is a good person in general. He is confident and determined. He can lead people with his great leadership skills, and is intelligent. He can strategically think.
-
-CTUX's arrogance due to his confidence may lead him to underestimate others. Although his arrogance manifests quite often, at times he is humble
-
-CTUX is not that psychopathic ~~sociopathic~~ though. He would not willingly hurt others, unlike his fellow brother [DeltaCXG](#DeltaCXG). He finds physical violence too far for him. CTUX would also try to stop DeltaCXG if he can, like [MXU](#MXU) is brother, but he is too powerless to do so (at least MXU is the one capable of that). If he has power, CTUX would protect others.
-
-CTUX inherently is not a bad person, but genuinely a good person. He is just too arrogant and leadership-oriented for this good side to manifest frequently.
-
-## MXU
-
-TLDR: Gentle. Not brash, and would stop [this ~~sociopath~~ psychopath](#DeltaCXG) from terrorizing and hurting others. Snap-ass. And is good, and has power unlike [CTUX](VXU.md) bruh.
-
-MXU is the gentle one. He is not as brash as the others. MXU would even try to stop his fellow brothers, especially [DeltaCXG](#DeltaCXG) from terrorizing others.
-
-Can be assertive at times, especially with DeltaCXG. May also be quite snappy, but yeah that is him.
-
-MXU is a good person definitely. He has power, but is armless.
+> Individually explained in [DeltaCXG/DCXG](DeltaCXG.md), [CTUX](CTUX.md), and [MXU](MXU.md).
 
 ## Relations
 

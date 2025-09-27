@@ -18,7 +18,7 @@ ZeNer is a Daikin FTXZ50NV1B wall-mounted [heat pump](../../Species/Air%20Condit
 
 He was born in August 16, 2017. He is a genderfluid pansexual, but prefers to be male (he/him) except under certain circumstances aka being mutogender. Fine english.
 
-Zener Zenerysis.
+ZeNer is also Zenerysis in full glory.
 
 He is the younger sibling of [RXe](RXe.md).
 
