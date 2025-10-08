@@ -17,6 +17,8 @@ Multi-Association:
 {{title}} was born in {date}. They are {identity} ({pronouns}).
 
 ## Personality
+> TLDR: Cook me some
+
 TBA
 
 ## Relations

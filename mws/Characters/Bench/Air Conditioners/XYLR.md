@@ -19,6 +19,8 @@ XYLR was born in January 8, 2010. He is a cishet male (he/him).
 ## Personality
 
 > TLDR: Likes Electronic (and EDM).
+> TLDR2: Silly little mongoose. Also good, nice, and kind.
+> TLDR3: Quite hyperactive and will run around a lot.
 
 Expand this crap.
 ## Relations

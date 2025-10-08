@@ -1,0 +1,12 @@
+- <span style="background: #861d1d;">S</span>
+	- [WELLPan](../../Characters/Characters/Air%20Conditioners/WELLPan.md)
+	- [JHR](../../Characters/Characters/Air%20Conditioners/AEX/JHR.md)
+	- [MHeLy](../../Characters/Characters/Air%20Conditioners/MHeLy.md)
+- <span style="background: #ad6a28;">A</span>
+- <span style="background: #a17e19;">B</span>
+- <span style="background: #888814;">C</span>
+- <span style="background: #127c36;">D</span>
+- <span style="background: #1d5986;">F</span>
+- To Rank 
+	- 
+- Settings #tier-list

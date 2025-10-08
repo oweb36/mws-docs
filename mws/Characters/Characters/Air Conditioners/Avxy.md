@@ -41,4 +41,14 @@ Avxy actually fears [[DeltaCXG](VXU/VXU.md#DeltaCXG)]. He knows that DeltaCXG wo
 
 KaHLium is not a fan of Avxy's antics.
 
+### [XKC](../../Bench/Air%20Conditioners/XKC.md)
+
+They are great pairings! Combine prank and tomfool and you get something unique to watch!
+
+### [ZeNer](ZeNer.md)
+
+We got the daredevil and the prankster here. Combine two and you get a pretty jackass prank. They are very good at their thing, which is making reckless pranks.
+
+Please, do not get ZeNer and Avxy together for the sake of everybody else.
+
 #airconditioner 

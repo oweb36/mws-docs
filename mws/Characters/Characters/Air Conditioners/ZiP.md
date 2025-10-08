@@ -29,4 +29,8 @@ Also he quite gay.
 And he is short-tempered and impatient. Slow things down and he is incensed. So yeah, do things fast!
 ## Relations
 
+### [DKE](../../Bench/Air%20Conditioners/DKE.md)
+
+ZiP is actually good with him. He is fast, and can actually help DKE sort very fast. ZiP thinks DKE has an interesting personality and collection. In turn, DKE sees ZiP as one of his few friends.
+
 #airconditioner 

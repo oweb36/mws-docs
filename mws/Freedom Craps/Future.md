@@ -7,7 +7,7 @@ What's This?: This board is for how the characters will be in the future. How th
 
 ## Future Ideas
 
-- [ ](../Characters/Characters/Air%20Conditioners/ToshyFEN/ToshyFEN.md) won't grow taller, but he has extra things.
+- [ ] [ToshyFEN](../Characters/Characters/Air%20Conditioners/ToshyFEN/ToshyFEN.md) won't grow taller, but he has extra things.
 	
 	Still durable AF.
 	
@@ -26,7 +26,7 @@ What's This?: This board is for how the characters will be in the future. How th
 	Also despite him being way more chill, he is way more sociable. He will talk more than his younger self and he can do crap you know. He now can trash talk others and roast them, but he is nice when sociable and everything is right.
 	
 	Also ToshyFEN as a whole would gain another side. Stealth Assassin side. He can assassinate others if needed. Way more competent.
-- [ ](../Characters/Characters/Air%20Conditioners/Aufs.md) is more normal.
+- [ ] [AuFS](../Characters/Characters/Air%20Conditioners/Aufs.md) is more normal.
 	
 	Aufs is more normal. He is less weird than before, but he is more stalking than before. Aufs also opens up even more.
 	
@@ -35,9 +35,9 @@ What's This?: This board is for how the characters will be in the future. How th
 	
 	Well, for one he would have crystals budding all over his body. Those are green KEP crystals and they pierce through out his body. Its kinda like a Siliconic flesh monster except that crystals pierces their body and those crystals are natural. He has KEP nucleation-budding crystals inside of him.
 	
-	This monster-like being is actually called a Torrentmesh, whose biology is based on Silicon instead of Carbon.
+	This monster-like being is actually called a Torrentmesh, whose biology is based on Silicon instead of Carbon. NAEphthalene would specifically become the *torrens rete myxozygos*.
 	
-	NEptha would also lets say be reborn (ig). Lets say his left side almost the majority of it gets replaced by metal cybernetics. 
+	NEptha/NAEphthalene would also lets say be reborn (ig). Lets say his left side almost the majority of it gets replaced by metal cybernetics. 
 	- Left eye is enchanced for night vision, but crappy day vision resolution (both color and low-light). 
 	- Left leg is replaced with metallic cybernetic.
 	- Left arm is intact.
@@ -49,7 +49,7 @@ What's This?: This board is for how the characters will be in the future. How th
 
 ## Future Ideas 2
 
-- [ ](../Characters/Characters/Air%20Conditioners/MHeLy.md) would have a massive overhaul in identity and appearance, probably. She got a **GLOW UP**!
+- [ ] [MHeLy ](../Characters/Characters/Air%20Conditioners/MHeLy.md) would have a massive overhaul in identity and appearance, probably. She got a **GLOW UP**!
 	
 	## Appearance and physiology
 	She is way taller than currently. Way taller.
@@ -92,7 +92,7 @@ What's This?: This board is for how the characters will be in the future. How th
 	She is still nice and kind, but not that nice as before. Life has shown to be futile to her. 
 	
 	DeltaCXG was the one who opened her eyes to the world's futility. DeltaCXG had hurt her many times and now she sees that the world needs help. She is way less nice so she can do the duty of helping the world a better place. And yes, DeltaCXG basically betrayed her at some point.
-- [ ](../Characters/Characters/Air%20Conditioners/Xeo.md) would be taller, and be damaged (cracks and slight inward bent as scars, she is still ok though dw about her as she still works). 
+- [ ] [Xeo](../Characters/Characters/Air%20Conditioners/Xeo.md) would be taller, and be damaged (cracks and slight inward bent as scars, she is still ok though dw about her as she still works). 
 	
 	## Personality
 	She would have controlled some of her anger issues, but she still has some of the anger issues left (Its her now). Xeo is still the angriest person, but she would have mellowed out a bit.
@@ -104,7 +104,7 @@ What's This?: This board is for how the characters will be in the future. How th
 
 ## Future Ideas 3
 
-- [ ](../Characters/Characters/Air%20Conditioners/AngelSaph.md) is now fully grown and tall. 
+- [ ] [AngelSaph](../Characters/Characters/Air%20Conditioners/AngelSaph.md) is now fully grown and tall. 
 	
 	## Angelity
 	He now also has a ring that floats with him, that allows him to see from the back. It has eyes at the back. This ring is made of the same material as his halo.
@@ -124,7 +124,7 @@ What's This?: This board is for how the characters will be in the future. How th
 	He would become more mature, and way tougher mentally. He would still be empathetic to others and still depressed.
 	
 	This means that you can't no longer easily bully his mental state into deterioration. He is now fully mature and can take a beating.
-- [ ](../Characters/Characters/Air%20Conditioners/GiSelleY.md) would become taller. She would also become a partial angel like [AngelSaph](../Characters/Characters/Air%20Conditioners/AngelSaph.md). Like AngelSaph, she would later also have some of her body partially become flesh the AngelSaph way. So she would later become an enchanced cyborg being. She would be biologically female in this case.
+- [ ] [GiSelleY](../Characters/Characters/Air%20Conditioners/GiSelleY.md) would become taller. She would also become a partial angel like [AngelSaph](../Characters/Characters/Air%20Conditioners/AngelSaph.md). Like AngelSaph, she would later also have some of her body partially become flesh the AngelSaph way. So she would later become an enchanced cyborg being. She would be biologically female in this case.
 	
 	Her halo would behave like AngelSaph, except the emotional indications because she is more noticable about her mental and emotional health unlike AngelSaph. Her halo is unique though, as its made of 18K rose gold, giving her halo a unique look. Her halo also looks like a lower-grade-quality version of [AngelSaph](../Characters/Characters/Air%20Conditioners/AngelSaph.md)'s halo. Its as if her halo has been broken and then someone poorly rewelded bits of her halo again.
 	

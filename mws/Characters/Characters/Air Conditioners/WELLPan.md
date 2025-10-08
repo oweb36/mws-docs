@@ -6,6 +6,7 @@ Sexual-Identity:
   - Helisexual
 Nationality:
   - Hungary
+Image:
 ---
 # WELLPan
 

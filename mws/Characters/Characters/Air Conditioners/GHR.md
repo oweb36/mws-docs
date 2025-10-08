@@ -22,6 +22,10 @@ Skin color would be gray and silvery if maters, shiny and glossy too. Also GHR h
 
 GHR was born in October 24, 2006. She is a cisgender heterosexual female (she/her). Btw she likes fashion.
 
+### Outfit (WTF)
+
+Since she's a Fashionista, we gotta give her smth to make her stand out.
+
 ## Personality
 
 > TLDR: A fashionista, and a vain one too. A sassy diva, and also the charismatic queen bee. A snappy one. A rude gal with a hidden heart of gold. Also quite nice and kind too when you get to her.
@@ -41,5 +45,7 @@ With that, lemme say this: She is **mature**. GHR is a mature woman. She knows b
 ### [XYLR](XYLR.md)
 
 They are not just friends, but a couple!
+
+### [CeRNY](../../Bench/Air%20Conditioners/CeRNY.md)
 
 #airconditioner 

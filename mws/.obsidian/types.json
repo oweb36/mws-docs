@@ -29,6 +29,7 @@
     "Nationality": "multitext",
     "Gender-Identity": "multitext",
     "Na": "multitext",
-    "Multi-Members": "multitext"
+    "Multi-Members": "multitext",
+    "NVSCG": "multitext"
   }
 }

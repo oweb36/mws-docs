@@ -12,6 +12,8 @@ Multi-Members:
   - MXU
   - DeltaCXG
   - CTUX
+NVSCG:
+  - "[[DeltaCXG]]"
 ---
 # VXU
 

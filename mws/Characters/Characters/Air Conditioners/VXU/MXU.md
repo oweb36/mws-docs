@@ -9,6 +9,9 @@ Nationality:
   - England
 Name:
 Multi-Association: VXU
+NVSCG:
+  - Captive
+  - "[[DeltaCXG]]"
 ---
 # MXU
 
@@ -35,4 +38,4 @@ MXU is a good person definitely. He has power, but is armless.
 
 > Explained in [VXU](VXU.md)
 
-#airconditioner #TODO 
+#airconditioner 

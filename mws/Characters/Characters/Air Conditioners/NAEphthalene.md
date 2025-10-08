@@ -14,6 +14,8 @@ Nationality:
 Name:
   - Naephthalene
   - Naephthalene Phoriphesus Kubrix
+NVSCG:
+  - Host
 ---
 # NAEphthalene
 

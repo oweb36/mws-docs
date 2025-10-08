@@ -15,8 +15,9 @@ Name:
 {{title}} was born in {date}. They are {identity} ({pronouns}).
 
 ## Personality
-TBA
+> TLDR: Cook me some
 
+TBA
 ## Relations
 
 #TODO 

@@ -7,6 +7,8 @@ Nationality:
   - England
 Name:
   - Zenerysis
+NVSCG:
+  - Player/Contestant
 ---
 # ZeNer
 
@@ -33,5 +35,17 @@ Daredevil. ZeNer is the one who would do reckless stunts in order to impress oth
 ZeNer is also not the most intelligent. He out of all people would always choose some of the most dangerous stunts. He probably became less intelligent due to some of his stunts (in rare cases) failing and causing "brain" damage or whatever is equivalent, but yeah there's this endless cycle now. He risks his life though with his not so alright intelligence.
 
 ## Relations
+
+### [XKC](../../Bench/Air%20Conditioners/XKC.md)
+
+They are great friends! XKC is the restraint though, monitoring the genderfluid Hi-Tech boy that is ZeNer so he would not die!
+
+XKC tomfucks while ZeNer Jackasses.
+
+### [Avxy](Avxy.md)
+
+We got the daredevil and the prankster here. Combine two and you get a pretty jackass prank. They are very good at their thing, which is making reckless pranks.
+
+Please, do not get ZeNer and Avxy together for the sake of everybody else.
 
 #airconditioner 

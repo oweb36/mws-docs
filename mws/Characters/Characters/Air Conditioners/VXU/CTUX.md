@@ -10,6 +10,9 @@ Nationality:
   - England
 Name:
 Multi-Association: VXU
+NVSCG:
+  - Captive
+  - "[[DeltaCXG]]"
 ---
 # CTUX
 
@@ -39,4 +42,4 @@ CTUX inherently is not a bad person, but genuinely a good person. He is just too
 
 > Explained in [VXU](VXU.md)
 
-#airconditioner #TODO 
+#airconditioner 

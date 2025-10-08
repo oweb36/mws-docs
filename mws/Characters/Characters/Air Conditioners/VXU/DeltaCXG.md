@@ -11,6 +11,9 @@ Name:
 Multi-Association: VXU
 aliases:
   - DCXG
+NVSCG:
+  - Narrator
+  - Announcer
 ---
 # DeltaCXG
 
@@ -37,4 +40,4 @@ DeltaCXG is the bad person here. Well, it's more like he has a personality disor
 
 > Explained in [VXU](VXU.md)
 
-#airconditioner #TODO 
+#airconditioner 

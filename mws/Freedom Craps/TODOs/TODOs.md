@@ -42,9 +42,38 @@ kanban-plugin: board
 
 ## Todo
 
+- [ ] #etherean  and one non-etherean:
+	
+	CS-XZ50VKEW, CS-VE12NKE
+- [ ] XENKE Family:
+	
+	- CS-XE21NKEW
+	- CS-E18NKEW
+	- CS-E15NKEW
+	- CS-XE12NKEW
+	- CU-4E23LBE
+	
+	All #etherean
+- [ ] The #emureans
+	
+	- FTXG50JV1BS -> TXVBS (Male: he/him, Silver)
+	- FTXJ50MV1BS -> XJ (Male: he/him, Silver)
+	- FTXG25CVMBW -> (Female: she/her, White)
+	- FTXG35EV1BS -> (Male: he/him, Silver)
+	- FTXJ42A2V1BB -> TJ (Male: he/him, Black)
 
 
 ## Current
+
+- [ ] Mitsubishi Electric boi
+	
+	PSH-6GJHSA (SASHS)
+	June 13, 1997
+	
+	The Chemist who specializes in Stoichiometry
+
+
+## Always Current
 
 - [ ] Give [them](../../Characters/Species/Air%20Conditioners.md) into different types, and other bits. Use properties
 	
@@ -52,17 +81,17 @@ kanban-plugin: board
 - [ ] Rewrite personalities while staying consistent.
 	
 	Rewrite by studying them, breaking them apart into traits and rewrite them.
-- [ ] Break Multi-Personality peeps into a folder with the collective and individual people/entities.
-
-
-## Always Current
-
 - [ ] Complete #TODO
+- [ ] Refactor the pages so that they do not form a giant unintelligible mess of graph edges
 
 
 ## Done
 
 **Complete**
+- [x] Gay: ✅ 2025-10-05
+	
+	CS-XE12CKE ([XKC](../../Characters/Bench/Air%20Conditioners/XKC.md)) and CS-TE12DKE ([DKE](../../Characters/Bench/Air%20Conditioners/DKE.md))
+- [x] Break Multi-Personality peeps into a folder with the collective and individual people/entities. ✅ 2025-09-27
 - [x] - Sharp AY-XPC18LR (M, Italian, 2010) -> [XYLR](../../Characters/Bench/Air%20Conditioners/XYLR.md) -> 2010s Gen-Z kid who enjoys EDM. ✅ 2025-09-21
 	- Sharp AY-XP09GHR (F, French, 2006) -> [GHR](../../Characters/Characters/Air%20Conditioners/GHR.md) - Fashion
 	- Sharp AY-XP18ZHU (M, Canadian-French, 2024) -> [ZHU](../../Characters/Bench/Air%20Conditioners/ZHU.md)

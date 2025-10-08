@@ -51,4 +51,4 @@ MHR respects [MXU](../VXU/VXU.md#MXU) for attempting to stop [this dumbass](../V
 
 MHR has problems with DeltaCXG. He does not like DeltaCXG bullying and harming others. MHR would rip DeltaCXG if he dares hurt [PCR](#PCR). MHR is also that one guy along with ToshyFEN to stop DeltaCXG if needed.
 
-#airconditioner #TODO 
+#airconditioner 
