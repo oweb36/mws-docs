@@ -18,7 +18,7 @@ AEX is a [character](../../../Characters.md) the host of [Megarchive Warehouse S
 
 When I said that AEX also used to be the host of AACOS, I meant [JHR](JHR.md) of AEX and not AEX as a whole. This also means that JHR is the host of MWS, and the rest are just his co-host because they are also AEX ig. To recap this, JHR is the host while the rest kinda co-hosts.
 
-AEX is kinda like [VXU](../VXU/VXU.md) in physiology. 
+AEX is kinda like [VXU](../VXU/VXU.md) and [RAM](../RAM/RAM.md) (and others) in physiology as they are multi-splits. 
 
 ## Identity
 AEX is a Sharp Multi-Split [heat pump](../../../Species/Air%20Conditioners.md) system. They are a quadruplets composed of 4 units:
