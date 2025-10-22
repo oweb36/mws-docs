@@ -47,9 +47,9 @@ CeRNY is way smarter than you think, but no way on the level of [JHR](../../Char
 
 You will see that she is emotionally intelligent. Social intelligence, its high on the inside, but low on the outside (you will also see later). Verbal intelligence is medium-ish since she is mute.
 
-Her logical intelligence is actually quite great. Not on the level to perform real applied math, but at least she can do graph theory and computer science. She can do math well, but **NOT** einstein level. CeRNY can do trigonometry and geometry, alongside statistics (those three are the bane of most people).
+Her logical intelligence is actually quite great. Not on the level to perform real applied math, but at least she can do graph theory and computer science. She can do math well, but **NOT** einstein level. CeRNY can do trigonometry and geometry, alongside statistics (those three are the bane of most people). She's not that great at chemistry (Don't worry, [SASHuan (or `Juan`)](../../Characters/Air%20Conditioners/SASHuan.md) got her back).
 
-CeRNY has high spatial intelligence. Skating is proof of this.
+CeRNY has high spatial intelligence. Skating is proof of this. Its nothing compared to [Flerovy](../../Characters/Air%20Conditioners/Flerovy.md).
 
 Creative Intelligence? Way high! She knows mascara!
 
@@ -135,4 +135,14 @@ So CeRNY still may be nice, but **BEWARE** for you still can piss off and anger 
 
 ### [GHR](../../Characters/Air%20Conditioners/GHR.md)
 
-#airconditioner 
+### [SASHuan](../../Characters/Air%20Conditioners/SASHuan.md) and [Flerovy](../../Characters/Air%20Conditioners/Flerovy.md)
+
+These 3 are the perfect partners in science.
+
+CeRNY can do the math, while SASHuan can do the stoichiometry, and Flerovy can do the precise movements of adding the chemicals.
+
+A well-oiled trio they are. CeRNY, SASHuan, and Flerovy, are capable of executing some of the greatest chemical feats (they have ever seen). They know how to handle a lot of crazy things, which may or may not be: `nitrating toluene into TNT`, `handling nitroglycerin`, etc...
+
+They are great at working together, and they have no qualms of animosity. They hang out with each other, cus they great.
+
+#airconditioner #TODO 

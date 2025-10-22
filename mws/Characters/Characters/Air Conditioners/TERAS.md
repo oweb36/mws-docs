@@ -8,14 +8,14 @@ Nationality:
 ---
 # TERAS
 
-TERAS is a [character](Characters.md) as a contestant on the [Megarchive Warehouse Show](../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md). He originally appeared in [AACOS](../../../Megarchive%20Warehouse%20Show/AACOS.md).
+TERAS is a [character](Characters.md) as a contestant on the [Megarchive Warehouse Show](../../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md). He originally appeared in [AACOS](../../../../Megarchive%20Warehouse%20Show/AACOS.md).
 ## Identity
 
-TERAS is a Hitachi RAS-14EH2 wall-mounted [heat pump](../../Species/Air%20Conditioners.md). His name is prounced as Teh-Ras, or *'teras'* in Indonesian.
+TERAS is a Hitachi RAS-14EH2 wall-mounted [heat pump](../../../Species/Air%20Conditioners.md). His name is prounced as Teh-Ras, or *'teras'* in Indonesian.
 
 Teras was born in April 11, 2006. He is a cisgender and heterosexual male (he/him). English.
 
-[Raiie](Raiie.md) and [RACK](RACK.md) is the elder sibling to TERAS.
+TERAS is siblings with [RAM](RAM.md) (Meaning TERAS is also siblings with [Raiie](RAM/Raiie.md) and [RADStler](RAM/RADStler.md)) and [RACK](RACK.md).
 
 If skin color matters, TERAS is white.
 

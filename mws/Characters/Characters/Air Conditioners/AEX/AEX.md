@@ -73,6 +73,8 @@ JHR is a wall-mounted Sharp AY-XPC12JHR [heat pump](../../../Species/Air%20Condi
 
 JHR is the dominant sibling out of AEX. He is not the strongest one physically though in AEX. 
 
+A cousin to [Ivy](../../../Bench/Air%20Conditioners/Ivy.md).
+
 > Explained more in [in his own page](JHR.md).
 
 

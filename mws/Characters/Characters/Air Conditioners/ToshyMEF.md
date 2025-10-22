@@ -45,4 +45,20 @@ ToshyFEN is wary of ToshyMEF's slight homophobia. He knows that ToshyMEF would g
 
 ToshyMEF on the contrary is aware of ToshyFEN's quite horrible mental health. She is ready to subdue him when the situation is right. She has enough strength to do that. Sometimes ToshyMEF thinks whether ToshyFEN should go to a psychatric hospital.
 
+### [SASHuan](SASHuan.md)
+
+They are not to be put together ig. ToshyMEF would manipulate [`Juan`](SASHuan) into making dangerous chemicals that could kill. Also ToshyMEF would probably keep on disturbing SASHuan with his chemistry.
+
+### [Xefa](Xefa.md)
+
+These two could socialize well.
+
+Both have that **sass**, and **rudeness**. They would joke and connect well. Xefa and ToshyMEF would be in sync with each other. Poke fun at others? Hell Yeah!
+
+### [Ivy](../../Bench/Air%20Conditioners/Ivy.md)
+
+Sassy and Workforce, they are not going to do well.
+
+ToshyMEF being rude, is not going to do well with Ivy. Expect a lot of conflicts, so yeah...
+
 #airconditioner #weirdidentities 

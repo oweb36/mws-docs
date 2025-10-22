@@ -78,4 +78,8 @@ WELLPan is chill. WELLPan is one of the people Xeo has no problems with.
 
 Xeo might snark WELLPan once in a while, but its not **THAT** big of a deal since WELLPan is chill and Xeo has no qualms.
 
+### [Ivy](../../Bench/Air%20Conditioners/Ivy.md)
+
+Somehow, these two are always fighting if they are put together. One is angry, one is bossy. You know Xeo and Ivy wouldn't mix well.
+
 #airconditioner #etherean 

@@ -114,4 +114,18 @@ Not a lot to say.
 CKHSC: Get yo ass up, WELLPan.
 WELLPan: Lemme enjoy my life.
 
+### [SASHuan](SASHuan.md)
+
+> With [ToshyFEN](ToshyFEN/ToshyFEN.md)
+
+WHat do you expect? They have no problems, especially with [`Juan`](SASHuan) and WELLPan. 
+
+They can combine their brain power together, and cook cool things. WELLPan is not crazy though, he wouldn't come up with a pyromaniac's love interest. Do not worry, they won't [nitrate toluene](void:Hell-Nah-Thats-Making-Trinitrotoluene-AKA-TNT) together.
+
+SASHuan is slightly unnerved by ToshyFEN because you know the latter guy is quite unstable. He might be umm slightly scared, but other than that no blemishes. They can have fun together, and especially with WELLPan. SASHuan is still careful of ToshyFEN because the latter might go berserk.
+
+### [Ivy](../../Bench/Air%20Conditioners/Ivy.md)
+
+WELLPan is lazy, so Ivy does not like him. Yeah, its obvious. Ivy clearly hates WELLPan because he lazy and chill, the antithesis to Ivy's ideology and philosophy.
+
 #airconditioner #weirdidentities

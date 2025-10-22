@@ -8,15 +8,15 @@ Nationality:
 ---
 # Raiie
 
-Raiie is a [character](Characters.md) as a contestant on the [Megarchive Warehouse Show](../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md). He originally appeared in [AACOS](../../../Megarchive%20Warehouse%20Show/AACOS.md) with a different name.
+Raiie is a [character](Characters.md) as a contestant on the [Megarchive Warehouse Show](../../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md). He originally appeared in [AACOS](../../../../Megarchive%20Warehouse%20Show/AACOS.md) with a different name.
 
 ## Identity
 
-He is a Hitachi RAI-25NH5 4-way cassette [heat pump](../../Species/Air%20Conditioners.md). His name is pronounced as Rai, or Ra-yi.
+He is a Hitachi RAI-25NH5 4-way cassette [heat pump](../../../Species/Air%20Conditioners.md). His name is pronounced as Rai, or Ra-yi.
 
 He was born on June 6, 2005. He is a pansexual genderfluid person. Raiie prefers to be male (he/him), but Raiie will change if he has too when the circumstances and situation warrants it (such as male persecution), AKA mutogender.
 
-[TERAS](TERAS.md) is the younger brother of Raiie, while [RACK](RACK.md) is the elder brother to Raii. English.
+[Raiie](Raiie.md), [RAMH](RAMH.md), and [RADStler](RADStler.md) are siblings, and one multi-split installation ([RAM](RAM.md)) alongside [RAMH](RAMH.md). [RACK](../RACK.md) is considered as an elder sibling to them. English.
 
 If skin color matters, he is white.
 ## Personality
@@ -27,11 +27,11 @@ Raiie is a skilled negotiator. He can negotiate things with others. He knows wha
 
 Raiie also likes to compromise if he can. This is so that both can get the best of both world. This proves that Raiie does things for the benefit of both sides. Yes he does! Raiie does things the way he does to benefit both sides. He is benevolent after all.
 
-Raiie is also the mediator between [TERAS](TERAS.md) and [RACK](RACK.md) because of his negotiation skills. Raiie would figure out their sweet spots for everything.
+Raiie is also the mediator between [TERAS](../TERAS.md) and [RACK](RACK.md) because of his negotiation skills. Raiie would figure out their sweet spots for everything.
 
 ## Relations
 
-### [TERAS](TERAS.md)
+### [TERAS](../TERAS.md)
 
 TERAS is the younger brother to Raiie. TERAS pranks Raiie almost all the time. Raiie finds it funny, but annoying. Raiie sees TERAS as an unsupervised toddler.
 

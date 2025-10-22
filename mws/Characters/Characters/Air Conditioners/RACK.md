@@ -16,7 +16,7 @@ He is a Hitachi RAK-60NH4 wall-mounted [heat pump](../../Species/Air%20Condition
 
 He was born in January 3, 2003. He is a cisgender and heterosexual male. English.
 
-He is the elder brother and sibling to [TERAS](TERAS.md) and [Raiie](Raiie.md) respectively.
+He is the elder brother to [RAM](RAM/RAM.md)(this means RACK is the elder brother to [Raiie](RAM/Raiie.md), [RADStler], and [RAMH](RAM/RAMH.md)), and [TERAS](TERAS.md).
 
 If skin color matters, RACK is beige.
 
@@ -28,7 +28,7 @@ RACK is fairly disciplined. He likes to stay on schedule and follow the line. He
 
 He is open-minded even though he is a traditionalist. RACK might even want to make a progressive form of the traditions with some form from the new modern era. He will try to figure out a balance of the trusted traditions and the new and fast-moving new culture.
 
-RACK always tries to find balance in all things. He is the neutralist even though ironically he ain't one between his [sib](TERAS.md)[lings](Raiie.md). RACK believes in the philosophy of *everything is good in moderation*. Basically RACK would always go for the *true neutral*. If he can't he would choose what is best for the heat of the moment and the future.
+RACK always tries to find balance in all things. He is the neutralist even though ironically he ain't one between his [sib](TERAS.md)[lings](RAM/Raiie.md). RACK believes in the philosophy of *everything is good in moderation*. Basically RACK would always go for the *true neutral*. If he can't he would choose what is best for the heat of the moment and the future.
 
 ## Relations
 
@@ -36,7 +36,7 @@ RACK always tries to find balance in all things. He is the neutralist even thoug
 
 TBA
 
-### [Raiie](Raiie.md)
+### [Raiie](RAM/Raiie.md)
 
 TBA
 

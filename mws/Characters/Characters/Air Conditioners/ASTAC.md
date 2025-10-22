@@ -29,4 +29,12 @@ ASTAC is also prepared for life. He is quite acceptably wise for his age. He mig
 
 They are friends, but have a friendly rivalry. CKHSC is aware that ASTAC is more open to changes compared to himself.
 
+### [SASHuan](SASHuan.md), [ASTAC](ASTAC.md) (and CKHSC)
+
+> More CKHSC stuff over [there](#[CKHSC](CKHSC.md))
+
+These 4 would be great ig. PFSA may have less influence, because PFSA is a such bumblingly-drunk bubbly guy that he might accidentally mix dangerous chemicals with SASHuan.
+
+ASTAC would probably learn from [`Juan`](SASHuan.md), because ASTAC is still learning life even at an old age. CKHSC is the one to well, tell SAShuan to slow down because nobody likes their chemicals exploding in their face.
+
 #airconditioner

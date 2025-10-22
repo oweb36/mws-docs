@@ -42,9 +42,13 @@ kanban-plugin: board
 
 ## Todo
 
-- [ ] #etherean  and one non-etherean:
+- [ ] The #emureans
 	
-	CS-XZ50VKEW, CS-VE12NKE
+	- FTXG50JV1BS -> TXVBS (Male: he/him, Silver)
+	- FTXJ50MV1BS -> XJ (Male: he/him, Silver)
+	- FTXG25CVMBW -> (Female: she/her, White)
+	- FTXG35EV1BS -> (Male: he/him, Silver)
+	- FTXJ42A2V1BB -> TJ (Male: he/him, Black)
 - [ ] XENKE Family:
 	
 	- CS-XE21NKEW
@@ -53,28 +57,56 @@ kanban-plugin: board
 	- CS-XE12NKEW
 	- CU-4E23LBE
 	
-	All #etherean
-- [ ] The #emureans
+	All #etherean and male
+- [ ] #etherean  and one non-etherean:
 	
-	- FTXG50JV1BS -> TXVBS (Male: he/him, Silver)
-	- FTXJ50MV1BS -> XJ (Male: he/him, Silver)
-	- FTXG25CVMBW -> (Female: she/her, White)
-	- FTXG35EV1BS -> (Male: he/him, Silver)
-	- FTXJ42A2V1BB -> TJ (Male: he/him, Black)
+	CS-XZ50VKEW (Faegender), CS-VE12NKE (Male)
+
+
+## Todo2
+
+- [ ] Terra
+	
+	Gree TERRA24HP230V1B
+	Female (she/her)
+	
+	Chewing tobbaco wild cowgirl
+- [ ] LFC
+	
+	LG LF300CP  
+	Male (he/him)
+- [ ] KAPS
+	
+	Mitsubishi Electric - PSA-RP140KA
+	He/Him (male) - [SASHuan](../../Characters/Characters/Air%20Conditioners/SASHuan.md)'s younger sibling
+- [ ] VALFire and PLAN
+	
+	Mitsubishi Electric
+	- VALFire (SLZ-KA50VAL)
+	- PLAN (PLA-RP140BA)
+	
+	Both male (he/him), and they are siblings
 
 
 ## Current
 
-- [ ] Mitsubishi Electric boi
+- [ ] Hitachi RAD-18NH7A with optional SPX-RCK2 installed.
 	
-	PSH-6GJHSA (SASHS)
-	June 13, 1997
+	[RADStler](../../Characters/Characters/Air%20Conditioners/RAM/RADStler.md)  
+	From RAD, and the NH7 which reminds me of NH4
+- [ ] Bring [Raiie](../../Characters/Characters/Air%20Conditioners/RAM/Raiie.md) together alongside [RADStler](../../Characters/Characters/Air%20Conditioners/RAM/RADStler.md) into a Multi-split system via RAM-130QH5.
 	
-	The Chemist who specializes in Stoichiometry
+	RAM-130QH5 is RAMH.
 
 
 ## Always Current
 
+- [ ] Mitsubishi Electric boi
+	
+	PSH-6GJHSA ([SASHuan](../../Characters/Characters/Air%20Conditioners/SASHuan.md))
+	June 13, 1997
+	
+	The Chemist who specializes in Stoichiometry
 - [ ] Give [them](../../Characters/Species/Air%20Conditioners.md) into different types, and other bits. Use properties
 	
 	And also make groups, alliance, cliques and all that crap.
@@ -88,6 +120,9 @@ kanban-plugin: board
 ## Done
 
 **Complete**
+- [x] Give [JHR](../../Characters/Characters/Air%20Conditioners/AEX/JHR.md) a cousin. AEX/JHR's cousin is the IVT version of JHR (superior and inferior at the same time). ✅ 2025-10-21
+	
+	[Ivy](../../Characters/Bench/Air%20Conditioners/Ivy.md)
 - [x] Gay: ✅ 2025-10-05
 	
 	CS-XE12CKE ([XKC](../../Characters/Bench/Air%20Conditioners/XKC.md)) and CS-TE12DKE ([DKE](../../Characters/Bench/Air%20Conditioners/DKE.md))
@@ -118,10 +153,7 @@ kanban-plugin: board
 ## Done3
 
 **Complete**
-- [x] Give [JHR](../../Characters/Characters/Air%20Conditioners/AEX/JHR.md) a cousin. AEX/JHR's cousin is the IVT version of JHR (superior and inferior at the same time).
-	
-	[Ivy](../../Characters/Bench/Air%20Conditioners/Ivy.md)
-- [ ] [AEX](../../Characters/Characters/Air%20Conditioners/AEX/AEX.md#JHR) siblings and cousins. Then assimilate JHR into a person-lith kinda like [VXU](../../Characters/Characters/Air%20Conditioners/VXU/VXU.md) with his siblings as he and his siblings are capable of multi-split unit operation. ✅ 2025-09-21
+- [x] [AEX](../../Characters/Characters/Air%20Conditioners/AEX/AEX.md#JHR) siblings and cousins. Then assimilate JHR into a person-lith kinda like [VXU](../../Characters/Characters/Air%20Conditioners/VXU/VXU.md) with his siblings as he and his siblings are capable of multi-split unit operation. ✅ 2025-10-17
 	
 	His siblings are a Sharp AE-XM30GR, AY-XPC7JR and AY-XPM18HR. 
 	
@@ -176,6 +208,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false,false,false]}
 ```
 %%

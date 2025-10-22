@@ -122,5 +122,15 @@ CIFS, you need to go to the mental assylum. Even ToshyFEN (the already less sane
 
 Stop killing us all and get help! You are not the savior!
 
+### [SASHuan](../SASHuan.md)
+
+> With [WELLPan](../WELLPan.md)
+
+WHat do you expect? They have no problems, especially with [`Juan`](SASHuan) and WELLPan. 
+
+They can combine their brain power together, and cook cool things. WELLPan is not crazy though, he wouldn't come up with a pyromaniac's love interest. Do not worry, they won't [nitrate toluene](void:Hell-Nah-Thats-Making-Trinitrotoluene-AKA-TNT) together.
+
+SASHuan is slightly unnerved by ToshyFEN because you know the latter guy is quite unstable. He might be umm slightly scared, but other than that no blemishes. They can have fun together, and especially with WELLPan. SASHuan is still careful of ToshyFEN because the latter might go berserk.
+
 
 #airconditioner #swatpaper

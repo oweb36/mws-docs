@@ -19,9 +19,11 @@ She's a Panasonic CS-XE12EKE wall-mounted [heat pump](../../Species/Air%20Condit
 She was born in July 16, 2006. She is a cisgender and lesbian female (she/her).  
 If skin color mattered, she's white.
 
-Xefa is an Australian, which makes her an Aussie Lesbi.
+Xefa is an Australian, which makes her an Aussie Lesbi. And ye, she ain't no *Bri'ish* mate.
 
 She wears dental braces because she's the valley girl. Not for *bri'ish* teeth, but for *valley girl* cosmetic reasons. Yes, valley girls wear braces because they are valley girls not nerd girls.
+
+Btw, `bitch` is used by her as a filler word and a sentence-ending particle. Its like, like her trademark word.
 
 ## Name
 
@@ -30,15 +32,15 @@ She has a real name. Its `Xefaela`, and ye we get it. Its an expanded version of
 Her full name is **`Xela Xefaela Xiana`**.
 
 ## Personality
-TLDR: Valley Girl. Teenager. "bitch" user. Sassy and rude, but loyal and kind. Dumb, but **NOT THAT** dumb. Serial gossiper.
+> TLDR: Valley Girl. Teenager. `bitch` user. Sassy and rude, but loyal and kind. Dumb, but **NOT THAT** dumb. Serial gossiper.
 
 The Valley Girl of [MWS](Megarchive%20Warehouse%20Show.md). Speaks with an exaggerated Californian accent, because she's **THE** Valley Girl. Xefa is also known for speaking like a Teenager, with her overusing "like" everywhere, like Valleyspeak (or what we call Valley Girl-aah linguistics). And also is sassy and rude at times.
 
-Xefa is also known to "bitch" everywhere. "bitch" is a common word for her, to the point it has the status of a filler word like "like" you know eh? Basically she might go "you know that right, bitch?" and "hey girlie bitch!" and those things.
+Xefa is also known to `bitch` everywhere. `bitch` is a common word for her, to the point it has the status of a filler word and a sentence-ending particle like "like" you know eh? Basically she might go "you know that right, bitch?" and "hey girlie bitch!" and those things.
 
 Also notably flirty and horny, but not rampantly promiscuous. She might flirt and make you well **you know**, but she is not looking for **SEX**. No, she does not want that and she cannot. She just wants to flirt and is horny, but **NOT THAT HORNY**.
 
-You know, like I mentioned, she is also sassy and rude. She has that sass and confidence like those alpha bitch girls in high school. And also quite rude and snarky. "bitch" is her thing. Not the most welcoming, but do not be the fool! She has a golden heart on the inside! But still, she is still sassy and rude because that is her personality.
+You know, like I mentioned, she is also sassy and rude. She has that sass and confidence like those alpha bitch girls in high school. And also quite rude and snarky. `bitch` is her thing. Not the most welcoming, but do not be the fool! She has a golden heart on the inside! But still, she is still sassy and rude because that is her personality.
 
 She is genuinely kind if you get to know her. This is what I mean when her heart is gold. But also do not be a fool again! Her heart may be golden, but **NOT THAT** golden. The sass and rudeness is still there, but its for the snark fun! Yeah, she is genuinely kind, but not nice. 
 
@@ -75,5 +77,19 @@ JVXH points out that Xefa is a valley girl, while Xefa accueses JVXH  of being a
 WELLPan is chill. She has no qualms with him.
 
 Not a lot to say.
+
+### [Ivy](../../Bench/Air%20Conditioners/Ivy.md)
+
+Obviously they would not get together well.
+
+We know why do you? But lemme explain to the fools. Well, one is a valley girl who is obsessed with her, while the other does not care. Do you think it will clash? Yeah!
+
+Anyways, Ivy would probably abuse and beat the hell out of Xefa if placed together.
+
+### [ToshyMEF](ToshyMEF.md)
+
+These two could socialize well.
+
+Both have that **sass**, and **rudeness**. They would joke and connect well. Xefa and ToshyMEF would be in sync with each other. Poke fun at others? Hell Yeah!
 
 #airconditioner 

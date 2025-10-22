@@ -28,6 +28,8 @@ JHR is considered sociopathic and sadistic. His sadism is not that extreme and i
 
 JHR owns a *TRS-80 Model 100* portable computer. He finds it way useful for life and work purposes. The other people to own a *TRS-80 Model 100* is [Vista](../Vista.md). JHR also is one of the most intelligent person in MWS.
 
+Btw he is a cousin to [Ivy](../../../Bench/Air%20Conditioners/Ivy.md). They are same, except that Ivy could heat way lower than JHR (**10c**), but is also only single-split.
+
 ## Personality
 
 In a nutshell, he behaves differently in different situations. JHR is still genuinely a good guy though albeit slightly insane (sociopathy or more like just quite cold). He has two personalities to say the least.
@@ -95,5 +97,11 @@ Vista is friends with [JHR](JHR.md) because of one thing they have in common: A 
 They work together programming that ancient tech. Vista is the one to teach JHR because despite JHR being intelligent and able to use computers, he has no idea how to program.
 
 They are still good friends even if you take away their *TRS-80 Model 100*.
+
+### [Ivy](../../../Bench/Air%20Conditioners/Ivy.md)
+
+Cousins.
+
+Somehow these two get along even if their personalities are different. Probably because they are cousins.
 
 #airconditioner 

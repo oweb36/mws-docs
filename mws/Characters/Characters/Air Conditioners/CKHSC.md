@@ -47,4 +47,12 @@ With the difference in the generations, JHR and CKHSC knows the progression of l
 CKHSC: Get yo ass up, WELLPan.
 WELLPan: Lemme enjoy my life.
 
+### [SASHuan](SASHuan.md), [PFSA](PFSA.md) (and ASTAC)
+
+> More [ASTAC](#[ASTAC](ASTAC.md)) there.
+
+These 4 would be great ig. PFSA may have less influence, because PFSA is a such bumblingly-drunk bubbly guy that he might accidentally mix dangerous chemicals with SASHuan.
+
+ASTAC would probably learn from [`Juan`](SASHuan.md), because ASTAC is still learning life even at an old age. CKHSC is the one to well, tell SAShuan to slow down because nobody likes their chemicals exploding in their face.
+
 #airconditioner 

@@ -34,7 +34,13 @@ She may manipulate others to win and advance her, but only if she has to. She's 
 ### [WELLPan](WELLPan.md)
 To ToshyMEM in competitions, WELLPan is just dead weight. She may appreciate his presence, but he doesn't really do much. She asks one question: Why you gotta be dead weight, why you are throwing away this chance.
 
-Otherwise, they are chill. No personal beef. WELLPan is too chill for that, and she appreciates it.
+Otherwise, they are chill. No personal beef. WELLPan is too chill for that, and she appreciates it
+
+### [Ivy](../../Bench/Air%20Conditioners/Ivy.md)
+
+ToshyMEM and Ivy would make a pretty deadly-efficient duo.
+
+This duo should not be underestimated with, and is to be reckoned with. They are very crazy efficient at doing their jobs. Throw them into a competition, and they can wreck others and win the entire thing easily.
 
 
 #airconditioner
