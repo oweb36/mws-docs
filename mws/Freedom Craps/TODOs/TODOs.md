@@ -83,7 +83,7 @@ kanban-plugin: board
 	
 	Mitsubishi Electric
 	- VALFire (SLZ-KA50VAL)
-	- PLAN (PLA-RP140BA)
+	- PLAN (PLA-RP140BA2)
 	
 	Both male (he/him), and they are siblings
 
@@ -94,7 +94,7 @@ kanban-plugin: board
 	
 	[RADStler](../../Characters/Characters/Air%20Conditioners/RAM/RADStler.md)  
 	From RAD, and the NH7 which reminds me of NH4
-- [ ] Bring [Raiie](../../Characters/Characters/Air%20Conditioners/RAM/Raiie.md) together alongside [RADStler](../../Characters/Characters/Air%20Conditioners/RAM/RADStler.md) into a Multi-split system via RAM-130QH5.
+- [ ] Bring [Raiile](../../Characters/Characters/Air%20Conditioners/RAM/Raiile.md) together alongside [RADStler](../../Characters/Characters/Air%20Conditioners/RAM/RADStler.md) into a Multi-split system via RAM-130QH5.
 	
 	RAM-130QH5 is RAMH.
 
@@ -113,7 +113,7 @@ kanban-plugin: board
 - [ ] Rewrite personalities while staying consistent.
 	
 	Rewrite by studying them, breaking them apart into traits and rewrite them.
-- [ ] Complete #TODO
+- [ ] Complete #TODO and [TODO Indexer](TODO%20Indexer.md)
 - [ ] Refactor the pages so that they do not form a giant unintelligible mess of graph edges
 
 
