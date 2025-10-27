@@ -71,10 +71,16 @@ kanban-plugin: board
 	Female (she/her)
 	
 	Chewing tobbaco wild cowgirl
-- [ ] LFC
+- [ ] LFC & CE
 	
 	LG LF300CP  
+	Female (she/her)
+	
+	LG LF480CE
 	Male (he/him)
+	
+	
+	LFC and CE are twins.
 - [ ] KAPS
 	
 	Mitsubishi Electric - PSA-RP140KA
@@ -86,6 +92,10 @@ kanban-plugin: board
 	- PLAN (PLA-RP140BA2)
 	
 	Both male (he/him), and they are siblings
+- [ ] KFR
+	
+	Gree KFR-120LW/A-21M
+	Male (he/him)
 
 
 ## Current
@@ -94,7 +104,7 @@ kanban-plugin: board
 	
 	[RADStler](../../Characters/Characters/Air%20Conditioners/RAM/RADStler.md)  
 	From RAD, and the NH7 which reminds me of NH4
-- [ ] Bring [Raiile](../../Characters/Characters/Air%20Conditioners/RAM/Raiile.md) together alongside [RADStler](../../Characters/Characters/Air%20Conditioners/RAM/RADStler.md) into a Multi-split system via RAM-130QH5.
+- [ ] Bring [Raiilee](../../Characters/Characters/Air%20Conditioners/RAM/Raiilee.md) together alongside [RADStler](../../Characters/Characters/Air%20Conditioners/RAM/RADStler.md) into a Multi-split system via RAM-130QH5.
 	
 	RAM-130QH5 is RAMH.
 
