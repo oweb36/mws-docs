@@ -74,7 +74,9 @@ kanban-plugin: board
 - [ ] LFC & CE
 	
 	LG LF300CP  
-	Female (she/her)
+	Female (she/her)  
+	Idiot Savant-Genius Ditz  
+	Also quite beautiful
 	
 	LG LF480CE
 	Male (he/him)
