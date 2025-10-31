@@ -13,6 +13,7 @@ Multi-Members:
   - DeltaCXG
   - CTUX
 NVSCG:
+  - Captive
   - "[[DeltaCXG]]"
 ---
 # VXU

@@ -10,7 +10,7 @@ Nationality:
 XYLR is a [character](../../Characters.md) as a {role} on the [Megarchive Warehouse Show](../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md).
 ## Identity
 
-XYLR is a Sharp wall-mounted AY-XPC18LR [heat pump](../../Species/Air%20Conditioners.md). An italian boi from Italy. 
+XYLR is a Sharp wall-mounted AY-XPC18LR [heat pump](../../Species/Air%20Conditioners.md). An white italian gooberistics boi from Italy. 
 
 Named derived from `X-Y` and the `LR` (simple). Xiler (Xee-Ler/See-Ler).
 
@@ -21,8 +21,11 @@ XYLR was born in January 8, 2010. He is a cishet male (he/him).
 > TLDR: Likes Electronic (and EDM).
 > TLDR2: Silly little mongoose. Also good, nice, and kind.
 > TLDR3: Quite hyperactive and will run around a lot.
+> TLDR4: Gooberistics Goober. 
 
-Expand this crap.
+XYLR is what you call the EDM-loving goober.
+
+
 ## Relations
 
 ### [GHR](../../Characters/Air%20Conditioners/GHR.md)

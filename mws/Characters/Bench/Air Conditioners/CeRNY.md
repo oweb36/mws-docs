@@ -22,7 +22,7 @@ Clearly her name is not from it, but from CRN ([idk where](void:not)). Her real/
 
 CeRNY was born in August 18, 2013. She is a cisgender and heterosexual female. CeRNY is canonically diagnosed with Level-1 [ASD](void:Autism-Spectrum-Disorder).
 
-British from England.
+British from England. Absolutely white.
 
 Mental health is considered as unhealthy and below average, but not pathological like [ToshyFEN](../../Characters/Air%20Conditioners/ToshyFEN/ToshyFEN.md) or even [CIFS](CIFS.md).
 
@@ -144,5 +144,11 @@ CeRNY can do the math, while SASHuan can do the stoichiometry, and Flerovy can d
 A well-oiled trio they are. CeRNY, SASHuan, and Flerovy, are capable of executing some of the greatest chemical feats (they have ever seen). They know how to handle a lot of crazy things, which may or may not be: `nitrating toluene into TNT`, `handling nitroglycerin`, etc...
 
 They are great at working together, and they have no qualms of animosity. They hang out with each other, cus they great.
+
+### [Wheamy](../../Characters/Washing%20Machines/Wheamy.md)
+
+Its bidirectional, but its also kinda Wheamy trying to control CeRNY from melting down. CeRNY is still kinda a child in emotional handling despite her being mature.
+
+Wheamy has to help CeRNY with her emotions, and he actually knows that its kinda ugly when she does break.
 
 #airconditioner #TODO 

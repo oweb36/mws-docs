@@ -18,7 +18,7 @@ DKE is a [character](Characters.md) as a backgrounder on the [Megarchive Warehou
 
 DKE is a Panasonic wall-mounted CS-TE12DKE [heat pump](../../Species/Air%20Conditioners.md). You know well where his name comes from! 
 
-An extremely Swedish guy. He is Swedish.
+An extremely Swedish guy. He is Swedish. And DKE is bluish-greenish in skin color, which is very exotic.
 
 DKE was born in August 10, 2005. They are a pretty gay cis-[guy](void:male) (he/him). Known for having Level-2 [ASD](void:Autism-Spectrum-Disorder).
 

@@ -15,7 +15,7 @@ ZHU is a Sharp wall-mounted AY-XP18ZHU [heat pump](../../Species/Air%20Condition
 
 Quite obvious where he got his name from. ZHU's name is pronounced as Z-H-U (Zee-H-U) like an acronym, not as Zhu.
 
-ZHU was born in June 24, 2024. He is a cisgender male (he/him). Sexual identity is [unknown](void:it-is-a-mystery).
+ZHU was born in June 24, 2024. He is a cisgender male (he/him). Sexual identity is [unknown](void:it-is-a-mystery). Also white.
 
 ## Personality
 

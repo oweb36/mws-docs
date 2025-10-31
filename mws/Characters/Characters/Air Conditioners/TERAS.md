@@ -15,7 +15,7 @@ TERAS is a Hitachi RAS-14EH2 wall-mounted [heat pump](../../../Species/Air%20Con
 
 Teras was born in April 11, 2006. He is a cisgender and heterosexual male (he/him). English.
 
-TERAS is siblings with [RAM](RAM.md) (Meaning TERAS is also siblings with [Raiie](RAM/Raiie.md) and [RADStler](RAM/RADStler.md)) and [RACK](RACK.md).
+TERAS is siblings with [RAM](RAM.md) (Meaning TERAS is also siblings with [Raiilee](RAM/Raiilee.md) and [RADStler](RAM/RADStler.md)) and [RACK](RACK.md).
 
 If skin color matters, TERAS is white.
 
@@ -31,9 +31,9 @@ He is a nice guy if he isn't always telling jokes. He can be serious, but it's m
 
 ## Relations
 
-### [Raiie](Raiie.md)
+### [Raiilee](RAM/Raiilee.md)
 
-TERAS is the younger brother to Raiie. TERAS pranks Raiie almost all the time. Raiie finds it funny, but annoying. Raiie sees TERAS as an unsupervised toddler.
+TERAS is the younger brother to Raiilee. TERAS pranks Raiilee almost all the time. Raiilee finds it funny, but annoying. Raiilee sees TERAS as an unsupervised toddler.
 
 ### [RACK](RACK.md)
 

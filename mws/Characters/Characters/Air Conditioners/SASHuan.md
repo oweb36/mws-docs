@@ -28,6 +28,8 @@ Name derived from P**SH**-6GJ**SA**, and also Juan because [Juan](https://knowyo
 
 SASHuan was born in July 13, 1997 (He is old boi). He is a cishet male (he/him).
 
+Has a spinoff show called [STYTC](../../../Megarchive%20Warehouse%20Show/Spinoffs/STYTC.md) where he shows real chemistry.
+
 ![juan](../../../_Attachments/Render/SASHuan/juan.jpg)
 
 SASHuan is indeed `Juan`.
@@ -35,7 +37,7 @@ SASHuan is indeed `Juan`.
 
 Well, SASHuan is nothing without his briliance.
 
-What is he brilliant at? Chemistry, specifically organic chemistry and stoichiometry. That's right, he may be stupid in plain math and physics, but he does great at Chemistry.
+What is he brilliant at? Chemistry, specifically **organic chemistry**, **thermochemistry**, **rate of reaction**, **acid-base reactions and salting**, **nitration**, and **stoichiometry**. That's right, he may be stupid in plain and applied math, and physics, but he does great at Chemistry. Though he has all that chemistry specifics, he is best at organic chemistry, acid-base reactions, and stoichiometry (and in fact is why he has his spinoff show [STYTC](../../../Megarchive%20Warehouse%20Show/Spinoffs/STYTC.md)).
 
 He may know basic math, but he knows nothing about advanced algebra. That's for [CeRNY](../../Bench/Air%20Conditioners/CeRNY.md) to cover!
 

@@ -21,6 +21,8 @@ He was born in June 14, 2010. He is a cisgender and a heterosexual-oriented aroa
 
 If skin color matters, JKE is gray.
 
+Best friends with [TKA](../../Bench/Air%20Conditioners/TKA.md)!
+
 ## Personality
 TLDR: Two modes/Two-sided. One side is chatty and hyperactive ranter who can't keep his mouth shut (with secret spilling moments) and is always moving and stimming about. Other side is chill and passive, silent. These sides depend on his deice/defrosting state.
 
@@ -43,5 +45,9 @@ You get it.
 NAEphthalene sees JKE as a version of himself, a less advanced one. He sees JKE as inferior. Don't worry, he is kinda like a big brother to him (even if JKE is older). NAEphthalene is very supportive to JKE because they are similar.
 
 NAEphthalene and JKE both are aware that they aren't actually siblings.
+
+### [TKA](../../Bench/Air%20Conditioners/TKA.md)
+
+Best friends ig! They like things together. Its like a chatty guy with a little (man)child!
 
 #airconditioner 

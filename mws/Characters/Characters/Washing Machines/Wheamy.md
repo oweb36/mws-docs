@@ -61,6 +61,18 @@ Wheamy finds NAEphthalene more pleasant in comparison to [others](../Air%20Condi
 
 Wheamy won't even dare to go near CIFS for fear of being killed.
 
+### [CeRNY](../../Bench/Air%20Conditioners/CeRNY.md)
+
+Its bidirectional, but its also kinda Wheamy trying to control CeRNY from melting down. CeRNY is still kinda a child in emotional handling despite her being mature.
+
+Wheamy has to help CeRNY with her emotions, and he actually knows that its kinda ugly when she does break.
+
+### [TKA](../../Bench/Air%20Conditioners/TKA.md)
+
+TKA may be an adult, but he is still a child (or at least child-like). Wheamy still treats him as a kid. Yes, Wheamy is protecting a manchild. 
+
+Do not worry! A great manchild unlike those psychopaths.
+
 
 
 #washingmachines 

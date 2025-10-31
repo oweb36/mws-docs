@@ -30,7 +30,7 @@ NAEphthalene's name is pronounced as Neptune and Naphthalene. The "NEp" is prono
 He was born in November 21, 2010. He is a cisgender and a gay-oriented aroace male (he/him). (He is gay cus he hates women and likes men, but aroace cus he jackassery). Still, he homosexual.
 If skin color mattered, he white.
 
-[This](../../../_Attachments/PDFFiles/NAEphthalene/NAEphthalene-om.pdf) and [That](../../../_Attachments/PDFFiles/NAEphthalene/NAEphthalene-sm.pdf) is NAEphthalene's reference manual.
+[This](../../../_Attachments/PDFFiles/NAEphthalene/NAEphthalene-om.pdf) and [That](../../../_Attachments/PDFFiles/NAEphthalene/NAEphthalene-sm.pdf) is NAEphthalene's reference manual. And he is the host of his own spin-off jackass show [NVSCG](../../../Megarchive%20Warehouse%20Show/Spinoffs/NVSCG.md)!
 
 ### Name
 
@@ -76,5 +76,13 @@ NAEphthalene sees JKE as a version of himself, a less advanced one. He sees JKE 
 NAEphthalene and JKE both are aware that they aren't actually siblings.
 ### [Wheamy](Wheamy.md)
 Wheamy finds NAEphthalene more pleasant in comparison to [others](VXU/VXU.md#DeltaCXG). He is still not happy with him cus sexism? Bro what? To him thats just a low.
+
+### [Ivy](../../Bench/Air%20Conditioners/Ivy.md)
+
+These two are fierce adversaries, and should not be paired together.
+
+What do you expect when the sexist NAEphthalene sees Ivy the girlboss? What? You think they gonna have tea? **HELL NAWH** NEptha is gonna mock the shit out of Ivy with *kitchen and sandwiches*.
+
+Ivy obviously wouldn't take that well. She might fight back, but this is NEphtha the jerkass bigotted asshole we are talking here.
 
 #airconditioner #etherean #triplex

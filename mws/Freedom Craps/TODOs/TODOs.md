@@ -42,13 +42,16 @@ kanban-plugin: board
 
 ## Todo
 
-- [ ] The #emureans
+- [ ] The #emureans  
+	One large family.
 	
 	- FTXG50JV1BS -> TXVBS (Male: he/him, Silver)
 	- FTXJ50MV1BS -> XJ (Male: he/him, Silver)
 	- FTXG25CVMBW -> (Female: she/her, White)
-	- FTXG35EV1BS -> (Male: he/him, Silver)
+	- FTXG35EV1BS -> (Female: she/her, Silver)
 	- FTXJ42A2V1BB -> TJ (Male: he/him, Black)
+	
+	XJ is the leader of the family. TJ is the stereotypical black guy, an antithetical complement to [Avxy](../../Characters/Characters/Air%20Conditioners/Avxy.md).
 - [ ] XENKE Family:
 	
 	- CS-XE21NKEW

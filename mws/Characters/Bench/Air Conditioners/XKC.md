@@ -15,7 +15,7 @@ XKC is a [character](Characters.md) as a backgrounder on the [Megarchive Warehou
 
 XKC is a Panasonic wall-mounted CS-XE12CKE [heat pump](../../Species/Air%20Conditioners.md). His name is derived from his model (CS-**X**E12**CK**E).
 
-XKC was born in February 6, 2004. He is a **Gay AF** cis-male (he/him).
+XKC was born in February 6, 2004. He is a **Gay AF** cis-male (he/him). Cyanic.
 
 ## Personality
 

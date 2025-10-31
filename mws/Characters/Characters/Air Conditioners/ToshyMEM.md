@@ -42,5 +42,11 @@ ToshyMEM and Ivy would make a pretty deadly-efficient duo.
 
 This duo should not be underestimated with, and is to be reckoned with. They are very crazy efficient at doing their jobs. Throw them into a competition, and they can wreck others and win the entire thing easily.
 
+### [RAMH](RAM/RAMH.md)
+
+Oh, these two are head-to-head. Sweat vs Competitive
+
+Who would win? IDK! But these two are capable of outmatching each other. Very close in competitions, and ranks.
+
 
 #airconditioner

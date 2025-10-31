@@ -19,7 +19,7 @@ Ivy is a an IVT 12PHR-N [heat pump](../../Species/Air%20Conditioners.md).
 
 Ivy hails from Sweden (She's a Swedish!).
 
-Ivy was born in July 8, 2013. She is a female (she/her).
+Ivy was born in July 8, 2013. She is a female (she/her). And she is white!
 
 Also did you know that Ivy is [JHR](../../Characters/Air%20Conditioners/AEX/JHR.md)'s cousin! They are same, except that Ivy could heat way lower than JHR (**10c**), but is also only single-split.
 
@@ -69,5 +69,13 @@ WELLPan is lazy, so Ivy does not like him. Yeah, its obvious. Ivy clearly hates 
 ToshyMEM and Ivy would make a pretty deadly-efficient duo.
 
 This duo should not be underestimated with, and is to be reckoned with. They are very crazy efficient at doing their jobs. Throw them into a competition, and they can wreck others and win the entire thing easily.
+
+### [NAEphthalene](../../Characters/Air%20Conditioners/NAEphthalene.md)
+
+These two are fierce adversaries, and should not be paired together.
+
+What do you expect when the sexist NAEphthalene sees Ivy the girlboss? What? You think they gonna have tea? **HELL NAWH** NEptha is gonna mock the shit out of Ivy with *kitchen and sandwiches*.
+
+Ivy obviously wouldn't take that well. She might fight back, but this is NEphtha the jerkass bigotted asshole we are talking here.
 
 #airconditioner #TODO 

@@ -18,7 +18,7 @@ CIFS is a Panasonic floor-standing CS-C45FFH [air conditioner](../../Species/Air
 
 Name derived from C and F (CS-**C**45**F**FH). His real name is still Cifs.
 
-A Malaysian.
+A Malaysian. White.
 
 CIFS was born in December 16, 2008. He is male (he/him).
 
