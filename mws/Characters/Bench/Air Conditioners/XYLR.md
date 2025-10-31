@@ -14,7 +14,9 @@ XYLR is a Sharp wall-mounted AY-XPC18LR [heat pump](../../Species/Air%20Conditio
 
 Named derived from `X-Y` and the `LR` (simple). Xiler (Xee-Ler/See-Ler).
 
-XYLR was born in January 8, 2010. He is a cishet male (he/him).
+XYLR was born in January 8, 2010. He is a cishet male (he/him). 
+
+And yes, he white. And yes, he got a **BIG** forehead. And yes, he is the shortest out of all his wall-mounted peers, with quite stubby legs.
 
 ## Personality
 
@@ -22,14 +24,23 @@ XYLR was born in January 8, 2010. He is a cishet male (he/him).
 > TLDR2: Silly little mongoose. Also good, nice, and kind.
 > TLDR3: Quite hyperactive and will run around a lot.
 > TLDR4: Gooberistics Goober. 
+> TLDR5: Mongrel.
 
-XYLR is what you call the EDM-loving goober.
+XYLR is what you call the EDM-loving goober. 
 
+He really likes his EDM. He might even do some **kewl tryx** with his stubby legs. And he plans to make his own, cus its quite fun. So yeah, he like electronics and their EDM.
 
+Also he's a silly little mongoose. Always up to no good, and doing funny and weird things. And XYLR is very hyperactive, which means he will also run a lot and bring ruckus everywhere he goes. Despite this, he is good-natured, nice, and kind. Just be wary of his tricks. He may be slick about it, or he ain't slick.
+
+Gooberistics Goober. He is a Goober who does Gooberistics. And also a Mongrel.
 ## Relations
 
 ### [GHR](../../Characters/Air%20Conditioners/GHR.md)
 
 They are not just friends, but a couple!
 
-#airconditioner #TODO 
+### [Avxy](../../Characters/Air%20Conditioners/Avxy.md)
+
+Goobers together. Avxy with XYLR doing gooberistics with a dash of Hyperactive running.
+
+#airconditioner 

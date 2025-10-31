@@ -51,4 +51,8 @@ We got the daredevil and the prankster here. Combine two and you get a pretty ja
 
 Please, do not get ZeNer and Avxy together for the sake of everybody else.
 
+### [XYLR](../../Bench/Air%20Conditioners/XYLR.md)
+
+Goobers together. Avxy with XYLR doing gooberistics with a dash of Hyperactive running.
+
 #airconditioner 

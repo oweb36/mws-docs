@@ -13,7 +13,7 @@ Multi-Members:
   - RADStler
   - RAMH
 ---
-RaiileRaiile# RAM
+# RAM
 
 RAM is a [character](Characters.md) as a competitor/contestant (mostly [Raiilee](Raiilee.md)) on the [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show.md).
 
@@ -36,4 +36,4 @@ While RAM's members come from different places, RAM is still English because the
 
 > Refer to , RADStler, and RAMH. They are individuals, and not collective despite it all.
 
-#airconditioner #TODO 
+#airconditioner 
