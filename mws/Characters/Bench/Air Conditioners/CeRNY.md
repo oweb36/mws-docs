@@ -135,6 +135,10 @@ So CeRNY still may be nice, but **BEWARE** for you still can piss off and anger 
 
 ### [GHR](../../Characters/Air%20Conditioners/GHR.md)
 
+These two have sense of fashion! Mostly one-sided with GHR being the one to style CeRNY. 
+
+GHR may not be able to handle CeRNY's power of Geometry and math, but she is always listening.
+
 ### [SASHuan](../../Characters/Air%20Conditioners/SASHuan.md) and [Flerovy](../../Characters/Air%20Conditioners/Flerovy.md)
 
 These 3 are the perfect partners in science.

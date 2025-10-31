@@ -20,11 +20,15 @@ Obvious where her name is derived from. Pronounced as G-H-R (Gee-H-Are).
 
 Skin color would be gray and silvery if maters, shiny and glossy too. Also GHR heils from France, but she is French-Norwegian.
 
+Surprisingly, GHR is the tallest out of all the wall-mounted peers of MWS here.
+
 GHR was born in October 24, 2006. She is a cisgender heterosexual female (she/her). Btw she likes fashion.
 
 ### Outfit (WTF)
 
 Since she's a Fashionista, we gotta give her smth to make her stand out.
+
+She wears a black suede knee-high block-heeled boots.
 
 ## Personality
 
@@ -47,5 +51,9 @@ With that, lemme say this: She is **mature**. GHR is a mature woman. She knows b
 They are not just friends, but a couple!
 
 ### [CeRNY](../../Bench/Air%20Conditioners/CeRNY.md)
+
+These two have sense of fashion! Mostly one-sided with GHR being the one to style CeRNY. 
+
+GHR may not be able to handle CeRNY's power of Geometry and math, but she is always listening.
 
 #airconditioner #TODO 
