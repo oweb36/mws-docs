@@ -42,6 +42,6 @@ TERAS is the younger brother to Raiilee. TERAS pranks Raiilee almost all the tim
 
 ### [RACK](RACK.md)
 
-TBA
+Well, RACK actually respects Raiilee because the latter can actually convince him.
 
 #airconditioner #hitachitriplets #TODO 

@@ -128,4 +128,8 @@ SASHuan is slightly unnerved by ToshyFEN because you know the latter guy is quit
 
 WELLPan is lazy, so Ivy does not like him. Yeah, its obvious. Ivy clearly hates WELLPan because he lazy and chill, the antithesis to Ivy's ideology and philosophy.
 
+### [WELLPan](WELLPan.md)
+
+These two obviously would be passive. WELLPan is too chill, and RADStler is passive. They would not have the initiative to do anything, usually. They are also chill, and have no problems with each other.
+
 #airconditioner #weirdidentities

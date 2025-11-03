@@ -38,4 +38,12 @@ RADStler is also a crackpot, but functional. He is not eccentric, but foolish. H
 
 ## Relations
 
-#airconditioner #TODO 
+### [WELLPan](../WELLPan.md)
+
+These two obviously would be passive. WELLPan is too chill, and RADStler is passive. They would not have the initiative to do anything, usually. They are also chill, and have no problems with each other.
+
+### [Aurl](../Aurl.md)
+
+Chill. Like WELLPan, but there might be danger. RADStler might follow Aurl in temper though, especially in actions done as a result of it.
+
+#airconditioner #hitachitriplets 

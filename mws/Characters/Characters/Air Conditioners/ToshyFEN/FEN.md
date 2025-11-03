@@ -37,9 +37,9 @@ He is suffering from:
 
 Yeah, FEN should be in a psychiatric hospital but he's here. FEN has a relatively worse mental health in MWS compared to the rest. However, he is completely fine compared to [one guy](../../../Bench/Air%20Conditioners/CIFS.md).
 
- FEN has this one personality where he is really chill, and likes to chat. He can never be as chill as [WELLPan](WELLPan.md), but he is chill. He just listens, and talk a little. He likes small talk, and big talk. He is just there for WELLPan mostly, but can be there for others. Basically he just does nothing except listen and yap. FEN does observe people, but not that intently compared to [RBC](#RBC-AMSUS). He just is passive.
+ FEN has this one personality where he is really chill, and likes to chat. He can never be as chill as [WELLPan](WELLPan.md), but he is chill. He just listens, and talk a little. He likes small talk, and big talk. He is just there for WELLPan mostly, but can be there for others. Basically he just does nothing except listen and yap. FEN does observe people, but not that intently compared to [RBC-AMSUS](RBC-AMSUS.md). He just is passive.
 
-In this passive side, he is well friendly but not that chatty like I said. But you know when I said he just talks a little, that's a half-lie. You can talk to him, but he does not talk to anyone on his own. You need to talk to him to be able to get him to talk you know that right? There's one type of chat he is good at and that is Big Talk. He does this better than [RBC](#RBC-AMSUS) and in fact RBC leaves FEN to do the big talk. Why is he good? Idk.
+In this passive side, he is well friendly but not that chatty like I said. But you know when I said he just talks a little, that's a half-lie. You can talk to him, but he does not talk to anyone on his own. You need to talk to him to be able to get him to talk you know that right? There's one type of chat he is good at and that is Big Talk. He does this better than [RBC-AMSUS](RBC-AMSUS.md) and in fact RBC leaves FEN to do the big talk. Why is he good? Idk.
 
 Despite FEN being observant, he is not that intelligent. In fact, FEN is below average intelligent.
 
@@ -53,7 +53,7 @@ FEN is caring sometimes when he is chill. He would step in to stop carnage if he
 
 There's an exception though to that, RBC! FEN would do anything to protect RBC, as RBC is not only him, RBC is also his brain and also his "brother." FEN would even kill others just to protect RBC. FEN, even in his unhinged personality would still protect RBC.
 
-FEN's volatile personality and mind can switch easily. He is caring though to some, especially [RBC](#RBC-AMSUS).
+FEN's volatile personality and mind can switch easily. He is caring though to some, especially [RBC-AMSUS](RBC-AMSUS.md).
 
 Do not worry though! Its nothing compared to [CIFS](../../../Bench/Air%20Conditioners/CIFS.md)'s mental health!
 
@@ -61,4 +61,4 @@ Do not worry though! Its nothing compared to [CIFS](../../../Bench/Air%20Conditi
 
 > More on [ToshyFEN](ToshyFEN.md).
 
-#airconditioner #TODO 
+#airconditioner 

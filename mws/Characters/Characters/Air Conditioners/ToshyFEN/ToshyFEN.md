@@ -64,6 +64,8 @@ RBC is also more intelligent than FEN. This is because RBC is the brain and is m
 
 ToshyFEN can be caring and will step in to protect. He does this if the situation warrants it such as if nobody is willing to or he is literally the only one capable to do so.
 
+And also do not modify RBC-AMSUS, as that is ToshyFEN's brain. Modifying RBC-AMSUS' settings is basically modifying or lobotomizing ToshyFEN. RBC-AMSUS dislikes this.
+
 > See [FEN](FEN.md) for more of FEN's individual personality.
 > See [RBC-AMSUS](RBC-AMSUS.md) for more of RBC's individual personality.
 

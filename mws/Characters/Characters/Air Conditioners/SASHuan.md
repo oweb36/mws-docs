@@ -82,4 +82,10 @@ These 4 would be great ig. PFSA may have less influence, because PFSA is a such 
 
 ASTAC would probably learn from [`Juan`](SASHuan.md), because ASTAC is still learning life even at an old age. CKHSC is the one to well, tell SAShuan to slow down because nobody likes their chemicals exploding in their face.
 
-#airconditioner #TODO 
+### [JHR](AEX/JHR.md)
+
+Well, this is one of those cases where JHR actually looks up to somebody else. SASHuan is clearly superior to JHR, but only for specialized situations that we call as Chemistry.
+
+JHR is more to the general knowledge, and SASHuan is there to fill JHR's gap on Chemistry. And it's specifically **organic chemistry**, **thermochemistry**, **rate of reaction**, **acid-base reactions and salting**, **nitration**, and **stoichiometry**.
+
+#airconditioner 

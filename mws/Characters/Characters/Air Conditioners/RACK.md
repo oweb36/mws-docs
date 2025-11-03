@@ -34,10 +34,10 @@ RACK always tries to find balance in all things. He is the neutralist even thoug
 
 ### [TERAS](TERAS.md)
 
-TBA
+These two have some friction, but they love each other.
 
 ### [Raiilee](RAM/Raiilee.md)
 
-TBA
+Well, RACK actually respects Raiilee because the latter can actually convince him.
 
 #airconditioner #hitachitriplets 

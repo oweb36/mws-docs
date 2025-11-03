@@ -86,7 +86,7 @@ kanban-plugin: board
 	
 	
 	LFC and CE are twins.
-- [ ] KAPS
+- [ ] KAPSKA
 	
 	Mitsubishi Electric - PSA-RP140KA
 	He/Him (male) - [SASHuan](../../Characters/Characters/Air%20Conditioners/SASHuan.md)'s younger sibling
@@ -101,6 +101,11 @@ kanban-plugin: board
 	
 	Gree KFR-120LW/A-21M
 	Male (he/him)
+- [ ] XMV
+	
+	Daikin FTXM60M2V1B  
+	Female (she/her)  
+	Swiss is rare, so she is
 
 
 ## Current

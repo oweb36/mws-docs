@@ -26,7 +26,7 @@ An American Texan.
 Aurl is not the most intelligent in [MWS](Megarchive%20Warehouse%20Show.md).
 
 ## Personality
-TLDR: Chill, unfazed and unbothered. Intel-gathering observer, questioning people's browsing history at times (slightly dissapointed in some of them). Uses intel for cunning plans. Outsmarter. Temper volatile, and can get nasty. Prone to school shooting. Darkness lays within him in the form of sadism, unleashed during temper outbreaks.
+> TLDR: Chill, unfazed and unbothered (usually). Intel-gathering observer, questioning people's browsing history at times (slightly dissapointed in some of them). Uses intel for cunning plans. Outsmarter. Temper volatile, and can get nasty. Prone to school shooting. Darkness lays within him in the form of sadism, unleashed during temper outbreaks.
 
 He is both positive and negative. He is normally calm, but no one can beat the chillness of [WELLPan](WELLPan.md).
 
@@ -44,6 +44,10 @@ They are frenemies (at least on Aurl's side), but they are more of a friend that
 
 ### [ToshyFEN](ToshyFEN/ToshyFEN.md)
 Aurl respects ToshyFEN despite being older than him. Aurl knows about the strength of ToshyFEN, and how can his anger meltdowns go.
+
+### [RADStler](RAM/RADStler.md)
+
+Chill. Like WELLPan, but there might be danger. RADStler might follow Aurl in temper though, especially in actions done as a result of it.
 
 
 #airconditioner

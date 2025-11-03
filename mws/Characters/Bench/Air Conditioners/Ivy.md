@@ -78,4 +78,11 @@ What do you expect when the sexist NAEphthalene sees Ivy the girlboss? What? You
 
 Ivy obviously wouldn't take that well. She might fight back, but this is NEphtha the jerkass bigotted asshole we are talking here.
 
-#airconditioner #TODO 
+### [Awu](../../Characters/Air%20Conditioners/Awu.md)
+
+Never gonna be good. Ivy is so bossy that Awu would not open and warm up to the former, which makes this a vicious cycle as Ivy would even get harder on Awu.
+
+The slight superiority-complex and dirt-digging behavior of Awu is also unacceptable to Ivy.
+
+
+#airconditioner 

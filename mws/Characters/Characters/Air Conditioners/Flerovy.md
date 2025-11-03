@@ -56,6 +56,12 @@ With all that, you can approach him. Find the correct way, and you might find hi
 
 ### [Awu](Awu.md)
 
+These two have been long enough to have a great friendship. Awu has softened up to Flerovy, and do understand the way the latter works. Flerovy on the other hand, also has opened up to Awu.
+
+Since they both are perfectionists, they both work well and get on each other's nerves. Its never neutral or lukewarm, its always extremely hot or extremely cold. But, in the end it doesn't matter as they are still great friends.
+
+One knows knowledge, and the other can remember. Awu can actually take the notes and stuff Flerovy really needs. Flerovy on the other hand can churn out things for Awu even though the Australian Sapphic latter doesn't really do much so.
+
 ### [CeRNY](../../Bench/Air%20Conditioners/CeRNY.md) and [SASHuan](SASHuan.md)
 
 These 3 are the perfect partners in science.
@@ -66,4 +72,4 @@ A well-oiled trio they are. CeRNY, SASHuan, and Flerovy, are capable of executin
 
 They are great at working together, and they have no qualms of animosity. They hang out with each other, cus they great.
 
-#airconditioner #TODO 
+#airconditioner 

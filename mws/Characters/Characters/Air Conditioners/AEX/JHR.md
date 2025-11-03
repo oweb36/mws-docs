@@ -104,4 +104,10 @@ Cousins.
 
 Somehow these two get along even if their personalities are different. Probably because they are cousins.
 
+### [SASHuan](../SASHuan.md)
+
+Well, this is one of those cases where JHR actually looks up to somebody else. SASHuan is clearly superior to JHR, but only for specialized situations that we call as Chemistry.
+
+JHR is more to the general knowledge, and SASHuan is there to fill JHR's gap on Chemistry. And it's specifically **organic chemistry**, **thermochemistry**, **rate of reaction**, **acid-base reactions and salting**, **nitration**, and **stoichiometry**.
+
 #airconditioner 

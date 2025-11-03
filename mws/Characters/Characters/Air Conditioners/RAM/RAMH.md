@@ -40,4 +40,4 @@ Oh, these two are head-to-head. Sweat vs Competitive
 
 Who would win? IDK! But these two are capable of outmatching each other. Very close in competitions, and ranks.
 
-#airconditioner #TODO 
+#airconditioner #hitachitriplets 
