@@ -31,4 +31,8 @@ ToshySMUT is a good person though. Its just that he doesn't know how to express 
 
 ## Relations
 
+### [CeRNY](../../Bench/Air%20Conditioners/CeRNY.md)
+
+CeRNY is slightly offended by ToshySMUT's behavior, but does understand why he is this way. She does not take real offense, just some slight offense.
+
 #airconditioner 

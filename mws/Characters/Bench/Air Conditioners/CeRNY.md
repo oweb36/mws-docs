@@ -155,4 +155,8 @@ Its bidirectional, but its also kinda Wheamy trying to control CeRNY from meltin
 
 Wheamy has to help CeRNY with her emotions, and he actually knows that its kinda ugly when she does break.
 
-#airconditioner #TODO 
+### [ToshySMUT](../../Characters/Air%20Conditioners/ToshySMUT.md)
+
+CeRNY is slightly offended by ToshySMUT's behavior, but does understand why he is this way. She does not take real offense, just some slight offense.
+
+#airconditioner 
