@@ -44,4 +44,10 @@ TERAS is the younger brother to Raiilee. TERAS pranks Raiilee almost all the tim
 
 Well, RACK actually respects Raiilee because the latter can actually convince him.
 
-#airconditioner #hitachitriplets #TODO 
+### [Awu](../Awu.md)
+
+Idk what these two would do, but umm these two are friends. Awu has shown her good side to Raiilee, and Raiilee is not the one to abuse it.
+
+Awu would sometimes ask Raiilee to be a mediator in some cases.
+
+#airconditioner #hitachitriplets 

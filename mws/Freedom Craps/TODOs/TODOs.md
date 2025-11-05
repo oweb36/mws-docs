@@ -112,12 +112,13 @@ kanban-plugin: board
 	Princes Avame  
 	Female (she/her)
 	
-	[Flerovy](../../Characters/Characters/Air%20Conditioners/Flerovy.md)'s younger, but relatively stronger sibling.  
-	Avame is a real princess, but what nation is we don't know.
+	[Flerovy](../../Characters/Characters/Air%20Conditioners/Flerovy.md)'s younger, but relatively stronger sibling. 
+	
+	Avame is a real princess, but what nation is we don't know. She's basically a *"Fresh Prince of Bel-Air"* kind of princess. Real royalty, but doesn't live it.
 	
 	Tomboy, and both spoiled sweet and spoiled brat. Can be nice, and kind (spoiled sweet), but also arse-y (spoiled brat).
 	
-	Street smart, not book smart. Relatively stronger than Flerovy, but still weak. You can easily knock her out unconscious lol.
+	Street smart, not book smart. Relatively stronger than Flerovy, but still weak. You can easily knock her out unconscious lol if you hit or punch her hard enough.
 
 
 ## Current

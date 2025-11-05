@@ -49,4 +49,10 @@ Never gonna be good. Ivy is so bossy that Awu would not open and warm up to the 
 
 The slight superiority-complex and dirt-digging behavior of Awu is also unacceptable to Ivy.
 
+### [Raiilee](RAM/Raiilee.md)
+
+Idk what these two would do, but umm these two are friends. Awu has shown her good side to Raiilee, and Raiilee is not the one to abuse it.
+
+Awu would sometimes ask Raiilee to be a mediator in some cases.
+
 #airconditioner 
