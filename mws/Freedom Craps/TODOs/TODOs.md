@@ -106,17 +106,22 @@ kanban-plugin: board
 	Daikin FTXM60M2V1B  
 	Female (she/her)  
 	Swiss is rare, so she is
+- [ ] Avame (Ava/Ame)
+	
+	Daikin FVA140AMVEB  
+	Princes Avame  
+	Female (she/her)
+	
+	[Flerovy](../../Characters/Characters/Air%20Conditioners/Flerovy.md)'s younger, but relatively stronger sibling.  
+	Avame is a real princess, but what nation is we don't know.
+	
+	Tomboy, and both spoiled sweet and spoiled brat. Can be nice, and kind (spoiled sweet), but also arse-y (spoiled brat).
+	
+	Street smart, not book smart. Relatively stronger than Flerovy, but still weak. You can easily knock her out unconscious lol.
 
 
 ## Current
 
-- [ ] Hitachi RAD-18NH7A with optional SPX-RCK2 installed.
-	
-	[RADStler](../../Characters/Characters/Air%20Conditioners/RAM/RADStler.md)  
-	From RAD, and the NH7 which reminds me of NH4
-- [ ] Bring [Raiilee](../../Characters/Characters/Air%20Conditioners/RAM/Raiilee.md) together alongside [RADStler](../../Characters/Characters/Air%20Conditioners/RAM/RADStler.md) into a Multi-split system via RAM-130QH5.
-	
-	RAM-130QH5 is RAMH.
 
 
 ## Always Current
@@ -140,6 +145,10 @@ kanban-plugin: board
 ## Done
 
 **Complete**
+- [x] Hitachi RAD-18NH7A with optional SPX-RCK2 installed. ✅ 2025-11-04
+	
+	[RADStler](../../Characters/Characters/Air%20Conditioners/RAM/RADStler.md)  
+	From RAD, and the NH7 which reminds me of NH4
 - [x] Give [JHR](../../Characters/Characters/Air%20Conditioners/AEX/JHR.md) a cousin. AEX/JHR's cousin is the IVT version of JHR (superior and inferior at the same time). ✅ 2025-10-21
 	
 	[Ivy](../../Characters/Bench/Air%20Conditioners/Ivy.md)
@@ -158,6 +167,9 @@ kanban-plugin: board
 ## Done2
 
 **Complete**
+- [x] Bring [Raiilee](../../Characters/Characters/Air%20Conditioners/RAM/Raiilee.md) together alongside [RADStler](../../Characters/Characters/Air%20Conditioners/RAM/RADStler.md) into a Multi-split system via RAM-130QH5. ✅ 2025-11-04
+	
+	RAM-130QH5 is RAMH.
 - [x] [Termyice](../../Characters/Characters/Air%20Conditioners/Termyice.md) and [LCN](../../Characters/Characters/Air%20Conditioners/LCN.md) life as the first LG people. ✅ 2025-09-21
 - [x] Awux -> Awu-See ✅ 2025-09-24
 	
