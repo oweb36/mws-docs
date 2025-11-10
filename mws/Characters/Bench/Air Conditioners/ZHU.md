@@ -28,4 +28,6 @@ ZHR is your average French and Canadian guy. Just there, nothing.
 
 ## Relations
 
-#airconditioner #TODO 
+N/A
+
+#airconditioner 
