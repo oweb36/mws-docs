@@ -68,12 +68,6 @@ kanban-plugin: board
 
 ## Todo2
 
-- [ ] Terra
-	
-	Gree TERRA24HP230V1B
-	Female (she/her)
-	
-	Chewing tobbaco wild cowgirl
 - [ ] LFC & CE
 	
 	LG LF300CP  
@@ -123,6 +117,12 @@ kanban-plugin: board
 
 ## Current
 
+- [ ] Terra
+	
+	Gree TERRA24HP230V1B
+	Female (she/her)
+	
+	Chewing tobbaco wild cowgirl
 
 
 ## Always Current
