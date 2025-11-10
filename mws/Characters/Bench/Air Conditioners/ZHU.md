@@ -9,6 +9,8 @@ Nationality:
 # ZHU
 
 ZHU is a background [character](Characters.md) on the [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show.md).
+
+He's just there, being french.
 ## Identity
 
 ZHU is a Sharp wall-mounted AY-XP18ZHU [heat pump](../../Species/Air%20Conditioners.md). A French-Canadian boi. He is white. 
@@ -19,7 +21,10 @@ ZHU was born in June 24, 2024. He is a cisgender male (he/him). Sexual identity 
 
 ## Personality
 
-TODO: TBA
+> TLDR: French and Canadian. 
+> TLDR2: Just there.
+
+ZHR is your average French and Canadian guy. Just there, nothing.
 
 ## Relations
 
