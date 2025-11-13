@@ -13,7 +13,7 @@ aliases:
 RBC-AMSUS is a ["character"](Characters.md) as a component of [ToshyFEN](ToshyFEN.md) on the [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show.md).
 ## Identity
 
-RBC-AMSUS is a Toshiba Lite-Vision plus (RBC-AMSU51-EN) controller. 
+RBC-AMSUS is a Toshiba Lite-Vision plus (RBC-AMS55-EN) controller. 
 
 RBC-AMSUS is the brain to [FEN](FEN.md) and [ToshyFEN](ToshyFEN.md), and also the secondary mind to ToshyFEN.
 
