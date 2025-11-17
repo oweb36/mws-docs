@@ -27,7 +27,7 @@ RBC-AMSUS has a long name ig, so feel free to call him these:
 - RBC (Nickname)
 - AMSUS (Nickname, less prefered but sure).
 
-RBC-AMSUS' name is derived from his model -> *RBC-AMSU51-EN*
+RBC-AMSUS' name is derived from his model -> *RBC-AMS55-EN*
 ## Personality
 
 TLDR: Cautious and chill. Sane unlike [FEN](FEN.md). Smarter, but usually untrusting. If warmed up, he would trust you. Quite chatty, but find big talk awkward and leaves it up to FEN to do so. Is the brain, and so is cautious because if RBC dies then ToshyFEN dies. Observant and more intelligent than FEN, but does so discretely. Saner and would try to stop FEN but mostly is powerless except to influence FEN. Does not like you lobotomizing him and ToshyFEN.
