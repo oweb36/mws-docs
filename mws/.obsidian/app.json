@@ -9,5 +9,6 @@
   "newLinkFormat": "relative",
   "attachmentFolderPath": "_Attachments",
   "showUnsupportedFiles": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "showLineNumber": true
 }
