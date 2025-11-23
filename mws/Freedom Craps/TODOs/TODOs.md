@@ -48,7 +48,7 @@ kanban-plugin: board
 	- FTXG50JV1BS -> TXVBS (Male: he/him, Silver)
 	- FTXJ50MV1BS -> XJ (Male: he/him, Silver)
 	- FTXG25CVMBW -> (Female: she/her, White)
-	- FTXG35EV1BS -> (Female: she/her, Silver)
+	- FTXG35EV1BS -> TEXV (Female: she/her, Silver)
 	- FTXJ42A2V1BB -> TJ (Male: he/him, Black)
 	
 	XJ is the leader of the family. TJ is the stereotypical black guy, an antithetical complement to [Avxy](../../Characters/Characters/Air%20Conditioners/Avxy.md).
@@ -108,7 +108,7 @@ kanban-plugin: board
 	
 	[Flerovy](../../Characters/Characters/Air%20Conditioners/Flerovy.md)'s younger, but relatively stronger sibling. 
 	
-	Avame is a real princess, but what nation is we don't know. She's basically a *"Fresh Prince of Bel-Air"* kind of princess. Real royalty, but doesn't live it.
+	Avame is a real princess, a princess of an alternative Britain. She's basically a *"Fresh Prince of Bel-Air"* kind of princess. Real royalty, but doesn't live it.
 	
 	Tomboy, and both spoiled sweet and spoiled brat. Can be nice, and kind (spoiled sweet), but also arse-y (spoiled brat).
 	
