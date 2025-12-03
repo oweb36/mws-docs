@@ -27,7 +27,9 @@ ToshyMEF is sassy. She has that rudeness. She is not subtle about some things. S
 
 One thing unique about her is that ToshyMEF is that she's slightly homophobic. ToshyMEF is this way because she believes that LG TVs is better than LGBTQ+. This homophobia is not severe like wishing someone to die, but she targets the LGBTQ+ people more than the rest, to flex LG TVs. We all know [why](#Identity) do we?
 
-So, she's a sassy-aah rude californian slight homophobe.
+But, just trust me she ain't the worst at this. It's quite tame compared to IRL. Don't expect roman candles, just snubbery. Yep, she just snubs you. ToshyMEF wouldn't go out of her way to crucify or immolate you. Just pick the heteros more than the homos.
+
+So, she's a sassy-aah rude californian slight homophobe. Tamer than most ig.
 
 ## Relations
 

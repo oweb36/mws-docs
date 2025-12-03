@@ -25,8 +25,43 @@ He is one of the strongest person in the Megarchive Warehouse Show. He is also o
 
 WELLPan also [cannot be angry](#Chillsacking). He is unable to feel anger, as his soul and *brain* lacks it in him. Its against the laws of the universe for him to be angry. 
 
+Can be considered as a **Neutral Good** guy.
+
+### Neurology
+
+> or smth, basically how his "brain" or smth-equivalent works.
+
+His "brain" is simple, and in fact is fully documented. Yep, we actually know how his brain works, truly. We know the nooks and cranies of almost all things (there are some blackboxes that we can't explain due to the concept of **soul**), including his neural circuits.
+
+#### Size
+
+His brain is surprisingly efficient. It basically is the size of a walnut, but very efficient. He's quite smart, and it's all packed into the size of a walnut. It may not be dense like ours, but it's actually better. If we upscale it to normal sizes, he would be on a higher level than the entire world.
+
+He has the potential to surpass [*Albert Einstein*](void:or-who-in-this-universe), but his brain is the size of a walnut and not the large brain that we have. So yeah, he has the potential to be the smartest, and it's just limited by the walnut-size nature.
+
+#### Well-Documented
+
+Well, we do know his neural circuits or smth (electrical traces here ig). We know how they are connected, and how they operate. This means that we know that A makes B, and X makes D. Since we know this, we do know his brain.
+
+The well-documented nature of his brain means that his thought process is also well-known and documented. We know why he does things like `A -> B` and `X -> D`. We can follow his thought process and end up with the same conclusion.
+
+This means that we can actually model his "brain" accurately (almost, frick you **soul**). A computer can be programmed to create an almost 1:1 replica of his "brain" with a program. The program follows the exact thought process.
+
+
+#### Soul Factor
+
+The **soul** factor in this is emotions and morality. We do not understand this, and will never due to it being part of his soul ig. It's one of those mental or meta things that we will never reach due to its otherworldly nature.
+
+This thing adds a bit of randomness and variety so that WELLPan is not just a mindless robot (well, he is kinda one but no), but an actual being with soul.
+
+#### Emotions
+
+But srsly, he doesn't feel anger. He doesn't even have the circuits to do so. We know that his amygdala (or the equivalent) cannot process anger. It doesn't even recognize nor register such feeling. Due to this, he is chill and unable to comprehend anger. Funnily, he can still understand other people's anger.
+
+WELLPan's amygdala (equivalent) also cannot feel sadness. He also cannot comprehend his own sadness, but can empathize with others. Yep, he is always happy. Unable to be sad or depress(-o).
+
 ## Personality
-TLDR: Chill Guy, Lazy Bum, Smart, Sane. Actually capable, but is lazy. Would like to be your friend if you want. Cannot actually get angry, but still understands anger.
+> TLDR: Chill Guy, Lazy Bum, Smart, Sane. Actually capable, but is lazy. Would like to be your friend if you want. Cannot actually get angry nor can he understand anger inside of him, but still understands other's anger. Also never be sad.
 
 WELLPan is one of the chillest and most easygoing person in the Megarchive Warehouse Show. He is pretty much the easygoing vibe carrier in AACOS. He has that unhinged, yet chill humor. WELLPan is also kinda lazy and unmotivated at times. To get his thin body to do something, you should motivate him.
 
@@ -42,19 +77,40 @@ WELLPan may struggle with motivation and laziness, but don't underestimate him. 
 
 Everyone, well almost everyone likes him because he is easy to get along with. In fact, he would like to be your friend (of course you don't have to accept, and he is fine with this too). He is easy to befriend, and he actually does not take it personally if you turn his offer. So yeah, he is one friend to trust.
 
-And oh also smth! [WELLPan actually cannot get angry](#Chillsacking). His soul and *brain* simply does not have that in him. Even if you try to split his personality into multiples, you won't find anger from it. Its actually against the laws of the universe for him to be angry, so he chill. He still understands anger.
+And oh also smth! [WELLPan actually cannot get angry](#Chillsacking). His soul and [*brain*](#Neurology) simply does not have that in him. Even if you try to split his personality into multiples, you won't find anger from it. It's actually against the laws of the universe for him to be angry, so he chill. He still understands anger.
+
+And neither can he be sad. He literally also [cannot get sad](#sadness). His soul and [brain](#Neurology) also lacks the ability for sadness. Yep, he. is also perpetually happy. And yes, you won't also find sadness in his personality just like anger when split. And yes, also against the law of universe for him to feel so.
 
 ### Chillsacking
 
-WELLPan is very chill. In fact he cannot feel anger at all, literally!
+WELLPan is very chill. In fact he cannot feel anger at all, literally! Nor can he feel sadness.
 
-WELLPan's *brain* literally does not have the required [*neural circuits and neural pathways*](void:more-like-electrica-traces) for anger. You won't even find activity even remotely resembling anger! He is just that chill.
+
+#### Anger
+
+WELLPan's *brain* literally does not have the required [*neural circuits and neural pathways*](void:more-like-electrica-traces) for anger. You won't even find activity even remotely resembling anger! He is just that chill. You can learn more in his [Neurology](#Neurology).
 
 In his soul, no anger at all. Not repressed, just not there. He is that chill. Its as if he was formed and born without anger (It is).
 
 Normally when you split someone and their soul into their constituent personalities, you will find anger in some form or capacity, either as the foundation or just another personality. In WELLPan, splitting him the same way and there will be no anger. He does not have anger in him, and you cannot find it anywhere.
 
 Cool fact that makes this guaranteed: It's against the laws of the universe and the laws of physics for him to be angry. The universe enforces this. Try to inject anger into him and it will be rejected and yeeted out. If you do see him display anger in any level, that is ominous as someone clearly has broken the laws of the universe (I hope we don't see this).
+
+WELLPan would also wouldn't understand and unable to comprehend anger in the universe-catastrophic moment he does feel anger. His *brain* lacks the ability to do so, since it doesn't have the right circuits to do so. 
+
+But this doesn't mean he doesn't understand why others are angry. He actually knows and understands that. The only form of anger he doesn't understand is anger inside of him.
+
+#### Sadness
+
+WELLPan also doesn't get sad. His [*brain*](#Neurology) also lacks such thing. He lacks the neural circuit to do so also.
+
+What does this mean? He is always happy. Never sad even once. Not even depression. Even in the darkest hour, he is still very happy. So he is also quite stable, and happy for you!
+
+Just like anger, he doesn't have sadness in his soul! Split his personality, and no sadness anywhere just like anger. It's not in his constituent of his personalities. You cannot find sadness in him, anywhere as it's not in him like [anger](#Anger).
+
+And yes, also against the laws of the universe for him to feel sadness. And yep, behaves like Anger. Inject sadness, and it will be yeeted out. Seeing him sad is a sure sign that the universe is corrupted.
+
+And yes, he cannot comprehend sadness if it's in him. But still, empatphy is still there.
 
 ## Relations
 
@@ -128,8 +184,12 @@ SASHuan is slightly unnerved by ToshyFEN because you know the latter guy is quit
 
 WELLPan is lazy, so Ivy does not like him. Yeah, its obvious. Ivy clearly hates WELLPan because he lazy and chill, the antithesis to Ivy's ideology and philosophy.
 
-### [WELLPan](WELLPan.md)
+### [RADStler](RAM/RADStler.md)
 
 These two obviously would be passive. WELLPan is too chill, and RADStler is passive. They would not have the initiative to do anything, usually. They are also chill, and have no problems with each other.
+
+### [TKA](../../Bench/Air%20Conditioners/TKA.md)
+
+These two are kinda the same. Same '*brain*' and yes. But still friends. Can relate. One is lazy-ass, while the other is a child in an adult's body.
 
 #airconditioner #weirdidentities
