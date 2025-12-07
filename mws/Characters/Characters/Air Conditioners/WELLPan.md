@@ -37,7 +37,7 @@ His "brain" is simple, and in fact is fully documented. Yep, we actually know ho
 
 His brain is surprisingly efficient. It basically is the size of a walnut, but very efficient. He's quite smart, and it's all packed into the size of a walnut. It may not be dense like ours, but it's actually better. If we upscale it to normal sizes, he would be on a higher level than the entire world.
 
-He has the potential to surpass [*Albert Einstein*](void:or-who-in-this-universe), but his brain is the size of a walnut and not the large brain that we have. So yeah, he has the potential to be the smartest, and it's just limited by the walnut-size nature.
+He has the potential to surpass [*Albert Einstein*](void:or-who-in-this-universe), but his brain is the size of a walnut and not the large brain that we have. So yeah, he has the potential to be the smartest in the world, and it's just limited by the walnut-size nature. Well, there's just one exception and that is [TKA](../../Bench/Air%20Conditioners/TKA.md) who could even be smarter than even WELLPan if it weren't for the former's immaturity.
 
 #### Well-Documented
 
