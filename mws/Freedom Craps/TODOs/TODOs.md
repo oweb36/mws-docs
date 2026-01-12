@@ -84,11 +84,11 @@ kanban-plugin: board
 	
 	Mitsubishi Electric - PSA-RP140KA
 	He/Him (male) - [SASHuan](../../Characters/Characters/Air%20Conditioners/SASHuan.md)'s younger sibling
-- [ ] VALFire and PLANBarry
+- [ ] VALFire and PLANaB
 	
 	Mitsubishi Electric
 	- VALFire (SLZ-KA50VAL)
-	- PLAN (PLA-RP140BA2)
+	- PLANaB (PLA-RP140BA2)
 	
 	Both male (he/him), and they are siblings
 - [ ] KFR
