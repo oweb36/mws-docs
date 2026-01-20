@@ -88,7 +88,7 @@ kanban-plugin: board
 	
 	Mitsubishi Electric
 	- VALFire (SLZ-KA50VAL)
-	- PLANaB (PLA-RP140BA2)
+	- PLANaRB (PLA-RP140BA2)
 	
 	Both male (he/him), and they are siblings
 - [ ] KFR

@@ -10087,7 +10087,7 @@ var import_obsidian_dataview = __toESM(require_lib());
 
 // src/modals/local-settings-modal.ts
 var import_obsidian3 = require("obsidian");
-var AVAILABLE_SETTINGS = ["width", "slots", "ratio", "from", "where", "image", "title"];
+var AVAILABLE_SETTINGS = ["width", "slots", "ratio", "fontSize", "image", "click", "from", "where", "title"];
 var LocalSettingsModal = class extends import_obsidian3.Modal {
   constructor(app, settings, onSave) {
     super(app);
@@ -10149,6 +10149,11 @@ function redraw(el, settings) {
   el.style.setProperty("--screen-width", `${screen.width}px`);
   el.style.setProperty("--tier-list-slot-count", `${settings.slots}`);
   el.style.setProperty("--tier-list-aspect-ratio", `${settings.ratio}`);
+  if (settings.fontSize && settings.fontSize.trim() !== "") {
+    el.style.setProperty("--tier-list-font-size", settings.fontSize);
+  } else {
+    el.style.removeProperty("--tier-list-font-size");
+  }
 }
 function findDataLine(el) {
   let closestLineElement = null;
@@ -10199,9 +10204,13 @@ function generateTierListPostProcessor(plugin) {
     const localSettings = { ...plugin.settings };
     const scrollableEl = document.documentElement.find(".markdown-preview-view");
     scrollableEl.scrollTo(0, scroll);
+    function toPascalCase(str) {
+      return str.charAt(0).toUpperCase() + str.slice(1);
+    }
     async function writeSetting(key, value) {
       const settingsList = tierList.find(".settings");
-      const valueText = `	- ${key}: ${value}`;
+      const pascalKey = toPascalCase(key);
+      const valueText = `	- ${pascalKey}: ${value}`;
       if (settingsList) {
         for (const setting of settingsList.findAll("li")) {
           const text = setting.textContent || "";
@@ -10227,7 +10236,7 @@ function generateTierListPostProcessor(plugin) {
           ([key, value]) => plugin.settings[key] !== value
         )
       );
-      const values = Object.entries(settings).map(([key, value]) => `	- ${key}: ${value}`);
+      const values = Object.entries(settings).map(([key, value]) => `	- ${toPascalCase(key)}: ${value}`);
       if (settingsList) {
         const settingLine = findDataLine(settingsList) + 1;
         scroll = scrollableEl.scrollTop;
@@ -10276,6 +10285,30 @@ function generateTierListPostProcessor(plugin) {
           event.stopPropagation();
           return;
         }
+        if (event.shiftKey && localSettings.click && localSettings.click.trim() !== "") {
+          event.stopPropagation();
+          const filePath = slot.getAttribute("href");
+          if (filePath) {
+            const file = app.metadataCache.getFirstLinkpathDest(filePath, "");
+            if (file) {
+              const metadata = app.metadataCache.getFileCache(file);
+              if (metadata && metadata.frontmatter) {
+                const clickValue = metadata.frontmatter[localSettings.click];
+                if (clickValue && typeof clickValue === "string") {
+                  if (clickValue.startsWith("http://") || clickValue.startsWith("https://")) {
+                    window.open(clickValue, "_blank");
+                  } else {
+                    const destFile = app.metadataCache.getFirstLinkpathDest(clickValue, file.path);
+                    if (destFile) {
+                      app.workspace.openLinkText(clickValue, file.path);
+                    }
+                  }
+                  return;
+                }
+              }
+            }
+          }
+        }
         if (event.ctrlKey || event.metaKey) {
           event.stopPropagation();
           const link = slot.find("a.internal-link, a.external-link");
@@ -10303,7 +10336,6 @@ function generateTierListPostProcessor(plugin) {
               const src = img.getAttribute("src");
               if (src) {
                 const isExternal = src.startsWith("http://") || src.startsWith("https://");
-                console.log(src);
                 if (isExternal) {
                   window.open(src, "_blank");
                 } else {
@@ -10511,6 +10543,9 @@ function generateTierListPostProcessor(plugin) {
         }
       }
     }
+    function toCamelCase(str) {
+      return str.charAt(0).toLowerCase() + str.slice(1);
+    }
     function settingsProcessing(list, settings) {
       list.addClass("settings");
       const pairs = {};
@@ -10518,7 +10553,7 @@ function generateTierListPostProcessor(plugin) {
         const text = setting.textContent || "";
         const [key, value] = text.split(":").map((item) => item.trim());
         if (key && value) {
-          pairs[key] = value;
+          pairs[toCamelCase(key)] = value;
         }
       });
       for (const [key, value] of Object.entries(pairs)) {
@@ -11036,11 +11071,13 @@ var DEFAULT_SETTINGS = {
   from: "",
   where: "",
   lastSlotType: "Text" /* Text */,
-  title: false
+  title: false,
+  fontSize: "",
+  click: ""
 };
 function setSetting(key, value, settings) {
-  key = key.toLowerCase();
-  const type = typeof settings[key];
+  const camelKey = key.charAt(0).toLowerCase() + key.slice(1);
+  const type = typeof settings[camelKey];
   let val;
   switch (type) {
     case "boolean":
@@ -11050,10 +11087,10 @@ function setSetting(key, value, settings) {
       val = value.includes(".") ? parseFloat(value) : parseInt(value);
       break;
     case "string":
-      val = value;
+      val = value.trim();
       break;
   }
-  settings[key] = val;
+  settings[camelKey] = val;
 }
 var SettingTab = class extends import_obsidian7.PluginSettingTab {
   constructor(app, plugin) {
@@ -11076,47 +11113,7 @@ var SettingTab = class extends import_obsidian7.PluginSettingTab {
     const { containerEl } = this;
     containerEl.empty();
     containerEl.addClass("tier-list-settings");
-    new import_obsidian7.Setting(containerEl).setName("Animation duration").setDesc("Animation speed moving items when sorting, 0 \u2014 without animation").addText((text) => {
-      text.inputEl.classList.add("tier-list-number-setting", "tier-list-ms-setting");
-      text.setValue(this.plugin.settings.animation.toString()).onChange(async (value) => {
-        if (await this.checkNumber(text, /^([0-9]{1,3})$/)) {
-          this.plugin.settings.animation = Number(text.getValue());
-          this.plugin.saveSettings();
-        }
-      });
-    });
-    new import_obsidian7.Setting(containerEl).setName("Image property name").setDesc("Obsidian property which is used as Image reference").addText((text) => {
-      text.setValue(this.plugin.settings.image).onChange(async (value) => {
-        this.plugin.settings.image = value;
-        await this.plugin.saveSettings();
-      });
-    });
-    new import_obsidian7.Setting(containerEl).setName("To rank list name").setDesc("The last and not renderable list").addText((text) => {
-      text.setValue(this.plugin.settings.unordered).onChange(async (value) => {
-        this.plugin.settings.unordered = value;
-        await this.plugin.saveSettings();
-      });
-    });
-    new import_obsidian7.Setting(containerEl).setName("Tier list tag").setDesc("Tag which marks list as Tier List").addText((text) => {
-      text.setValue(this.plugin.settings.tag).onChange(async (value) => {
-        this.plugin.settings.tag = value;
-        await this.plugin.saveSettings();
-      });
-    });
-    new import_obsidian7.Setting(containerEl).setName("Settings name").setDesc("").addText((text) => {
-      text.setValue(this.plugin.settings.settings).onChange(async (value) => {
-        this.plugin.settings.settings = value;
-        await this.plugin.saveSettings();
-      });
-    });
-    new import_obsidian7.Setting(containerEl).setName("Tier list slot width/height ratio").setDesc("").addText((text) => {
-      text.setValue(this.plugin.settings.ratio.toString()).onChange(async (value) => {
-        if (await this.checkNumber(text, /^\d+\.?\d*$/)) {
-          this.plugin.settings.ratio = Number(text.getValue());
-          this.plugin.saveSettings();
-        }
-      });
-    });
+    new import_obsidian7.Setting(containerEl).setName("Display Settings").setHeading();
     new import_obsidian7.Setting(containerEl).setName("Tier list width").setDesc("Width of tier list container in percentage of screen").addText((text) => {
       text.inputEl.classList.add("tier-list-number-setting", "tier-list-persentage-setting");
       text.setValue(this.plugin.settings.width.toString()).onChange(async (value) => {
@@ -11136,11 +11133,68 @@ var SettingTab = class extends import_obsidian7.PluginSettingTab {
         }
       });
     });
-    new import_obsidian7.Setting(containerEl).setName("Show title").addToggle((cb) => {
+    new import_obsidian7.Setting(containerEl).setName("Tier list slot width/height ratio").setDesc("Aspect ratio for slot dimensions (width/height)").addText((text) => {
+      text.inputEl.classList.add("tier-list-number-setting", "tier-list-ratio-setting");
+      text.setValue(this.plugin.settings.ratio.toString()).onChange(async (value) => {
+        if (await this.checkNumber(text, /^\d+\.?\d*$/)) {
+          this.plugin.settings.ratio = Number(text.getValue());
+          this.plugin.saveSettings();
+        }
+      });
+    });
+    new import_obsidian7.Setting(containerEl).setName("Animation duration").setDesc("Animation speed moving items when sorting, 0 \u2014 without animation").addText((text) => {
+      text.inputEl.classList.add("tier-list-number-setting", "tier-list-ms-setting");
+      text.setValue(this.plugin.settings.animation.toString()).onChange(async (value) => {
+        if (await this.checkNumber(text, /^([0-9]{1,3})$/)) {
+          this.plugin.settings.animation = Number(text.getValue());
+          this.plugin.saveSettings();
+        }
+      });
+    });
+    new import_obsidian7.Setting(containerEl).setName("Font size").setDesc("CSS font size value. If empty, text adapts to Obsidian's current font.").addText((text) => {
+      text.inputEl.classList.add("tier-list-number-setting", "tier-list-font-size-setting");
+      text.setValue(this.plugin.settings.fontSize).setPlaceholder("14px").onChange(async (value) => {
+        this.plugin.settings.fontSize = value;
+        await this.plugin.saveSettings();
+      });
+    });
+    new import_obsidian7.Setting(containerEl).setName("Content Settings").setHeading();
+    new import_obsidian7.Setting(containerEl).setName("Show title").setDesc("Display title overlay on slots with images").addToggle((cb) => {
       cb.setValue(this.plugin.settings.title);
       cb.onChange((value) => {
         this.plugin.settings.title = value;
         this.plugin.saveSettings();
+      });
+    });
+    new import_obsidian7.Setting(containerEl).setName("Image property name").setDesc("Obsidian property which is used as Image reference").addText((text) => {
+      text.setValue(this.plugin.settings.image).onChange(async (value) => {
+        this.plugin.settings.image = value;
+        await this.plugin.saveSettings();
+      });
+    });
+    new import_obsidian7.Setting(containerEl).setName("Click field name").setDesc("Property name for Shift+Click override. When set, Shift+Click on a slot will open the link from this property in the note's metadata.").addText((text) => {
+      text.setValue(this.plugin.settings.click).onChange(async (value) => {
+        this.plugin.settings.click = value;
+        await this.plugin.saveSettings();
+      });
+    });
+    new import_obsidian7.Setting(containerEl).setName("Structure Settings").setHeading();
+    new import_obsidian7.Setting(containerEl).setName("Tier list tag").setDesc("Tag which marks list as Tier List").addText((text) => {
+      text.setValue(this.plugin.settings.tag).onChange(async (value) => {
+        this.plugin.settings.tag = value;
+        await this.plugin.saveSettings();
+      });
+    });
+    new import_obsidian7.Setting(containerEl).setName("Settings name").setDesc("Name for the settings list in tier lists").addText((text) => {
+      text.setValue(this.plugin.settings.settings).onChange(async (value) => {
+        this.plugin.settings.settings = value;
+        await this.plugin.saveSettings();
+      });
+    });
+    new import_obsidian7.Setting(containerEl).setName("To rank list name").setDesc("The last and not renderable list").addText((text) => {
+      text.setValue(this.plugin.settings.unordered).onChange(async (value) => {
+        this.plugin.settings.unordered = value;
+        await this.plugin.saveSettings();
       });
     });
     new import_obsidian7.Setting(containerEl).setName("Template").setHeading();

@@ -23,4 +23,10 @@ TBA
 
 ## Relations
 
+Relationals TBA
+
+## Trivia
+
+Trivia time
+
 #airconditioner #TODO 

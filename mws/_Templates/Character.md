@@ -20,4 +20,10 @@ Name:
 TBA
 ## Relations
 
+Relationals TBA
+
+## Trivia
+
+Trivia time
+
 #TODO 
