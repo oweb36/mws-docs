@@ -8,5 +8,7 @@
   "obsidian-tasks-plugin",
   "dataview",
   "obsidian-link-converter",
-  "global-search-and-replace"
+  "global-search-and-replace",
+  "digitalgarden",
+  "templater-obsidian"
 ]
