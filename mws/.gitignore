@@ -1,1 +1,3 @@
-.obsidian/workspace.json
+# Ignore test things
+_.Test/
+!_.Test/.gitkeep
