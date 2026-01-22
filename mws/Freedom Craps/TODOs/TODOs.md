@@ -60,7 +60,7 @@ kanban-plugin: board
 	- CS-XE12NKEW
 	- CU-4E23LBE
 	
-	All #etherean and male
+	All #etherean and male, very multi
 - [ ] #etherean  and one non-etherean:
 	
 	CS-XZ50VKEW (Faegender), CS-VE12NKE (Male)
@@ -123,6 +123,7 @@ kanban-plugin: board
 	Female (she/her)
 	
 	Chewing tobbaco wild cowgirl
+- [ ] Update each of the char's docs
 
 
 ## Always Current
