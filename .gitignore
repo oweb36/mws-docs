@@ -14,3 +14,7 @@ a.json
 *.xml
 out/
 _site/
+
+# Ignore test things
+**/*.Test
+!**/*.Test/.gitkeep
