@@ -6,9 +6,10 @@
   "obsidian-shellcommands",
   "tier-list",
   "obsidian-tasks-plugin",
-  "dataview",
   "obsidian-link-converter",
   "global-search-and-replace",
   "digitalgarden",
-  "templater-obsidian"
+  "templater-obsidian",
+  "dataview",
+  "gemini-scribe"
 ]
