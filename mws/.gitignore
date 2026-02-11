@@ -1,3 +1,6 @@
 # Ignore test things
 _.Test/*
 !_.Test/.gitkeep
+
+# Ignore secret stuff
+.obsidian/plugins/gemini-scribe/data.json
