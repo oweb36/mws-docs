@@ -159,4 +159,24 @@ Wheamy has to help CeRNY with her emotions, and he actually knows that its kinda
 
 CeRNY is slightly offended by ToshySMUT's behavior, but does understand why he is this way. She does not take real offense, just some slight offense.
 
+
+## Injuries and Death
+
+> Not standard to all, but she deserves it. She's still alive, don't worry. It's all slapstick.
+
+- She ded.
+	- Did you know a piano fell on her, killing her?
+	- To this day, we don't know how. But she totally suffered! [:D](https://tvtropes.org/pmwiki/pmwiki.php/Main/ComedicSociopathy)
+	- The corpse is still there, just partially buried. 
+
+## Trivia
+
+- She is that one girl where you don't [**FAFO**](void:fuck-around-n-find-out).
+- She can skate, also don't **FAFO**.
+- She may game, and can game Call of Duty.
+	- She can handle the competitiveness, but the voice chat is just toxic.
+	- This is why she plays without voice chat in COD games.
+- She's not [MWS](../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md)' Kenny despite her deaths.
+
+
 #airconditioner 

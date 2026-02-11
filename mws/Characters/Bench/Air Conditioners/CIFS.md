@@ -56,4 +56,12 @@ Stop killing us all and get help! You are not the savior!
 
 Wheamy won't even dare to go near CIFS for fear of being killed.
 
+## Trivia
+
+- He is very homicidal.
+	- Do not go near him.
+- Something is severely wrong with his logic board.
+	- I believe something is wrong with his microprocessor.
+	- No way someone is this insane.
+
 #airconditioner 
