@@ -49,5 +49,8 @@ Aurl respects ToshyFEN despite being older than him. Aurl knows about the streng
 
 Chill. Like WELLPan, but there might be danger. RADStler might follow Aurl in temper though, especially in actions done as a result of it.
 
+## Trivia
+
+N/A
 
 #airconditioner

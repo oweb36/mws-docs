@@ -99,5 +99,6 @@ WELLPan might question Aufs at times about his behavior of lurking in the dark. 
 
 - I added him because I wanted a Fujitsu cassette that has that classic look.
 	- I named him Aufs because of [Name History](#Name%20History). But I like [aufs](https://en.wikipedia.org/wiki/Aufs).
+- He's yellow not white because of the IRL units I have seen, none of which are white due to age.
 
 #airconditioner 
