@@ -46,4 +46,11 @@ These two obviously would be passive. WELLPan is too chill, and RADStler is pass
 
 Chill. Like WELLPan, but there might be danger. RADStler might follow Aurl in temper though, especially in actions done as a result of it.
 
+## Trivia
+
+- Before him, there was no ducted AC bois here.
+	- This is because I thought they looked ugly.
+	- He is the one to convince me that they do look cool if properly developed.
+	- His wired remote controller and [wireless receiver](void:SPX-RCK2) is what convinced me lol.
+
 #airconditioner #hitachitriplets 

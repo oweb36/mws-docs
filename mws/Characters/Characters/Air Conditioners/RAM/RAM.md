@@ -36,4 +36,8 @@ While RAM's members come from different places, RAM is still English because the
 
 > Refer to , RADStler, and RAMH. They are individuals, and not collective despite it all.
 
+## Trivia
+
+- He the third Multi after [AEX](../AEX/AEX.md).
+
 #airconditioner #hitachitriplets 

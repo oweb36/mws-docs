@@ -61,4 +61,8 @@ Do not worry though! Its nothing compared to [CIFS](../../../Bench/Air%20Conditi
 
 > More on [ToshyFEN](ToshyFEN.md).
 
+## Trivia
+
+- He's the body. But his mind resides within [RBC-AMSUS](RBC-AMSUS.md). This means if you removed RBC-AMSUS and out him on another body, FEN will come back.
+
 #airconditioner 

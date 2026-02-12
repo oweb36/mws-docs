@@ -50,4 +50,11 @@ Also RBC-AMSUS does not like it if you tinker too much or deeply with him. By do
 
 > See more on [ToshyFEN](ToshyFEN.md)
 
+## Trivia
+
+- AMSUS is the brain. He can outlive the body. 
+	- This means AMSUS can actually be taken out of the body and still be alive, albeit crippled.
+	  This also means that if you take out AMSUS out of the body and into the new one, [ToshyFEN](ToshyFEN.md) will come back and [FEN](FEN.md) will reappear.
+- [FEN](FEN.md) kinda lives here as the mind. This is where all the processing is done. 
+
 #airconditioner 

@@ -42,4 +42,8 @@ CTUX inherently is not a bad person, but genuinely a good person. He is just too
 
 > Explained in [VXU](VXU.md)
 
+## Trivia
+
+- He's the unit for 
+
 #airconditioner 

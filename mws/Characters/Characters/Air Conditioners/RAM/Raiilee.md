@@ -50,4 +50,8 @@ Idk what these two would do, but umm these two are friends. Awu has shown her go
 
 Awu would sometimes ask Raiilee to be a mediator in some cases.
 
+## Trivia
+
+- He is the first cassette I believe. Even Raiilee predates [RAM](RAM.md), probably because I discovered later on that Raiilee is indeed a multi-only unit.
+
 #airconditioner #hitachitriplets 

@@ -135,4 +135,8 @@ They can combine their brain power together, and cook cool things. WELLPan is no
 SASHuan is slightly unnerved by ToshyFEN because you know the latter guy is quite unstable. He might be umm slightly scared, but other than that no blemishes. They can have fun together, and especially with WELLPan. SASHuan is still careful of ToshyFEN because the latter might go berserk.
 
 
+## Trivia
+
+> See [FEN](FEN.md) and [RBC-AMSUS](RBC-AMSUS.md)
+
 #airconditioner #swatpaper

@@ -102,6 +102,7 @@ To understand them, you need to take a look at each individual member.
 ## Trivia
 
 - Very Multi.
+- AEX is also the second multi-split system of [MWS](../../../../Megarchive%20Warehouse%20Show/Megarchive%20Warehouse%20Show.md), after [VXU](../VXU/VXU.md).
 
 #airconditioner #multi-split
 
