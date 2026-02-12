@@ -60,4 +60,6 @@ These two are kinda the same. Same '*brain*' and yes. But still friends. Can rel
 
 TKA is one of those people Ivy is quite uncomfortable to boss around. Well, TKA is a literal child in an adult body and Ivy is mixed whether TKA is a child or an adult. So yeah, there you go, someone who is immune to Ivy.
 
+This is because Ivy dislikes child labor, jackass.
+
 #airconditioner 

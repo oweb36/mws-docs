@@ -48,4 +48,10 @@ XKC has figured out the way to DKE's eccentricity, and DKE is way open to him.
 
 ZiP is actually good with him. He is fast, and can actually help DKE sort very fast. ZiP thinks DKE has an interesting personality and collection. In turn, DKE sees ZiP as one of his few friends.
 
+## Trivia
+
+- He is gay, but not the gayest.
+	- That record goes to the Finnish [ZiP](../../Characters/Air%20Conditioners/ZiP.md).
+- He may be eccentric but he ain't autistic.
+
 #airconditioner 

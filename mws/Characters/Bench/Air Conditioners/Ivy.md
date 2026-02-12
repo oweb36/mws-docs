@@ -28,12 +28,15 @@ Also did you know that Ivy is [JHR](../../Characters/Air%20Conditioners/AEX/JHR.
 > TLDR: Quite Bossy. No Nonsense. No Fun.
 > TLDR2: Basically the embodiment of `white collared long-sleeved dress shirt, with a black tie` woman. Office life basically.
 > TLDR3: Efficiency is best. No chaos, always organizing and sorting.
+> TLDR4: She does not do child labor. Nor does she do sweatshops.
 
 She's the bossy girl running the show or whatever. You cannot do nonsense or get away with fun. She's not fun to work with, and has no fun. You can think of her as the `vegan's tongue` of fun.
 
 Ivy sees efficiency as some of the greatest thing. No chaos, must be neat and organized. In fact, she is always organizing and sorting. Chaos and insanity is kinda her piss-button.
 
 So yeah, she's a great boss and a terrible social friend ig. Good for efficiency, bad for sanity and health.
+
+Surprisingly, she has a redeemable trait: She views child labor as unacceptable. So don't expect to see children in her office. She also doesn't do sweatshop; her office is actually comfy.
 ## Relations
 
 ### [Xeo](../../Characters/Air%20Conditioners/Xeo.md)
@@ -87,6 +90,13 @@ The slight superiority-complex and dirt-digging behavior of Awu is also unaccept
 ### [TKA](TKA.md)
 
 TKA is one of those people Ivy is quite uncomfortable to boss around. Well, TKA is a literal child in an adult body and Ivy is mixed whether TKA is a child or an adult. So yeah, there you go, someone who is immune to Ivy.
+
+This is because Ivy dislikes child labor, jackass.
+
+## Trivia
+
+- She's a workaholic.
+	- This explains her behavior a lot.
 
 
 #airconditioner 
