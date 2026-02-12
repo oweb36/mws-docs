@@ -55,4 +55,9 @@ Please, do not get ZeNer and Avxy together for the sake of everybody else.
 
 Goobers together. Avxy with XYLR doing gooberistics with a dash of Hyperactive running.
 
+## Trivia
+
+- I think he looks cool.
+- he's black, and this is why I think it's funny to have a wokeist.
+
 #airconditioner 
