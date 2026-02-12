@@ -44,6 +44,7 @@ CTUX inherently is not a bad person, but genuinely a good person. He is just too
 
 ## Trivia
 
-- He's the unit for 
+- He's the unit of VXU thats made for MWS.
+- His DoB references the documentation of the CTXU-G, which is 2008.
 
 #airconditioner 

@@ -95,4 +95,9 @@ They are friends, because they are *SANE* unlike [some](ToshyFEN/ToshyFEN.md) ot
 
 WELLPan might question Aufs at times about his behavior of lurking in the dark. He feels something is off when that happens, but he understands about Aufs. WELLPan knows that Aufs is very complicated.
 
+# Trivia
+
+- I added him because I wanted a Fujitsu cassette that has that classic look.
+	- I named him Aufs because of [Name History](#Name%20History). But I like [aufs](https://en.wikipedia.org/wiki/Aufs).
+
 #airconditioner 

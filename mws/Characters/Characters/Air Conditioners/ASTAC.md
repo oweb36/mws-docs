@@ -37,4 +37,8 @@ These 4 would be great ig. PFSA may have less influence, because PFSA is a such 
 
 ASTAC would probably learn from [`Juan`](SASHuan.md), because ASTAC is still learning life even at an old age. CKHSC is the one to well, tell SAShuan to slow down because nobody likes their chemicals exploding in their face.
 
+## Trivia
+
+- I decided that adding him is cool cause variety.
+
 #airconditioner

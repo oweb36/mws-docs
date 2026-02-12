@@ -112,5 +112,10 @@ MHR respects [MXU](VXU.md#MXU) for attempting to stop [this dumbass](VXU.md#Delt
 
 MHR has problems with DeltaCXG. He does not like DeltaCXG bullying and harming others. MHR would rip DeltaCXG if he dares hurt [PCR](#PCR). MHR is also that one guy along with ToshyFEN to stop DeltaCXG if needed.
 
+## Trivia
+
+- If the CVXU-G series did release (Basically the console version of the CTXU-G), then [MXU](MXU.md) would have been upgraded to accomodate this guy.
+	- CVXU-G did not release. Just preliminary.
+
 
 #airconditioner #multi-split 

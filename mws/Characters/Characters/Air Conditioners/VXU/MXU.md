@@ -38,4 +38,9 @@ MXU is a good person definitely. He has power, but is armless.
 
 > Explained in [VXU](VXU.md)
 
+
+## Trivia
+
+- He's just for MWS, not like [DeltaCXG](DeltaCXG.md).
+
 #airconditioner 

@@ -40,4 +40,9 @@ DeltaCXG is the bad person here. Well, it's more like he has a personality disor
 
 > Explained in [VXU](VXU.md)
 
+## Trivia
+
+- He is the unit that was taken from an older show that's gonna be remade.
+- His DoB references the actual year the CTXU-G series was last seen.
+
 #airconditioner 

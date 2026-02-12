@@ -118,4 +118,8 @@ AngelSaph does not like the hoarding nature of Piss. He wants and needs food to 
 
 Piss doesn't understand and can't comprehend why AngelSaph needs to eat. AngelSaph expects this, but still is very annoyed by this fact.
 
+## Trivia
+
+- The first hybrid one here.
+
 #airconditioner 
