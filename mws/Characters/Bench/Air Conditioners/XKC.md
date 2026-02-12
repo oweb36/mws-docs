@@ -44,4 +44,9 @@ They are great friends! XKC is the restraint though, monitoring the genderfluid 
 
 XKC tomfucks while ZeNer Jackasses.
 
+## Trivia
+
+- He's not the jackass.
+- He's not eccentric like his gayass boyfriend [DKE](DKE.md), just likes jokes and crap.
+
 #airconditioner

@@ -62,4 +62,9 @@ TKA is one of those people Ivy is quite uncomfortable to boss around. Well, TKA 
 
 This is because Ivy dislikes child labor, jackass.
 
+## Trivia
+
+- We don't even know how TKA is perpetually a child.
+- He's surprisingly quite simple and basic, only just **operation** and **defrost** for lights.
+
 #airconditioner 

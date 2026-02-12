@@ -48,7 +48,7 @@ With that, lemme say this: She is **mature**. GHR is a mature woman. She knows b
 
 ### [XYLR](XYLR.md)
 
-They are not just friends, but a couple!
+They are not just friends, but a couple! Do not question about the age gap, this is very different. (un)Surprisingly, he would be a competent father.
 
 ### [CeRNY](../../Bench/Air%20Conditioners/CeRNY.md)
 

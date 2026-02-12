@@ -16,7 +16,7 @@ Named derived from `X-Y` and the `LR` (simple). Xiler (Xee-Ler/See-Ler).
 
 XYLR was born in January 8, 2010. He is a cishet male (he/him). 
 
-And yes, he white. And yes, he got a **BIG** forehead. And yes, he is the shortest out of all his wall-mounted peers, with quite stubby legs.
+And yes, he white. And yes, he got a **BIG** forehead. And yes, he is the shortest out of all his wall-mounted peers, with quite unusually short and stubby legs.
 
 ## Personality
 
@@ -37,10 +37,17 @@ Gooberistics Goober. He is a Goober who does Gooberistics. And also a Mongrel.
 
 ### [GHR](../../Characters/Air%20Conditioners/GHR.md)
 
-They are not just friends, but a couple!
+They are not just friends, but a couple! Do not question about the age gap, this is very different. (un)Surprisingly, he would be a competent father.
 
 ### [Avxy](../../Characters/Air%20Conditioners/Avxy.md)
 
 Goobers together. Avxy with XYLR doing gooberistics with a dash of Hyperactive running.
+
+## Trivia
+
+- he's stubby.
+	- This is why he can't drive.
+- He's goober, but he's not a total joker and a pranker. That title goes to [Avxy](../../Characters/Air%20Conditioners/Avxy.md).
+	- He's also not a jackass stuntman. This goes to [ZeNer](../../Characters/Air%20Conditioners/ZeNer.md).
 
 #airconditioner 
