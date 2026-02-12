@@ -47,4 +47,9 @@ PCR is considered as an introvert.
 
 [WELLPan](../WELLPan.md) is on good terms with PCR along with [EXMGR](#EXMGR).
 
+## Trivia
+
+- PCR at one point was going to be an **AY-XPM7FR** unit.
+- Her Year of Birth is referencing [JHR](JHR.md)'s former DoB.
+
 #airconditioner

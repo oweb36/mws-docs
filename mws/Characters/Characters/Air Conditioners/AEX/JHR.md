@@ -110,4 +110,11 @@ Well, this is one of those cases where JHR actually looks up to somebody else. S
 
 JHR is more to the general knowledge, and SASHuan is there to fill JHR's gap on Chemistry. And it's specifically **organic chemistry**, **thermochemistry**, **rate of reaction**, **acid-base reactions and salting**, **nitration**, and **stoichiometry**.
 
+## Trivia
+
+- He's the very first one of MWS btw.
+- He's quite deluxe compared to the rest.
+	- A lot of features are exclusive to him, like the fact that he has better swings.
+- He's not sexist, just a bit antisocial. 
+
 #airconditioner 

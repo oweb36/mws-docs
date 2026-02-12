@@ -99,6 +99,10 @@ AEX, just like [VXU](../VXU/VXU.md) is a quadruplet of a person and therefore ha
 To understand them, you need to take a look at each individual member.
 
 
+## Trivia
+
+- Very Multi.
+
 #airconditioner #multi-split
 
 > AEX was created in October 28, 2024.

@@ -55,4 +55,10 @@ EXMGR is a good guy, with bad social skills in a nutshell.
 
 Sometimes WELLPan sees EXMGR's hyperactive social nature as quite too extreme sometimes, which is very true.
 
+## Trivia
+
+- Sugar makes him hyper.
+	- Do not give him fructose, this will make him go coo-coo crazy.
+- He would have been a 2006er, but he was **birthed** alongside [JHR](JHR.md) and [MHR](MHR.md).
+
 #airconditioner 

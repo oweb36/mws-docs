@@ -23,11 +23,18 @@ ZHU was born in June 24, 2024. He is a cisgender male (he/him). Sexual identity 
 
 > TLDR: French and Canadian. 
 > TLDR2: Just there.
+> TLDR3: Chilling.
 
-ZHR is your average French and Canadian guy. Just there, nothing.
+ZHR is your average French and Canadian guy. Just there, nothing. He's also chilling.
 
 ## Relations
 
 N/A
+
+## Trivia
+
+- He's mysterious, and just doing there.
+	- This is very intentional. i just want a character that does nothing but chill.
+- He's just chilling.
 
 #airconditioner 
