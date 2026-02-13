@@ -50,4 +50,8 @@ NAEphthalene and JKE both are aware that they aren't actually siblings.
 
 Best friends ig! They like things together. Its like a chatty guy with a little (man)child!
 
+## Trivia
+
+- The closest thing to a service manual for him is the service manual for the **CS-CExLKE** btw.
+
 #airconditioner 

@@ -67,4 +67,8 @@ JVXH fights with Xefa over who's the best lesbian couple.
 JVXH points out that Xefa is a valley girl, while Xefa accueses JVXH  of being a school shooter. That's *ad hominem* and its not civil.
 
 
+## Trivia
+
+- I thought the Quaternity (JVXH) and Ururu Sarara ([RXe](RXe.md)) was the same until I remembered lol.
+
 #airconditioner
