@@ -72,4 +72,8 @@ A well-oiled trio they are. CeRNY, SASHuan, and Flerovy, are capable of executin
 
 They are great at working together, and they have no qualms of animosity. They hang out with each other, cus they great.
 
+## Trivia
+
+- Flerovium is cool, and FV reminds me of that, so ye.
+
 #airconditioner 

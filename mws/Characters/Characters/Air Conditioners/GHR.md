@@ -56,4 +56,8 @@ These two have sense of fashion! Mostly one-sided with GHR being the one to styl
 
 GHR may not be able to handle CeRNY's power of Geometry and math, but she is always listening.
 
+## Trivia
+
+- She's French cus I think we need one.
+
 #airconditioner 
