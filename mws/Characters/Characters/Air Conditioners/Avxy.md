@@ -59,5 +59,6 @@ Goobers together. Avxy with XYLR doing gooberistics with a dash of Hyperactive r
 
 - I think he looks cool.
 - he's black, and this is why I think it's funny to have a wokeist.
+	- He will have a complement, which is the embodiment of black stereotypes himself.
 
 #airconditioner 

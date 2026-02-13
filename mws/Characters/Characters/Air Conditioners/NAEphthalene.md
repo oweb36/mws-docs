@@ -85,4 +85,9 @@ What do you expect when the sexist NAEphthalene sees Ivy the girlboss? What? You
 
 Ivy obviously wouldn't take that well. She might fight back, but this is NEphtha the jerkass bigotted asshole we are talking here.
 
+## Trivia
+
+- I decided that I want him to be this bigoted cus we need some anti-woke crap.
+- In the future, I plan to make him just a jerkass. Not evil like [RXe](RXe.md) but a jerkass.
+
 #airconditioner #etherean #triplex
