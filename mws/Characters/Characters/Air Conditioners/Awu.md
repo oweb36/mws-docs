@@ -55,4 +55,8 @@ Idk what these two would do, but umm these two are friends. Awu has shown her go
 
 Awu would sometimes ask Raiilee to be a mediator in some cases.
 
+## Trivia
+
+- IDK where she actually came from and I thought she be better suited as an Aussie, so I made her Australian.
+
 #airconditioner 

@@ -55,4 +55,8 @@ These 4 would be great ig. PFSA may have less influence, because PFSA is a such 
 
 ASTAC would probably learn from [`Juan`](SASHuan.md), because ASTAC is still learning life even at an old age. CKHSC is the one to well, tell SAShuan to slow down because nobody likes their chemicals exploding in their face.
 
+## Trivia
+
+- He has gotten through one iteration before. The first model was a **CS-CxCKH**, but I changed him since I think he is cooler as an inverter, and there's [less documentation](void:no-operation-manuals-specifically) about the **CS-CxCKH** than the **CS-ExCKP**.
+
 #airconditioner 
