@@ -81,4 +81,8 @@ KaHLium respects Vista for being logical. He knows that Vista is actually smart 
 
 KaHLium has one thing that makes him quite sad at times, but not sad at times. He wishes that he has Vista's wet humor. KaHLium knows that his humor is dry, and on the contrary Vista's humor is wet.
 
+## Trivia
+
+- He's the **K** in KHL, and the **K** is for **Kalium** AKA **Potassium**.
+
 #airconditioner #sayonarapanas 

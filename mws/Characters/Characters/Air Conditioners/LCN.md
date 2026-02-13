@@ -24,3 +24,7 @@ She likes to collaborate and work together. Teamworks makes the dreamwork! Frien
 Also she is usually happy, but this is volatile. Not volatile from happy to anger, but happy to sadness. Its as if she has bipolar disorder, except that the period is way too short for it.
 
 ## Relations
+
+## Trivia
+
+- She's a cassette. And is inspired by actual units.
