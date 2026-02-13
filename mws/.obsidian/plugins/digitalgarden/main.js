@@ -12902,7 +12902,8 @@ var CanvasCompiler = class {
             node,
             baseStyle,
             colorClass,
-            file
+            file,
+            assets
           );
         case "file":
           return yield this.buildFileNode(
@@ -12927,7 +12928,7 @@ var CanvasCompiler = class {
       }
     });
   }
-  buildTextNode(node, baseStyle, colorClass, file) {
+  buildTextNode(node, baseStyle, colorClass, file, assets) {
     return __async(this, null, function* () {
       var _a2;
       let processedText = node.text;
@@ -12935,7 +12936,8 @@ var CanvasCompiler = class {
         try {
           processedText = yield this.textNodeProcessor.processTextNodeContent(
             file,
-            node.text
+            node.text,
+            assets
           );
         } catch (e) {
           console.error("Error processing canvas text node:", e);
@@ -12955,6 +12957,45 @@ var CanvasCompiler = class {
   }
   buildFileNode(node, baseStyle, colorClass, file, assets) {
     return __async(this, null, function* () {
+      const isPdf = /\.pdf$/i.test(node.file);
+      if (isPdf) {
+        const linkedFile = this.metadataCache.getFirstLinkpathDest(
+          (0, import_obsidian4.getLinkpath)(node.file),
+          file.getPath()
+        );
+        if (linkedFile) {
+          try {
+            const pdfData = yield this.vault.readBinary(linkedFile);
+            const pdfBase64 = arrayBufferToBase64(pdfData);
+            const pdfPath2 = `/img/user/${linkedFile.path}`;
+            assets.push({
+              path: pdfPath2,
+              content: pdfBase64,
+              localHash: generateBlobHashFromBase64(pdfBase64)
+            });
+            return `<div class="canvas-node canvas-node-file canvas-node-pdf ${colorClass}" data-node-id="${node.id}" style="${baseStyle}">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content">
+			<iframe src="${encodeURI(
+              pdfPath2
+            )}" class="canvas-pdf-iframe" loading="lazy" style="width:100%;height:100%;border:none;"></iframe>
+		</div>
+	</div>
+</div>`;
+          } catch (e) {
+            console.error("Error reading canvas PDF:", e);
+          }
+        }
+        const resolvedPath = (linkedFile == null ? void 0 : linkedFile.path) || node.file;
+        const pdfPath = encodeURI(`/img/user/${resolvedPath}`);
+        return `<div class="canvas-node canvas-node-file canvas-node-pdf ${colorClass}" data-node-id="${node.id}" style="${baseStyle}">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content">
+			<iframe src="${pdfPath}" class="canvas-pdf-iframe" loading="lazy" style="width:100%;height:100%;border:none;"></iframe>
+		</div>
+	</div>
+</div>`;
+      }
       const isImage = /\.(png|jpg|jpeg|gif|webp|svg)$/i.test(node.file);
       if (isImage) {
         const linkedFile = this.metadataCache.getFirstLinkpathDest(
@@ -20122,7 +20163,7 @@ ${headerSection}
    * Process text content from canvas text nodes through the same pipeline as notes.
    * This enables wiki-links, transclusions, dataview, etc. in canvas text nodes.
    */
-  processTextNodeContent(file, text2) {
+  processTextNodeContent(file, text2, assets) {
     return __async(this, null, function* () {
       const CANVAS_TEXT_COMPILE_STEPS = [
         this.convertCustomFilters,
@@ -20130,12 +20171,18 @@ ${headerSection}
         this.createTranscludedText(0),
         this.convertDataViews,
         this.convertLinksToFullPath,
-        this.removeObsidianComments
+        this.removeObsidianComments,
+        this.createSvgEmbeds
       ];
-      return yield this.runCompilerSteps(
+      const compiledText = yield this.runCompilerSteps(
         file,
         CANVAS_TEXT_COMPILE_STEPS
       )(text2);
+      const [processedText, collectedAssets] = yield this.convertEmbeddedAssets(file)(compiledText);
+      if (assets) {
+        assets.push(...collectedAssets);
+      }
+      return processedText;
     });
   }
   generateMarkdown(file) {
@@ -31313,13 +31360,31 @@ var SettingView = class {
         cb.setButtonText("Apply settings to site");
         cb.setCta();
         cb.onClick((_ev) => __async(this, null, function* () {
-          const octokit = new Octokit({
-            auth: this.settings.githubToken
-          });
           new import_obsidian15.Notice("Applying settings to site...");
           yield this.saveSettingsAndUpdateEnv();
-          yield this.addFavicon(octokit);
-          yield this.addLogo(octokit);
+          const connection = yield PublishPlatformConnectionFactory.createPublishPlatformConnection(
+            this.settings
+          );
+          const octokit = connection.octoKit;
+          const owner = connection.userName;
+          const repo = connection.pageName;
+          try {
+            yield this.addFavicon(octokit, owner, repo);
+          } catch (error) {
+            import_js_logger9.default.error("Failed to update favicon", error);
+            new import_obsidian15.Notice(
+              "Failed to update favicon. Check the developer console for details."
+            );
+          }
+          try {
+            yield this.addLogo(octokit, owner, repo);
+          } catch (error) {
+            import_js_logger9.default.error("Failed to update logo", error);
+            new import_obsidian15.Notice(
+              "Failed to update logo. Check the developer console for details."
+            );
+          }
+          new import_obsidian15.Notice("Settings applied to site!");
         }));
       };
       new import_obsidian15.Setting(this.settingsRootElement).setName("Appearance").setDesc("Manage themes, sitename and styling on your site").addButton((cb) => {
@@ -31724,7 +31789,7 @@ var SettingView = class {
     }
     return settings;
   }
-  addFavicon(octokit) {
+  addFavicon(octokit, owner, repo) {
     return __async(this, null, function* () {
       let base64SettingsFaviconContent = "";
       if (this.settings.faviconPath) {
@@ -31738,11 +31803,12 @@ var SettingView = class {
         const faviconContent = yield this.app.vault.readBinary(faviconFile);
         base64SettingsFaviconContent = arrayBufferToBase64(faviconContent);
       } else {
-        const defaultFavicon = yield octokit.request(
+        const baseConnection = PublishPlatformConnectionFactory.createBaseGardenConnection();
+        const defaultFavicon = yield baseConnection.octoKit.request(
           "GET /repos/{owner}/{repo}/contents/{path}",
           {
-            owner: "oleeskild",
-            repo: "digitalgarden",
+            owner: baseConnection.userName,
+            repo: baseConnection.pageName,
             path: "src/site/favicon.svg"
           }
         );
@@ -31755,13 +31821,13 @@ var SettingView = class {
         currentFaviconOnSite = yield octokit.request(
           "GET /repos/{owner}/{repo}/contents/{path}",
           {
-            owner: this.settings.githubUserName,
-            repo: this.settings.githubRepo,
+            owner,
+            repo,
             path: "src/site/favicon.svg"
           }
         );
         faviconsAreIdentical = // @ts-expect-error TODO: abstract octokit response
-        currentFaviconOnSite.data.content === base64SettingsFaviconContent;
+        currentFaviconOnSite.data.content.replace(/\n/g, "") === base64SettingsFaviconContent;
         if (faviconsAreIdentical) {
           import_js_logger9.default.info("Favicons are identical, skipping update");
           return;
@@ -31771,8 +31837,8 @@ var SettingView = class {
       }
       if (!faviconExists || !faviconsAreIdentical) {
         yield octokit.request("PUT /repos/{owner}/{repo}/contents/{path}", {
-          owner: this.settings.githubUserName,
-          repo: this.settings.githubRepo,
+          owner,
+          repo,
           path: "src/site/favicon.svg",
           message: `Update favicon.svg`,
           content: base64SettingsFaviconContent,
@@ -31782,9 +31848,12 @@ var SettingView = class {
       }
     });
   }
-  addLogo(octokit) {
+  addLogo(octokit, owner, repo) {
     return __async(this, null, function* () {
       var _a2;
+      import_js_logger9.default.info(
+        `addLogo called, logoPath setting: "${this.settings.logoPath}", owner: "${owner}", repo: "${repo}"`
+      );
       const logoBasePath = "src/site/logo";
       const logoExtensions = ["png", "jpg", "jpeg", "gif", "svg", "webp"];
       for (const ext of logoExtensions) {
@@ -31792,8 +31861,8 @@ var SettingView = class {
           const existingLogo = yield octokit.request(
             "GET /repos/{owner}/{repo}/contents/{path}",
             {
-              owner: this.settings.githubUserName,
-              repo: this.settings.githubRepo,
+              owner,
+              repo,
               path: `${logoBasePath}.${ext}`
             }
           );
@@ -31804,8 +31873,8 @@ var SettingView = class {
               yield octokit.request(
                 "DELETE /repos/{owner}/{repo}/contents/{path}",
                 {
-                  owner: this.settings.githubUserName,
-                  repo: this.settings.githubRepo,
+                  owner,
+                  repo,
                   path: `${logoBasePath}.${ext}`,
                   message: `Remove logo.${ext}`,
                   // @ts-expect-error TODO: abstract octokit response
@@ -31841,13 +31910,13 @@ var SettingView = class {
         currentLogoOnSite = yield octokit.request(
           "GET /repos/{owner}/{repo}/contents/{path}",
           {
-            owner: this.settings.githubUserName,
-            repo: this.settings.githubRepo,
+            owner,
+            repo,
             path: logoPath
           }
         );
         logosAreIdentical = // @ts-expect-error TODO: abstract octokit response
-        currentLogoOnSite.data.content === base64LogoContent;
+        currentLogoOnSite.data.content.replace(/\n/g, "") === base64LogoContent;
         if (logosAreIdentical) {
           import_js_logger9.default.info("Logos are identical, skipping update");
           return;
@@ -31858,8 +31927,8 @@ var SettingView = class {
       if (!logoExists || !logosAreIdentical) {
         try {
           const requestPayload = __spreadValues({
-            owner: this.settings.githubUserName,
-            repo: this.settings.githubRepo,
+            owner,
+            repo,
             path: logoPath,
             message: `Update logo.${logoExtension}`,
             content: base64LogoContent

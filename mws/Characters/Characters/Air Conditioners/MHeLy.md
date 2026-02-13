@@ -62,5 +62,9 @@ She cares for him, and is with him when AngelSaph needs help the most. She just 
 ### [DeltaCXG](VXU/VXU.md#DeltaCXG)
 MHeLy is very accepting of DeltaCXG despite knowing the danger. MHeLy is one of the few people to actually have the balls to approach DeltaCXG.
 
+## Trivia
+
+- She's deluxe, and is inspired by one of these IRL units I have seen (specifically grandmother's unit).
+
 
 #airconditioner #sayonarapanas
