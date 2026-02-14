@@ -40,4 +40,9 @@ These two have some friction, but they love each other.
 
 Well, RACK actually respects Raiilee because the latter can actually convince him.
 
+## Trivia
+
+- Yes. He old, and it's based on smth I have seen lol. I won't tell you where but eh.
+
+
 #airconditioner #hitachitriplets 
