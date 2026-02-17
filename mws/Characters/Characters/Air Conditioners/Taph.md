@@ -27,4 +27,8 @@ Taph is also fairly observant. He is mainly observant to nature and other people
 
 Taph may also have an outburst if he is overwhelmed or pressured. His outbursts are more like anxiety or manic attacks mainly. Its very intense and sudden, but he will retreat once he goes back to normal, which is quick. If he is very overwhelmed or pressured beyond normal or just plain insane emotional distress, he may go into a very nasty anxiety meltdown (not anger, but just uncontrollable anxiety meltdown).
 
+## Trivia
+
+- He ain't Tau.
+
 #airconditioner 

@@ -66,4 +66,8 @@ RXe and Xeo rather not fight, even though RXe is evil. RXe thinks that Xeo is no
 
 Who forces them? [Xefa](Xefa.md) and [JVXH](JVXH.md).
 
+## Trivia
+
+- She used to have a nice counterpart, but scrapped cus forgot.
+
 #airconditioner #triplex 

@@ -88,4 +88,10 @@ Well, this is one of those cases where JHR actually looks up to somebody else. S
 
 JHR is more to the general knowledge, and SASHuan is there to fill JHR's gap on Chemistry. And it's specifically **organic chemistry**, **thermochemistry**, **rate of reaction**, **acid-base reactions and salting**, **nitration**, and **stoichiometry**.
 
+## Trivia
+
+- He cool.
+- He is something that I wanted to have for a long time, since I think he is cool.
+- Btw, Juan is also the inspiration for the name since the **J** in **PSH-6GJSA**.
+
 #airconditioner 
