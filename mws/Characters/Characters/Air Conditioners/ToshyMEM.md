@@ -48,5 +48,14 @@ Oh, these two are head-to-head. Sweat vs Competitive
 
 Who would win? IDK! But these two are capable of outmatching each other. Very close in competitions, and ranks.
 
+### [ToshyRAVi](ToshyRAVi.md)
 
-#airconditioner
+TBA
+
+
+## Trivia
+
+- She is the first Toshy here.
+
+
+#airconditioner #TODO
