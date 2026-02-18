@@ -56,6 +56,18 @@ These two have sense of fashion! Mostly one-sided with GHR being the one to styl
 
 GHR may not be able to handle CeRNY's power of Geometry and math, but she is always listening.
 
+## Injuries and Death
+
+> Not standard. Since nothing makes sense, this is slapstick and not really continuous but whatevs.
+
+- Knife.
+	- Knife to the face.
+	- Didn't make it. But alive now.
+- Game.
+	- She was playing one of those silent room challenges, but with a belt.
+	- She got whipped in the thigh. It was so painful that she actually couldn't stand, and to this day there's a scar.
+
+
 ## Trivia
 
 - She's French cus I think we need one.
