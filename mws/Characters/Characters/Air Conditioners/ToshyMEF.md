@@ -63,4 +63,8 @@ Sassy and Workforce, they are not going to do well.
 
 ToshyMEF being rude, is not going to do well with Ivy. Expect a lot of conflicts, so yeah...
 
+## Trivia
+
+- Her sexuality is based on a joke about **LG TVs** and LGBTQ.
+
 #airconditioner #weirdidentities 

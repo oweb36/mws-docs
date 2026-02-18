@@ -32,4 +32,9 @@ Basically Termyice and you can be friends easily, but beware that she is quite a
 
 ## Relations
 
+
+## Trivia
+
+- Bits
+
 #airconditioner 
