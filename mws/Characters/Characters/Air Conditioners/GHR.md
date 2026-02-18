@@ -71,5 +71,6 @@ GHR may not be able to handle CeRNY's power of Geometry and math, but she is alw
 ## Trivia
 
 - She's French cus I think we need one.
+- She doesn't have rickets.
 
 #airconditioner 
