@@ -6,7 +6,6 @@ Nationality:
   - UK
   - England
 Name:
-  - Zenerysis
 NVSCG:
   - Player/Contestant
 ---
@@ -20,7 +19,7 @@ ZeNer is a Daikin FTXZ50NV1B wall-mounted [heat pump](../../Species/Air%20Condit
 
 He was born in August 16, 2017. He is a genderfluid pansexual, but prefers to be male (he/him) except under certain circumstances aka being mutogender. Fine english.
 
-ZeNer is also Zenerysis in full glory.
+ZeNer is also Zeneryse in full glory.
 
 He is the younger sibling of [RXe](RXe.md).
 
@@ -47,5 +46,9 @@ XKC tomfucks while ZeNer Jackasses.
 We got the daredevil and the prankster here. Combine two and you get a pretty jackass prank. They are very good at their thing, which is making reckless pranks.
 
 Please, do not get ZeNer and Avxy together for the sake of everybody else.
+
+## Trivia
+
+- **FTXZ-N** reminds me of **zener diodes**, so that's why I call him that.
 
 #airconditioner 
