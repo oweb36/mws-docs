@@ -27,4 +27,8 @@ They pair well. ZSRK can find info while Fisios does the heavy data crunching.
 
 Fisios may have to handle ZSRK's temper outbreaks though. She might need a lot of mental strength, cus ZSRK is not the easiest to handle with.
 
+## Trivia
+
+- She got that LCD.
+
 #washingmachines 

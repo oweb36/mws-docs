@@ -74,5 +74,9 @@ TKA may be an adult, but he is still a child (or at least child-like). Wheamy st
 Do not worry! A great manchild unlike those psychopaths.
 
 
+## Trivia
+
+- He's quite basic, but that's the charm.
+
 
 #washingmachines 
