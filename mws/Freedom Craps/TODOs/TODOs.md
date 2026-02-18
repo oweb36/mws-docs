@@ -123,23 +123,14 @@ kanban-plugin: board
 	Female (she/her)
 	
 	Chewing tobbaco wild cowgirl
-- [ ] Update each of the char's docs
 
 
 ## Always Current
 
-- [ ] Mitsubishi Electric boi
-	
-	PSH-6GJHSA ([SASHuan](../../Characters/Characters/Air%20Conditioners/SASHuan.md))
-	June 13, 1997
-	
-	The Chemist who specializes in Stoichiometry
+- [ ] Update each of the char's docs
 - [ ] Give [them](../../Characters/Species/Air%20Conditioners.md) into different types, and other bits. Use properties
 	
 	And also make groups, alliance, cliques and all that crap.
-- [ ] Rewrite personalities while staying consistent.
-	
-	Rewrite by studying them, breaking them apart into traits and rewrite them.
 - [ ] Complete #TODO and [TODO Indexer](TODO%20Indexer.md)
 - [ ] Refactor the pages so that they do not form a giant unintelligible mess of graph edges
 
@@ -147,6 +138,12 @@ kanban-plugin: board
 ## Done
 
 **Complete**
+- [x] Mitsubishi Electric boi ✅ 2026-02-18
+	
+	PSH-6GJHSA ([SASHuan](../../Characters/Characters/Air%20Conditioners/SASHuan.md))
+	June 13, 1997
+	
+	The Chemist who specializes in Stoichiometry
 - [x] Hitachi RAD-18NH7A with optional SPX-RCK2 installed. ✅ 2025-11-04
 	
 	[RADStler](../../Characters/Characters/Air%20Conditioners/RAM/RADStler.md)  
@@ -169,6 +166,9 @@ kanban-plugin: board
 ## Done2
 
 **Complete**
+- [x] Rewrite personalities while staying consistent. ✅ 2026-02-18
+	
+	Rewrite by studying them, breaking them apart into traits and rewrite them.
 - [x] Bring [Raiilee](../../Characters/Characters/Air%20Conditioners/RAM/Raiilee.md) together alongside [RADStler](../../Characters/Characters/Air%20Conditioners/RAM/RADStler.md) into a Multi-split system via RAM-130QH5. ✅ 2025-11-04
 	
 	RAM-130QH5 is RAMH.
