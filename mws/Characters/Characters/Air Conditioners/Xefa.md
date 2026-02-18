@@ -92,4 +92,8 @@ These two could socialize well.
 
 Both have that **sass**, and **rudeness**. They would joke and connect well. Xefa and ToshyMEF would be in sync with each other. Poke fun at others? Hell Yeah!
 
+## Trivia
+
+- The lesbian
+
 #airconditioner 

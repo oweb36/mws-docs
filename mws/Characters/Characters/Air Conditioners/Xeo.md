@@ -82,4 +82,9 @@ Xeo might snark WELLPan once in a while, but its not **THAT** big of a deal sinc
 
 Somehow, these two are always fighting if they are put together. One is angry, one is bossy. You know Xeo and Ivy wouldn't mix well.
 
+## Trivia
+
+- I wanted someone to be the angriest, so Xeo is. 
+- Idk but I keep on remebering **Xeobium**. Maybe I can use this later.
+
 #airconditioner #etherean 

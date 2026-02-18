@@ -192,4 +192,8 @@ These two obviously would be passive. WELLPan is too chill, and RADStler is pass
 
 These two are kinda the same. Same '*brain*' and yes. But still friends. Can relate. One is lazy-ass, while the other is a child in an adult's body.
 
+## Trivia
+
+- There was a lot of iterations about his other side, but I decided that him being cosmologically chill is actually great.
+
 #airconditioner #weirdidentities

@@ -48,4 +48,8 @@ They work together programming that ancient tech. Vista is the one to teach JHR 
 
 They are still good friends even if you take away their *TRS-80 Model 100*.
 
+## Trivia
+
+- Do not overestimate her. She's actually quite small.
+
 #airconditioner 
