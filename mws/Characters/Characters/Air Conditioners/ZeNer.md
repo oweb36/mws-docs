@@ -49,6 +49,6 @@ Please, do not get ZeNer and Avxy together for the sake of everybody else.
 
 ## Trivia
 
-- **FTXZ-N** reminds me of **zener diodes**, so that's why I call him that.
+- The *Z-N* in ****FTXZ-N** reminds me of [**zener diodes**](https://en.wikipedia.org/wiki/Zener_diode), so that's why I call him that.
 
 #airconditioner 

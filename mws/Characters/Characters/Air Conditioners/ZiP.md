@@ -33,4 +33,9 @@ And he is short-tempered and impatient. Slow things down and he is incensed. So 
 
 ZiP is actually good with him. He is fast, and can actually help DKE sort very fast. ZiP thinks DKE has an interesting personality and collection. In turn, DKE sees ZiP as one of his few friends.
 
+## Trivia
+
+- I discovered there was too much lesbies and straighties, so I decided to make him gay.
+- He's actually called an air-to-air heatpump according to sharp. *AY-**Z**P*.
+
 #airconditioner 
