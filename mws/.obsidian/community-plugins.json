@@ -11,5 +11,7 @@
   "digitalgarden",
   "templater-obsidian",
   "dataview",
-  "gemini-scribe"
+  "gemini-scribe",
+  "data-files-editor",
+  "obsidian-pandoc"
 ]
