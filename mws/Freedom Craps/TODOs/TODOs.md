@@ -117,7 +117,7 @@ kanban-plugin: board
 
 ## Current
 
-- [ ] Terra
+- [ ] [Terra](../../Characters/Deutero/Terra.md)
 	
 	Gree TERRA24HP230V1B
 	Female (she/her)
