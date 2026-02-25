@@ -30,7 +30,9 @@ MHeLy also has *very sharper than average* canine teeth despite her personality.
 
 ## Personality
 
-TLDR: Nice, empathetic and kind-hearted. Innovative and creative. Willing to help others and even self-sacrifice herself. Pacifist, but would do violence if given no choice. Self-doubting at times, and self-isolate as coping method. She may feel that she is being used, but she would bounce back. Has good friends and relations. People may declare themselves as enemies of MHeLy, but kindness pays off in the end.
+> TLDR: Nice, empathetic and kind-hearted. Innovative and creative. Willing to help others and even self-sacrifice herself. 
+> TLDR2: Pacifist, but would do violence if given no choice. Self-doubting at times, and self-isolate as coping method. 
+> TLDR3: She may feel that she is being used, but she would bounce back. Has good friends and relations. People may declare themselves as enemies of MHeLy, but kindness pays off in the end.
 
 MHeLy is one of the nicer people in MWS. This is probably because she's a girl (More like woman. Wait, isn't that sexist? Probably, probably not. Nah).
 
@@ -61,6 +63,12 @@ She cares for him, and is with him when AngelSaph needs help the most. She just 
 
 ### [DeltaCXG](VXU/VXU.md#DeltaCXG)
 MHeLy is very accepting of DeltaCXG despite knowing the danger. MHeLy is one of the few people to actually have the balls to approach DeltaCXG.
+
+### [GHR](GHR.md)
+
+Despite being opposite, they are friends. They do support each other, and they know the boundaries.
+
+MHeLy and GHR have some great chemistry here! GHR is constantly building confidence for MHeLy.
 
 ## Trivia
 
