@@ -4,7 +4,9 @@
       "id": "default",
       "name": "Default",
       "fileVisibility": "supported",
-      "hiddenFolders": [],
+      "hiddenFolders": [
+        "gemini-scribe"
+      ],
       "hiddenTags": [],
       "hiddenFileNames": [],
       "hiddenFileTags": [],
@@ -38,7 +40,7 @@
     "compactItemHeightScaleText": "synced",
     "uiScale": "synced"
   },
-  "autoRevealActiveFile": true,
+  "autoRevealActiveFile": false,
   "autoRevealShortestPath": true,
   "autoRevealIgnoreRightSidebar": true,
   "paneTransitionDuration": 150,
@@ -53,7 +55,7 @@
   "useMobileHomepage": false,
   "dualPane": false,
   "dualPaneOrientation": "horizontal",
-  "showTooltips": false,
+  "showTooltips": true,
   "showTooltipPath": true,
   "desktopBackground": "separate",
   "desktopScale": 1,
