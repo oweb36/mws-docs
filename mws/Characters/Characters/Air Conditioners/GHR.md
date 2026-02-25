@@ -92,4 +92,4 @@ Combine sass and cheery, then you got fun. Their personality forms a synergy, wi
 - She's French cus I think we need one.
 - She doesn't have rickets.
 
-#airconditioner #TODO 
+#airconditioner 
