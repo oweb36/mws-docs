@@ -66,6 +66,10 @@ GiSelleY's the one to bring AngelSaph's mood up. GiSY is very optimistic and wou
 
 AngelSaph is also there when GiSY is isolated due to being emotionally damaged by others, especially by [that one nasty sociopathic person who bullies him and her](VXU/VXU.md#DeltaCXG). He helps her heal and recover too you know that? AngelSaph is aware of DeltaCXG bullying GiSY.
 
+### [GHR](GHR.md)
+
+Double Gs! These two are some good ones as well. GHR is there to support GiSelleY on her journey to life, and standing up, since the latter's a total pushover.
+
 
 ## Trivia
 
