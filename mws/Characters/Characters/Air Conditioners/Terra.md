@@ -16,7 +16,7 @@ Name:
 Terra is a [character](Characters.md) as a competitor/contestant on the [Megarchive Warehouse Show](Megarchive%20Warehouse%20Show.md).
 ## Identity
 
-Terra is a Gree TERRA09HP230V1A [heat pump](../Species/Air%20Conditioners.md). A Terra-series white heatpump hailing from Texas.
+Terra is a Gree TERRA09HP230V1A [heat pump](../../Species/Air%20Conditioners.md). A Terra-series white heatpump hailing from Texas.
 
 Her name is derived from both model and series, being Terra and **TERRA**09HP230V1A.
 
@@ -39,17 +39,17 @@ Surprisingly, she's also quite perky and plucky. She's very determined and spiri
 She's also a cigarette smoker and a tobacco chewer. She looks very edgy and cynical when doing so. It makes her look like a bitch, which she kinda is (individualism and workaholism), but is also not rlly either (perky and plucky).
 ## Relations
 
-### [KaHLium](../Characters/Air%20Conditioners/KaHLium.md)
+### [KaHLium](KaHLium.md)
 
 Observancy and Workaholic. KaHLium may be observant, and his stoic nature pairs well with Terra's own stoicism and workaholic. You can do a lot (workaholic) by observing a lot. You won't see Terra being perky with KaHLium.
 
-### [ZSRK](../Characters/Air%20Conditioners/ZSRK.md)
+### [ZSRK](ZSRK.md)
 
 These two work hard, and so has some chemistry. You won't see Terra being perky though here with ZSRK.
 
 ZSRK may be short-tempered, but he matches well with Terra's stoicness and workaholic. They can quite efficiently dig up info, and these two are pairs you don't want to mess with.
 
-### [GHR](../Characters/Air%20Conditioners/GHR.md)
+### [GHR](GHR.md)
 
 They are quite strange to say the least. One's sassy and the other's stoic. But when Terra's plucky, this is where the fun begins.
 

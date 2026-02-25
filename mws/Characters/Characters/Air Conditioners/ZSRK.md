@@ -44,7 +44,7 @@ KaHLium doesn't like the anger issues of ZSRK. He is quite blatant on that. ZSRK
 
 They can work very well though if they have to. ZSRK can fetch and deduce things from crap, while KaHLium does the heavy data crunching. Its like Fisios, but KaHLium is more blunt and blatant.
 
-### [Terra](../../Deutero/Terra.md)
+### [Terra](Terra.md)
 
 These two work hard, and so has some chemistry. You won't see Terra being perky though here with ZSRK.
 

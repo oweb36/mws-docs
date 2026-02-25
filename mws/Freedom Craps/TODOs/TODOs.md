@@ -117,12 +117,6 @@ kanban-plugin: board
 
 ## Current
 
-- [ ] [Terra](../../Characters/Deutero/Terra.md)
-	
-	Gree TERRA24HP230V1B
-	Female (she/her)
-	
-	Chewing tobbaco wild cowgirl
 
 
 ## Always Current
@@ -166,6 +160,12 @@ kanban-plugin: board
 ## Done2
 
 **Complete**
+- [x] [Terra](../../Characters/Characters/Air%20Conditioners/Terra.md) ✅ 2026-02-25
+	
+	Gree TERRA24HP230V1B
+	Female (she/her)
+	
+	Chewing tobbaco wild cowgirl
 - [x] Rewrite personalities while staying consistent. ✅ 2026-02-18
 	
 	Rewrite by studying them, breaking them apart into traits and rewrite them.

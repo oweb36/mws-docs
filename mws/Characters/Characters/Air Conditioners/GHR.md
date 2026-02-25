@@ -69,7 +69,7 @@ MHeLy and GHR have some great chemistry here! GHR is constantly building confide
 
 Double Gs! These two are some good ones as well. GHR is there to support GiSelleY on her journey to life, and standing up, since the latter's a total pushover.
 
-### [Terra](../../Deutero/Terra.md)
+### [Terra](Terra.md)
 
 They are quite strange to say the least. One's sassy and the other's stoic. But when Terra's plucky, this is where the fun begins.
 
