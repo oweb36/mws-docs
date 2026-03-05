@@ -60,3 +60,5 @@ Combine sass and cheery, then you got fun. Their personality forms a synergy, wi
 - She would have been the GWH09TB-D3DNA1A, but TERRA09HP230V1A ended up having more documentation.
 - She has a pack of cigarettes, and chewing tobacco.
 	- Always chewing on them.
+
+#airconditioner 

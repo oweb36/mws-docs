@@ -68,18 +68,6 @@ kanban-plugin: board
 
 ## Todo2
 
-- [ ] LFC & CE
-	
-	LG LF300CP  
-	Female (she/her)  
-	Idiot Savant-Genius Ditz  
-	Also quite beautiful
-	
-	LG LF480CE
-	Male (he/him)
-	
-	
-	LFC and CE are twins.
 - [ ] KAPSKA
 	
 	Mitsubishi Electric - PSA-RP140KA
@@ -113,10 +101,24 @@ kanban-plugin: board
 	Tomboy, and both spoiled sweet and spoiled brat. Can be nice, and kind (spoiled sweet), but also arse-y (spoiled brat).
 	
 	Street smart, not book smart. Relatively stronger than Flerovy, but still weak. You can easily knock her out unconscious lol if you hit or punch her hard enough.
+	
+	Also considered to be the most disabled. She has Level-2 Autism (ASD), ADHD, Dyslexia, Dysgraphia, and Dyspraxia.
 
 
 ## Current
 
+- [ ] LFC & CE
+	
+	LG LF300CP  
+	Female (she/her)  
+	Idiot Savant-Genius Ditz  
+	Also quite beautiful
+	
+	LG LF480CE
+	Male (he/him)
+	
+	
+	LFC and CE are twins.
 
 
 ## Always Current
