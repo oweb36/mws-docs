@@ -64,6 +64,7 @@ kanban-plugin: board
 - [ ] #etherean  and one non-etherean:
 	
 	CS-XZ50VKEW (Faegender), CS-VE12NKE (Male)
+- [ ] Redo [Xefa](../../Characters/Characters/Air%20Conditioners/Xefa.md)'s personality to be deeper.
 
 
 ## Todo2
