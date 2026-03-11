@@ -32,7 +32,11 @@ She has a real name. Its `Xefaela`, and ye we get it. Its an expanded version of
 Her full name is **`Xela Xefaela Xiana`**.
 
 ## Personality
-> TLDR: Valley Girl. Teenager. `bitch` user. Sassy and rude, but loyal and kind. Dumb, but **NOT THAT** dumb. Serial gossiper.
+> TLDR: Valley Girl. Teenager. `bitch` user. 
+> TLDR2: Sassy and rude, but loyal and kind. 
+> TLDR3: Dumb, but **NOT THAT** dumb. 
+> TLDR4: Serial gossiper.
+> TLDR5: Masochists.
 
 The Valley Girl of [MWS](Megarchive%20Warehouse%20Show.md). Speaks with an exaggerated Californian accent, because she's **THE** Valley Girl. Xefa is also known for speaking like a Teenager, with her overusing "like" everywhere, like Valleyspeak (or what we call Valley Girl-aah linguistics). And also is sassy and rude at times.
 
@@ -56,14 +60,18 @@ She isn't smart, or even intelligent that much. If Xefa had hair and stereotype,
 
 >Xefa has **intelligence to LIVE and even DO ARITHMETIC**, not for higher-problem solving like trigonometry and stuff.
 
+Btw she's a masochist. What this means? She likes pain and getting hurt. Yep, loves self-harm. And yes, this means torture is not effective as it gets awkward and kinky shortly after it begins. So, you can't freaking torture Xefa.
+
+And she potentially will scar a lot. Getting cut is kinda her thing with self-masochism. And yep, Xefa has several disorders which makes this possible. You can actually make self-harm jokes around her and she'll be fine because she enjoys it. Yep, this is unhinged but whatevs.
+
 ## Relations
 
 ### [Xeo](Xeo.md)
 They are couples eh. 
 
-Its not harmonic, but very vitriolic. But its good, cus they know what is great.
+Its not harmonic, but very vitriolic. But its good, cus they know what is great. Xefa is the one who best understands Xeo.
 
-It may seem not harmonious, but it somehow is. And Xeo's love language is well [slightly](void:a-massive-understatement) lacerating.
+It may seem not harmonious, but it somehow is. And Xeo's love language is well [slightly](void:a-massive-understatement) lacerating. You in fact, can find scars on Xefa.
 
 You can ay that this is a `Vitrionic Best Friend` kind of relationship, except that it is romantic too (and sexual due to no ace).
 
@@ -95,5 +103,9 @@ Both have that **sass**, and **rudeness**. They would joke and connect well. Xef
 ## Trivia
 
 - The lesbian
+- She always carry a bottle of Sherry Wine
+	- one sip of alcohol (if she could) is enough to make her inebriated, but it takes more than a barrel to make her black out.
+- She canonically suffers from [Sexual Masochism Disorder](https://en.wikipedia.org/wiki/Sexual_masochism_disorder) and .
+- She has unusually and abnormally high baselines levels of [Estrogen](https://en.wikipedia.org/wiki/Estrogen) and [Oxytocin](https://en.wikipedia.org/wiki/Oxytocin) within her.
 
 #airconditioner 

@@ -49,9 +49,9 @@ And also Xeo is quite brutal and blunt with her honesty. She is very honest, a g
 ### [Xefa](Xefa.md)
 They are couples eh. 
 
-Its not harmonic, but very vitriolic. But its good, cus they know what is great.
+Its not harmonic, but very vitriolic. But its good, cus they know what is great. Xefa is the one who best understands Xeo.
 
-It may seem not harmonious, but it somehow is. And Xeo's love language is well [slightly](void:a-massive-understatement) lacerating.
+It may seem not harmonious, but it somehow is. And Xeo's love language is well [slightly](void:a-massive-understatement) lacerating. You in fact, can find scars on Xefa.
 
 You can ay that this is a `Vitrionic Best Friend` kind of relationship, except that it is romantic too (and sexual due to no ace).
 
