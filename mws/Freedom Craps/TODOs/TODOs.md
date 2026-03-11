@@ -38,10 +38,19 @@ kanban-plugin: board
 
 ## Backlog
 
+- [ ] Bring in the japanese
+- [ ] Bring in the oldies (Pre-Y2K).
 
 
 ## Todo
 
+- [ ] Kaycee
+	
+	Daikin FTKC15NVM4+RKC15NVM4
+	
+	She/Her - Female
+	
+	Unique ig
 - [ ] The #emureans  
 	One large family.
 	
@@ -64,7 +73,11 @@ kanban-plugin: board
 - [ ] #etherean  and one non-etherean:
 	
 	CS-XZ50VKEW (Faegender), CS-VE12NKE (Male)
-- [ ] Redo [Xefa](../../Characters/Characters/Air%20Conditioners/Xefa.md)'s personality to be deeper.
+- [ ] Ticks
+	
+	Panasonic CS-Z80TKR
+	
+	Australian and New Zealand guy. Quite weird, even with his name.
 
 
 ## Todo2
@@ -104,10 +117,21 @@ kanban-plugin: board
 	Street smart, not book smart. Relatively stronger than Flerovy, but still weak. You can easily knock her out unconscious lol if you hit or punch her hard enough.
 	
 	Also considered to be the most disabled. She has Level-2 Autism (ASD), ADHD, Dyslexia, Dysgraphia, and Dyspraxia.
+- [ ] ZUEBe
+	
+	Panasonic CS-Z60UB4EAW
+	
+	Swiss women (2017)
+- [ ] Febs
+	
+	Panasonic CS-F50DB4E5 & CU-L50DBE8
+	
+	Enby
 
 
 ## Current
 
+- [ ] Redo [Xefa](../../Characters/Characters/Air%20Conditioners/Xefa.md)'s personality to be deeper.
 - [ ] LFC & CE
 	
 	LG LF300CP  
