@@ -15,5 +15,6 @@
   "data-files-editor",
   "obsidian-pandoc",
   "homepage",
-  "notebook-navigator"
+  "notebook-navigator",
+  "ribbon-divider"
 ]

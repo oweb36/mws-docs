@@ -40,17 +40,12 @@ kanban-plugin: board
 
 - [ ] Bring in the japanese
 - [ ] Bring in the oldies (Pre-Y2K).
+- [ ] Panasonic CS-CZ12SKE & CU-CZ9SKE unnamed
+- [ ] Sharp AY-AP12FHR (elder sibling to [GHR](../../Characters/Characters/Air%20Conditioners/GHR.md))
 
 
 ## Todo
 
-- [ ] Kaycee
-	
-	Daikin FTKC15NVM4+RKC15NVM4
-	
-	She/Her - Female
-	
-	Unique ig
 - [ ] The #emureans  
 	One large family.
 	
@@ -102,6 +97,42 @@ kanban-plugin: board
 	Daikin FTXM60M2V1B  
 	Female (she/her)  
 	Swiss is rare, so she is
+- [ ] ZUEBe
+	
+	Panasonic CS-Z60UB4EAW
+	
+	Swiss women (2017)
+- [ ] Febs
+	
+	Panasonic CS-F50DB4E5 & CU-L50DBE8
+	
+	Enby
+- [ ] Panasonic S-5010PK4E
+	
+	netherlander
+
+
+## Current
+
+- [ ] [Kaycee](../../Characters/Bench/Air%20Conditioners/Kaycee.md)
+	
+	Daikin FTKC15NVM4+RKC15NVM4
+	
+	She/Her - Female
+	
+	Unique ig
+- [ ] LFC & CE
+	
+	LG LF300CP  
+	Female (she/her)  
+	Idiot Savant-Genius Ditz  
+	Also quite beautiful
+	
+	LG LF480CE
+	Male (he/him)
+	
+	
+	LFC and CE are twins.
 - [ ] Avame (Ava/Ame)
 	
 	Daikin FVA140AMVEB  
@@ -117,33 +148,6 @@ kanban-plugin: board
 	Street smart, not book smart. Relatively stronger than Flerovy, but still weak. You can easily knock her out unconscious lol if you hit or punch her hard enough.
 	
 	Also considered to be the most disabled. She has Level-2 Autism (ASD), ADHD, Dyslexia, Dysgraphia, and Dyspraxia.
-- [ ] ZUEBe
-	
-	Panasonic CS-Z60UB4EAW
-	
-	Swiss women (2017)
-- [ ] Febs
-	
-	Panasonic CS-F50DB4E5 & CU-L50DBE8
-	
-	Enby
-
-
-## Current
-
-- [ ] Redo [Xefa](../../Characters/Characters/Air%20Conditioners/Xefa.md)'s personality to be deeper.
-- [ ] LFC & CE
-	
-	LG LF300CP  
-	Female (she/her)  
-	Idiot Savant-Genius Ditz  
-	Also quite beautiful
-	
-	LG LF480CE
-	Male (he/him)
-	
-	
-	LFC and CE are twins.
 
 
 ## Always Current
@@ -159,6 +163,7 @@ kanban-plugin: board
 ## Done
 
 **Complete**
+- [x] Redo [Xefa](../../Characters/Characters/Air%20Conditioners/Xefa.md)'s personality to be deeper. ✅ 2026-03-11
 - [x] Mitsubishi Electric boi ✅ 2026-02-18
 	
 	PSH-6GJHSA ([SASHuan](../../Characters/Characters/Air%20Conditioners/SASHuan.md))
