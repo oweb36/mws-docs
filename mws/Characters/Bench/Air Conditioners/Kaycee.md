@@ -21,7 +21,10 @@ Kaycee is a Daikin FTKC15NBM4 [air conditioner](../../Species/Air%20Conditioners
 Kaycee was born in June 7, 2015. She's a female (she/her) who's straight cus yeah.
 
 ## Personality
-> TLDR: Cook me some
+> TLDR: Happy, but also short-tempered and easily irritated. An absolute hot-blood.
+> TLDR2: When she's happy, she's quite energetic, optimistic, playful, and quite funny. She has a lot of passion for things.
+> TLDR3: When she's pretty angry, do not [mess](#Trivia) with her. She can cool down quickly, but her temper is huge.
+> TLDR4: Also tends to get embarrassed at small things, and especially after her anger outburst. Do not worry, she gets embarassed at a lot of things as well, alongside her outbursts.
 
 TBA
 ## Relations
@@ -30,7 +33,9 @@ Relationals TBA
 
 ## Trivia
 
-Trivia time
+- If you give her magical manna and she gets angry, it's a possibility that she'll blow a crater.
+	- She doesn't have magic, but this is an actual thing.
+	- People have done it, and she blew a crater in rage.
 
 #TODO 
 
