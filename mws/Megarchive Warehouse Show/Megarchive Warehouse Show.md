@@ -19,6 +19,6 @@ The name Megarchive in both MWS and my megarchive manual collections is a portma
 
 MWS is not family friendly, neither it aims to.
 
-> UPDATE ig kinda: MWS is literally AACOS, but slightly more Diverse lol.
+> UPDATE ig kinda: MWS is literally AACOS, but slightly more Diverse lol. Still is AACOS but yeah.
 
 There are spinoffs like [NVSCG](Spinoffs/NVSCG.md) and stuff though for fun.

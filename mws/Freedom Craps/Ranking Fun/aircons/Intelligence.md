@@ -1,0 +1,73 @@
+- <span style="background: #861d1d;">S</span>
+	- [[WELLPan]]
+	- [[MHeLy]]
+	- [[JHR]]
+- <span style="background: #ad6a28;">A</span>
+	- [[Vista]]
+- <span style="background: #a17e19;">B</span>
+- <span style="background: #888814;">C</span>
+	- [[ZeNer]]
+	- [[ZiP]]
+- <span style="background: #127c36;">D</span>
+- <span style="background: #1d5986;">F</span>
+- To Rank 
+	- 
+	- [[Air Conditioners]]
+	- [[ZSRK]]
+	- [[Raiilee]]
+	- [[RAMH]]
+	- [[RAM]]
+	- [[RADStler]]
+	- [[Xeo]]
+	- [[Xefa]]
+	- [[ToshySMUT]]
+	- [[ToshyRAVi]]
+	- [[VXU]]
+	- [[MXU]]
+	- [[DeltaCXG]]
+	- [[CTUX]]
+	- [[ToshyFEN]]
+	- [[RBC-AMSUS]]
+	- [[FEN]]
+	- [[ToshyMEM]]
+	- [[Taph]]
+	- [[ToshyMEF]]
+	- [[Terra]]
+	- [[SASHuan]]
+	- [[Termyice]]
+	- [[TERAS]]
+	- [[RXe]]
+	- [[PFSA]]
+	- [[KaHLium]]
+	- [[RACK]]
+	- [[NAEphthalene]]
+	- [[JVXH]]
+	- [[JKE]]
+	- [[GiSelleY]]
+	- [[CKHSC]]
+	- [[Flerovy]]
+	- [[GHR]]
+	- [[Awu]]
+	- [[Avxy]]
+	- [[Aufs]]
+	- [[AngelSaph]]
+	- [[ASTAC]]
+	- [[Aurl]]
+	- [[PCR]]
+	- [[MHR]]
+	- [[EXMGR]]
+	- [[AEX]]
+	- [[Kaycee]]
+	- [[DKE]]
+	- [[XYLR]]
+	- [[ZHU]]
+	- [[XKC]]
+	- [[Ivy]]
+	- [[TKA]]
+	- [[CIFS]]
+	- [[CeRNY]]
+- Settings #tier-list
+	- From: #airconditioner AND -"_Templates" AND -#tier-list
+	- Where: 
+
+#tier-list
