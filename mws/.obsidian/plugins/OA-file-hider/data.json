@@ -1,7 +1,0 @@
-{
-  "hidden": true,
-  "hiddenList": [
-    "_includes",
-    "node_modules"
-  ]
-}
